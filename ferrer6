@@ -1,0 +1,446 @@
+
+<item>
+<title>PARAMOUNT CHANNEL rtmp</title>
+<link>http://195.55.74.212/paramount/live.flv?token=1f1affbf18586b114d88c76c92636df0570fcb9a570fcbd6</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+</item>
+<item>
+<title>CANAL COCINA f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/441.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+<title>VIAJAR f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/927.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+<item>
+ <title>CAZA Y PESCA f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/930.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+</item>
+
+
+
+<item>
+ <title>[COLOR blue][B][I]C+ LIGA opc3[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.abonateadigitalplus.es/canal-plus-liga1.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/3261903068/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
+</item>
+
+<item>
+ <title>[COLOR yellow][B][I]UEFA CHAMPIONS LEAGUE[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/uefachampionsleague.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/uefachampionsleague.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://aubureau-suresnes.fr/uploads/actualites/sources/32-photo_2-date-tirage-quarts-de-finale-ligue-des-champions.jpg</thumbnail>
+<fanart>http://aubureau-suresnes.fr/uploads/actualites/sources/32-photo_2-date-tirage-quarts-de-finale-ligue-des-champions.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 1[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+</item>
+
+<item>            
+<item>
+ <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 2[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/verliga1123/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+<thumbnaillogo.logo.logo</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR blue][B][I]C+ PLUS FUTBOL opc3[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</fanart>
+  </item>
+  
+  <item>
+ <title>[COLOR blue][B][I]SKY SPORTS 1[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+  
+  <item>
+ <title>[COLOR blue][B][I]SKY SPORTS 2 [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+
+
+<item>
+ <title>[COLOR blue][B][I]SKY SPORTS 3 [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]SKY SPORTS 4 [/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+
+<item>
+<title>[COLOR blue][B][I]SKY SPORTS 5[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
+<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
+  </item>
+
+<item>
+<title>CANAL+ XTRA</title>
+<sportsdevil>http://biophobia.tv/movistarplus/canalplusxtra.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+</item>
+
+
+<item><title>LA 1 HD ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1257.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>ANTENA 3 HD ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1264.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>CUATRO HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1268.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>TELECINCO HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1263.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>LA SEXTA HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1262.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>LA 1ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/429.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>LA 2ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/426.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Antena 3ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/467.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Cuatrots_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/430.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Telecincots_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/431.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>La Sextats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/432.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Antena Novats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/485.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>TV Galiciats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/935.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>TNTts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/435.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Calle 13ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/475.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>CLAN TVE ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/915.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>CANAL SUR A. ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/914.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal ESTRELLASts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1276.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>COSMO ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/916.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Neoxts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/471.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>CANAL+ HD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1275.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ XTRA HD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1266.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ XTRA ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/913.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ SERIESXTRA ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/912.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ ESTRENOS HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1267.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ ESTRENOS ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/911.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ DCINE HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1259.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ DCINEts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1075.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ COMEDIAts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1074.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ ACCION HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1258.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ ACCIONts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1072.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ SERIES HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1261.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Paramount ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/932.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>AXN WHITE HD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1265.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>AXN WHITE ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/488.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>AXN ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/482.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>FOX Life ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/483.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>FOX HD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1270.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Fox ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/465.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Hollywood ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/434.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>DCINE ESPANOL ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/917.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Comedy Central Spaints_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/442.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>SYFY HD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1273.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ Liga HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1253.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ LIGA 2 HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1254.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ FUTBOL HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1255.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ DEP 2 HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1256.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ Partidazo HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1269.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>beIN Sport Spain HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/983.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal + Ligats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/466.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal + Futbolts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/477.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal + Desportests_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/476.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal + Desporte 2ts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/473.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>C+ GOLFts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1076.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Teledeportets_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/440.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>R. MADRID TV ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/933.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>M. MOTOGP HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1260.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>M. MOTOGP ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/922.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>MOVISTAR F1 HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1272.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>CAZA Y PESCA ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/930.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>24 HORAS ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/909.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>MTV Espagnats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1281.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Divinityts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1279.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Disney Junior ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/484.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal Panda ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/469.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item></item>
+<item><title>Disney Channel ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/438.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>DISNEY XD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/918.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>YOMVI ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/934.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Baby TV ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1278.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>BOING ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1277.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>National Geographic Spaints_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/480.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>NAT GEO WILD ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/923.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>HISTORIA ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/921.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>Canal Cocinats_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/441.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>VIAJAR HDts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/1274.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>VIAJAR ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/927.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>A e E ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/910.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>TCM ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/926.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>NON STOP PEOPLE ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/924.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>FDF ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/920.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>FASHION TV ESts_f4m</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/919.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link></item>

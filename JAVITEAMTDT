@@ -1,0 +1,2139 @@
+
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+         
+          
+<item>
+    <title>[COLOR yellow]                             MAIL/[COLOR orange]http://pastebin.com/raw.php?i=nrUmwuzk[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+<item>
+<title>[COLOR lime]                                              J A V I [/COLOR]</title>
+<link>http://Ignoreme</link>
+ <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]                    ACTUALIZADO  06/04/2016       [/COLOR]</title>
+<link>http://Ignoreme</link>
+ <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+    <title>[COLOR orange]                                         T D T                        [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]LA 1[/I][/B][/COLOR]</title>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8</link>
+<link>http://api.iptv.ink/pl.m3u8?ch=35452405</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</thumbnail>
+<fanart>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I] LA 2 [/I][/B][/COLOR]</title>
+<link>http://iphonelive.rtve.es/LA2_LV3_IPH/0/br2/160330085445/0001/0000629.ts</link> 
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-k6Ik3mf1yAo/TZRxxnjF_hI/AAAAAAAAAbk/TEuwzxRugSY/s1600/Valey_Cat%25C3%25A1logo-7-27.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I] LA 2 [/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-tv-2-espana-online-y-en-directo-las-24h-en-vivio-y-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-k6Ik3mf1yAo/TZRxxnjF_hI/AAAAAAAAAbk/TEuwzxRugSY/s1600/Valey_Cat%25C3%25A1logo-7-27.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I] 24h [/I][/B][/COLOR]</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
+<link>http://api.iptv.ink/pl.m3u8?ch=92978413</link>
+ <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8</link> 
+<thumbnail>http://i.ytimg.com/vi/R7VLn78v6YU/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/R7VLn78v6YU/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]TDP[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/teledeporte.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXsHdYZu7Q0hIuP-k8I2pYFnHFdmq6wkvyz1j2dpLi3Qp7Pqp</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXsHdYZu7Q0hIuP-k8I2pYFnHFdmq6wkvyz1j2dpLi3Qp7Pqp</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]ANTENA 3 HD[/I][/B][/COLOR]</title>
+<link>http://api.iptv.ink/pl.m3u8?ch=62326989</link><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link><link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8</link>
+<link>http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_4_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuKC4jqi6Z9pn3d3ZIz7Ee9kzPzFeNtGilfWatdQXG6Hwx6AcJ</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuKC4jqi6Z9pn3d3ZIz7Ee9kzPzFeNtGilfWatdQXG6Hwx6AcJ</fanart> 
+</item>
+
+
+
+<item>
+ <title>[COLOR  turquoise][B][I]LA CUATRO[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.40.61/privatestream/ playpath=cuatroo4?keys=5hKcgcl16TDmqNrGN1G1vA&keyt=1457641461 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cuatroo4&width=800&height=600</link>
+<thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
+<fanart>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</fanart> 
+</item>
+
+<item>
+ <title>[COLOR  turquoise][B][I]LA CUATRO[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1261.m3u8</link>
+<thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
+<fanart>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</fanart> 
+</item>
+
+
+<item>
+ <title>[COLOR  turquoise][B][I]LA CUATRO[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/nacionales2/cuatro.html</page>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
+<fanart>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]TELECINCO[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1262.m3u8</link>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8</link>
+<thumbnail>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</thumbnail>
+<fanart>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]TELECINCO[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/nacionales2/telecinco.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</thumbnail>
+<fanart>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]LA SEXTA[/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://img.actualidadmotor.com/wp-content/uploads/2011/03/LaSextaHD.jpeg</thumbnail>
+<fanart>http://columnazero.com/wp-content/uploads/2013/11/sexta-300x225.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]13 TV[/I][/B][/COLOR]</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+<thumbnail>http://www.doctorjoseluisvazquez.com/wp-content/uploads/2011/08/LOGO-13TV.jpg</thumbnail>
+<fanart>http://www.13tv.es/wp-content/themes/13tv/dist/images/footer_logo.png</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NEOX[/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJEWLjtfxHrc9Ek_vt7DmiHrQQQUpi_JOtb1LQybbj_Fjk82Cs</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJEWLjtfxHrc9Ek_vt7DmiHrQQQUpi_JOtb1LQybbj_Fjk82Cs</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]NEOX[/I][/B][/COLOR]</title>
+ <link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/neox.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJEWLjtfxHrc9Ek_vt7DmiHrQQQUpi_JOtb1LQybbj_Fjk82Cs</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJEWLjtfxHrc9Ek_vt7DmiHrQQQUpi_JOtb1LQybbj_Fjk82Cs</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR  turquoise][B][I]NOVA[/I][/B][/COLOR]</title>  
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8?sd=10&rebase=on</link>
+<link>rtmp://31.220.2.54/privatestream/ playpath>novaad?keys=JAViirPPR1rdf5c4VAwlaA&keyt=1456854904 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+<fanart>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NOVA[/I][/B][/COLOR]</title>  
+<sportsdevilhttp://cinestrenostv.tv/canales/nacionales/nova.php</sportsdevil>
+ <referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+<fanart>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</fanart>
+</item>
+
+<item>
+    <title>[COLOR orange]                      CANALES DIGITALES VARIOS[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ #0[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1264.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ #0-[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/plus1.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ ESTRENOS[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1265.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ ESTRENOS[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusestrenos.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ XTRA[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1266.m3u8</link>
+<thumbnail>http://www.40fakes.com/wp-content/uploads/canalxtra_cartela.jpg</thumbnail>
+<fanart>http://www.40fakes.com/wp-content/uploads/canalxtra_cartela.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ ACCION[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1271.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ ACCION[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusaccion.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]CANAL+ DCINE[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1269.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
+ <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]CANAL+ DCINE[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusdcinen.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
+ <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ COMEDIA[/I][/B][/COLOR]</title>
+	<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1270.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<fanart>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</fanart>
+ <thumbnail>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ COMEDIA..[/I][/B][/COLOR]</title>
+<sportsdevilhttp://verdirectotv.com/plus-comedia-en-directo-gratis/</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/plus-comedia-en-directo-gratis/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<fanart>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</fanart>
+ <thumbnail>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ SERIES[/I][/B][/COLOR]</title>
+<linkhttp://xtream.iptv-streamer.com:8000/live/aa/aa/1266.m3u8</link>
+<fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
+ <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ SERIES XTRA[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1267.m3u8</link>
+<fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
+ <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]D CINE ESPAÑOL[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1269.m3u8</link>
+<link>rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail>
+<fanart>http://sistectelecom.com/images/canales/dc.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]D CINE ESPAÑOL[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/digitales/plusdcine.html</page>
+<referer>http://verdirectotv.com/tv</referer>
+</regex>
+<thumbnail>http://sistectelecom.com/images/canales/dc.jpg</thumbnail>
+<fanart>http://sistectelecom.com/images/canales/dc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]SYFY[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1291.m3u8</link>
+<thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]SYFY[/I][/B][/COLOR]</title>
+<sportsdevilhttp://verdirectotv.com/ver-sify-en-directo-y-online-gratis-las-24-horas/</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/ver-sify-en-directo-y-online-gratis-las-24-horas/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]PARAMOUNT CHANNEL[/I][/B][/COLOR]</title>
+<linkhttp://195.10.2.98/paramount/live.flv?token=758ae15d5c0c8aceb3c8f06070e5571056ed312d56ed3169</link>
+<thumbnail>https://i.ytimg.com/vi/gDPL-V2pYEM/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/gDPL-V2pYEM/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]HOLLYWOOD[/I][/B][/COLOR]</title>
+<link>rtmp://89.248.169.55/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<fanart>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</fanart>
+ <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]HOLLYWOOD[/I][/B][/COLOR]</title>
+<sportsdevilhttp://verdirectotv.com/canal-hollywood-en-vivo-y-directo-las-24-horas-online/</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/canal-hollywood-en-vivo-y-directo-las-24-horas-online/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<fanart>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</fanart>
+ <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]TCM[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.40.62/privatestream/ playpath=tccm?keys=w9_QOJHY3b5xIpGVLYi-Qg&keyt=1457641717 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=tccm&width=800&height=600</link>
+<fanart>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</fanart>
+ <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]TCM[/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-canal-tcm-online-gratis-y-en-vivo-por-internet/</sportsdevil>
+<refererhttp://cinestrenostv.tv</referer>
+<fanart>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</fanart>
+ <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]AXN[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1272.m3u8</link>
+<thumbnail>http://analitica.com/wp-content/uploads/2014/08/axn.jpg</thumbnail>
+<fanart>http://analitica.com/wp-content/uploads/2014/08/axn.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]AXN WHITE[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1273.m3u8</link>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2012/04/axn-white.jpg</thumbnail>
+<fanart>http://satcesc.com/web/wp-content/uploads/2012/04/axn-white.jpg</fanart> 
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]FOX[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1274.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</thumbnail>
+<fanart>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FOX[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/fox.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</thumbnail>
+<fanart>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FOX LIFE[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1275.m3u8</link>
+<thumbnail>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</thumbnail>
+<fanart>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]TNT[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1276.m3u8</link>
+<link>rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]TNT[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/tnt.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]AMC[/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-amc-espana-online-gratis-en-vivo-por-internet/</sportsdevil>
+<sportsdevilhttp://www.telefivegb.com/ver-amc-espana-online-gratis-en-vivo-por-internet/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://blog.ono.es/wp-content/uploads/2014/11/amclogo4__140305172543.png</thumbnail>
+<fanart>http://blog.ono.es/wp-content/uploads/2014/11/amclogo4__140305172543.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CALLE 13[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1288.m3u8</link>
+<fanart>http://www.adslzone.tv/app/uploads/2010/08/Dibujo9.jpg</fanart>
+ <thumbnail>http://www.adslzone.tv/app/uploads/2010/08/Dibujo9.jpg</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CALLE 13[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/calle13.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<fanart>http://www.adslzone.tv/app/uploads/2010/08/Dibujo9.jpg</fanart>
+ <thumbnail>http://www.adslzone.tv/app/uploads/2010/08/Dibujo9.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+    <title>[COLOR orange]                            CINE 24H   IDIOMA LATINO                       [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+<item>
+<title>[COLOR turquoise][B][I]CANAL DE ENTRETENIMIENTO/[COLOR yellow][B][I]Castellano/[COLOR turquoise][B][I](((JAVI KODI)))[/B][/I][/COLOR]</title>
+<linkrtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_tauro2425 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_tauro2425$doregex[gettime]-$doregex[gettime].33434
+</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/pBwHgnGnDTcccA_LJHlyEokN44r-el9EcAq-_EsBMvroyEHFxJC00c5mz5lr9Nw3ynEjb-s=s97</thumbnail>
+<fanarth>https://lh3.googleusercontent.com/pBwHgnGnDTcccA_LJHlyEokN44r-el9EcAq-_EsBMvroyEHFxJC00c5mz5lr9Nw3ynEjb-s=s97</fanart>
+</item>
+</item>
+</items>
+
+<item>
+<title>[COLOR turquoise][B][I]MEGA EXTREMO/[COLOR yellow][B][I]LATINO [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_extremo live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_extremo$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>http://files.herpzradio.webnode.mx/200000166-15e1a16db7/mega.jpg</thumbnail>
+<fanart>http://files.herpzradio.webnode.mx/200000166-15e1a16db7/mega.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]CINESCAPE /[COLOR yellow][B][I]LATINO [/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinescape live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_cinescape$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>http://m.img.brothersoft.com/iphone/1641/471257641_icon175x175.jpg</thumbnail>
+<fanart>http://m.img.brothersoft.com/iphone/1641/471257641_icon175x175.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]MEGA MOVIE[/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_movieshd live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_movieshd$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>http://www.undernews.fr/wp-content/uploads/2013/01/megamovie-megavideo.jpg</thumbnail>
+<fanart>http://www.undernews.fr/wp-content/uploads/2013/01/megamovie-megavideo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]UNIVERSAL / [COLOR yellow][B][I]LATINO[/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_universal_movies live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_universal_movies$doregex[gettime]-$doregex[gettime].33434
+</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>http://globaloneltd.com/wp-content/uploads/2014/05/universal-studios-logo-wallpaper.jpg</thumbnail>
+<fanart>http://globaloneltd.com/wp-content/uploads/2014/05/universal-studios-logo-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B][I]CLUB TERROR / [COLOR yellow][B][I]LATINO[/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_club_terror live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_club_terror$doregex[gettime]-$doregex[gettime].33434
+</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>https://socialscenedicate.files.wordpress.com/2013/02/logo.jpg</thumbnail>
+<fanart>https://socialscenedicate.files.wordpress.com/2013/02/logo.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I] LOS SIMPSON/[COLOR yellow][B][I]Latino[/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_simpson live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_simpson$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>http://estatico.vozpopuli.com/imagenes/Noticias/18C0135E-E330-B910-1CE9-33A9B405C799.jpg/resizeMod/0/1200/Los-Simpsons-.jpg</thumbnail>
+<fanart>http://estatico.vozpopuli.com/imagenes/Noticias/18C0135E-E330-B910-1CE9-33A9B405C799.jpg/resizeMod/0/1200/Los-Simpsons-.jpg</fanart>
+</item>
+
+
+
+
+<item>
+    <title>[COLOR orange]               CANALES ENTRETENIMIENTOS Y DOCUMENTALES VARIOS                           [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+
+
+--------------------------------------------------
+<item>
+ <title>[COLOR turquoise][B][I]GRAN HERMANO VIP[/B][/I][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/nacionales/GH/1.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://telecincostatic-a.akamaihd.net/granhermanovip/App-oficial-GH-VIP_MDSIMA20150112_0397_9.jpg</thumbnail>
+<fanart>http://telecincostatic-a.akamaihd.net/granhermanovip/App-oficial-GH-VIP_MDSIMA20150112_0397_9.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]GRAN HERMANO VIP[/B][/I][/COLOR]</title>
+<sportsdevilhttp://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/tv/nacionales/gh15.html</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://telecincostatic-a.akamaihd.net/granhermanovip/App-oficial-GH-VIP_MDSIMA20150112_0397_9.jpg</thumbnail>
+<fanart>http://telecincostatic-a.akamaihd.net/granhermanovip/App-oficial-GH-VIP_MDSIMA20150112_0397_9.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]A3SERIES[/I][/B][/COLOR]</title>
+ <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg</thumbnail>
+<fanart>http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]MEGA[/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/master.m3u8</link>
+<link>http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_3_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.ipadd.fr/wp-content/uploads/2013/01/mega-logo.png</thumbnail>
+<fanart>http://www.ipadd.fr/wp-content/uploads/2013/01/mega-logo.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]A&E[/I][/B][/COLOR]</title>
+<sportsdevilhttp://verdirectotv.com/canal-plus-dcine-en-vivo-online/</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/canal-plus-dcine-en-vivo-online/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</thumbnail>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]A&E[/I][/B][/COLOR]</title>
+ <link$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/ae.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</thumbnail>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL DE LAS ESTRELLAS[/I][/B][/COLOR]</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+<linkhttp://cdn.sstream.pw/live/iptv9/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<fanart>http://telecastro.net/wp-content/uploads/2015/11/canal-de-la-estrellas.jpg</fanart>
+ <thumbnail>http://telecastro.net/wp-content/uploads/2015/11/canal-de-la-estrellas.jpg</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CENTRAL COMEDY[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.0.186/privatestream/ playpath=comedicen?keys=oNG9NB197poB60FDgkbumA&keyt=1454354002 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=comedicen&width=800&height=600</link>
+<linkhttp://cdn.sstream.pw/live/iptv9/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</fanart>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]ENERGY[/I][/B][/COLOR]</title>
+ <link$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/energy.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/77db6e517525058db35070f9c7360223</thumbnail>
+<fanart>http://www.mundoplus.tv/img/77db6e517525058db35070f9c7360223</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FDF[/I][/B][/COLOR]</title>
+ <linkrtmp://31.220.2.54/privatestream/ playpath=fddf?keys=xp2SNaWkd_2WtfBvIfs-iQ&keyt=1456855143 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://2.bp.blogspot.com/-vgOK-4_WzAw/U4ze4xIVAGI/AAAAAAAAaeE/n6vi1aSq2Bo/s1600/FDF.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-vgOK-4_WzAw/U4ze4xIVAGI/AAAAAAAAaeE/n6vi1aSq2Bo/s1600/FDF.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FDF[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/fdf.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<fanart>http://2.bp.blogspot.com/-vgOK-4_WzAw/U4ze4xIVAGI/AAAAAAAAaeE/n6vi1aSq2Bo/s1600/FDF.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]COSMO[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1287.m3u8</link>
+<thumbnail>http://www.cosmohaarwerken.nl/rw_common/images/Cosmo%20trans.png</thumbnail>
+<fanart>http://www.cosmohaarwerken.nl/rw_common/images/Cosmo%20trans.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]VIAJAR[/I][/B][/COLOR]</title>
+ <link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8</link>         
+ <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/viajar.jpg</thumbnail>
+<fanart>http://www.tv-logo.com/pt-data/uploads/images/logo/viajar.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]CANAL COCINA[/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-canal-cocina-online-gratis-por-internet/</sportsdevil>
+<sportsdevilhttp://www.telefivegb.com/ver-canal-cocina-online-gratis-por-internet/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://canalcocina.es/images/canalcocina.png</thumbnail>
+<fanart>http://canalcocina.es/images/canalcocina.png</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]DIVINITY[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/nacionales/divinity.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.zappingmagazine.com/wp-content/uploads/2013/10/divinity1.jpg</thumbnail>
+<fanart>http://www.zappingmagazine.com/wp-content/uploads/2013/10/divinity1.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]MTV[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/mtv.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]TELENOVELA[/I][/B][/COLOR]</title>
+ <linkhttp://200.76.77.237/LIVE/H01/CANAL275/PROFILE02-90/1823-20160201T094318.ts</link>
+<thumbnail>http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png</thumbnail>
+<fanart>http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]DISCOVERY MAX[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/max.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://www.wikinoticia.com/images2//s1.gizmologia.com/files/2012/01/Discovery-MAX.jpg</thumbnail>
+<fanart>http://www.wikinoticia.com/images2//s1.gizmologia.com/files/2012/01/Discovery-MAX.jpg</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]DISCOVERY CHANNEL[/I][/B][/COLOR]</title>
+<sportsdevilhttp://verdirectotv.com/ver-discovery-channel-en-directo-y-online-las-24h/</sportsdevil>
+<sportsdevilhttp://verdirectotv.com/ver-discovery-channel-en-directo-y-online-las-24h/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS34nlUmMxIEmXUxadXpjWJCa6pWk4kbGaoMFLgW3B0l-xn8mUVtg</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS34nlUmMxIEmXUxadXpjWJCa6pWk4kbGaoMFLgW3B0l-xn8mUVtg</fanart>
+</item>
+
+<item>
+ <title>[COLOR pink][B][I]DISCOVERY CHANNEL[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/discoverychannel.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS34nlUmMxIEmXUxadXpjWJCa6pWk4kbGaoMFLgW3B0l-xn8mUVtg</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS34nlUmMxIEmXUxadXpjWJCa6pWk4kbGaoMFLgW3B0l-xn8mUVtg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CAZA Y PESCA[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</thumbnail>
+<fanart>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]IBERALIA[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.2.54/privatestream/ playpath=ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://socassat.com/wp-content/uploads/2015/07/1medium.jpg</thumbnail>
+<fanart>http://socassat.com/wp-content/uploads/2015/07/1medium.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]ODISEA[/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-odisea-en-directo-y-online-las-24h-en-vivo/</sportsdevil>
+<sportsdevilhttp://www.telefivegb.com/ver-odisea-en-directo-y-online-las-24h-en-vivo/</sportsdevil>
+ <referer>http://verdirectotv.com/</referer>
+<thumbnail>http://recursostic.educacion.es/tv_mav/version/v2/images/stories/television_educativa/observatorio_tv/canal_odisea.jpg</thumbnail>
+<fanart>http://recursostic.educacion.es/tv_mav/version/v2/images/stories/television_educativa/observatorio_tv/canal_odisea.jpg</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]HISTORIA[/I][/B][/COLOR]</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1294.m3u8</link>
+<thumbnail>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</thumbnail>
+<fanart>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]HISTORIA[/I][/B][/COLOR]</title>
+ <sportsdevilhttp://cinestrenostv.tv/canales/emision1/historia.html</sportsdevil>
+ <referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</thumbnail>
+<fanart>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]CRIMEN INVESTIGACION[/I][/B][/COLOR]</title>
+<sportsdevilhttp://www.telefivegb.com/ver-canal-crimen-investigacion-online-gratis-y-por-internet/</sportsdevil>
+<sportsdevilhttp://www.telefivegb.com/ver-canal-crimen-investigacion-online-gratis-y-por-internet/</sportsdevil>
+ <referer>http://verdirectotv.com/</referer>
+<thumbnail>http://www.ono.es/resources/images/ocioytv/Home/crimen-investigacion-sabias-que.JPG</thumbnail>
+<fanart>http://www.ono.es/resources/images/ocioytv/Home/crimen-investigacion-sabias-que.JPG</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NATIONAL GEOGRAPHIP[/I][/B][/COLOR]</title>
+<linkhttp://hyper.de1-eu.com:8000/live/1936/1936/3385.m3u8</link>
+<linkrtmp://nl.iguide.to/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</thumbnail>
+<fanart>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NATIONAL GEOGRAPHIP[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/national.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</thumbnail>
+<fanart>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]NAT GEO WILD[/I][/B][/COLOR]</title>
+<linkhttp://hyper.de1-eu.com:8000/live/1936/1936/3386.m3u8</link>
+<linkrtmp://nl.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+ <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</fanart>
+ <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NAT GEO WILD[/I][/B][/COLOR]</title>
+<link$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/natgeowill.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</fanart>
+ <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</thumbnail>
+</item>
+
+
+<item>
+    <title>[COLOR orange]                        CANALES DE DEPORTE VARIOS[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink></externallink>
+    </item>
+
+<item>            
+<item>
+ <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 1[/I][/B][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/livefootball.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+</item>
+
+
+<item>            
+<item>
+ <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 1[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/verliga1123/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+<thumbnaillogo.logo.logo</thumbnail>
+</item>
+
+
+<item>            
+ <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 2[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/verliga02/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+<thumbnaillogo.logo.logo</thumbnail>
+</item>
+
+
+
+
+<item>
+			<title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 3[/I][/B][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/verliga323/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail></thumbnail>
+</item>
+
+
+<item>
+			<title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 4[/I][/B][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/andresfutbol14/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail></thumbnail>
+</item>
+
+
+
+
+		<item>
+			<title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 5[/I][/B][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/ccdep2101/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail>http://3.bp.blogspot.com/-LH8scgnyY7g/VZmt4Vvqj-I/AAAAAAAAApo/djxIkyfUJM8/s1600/eventos%2Bdeportivos.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-LH8scgnyY7g/VZmt4Vvqj-I/AAAAAAAAApo/djxIkyfUJM8/s1600/eventos%2Bdeportivos.jpg</fanart>
+</item>
+
+				<item>
+			<title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 6[/I][/B][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/awhrahfhdawfosodepra/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail>http://3.bp.blogspot.com/-LH8scgnyY7g/VZmt4Vvqj-I/AAAAAAAAApo/djxIkyfUJM8/s1600/eventos%2Bdeportivos.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-LH8scgnyY7g/VZmt4Vvqj-I/AAAAAAAAApo/djxIkyfUJM8/s1600/eventos%2Bdeportivos.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR blue][B][I]BEIN SPORT ESPAÑOL[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/beinsport.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://s03.s3c.es/imag/_v0/640x300/5/3/4/bein-sports.jpg</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/5/3/4/bein-sports.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]BEIN SPORT 1 [/I][/B][/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/BeinSports/35579/beIN-SPORTS-ESPAñA.html</sportsdevil>
+<sportsdevil>http://verdirectotv.com/canal-plus-dcine-en-vivo-online/</sportsdevil>
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/06/BeIN-Sport-1-France.jpg</thumbnail>
+<fanart>http://nowwatchtvlive.me/wp-content/uploads/2014/06/BeIN-Sport-1-France.jpg</fanart>
+  </item>
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR blue][B][I]C+ LIGA[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/deportes2/plusliga.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.abonateadigitalplus.es/canal-plus-liga1.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/3261903068/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]C+ LIGA 2 [/I][/B][/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/ver-canal-plus-liga-2-liga-adelante-online/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-canal-plus-liga-2-liga-adelante-online/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.vercanalestv.com/imagenes/canal%20plus%20liga%202.png</thumbnail>
+<fanart>http://www.vercanalestv.com/imagenes/canal%20plus%20liga%202.png</fanart>
+  </item>
+
+
+<item>
+ <title>[COLOR blue][B][I]C+ PLUS FUTBOL[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusfutbol.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]C+ PLUS MULTILIGA[/I][/B][/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/canal-plusliga-multiliga-partidos-bbva-online-y-hd/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/canal-plusliga-multiliga-partidos-bbva-online-y-hd/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.vercanalestv.com/imagenes/plus%20partidazo.png</thumbnail>
+<fanart>http://www.vercanalestv.com/imagenes/plus%20partidazo.png</fanart>
+  </item>
+
+
+
+<item>
+ <title>[COLOR blue][B][I]C+ DEPORTE[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/plusdeportes.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-rOsfBHt7XIU/UQMlgPaSqNI/AAAAAAAAAI0/H5YNeFSW-do/s1600/plus-deportes.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-rOsfBHt7XIU/UQMlgPaSqNI/AAAAAAAAAI0/H5YNeFSW-do/s1600/plus-deportes.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]C+ FUTBOOL[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusfutbol.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-SyTLtuXTv3w/VhXDiobc5wI/AAAAAAAAcb4/6vrpNuVcwPM/s400/cfut.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-SyTLtuXTv3w/VhXDiobc5wI/AAAAAAAAcb4/6vrpNuVcwPM/s400/cfut.png</fanart>
+  </item>
+<item>
+ <title>[COLOR blue][B][I]C+ DEPORTE 2[/I][/B][/COLOR]</title> 
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://verdirectotv.com/tv/deportes/plusdeportes2.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-R3f27buL7cs/VmGYIAzk2cI/AAAAAAAABmg/bKwiEN8ld9Y/s1600/canalplus-deportes2.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-R3f27buL7cs/VmGYIAzk2cI/AAAAAAAABmg/bKwiEN8ld9Y/s1600/canalplus-deportes2.jpg</fanart>
+  </item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 1[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal2.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 2[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 3[/I][/B][/COLOR]</title> 
+  <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal4.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 4[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal5.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 5[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal6.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+<item>
+ <title>[COLOR blue][B][I]DEPORTES ENDESA 6[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal7.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>
+
+
+<item>
+ <title>[COLOR blue][B][I]FORMULA 1[/I][/B][/COLOR]</title> 
+ <link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/formula1.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+   <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUABBEQvtEXaCC46zudyyr0q0_7cEppxftAi09OtikCqVg7zDG</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUABBEQvtEXaCC46zudyyr0q0_7cEppxftAi09OtikCqVg7zDG</fanart>
+    </item>
+
+
+
+
+
+<item>
+ <title>[COLOR blue][B][I]MOTOS GP[/I][/B][/COLOR]</title>
+    <link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/motogp.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/-CNXmnUpRCwo/AAAAAAAAAAI/AAAAAAAAAAA/OmUjp85j9Ac/photo.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-CNXmnUpRCwo/AAAAAAAAAAI/AAAAAAAAAAA/OmUjp85j9Ac/photo.jpg</fanart>
+  </item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR blue][B][I]C+ GOLF[/I][/B][/COLOR]</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/plusgolf.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://www.plus.es/recorte/m-NEO/guianeo/GOLF+.png</thumbnail>
+<fanart>http://www.plus.es/recorte/m-NEO/guianeo/GOLF+.png</fanart>
+  </item>
+
+
+@@@@@@@@@@@@@@@@@@@@@
+http://cinestrenostv.tv/canales/emision1/syfy.html
+http://cdn.sstream.pw/live/iptv2/chunklist.m3u8
+
+<item>
+ <title>[COLOR blue][B][I]DE1[/I][/B][/COLOR]</title> 
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/wayo1/1/650/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+ </item>
+<item>
+ <title>[COLOR blue][B][I]DE[/I][/B][/COLOR]</title> 
+ <sportsdevil>http://cinestrenostv.tv/canales/nacionales/mega.php</sportsdevil>
+<referer>http://vercanalestv.com</referer>
+<thumbnail>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</thumbnail>
+<fanart>http://www.ocio.net/wp-content/uploads/2011/12/Endesa-regala-pistas-de-baloncesto-300x249.jpg</fanart>
+  </item>

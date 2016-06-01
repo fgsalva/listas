@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****DISCOVERY EN ESPAÑOL *** ***ferrer***
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", *ferrer*Nova Espanas index2
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", *ferrer*Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", *ferrer*Antena 3 index2
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*L.a L.i.g.a Espa.ñola
+rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*B.E.I.N E.S.P.A.Ñ.A
+rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", *ferrer*LA sexta ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", *ferrer*La sexta ESPAÑA index2
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", *ferrer*La sexta Castalba index3
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", *ferrer*MEGA  ESPAÑA Index 2
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*A3S Espana 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*A3S Espana MASTER
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*8tv
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*TELECINCO
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*+ Comedia (iguide)
+rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*+ SeriesXtra (iguide)
+rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*#0 RTMP
+rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*DXTV HD m3u8 
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*DXTV 200
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*Real Madrid TV MASTER
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", *ferrer*F.0.X S.P.0.RT
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*one B.arcatv
+rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt;=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*T.D.N AMOLATV
+http://stream.ssh101.com:1935/live/deporteshd12/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer* espnpsn7 v
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv47?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv47
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*ACTIVO DURANTE LOS PARTIDOS
+http://85.17.20.69:8088/live/verliga1123/playlist.m3u8?id=243257&pk=4ddac5172d96cb11caaf1ba2ac88ae6d0bf1ba480fbe8a4e80f4a5148939aeac
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*L.a L.i.g.a Espa.ñola
+rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*L.a L.i.g.a Espa.ñola**
+rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height;=565&channel;=30323&autoplay;=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*B.E.I.N E.S.P.A.Ñ.A
+rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",*ferrer*B.E.I.N SPORT ESPAÑOL rtmp
+rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*TV Publica m3u8 360**
+http://prepublish.f.qaotic.net/epb/c7live01-20034_360p/Playlist.m3u8|Referer=http://vmf.edge-apps.net
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",*ferrer*TV Publica m3u8 480**
+http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=http://vmf.edge-apps.net
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", *ferrer*CanaL DE las Estrellas 518 119660/index_518_av-p
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", *ferrer*Canal De Las Estrellas 648 119660/index_648_av-p
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer* Canal De Las Estrellas Mexico AUTH_HLSLIVE/CEST
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer*azteca 7a MExico HD Info7_NL/playlist.
+http://38.104.228.230:1938/info7/smil:Stream_Info7_NL/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer* azteca 7a MExico info7_512/playlist.m3u8
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer* azteca 7b  Mexico329799/master.
+http://aztecalive-lh.akamaihd.net/i/0sl6535ls_1@329799/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer* azteca 7b  Mexico329799/index2
+http://aztecalive-lh.akamaihd.net/i/0sl6535ls_1@329799/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer*azteca 7  Mexico175670/master.
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Azteca 7 MEXICO* 167681/index_2_av-p
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer*azteca 13 Master 175671
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer*azteca 13 index1 175671
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer*azteca INTERNACIONAL INDEX2
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",*ferrer* w.i.n s.port yt2 SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
+
+#EXTINF:-1,Neox
+http://bit.ly/ferrerneox
+#EXTINF:-1,a3s
+http://bit.ly/ferrera3serie1
+#EXTINF:-1,antena3
+http://bit.ly/ferrerantena3
+#EXTINF:-1,lasexta
+http://bit.ly/ferrerlasexta
+#EXTINF:-1,lamega
+http://bit.ly/ferrerlamega
+#EXTINF:-1,Azteca7a
+http://bit.ly/ferrerazteca7a
+#EXTINF:-1,azteca7a1
+http://bit.ly/ferrerazteca7a1
+#EXTINF:-1,realmad
+http://bit.ly/ferrerrealmad
+#EXTINF:-1,ow
+http://ow.ly/m34P300MvFu
+#EXTINF:-1,l.a...li..a es
+http://ow.ly/hcDs300Mw6g
+#EXTINF:-1,l.a...psn51
+http://ow.ly/Fi0h300Mwmi
