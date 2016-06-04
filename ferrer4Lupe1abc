@@ -54,8 +54,8 @@ rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",T.elemundo cuereta5 MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/telemundo45?viewers=true&watermark=left&autoplay=true live=true playpath=live_telemundo45
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7 generico
-rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv*.??viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv*.?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7 generico!!
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv(*.?)?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv(*.?)
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7
 rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv52?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv52
