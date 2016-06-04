@@ -830,3 +830,14 @@
 <page></page>
 </regex>
 </item>
+
+<item>
+<title>[COLOR lightblue]Vip[/COLOR] [COLOR lightslategray][I]C1anal+ Liga  [/I]  [/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70190',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
