@@ -54,10 +54,13 @@ rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",T.elemundo cuereta5 MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/telemundo45?viewers=true&watermark=left&autoplay=true live=true playpath=live_telemundo45
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7 generico
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv*.??viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv*.?
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7
-rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv48?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv48
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv52?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv52
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",psn7 cortado
-rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO pageUrl=http://vaughnlive.tv/embed/video/psnv48?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv48
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO pageUrl=http://vaughnlive.tv/embed/video/psnv52?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv52
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.O.X  N.A.TION 
 rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdboxnation swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdboxnation&vw=854&vh=480
@@ -561,28 +564,12 @@ rtmp://89.248.169.55/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",aazteca7 chu
 http://38.104.228.230:1938/info7/info7_512/chunklist_w934161884.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",aAzteca 7 rtmp2
-rtmp://38.104.228.230:1938/info7/ playpath=info7_768?tvaztecanoreste swfUrl=http://www.info7.mx/tv/flow_player/flowplayer-3.2.18.swf live=1 pageUrl=http://www.tv-en-vivo.org/azteca-7-2/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",D.iretv
 http://cdn.sostart.pw/livehls/u0htZvZU38iA/chunklist_w1610338911.m3u8?
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",ff.oxsport 3
 rtmp://www1.iguide.to/iguide playpath=ja72h7y0y0qpf0p swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf flashver=WIN/2021,0,0,216 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=15 swfVfy=1 pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=480&channel=32554&autoplay=true
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",b.e.i
-rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjQ1NzYyOTJ8MTkwLjYyLjIzMC4yNDF8NTc0YmEyMWM1MTYyMnxlOWFmMjg4Mjk3ODcwMTk4ODc4OWUwODk3MTM0MWE2ZmVmNTc3M2Y3&userId=fDE0NjQ1NzYyOTJ8NDk2OGRmNTNlMGQzMTgzNTMwOWQwMDAyYzA2OWFjMDE4Mjc5NjQ0Yg.. app=edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjQ1NzYyOTJ8MTkwLjYyLjIzMC4yNDF8NTc0YmEyMWM1MTYyMnxlOWFmMjg4Mjk3ODcwMTk4ODc4OWUwODk3MTM0MWE2ZmVmNTc3M2Y3&userId=fDE0NjQ1NzYyOTJ8NDk2OGRmNTNlMGQzMTgzNTMwOWQwMDAyYzA2OWFjMDE4Mjc5NjQ0Yg.. playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=Wba73a16dc896acc6609141f1c8758af live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?channel=72400
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",b.e.i cortado
-rtmp://watch9.streamlive.to:1935/edge/_definst_/? playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=Wba73a16dc896acc6609141f1c8758af live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?channel=72400
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",b.e.i file
-http://watch9.streamlive.to:1935/edge/_definst_/3kyblmy5vhjkp2i/playlist.m3u8?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjQ1NzYyOTJ8MTkwLjYyLjIzMC4yNDF8NTc0YmEyMWM1MTZiN3w4ZWJjMDVmYjc4ZjFhNjRmZDUyNDI0OTAwODU5NjM1MjBhNGEwOGU1&userId=fDE0NjQ1NzYyOTJ8NDk2OGRmNTNlMGQzMTgzNTMwOWQwMDAyYzA2OWFjMDE4Mjc5NjQ0Yg..
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",b.e.i file2
-http://ad4.liverail.com/?LR_PUBLISHER_ID=12694&LR_PARTNERS=718572&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=1&LR_MUTED=0&LR_URL=http://www.streamlive.to/channels/72400/Vip_-_Bein_Sport_Espa%C3%B1ol_%28HD%29&LR_VIDEO_ID=72400&LR_TITLE=Vip_-_Bein_Sport_Espa%C3%B1ol_%28HD%29&LR_DESCRIPTION=Vip_-_Bein_Sport_Espa%C3%B1ol_%28HD%29&LR_VIDEO_URL=http://www.streamlive.to/channels/72400/Vip_-_Bein_Sport_Espa%C3%B1ol_%28HD%29&LR_WIDTH=640&LR_HEIGHT=480
-
-
-#EXTM3U
-
-
 
 
 #EXTINF:-1,C1anal 0#
@@ -609,10 +596,6 @@ rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.t
 rtmp://www1.iguide.to/iguide playpath=o3m2hhbrqqux0ks swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD 
 #EXTINF:-1,T1NT
 rtmp://www1.iguide.to/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD   
-#EXTINF:-1,T1NT Series SD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:-1,T1NT Series HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
 #EXTINF:-1,A1XN
 rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,A1XN White
@@ -645,18 +628,7 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:0, K1orean Drama (ENG)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", r-c-n OFICIAL
- http://canalrcn-mobile-encoder.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", cARA-COL OFICIAL
- https://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/master.m3u8?__nn__=4372295757001&hdnea=st=1465016400~exp=1465018200~acl=/i/*~hmac=feae9661184f3fdcd6afcd4fa4483fc6eedaf1537a894b55d4ac27d837498e7a
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", a-xteca7 10703
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",a-xteca7 10702
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE02.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", 5mx 10503
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp". 5mx 10502
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE02.m3u8
