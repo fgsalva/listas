@@ -843,6 +843,32 @@
 </item>	
 
 
+
+<item>	
+<title>[COLOR lightblue]CANAL 5 MX DEPORTES[/COLOR]  [COLOR lightslategray][I] sky1 [/I]  [/COLOR] </title>
+<link>$doregex[rtmp] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 live=true pageUrl=http://www.shidurlive.com</link>
+<regex>
+<name>rtmp</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,): 
+ import re, requests, urllib
+ headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://agenda.futligatv.net'}
+ source = requests.get('http://shidurlive.com/embed/planetaft', headers=headers)
+ embed = re.findall('src=\"(.*?)\"', source.text)[0]
+ source2 = requests.get(embed, headers=headers)
+ file = re.search('unescape\(\'(.*?)\'.*\n.*streamer.*(rtmp.*?)\'', source2.text)
+ rtmp = file.group(2) + '/' + urllib.unquote(file.group(1))
+ return rtmp 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://cde.americadeportes.pe/ima/0/0/2/2/6/226063/790x495.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
+</item>
+
+
+
 <item>
 <title>[COLOR lightblue]C1ANAL+FUTBOLXXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
