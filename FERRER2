@@ -841,3 +841,11 @@
 </regex>
 <thumbnail></thumbnail>
 </item>	
+
+
+<item>
+<title>[COLOR lightblue]C1ANAL+FUTBOLXXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68720',False,False,'http://vipracing.info/')</expres>
+	<page></page></regex></item>
