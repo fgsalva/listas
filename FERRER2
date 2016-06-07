@@ -885,4 +885,177 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.info/')</expres>
 <page></page></regex></item>
 
-	
+<title>[COLOR green]RTMP TYC DEPORTES  ARGENTINA[/COLOR]</title>
+                        <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+                        <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+                        <link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
+                        </item>
+
+
+<item>
+<title>[COLOR yellow]TYC DEPORTESStream [/COLOR]</title>
+<sportsdevil>http://c2.juliodeportes.net/</sportsdevil>
+<referer>http://c2.juliodeportes.net/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]TDN Stream Espana HQ[/COLOR]</title>
+<sportsdevil>http://antena-sport.com/stream18.html</sportsdevil>
+<referer>http://antena-sport.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]ZONA ESPORT9[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]ZONA ESPORT10 Stream HQ[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
+<referer>http://www.zonasports.me</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+
+<item>
+<title>[COLOR blue]TDN ZONA SPORT RTMP Stream HD[/COLOR]</title>
+<link>http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]TDN RIVOSPORT Stream HD[/COLOR]</title>
+<sportsdevil>http://rivosportt.info/x1.html</sportsdevil>
+<referer>http://rivosportt.info/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]AZTECA 7 SPORDEVILS tream [/COLOR]</title>
+<sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
+<referer>http://agenda.futligatv.net/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]TDN ANTENA SPORT HDStream Espanol [/COLOR]</title>
+<sportsdevil>http://antena-sport.com/stream18.html</sportsdevil>
+<referer>http://antena-sport.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]AMO LA TV Stream HQ[/COLOR]</title>
+<sportsdevil>http://www.amolatelehd.com.usrfiles.com/html/157db8_94bf129d49246ad989d77fe9e947233f.html</sportsdevil>
+<referer>http://www.amolatelehd.com.usrfiles.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]TDN Stream18  HQ[/COLOR]</title>
+<sportsdevil>http://wizhdsports.com/live/stream18.php</sportsdevil>
+<referer>http://wizhdsports.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]SPORTV TV1Stream  HQ[/COLOR]</title>
+<sportsdevil>http://wizhdsports.com/live/stream16.php</sportsdevil>
+<referer>http://wizhdsports.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]FS1 WIZHDSPORT Stream  HQ[/COLOR]</title>
+<sportsdevil>http://wizhdsports.com/live/stream1.php</sportsdevil>
+<referer>http://wizhdsports.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]FS1 Stream English HD[/COLOR]</title>
+<sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]FS1 Stream HQ[/COLOR]</title>
+<sportsdevil>http://antena-sport.com/stream1.html</sportsdevil>
+<referer>http://antena-sport.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]SETANTA Stream HQ[/COLOR]</title>
+<sportsdevil>http://antena-sport.com/stream8.html</sportsdevil>
+<referer>http://antena-sport.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]FS1 RTMP[/COLOR]</title>
+<link>http://w3.musicdivision.xyz/swf/38.m3u8?sf=d2l6aGQx&token=sGR4JpeTgBTcyVm4ZReE2w|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D38%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216</link>
+</item>
+<item>
+<title>[COLOR red]SETANTA FS1 RTMP[/COLOR]</title>
+<link>http://w3.musicdivision.xyz/swf/139.m3u8?sf=d2l6aGQ4&token=sGR4JpeTgBTcyVm4ZReE2w|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D139%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216</link>
+</item>
+
+<item>
+<title>[COLOR green]Stream 1 SPORTDEVIL[/COLOR]</title>
+<sportsdevil>http://agenda.futligatv.net/planeta.html</sportsdevil>
+<referer>http://agenda.tutv-porinternet.net/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green]TDN SPORTDEVIL  [/COLOR]</title>
+<sportsdevil>http://agenda.futligatv.net/tdn.html</sportsdevil>
+<referer>http://agenda.tutv-porinternet.net/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+
+
+<item>
+<title>[COLOR white]GOOL CARACOL BAD SPORDEVUILtream [/COLOR]</title>
+<sportsdevil>http://antena-sport.com/tv1.html</sportsdevil>
+<referer>http://antena-sport.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]TDN SPORDEVIL BAD   [/COLOR]</title>
+<sportsdevil>http://agenda.futligatv.net/unitdn.html</sportsdevil>
+<referer>http://deportesmax.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
