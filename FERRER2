@@ -143,24 +143,15 @@
 </regex>
 </item>
 
-<title>[COLOR=dodgerblue]ojo [COLOR] VIPRACING OPCION 2[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-2/frame')</expres>
-<page></page>
-</regex>
-</item>
-
 <item>
-<title>VIPRACING 02[COLOR dodgerblue] (Bein ñ) info[/COLOR]</title>
+<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 2[COLOR yellow] REGEX[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-2/frame')</expres>
 <page></page>
 </regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item> 
+<thumbnail></thumbnail></item> 
 
 
 <item>
@@ -184,86 +175,36 @@
 </item>
 
 <item>
-<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING BEIN-ES[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/bein-es/frame')</expres>
-<page></page>
-</regex>
-</item>
-
-<item><title>[COLOR red]VIPRACING bein ñ sd SporDevil[/COLOR]</title><sportsdevil>http://vipracing.info/channel/bein-es</sportsdevil>
-<referer>http://vipracing.info/</referer><thumbnail>logo.logo.logo</thumbnail></item>	
-<item>
-
-<item>
-<title>Canal + LIGA / Bein España (Activo durante partidos) VERLIGA.NET </title> http://verliga.net/tv/verliga.html
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.mips.tv/membedplayer/verliga1123/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.mips.tv</referer>
-</regex>
-<thumbnail>logo.logo.logo</thumbnail>
-</item>
-
-
-<item>
-<title>Castalba Regexuuuu BEIN ESPAÑOL/ESPN </title>
+<title>Castalba Regexuuuu univision</title>
 <link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
 <regex>
 <name>rtmp</name>
 <expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24090</page>
+<page>http://castalba.tv/channel/28442</page>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24090</page>
+<page>http://castalba.tv/channel/28442</page>
 </regex>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Castalba Regexuuuu BEIN SPORT ENG </title>
+<title>Castalba Regexuuuu tvpublica </title>
 <link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
 <regex>
 <name>rtmp</name>
 <expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24089</page>
+<page>http://castalba.tv/channel/25059</page>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24089</page>
+<page>http://castalba.tv/channel/25059</page>
 </regex>
 <thumbnail></thumbnail>
 </item>
-
-<item>
-<title>Castalba Regexuuuu BEIN SPORT ESPAÑOL1 </title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24090</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/24090</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
 <title>Castalba Regexuuuu FS1 </title>
@@ -283,19 +224,27 @@
 
 
 <item>
-<title>[COLOR deepskyblue]ANTENA 3 HD M3U8 [/COLOR]</title>
+<title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
 </item>	
 
 <item>
-<title>[COLOR deepskyblue]LA SEXTA HD M3U8[/COLOR]</title>
+<title>[COLOR deepskyblue]LA- SEXTA HD M3U8[/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 </item>	
 
 <item>
-<title>[COLOR deepskyblue]REAL MADRIDTV  M3U8[/COLOR]</title>
+<title>[COLOR deepskyblue]REAL- MADRIDTV  M3U8[/COLOR]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 </item>	
+
+<item>
+<title>B1arça TV m3u</title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/BarsaTV300.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item> 
+
 
 <item>
 <title>[COLOR deepskyblue]POKER CENTRAL M3U8[/COLOR]</title>
@@ -323,15 +272,6 @@
 <thumbnail>logo.logo.logo</thumbnail>
 </item>
 
-<item>
-<title>[COLOR coral]GOLTV FS1 MULTICANAL M3U8 [/COLOR][COLOR gray]  [I]Capo[/I][/COLOR]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>	
-
-<item>
-<title>[COLOR coral]AZTECA 7[/COLOR][COLOR gray]  [I]M3U8[/I][/COLOR]</title>
-<link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8</link>
-</item> 
 
 <item>
 <title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
@@ -367,15 +307,6 @@
 <referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
 </item>
 
-<item>
-<title>[COLOR deepskyblue]RPC [/COLOR]</title>
-<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
-</item>	
-
-<item>
-<title>[COLOR deepskyblue]AZTECA DEPORTES[/COLOR]</title>
-<link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8? </link>
-</item>	
 
 <item>
 <title>[COLOR deepskyblue]ANIMETV[/COLOR] </title>
@@ -443,25 +374,91 @@
 </item>
 
 <item>
-<title>[COLOR dodgerblue] VIPRACING 01[/COLOR]BeIN ñ opcion-1 frame</title>
+<title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-1/frame')</expres>
 <page></page>
 </regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>VIPRACING 02[COLOR dodgerblue] (Bein ñ)opcion-2 frame[/COLOR]</title>
+<title>[COLOR yellow] VIPRACING 01hd[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1hd frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-1hd/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
+<item>
+<title>[COLOR yellow]VIPRACING 02[/COLOR][COLOR dodgerblue] (Bein ñ)opcion-2 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-2/frame')</expres>
 <page></page>
 </regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item> 
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-3/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 04[/COLOR][COLOR dodgerblue]goltv  opcion-4 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 05[/COLOR][COLOR dodgerblue]bein1hd opcion-5 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-5/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 06[/COLOR][COLOR dodgerblue] opcion-6 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-6/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-7/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 08[/COLOR][COLOR dodgerblue] opcion-8 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-8/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+
+
 
 <item>
 <title>VIPRACING [COLOR dodgerblue] (Bein-es)[/COLOR]</title>
@@ -481,7 +478,7 @@
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es/frame')</expres>
 <page></page>
 </regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
+<thumbnail></thumbnail></item>  
 
 <item>
 <title>VIPRACING [COLOR dodgerblue] (Bein-es1) SDFRAME**[/COLOR]</title>
@@ -489,17 +486,6 @@
 <regex>
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-
-<item>
-<title>VIPRACING [COLOR dodgerblue] opcion1hd/FRAME**[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-1hd/frame')</expres>
 <page></page>
 </regex>
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
@@ -565,36 +551,6 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 
-<item>
-<title>VIPRACING 03[COLOR dodgerblue] opcion-3 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-3/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item> 
-
-<item>
-<title>VIPRACING 04[COLOR dodgerblue]goltv  opcion-4 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item> 
-
-<item>
-<title>VIPRACING 05[COLOR dodgerblue]bein1hd opcion-5 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-5/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item> 
-
 
 <item>
 <title>[COLOR lightblue]VIPRACING[/COLOR]FS 1 streamlive**</title>
@@ -619,47 +575,47 @@
 <link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?</link>
 </item>
 
-<item>
-<title>[COLOR green]***AZTECA 7[/COLOR]</title>
-<sportsdevil>http://televisiondiv.ucoz.com/azteca7.html</sportsdevil>
-<referer>http://televisiondiv.ucoz.com/</referer>
-</item>
 
 <item>
 <title>[COLOR aquamarine]**AZTECA 13[/COLOR]</title>
 <sportsdevil>http://www.canalesdetv.info/2013/01/azteca-13.html</sportsdevil>
 <referer>http://www.canalesdetv.info/</referer>
 </item>
-<item>
-			<title>Liga MX [COLOR blue] Canal 5[/COLOR]</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.pubucaster.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.embeducaster.com/membedplayer/$doregex[ch]/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.embeducaster.com</referer>
-			</regex>
-			<regex>
-			<name>ch</name>
-			<expres>channel='(.*?)'</expres>
-			<page>http://telerisatv.com/2012/04/cinco.html</page>
-			</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>
 
 <item>
- <title>+ Liga</title>
+<title>Liga MX [COLOR blue] Canal 5[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/$doregex[ch]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<regex>
+<name>ch</name>
+<expres>channel='(.*?)'</expres>
+<page>http://telerisatv.com/2012/04/cinco.html</page>
+</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>
+
+<item>
+<title>c1anal+ Liga ok iguide</title>
 <link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 <thumbnail>http://i739.photobucket.com/albums/xx33/catoal/CanalLiga.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
+<item>
+ <title>B1ein España iguide</title>
+<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+</item>
 
 <item>
-<title>Canal+ Futbol</title>
+<title>C1anal+ Futbol lento</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -684,28 +640,7 @@
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
 
-<item>
- <title>Bein España</title>
-<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-</item>
 
-<item>
-<title>Bein Latino</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://i.imgur.com/LPOM3Er.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-<item>
-<title>Barça TV</title>
-<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/BarsaTV300.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item> 
 
 <item>
 <title>Estrenos</title>
