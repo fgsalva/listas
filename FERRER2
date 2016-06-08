@@ -844,32 +844,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </item>
 
 
-
-<item>
-<title>[COLOR yellow]ZONASPORT11[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=11</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ZONASPORT12[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=12</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]ZONASPORT13[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=13</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
 <item>
 <title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
 <sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
@@ -880,7 +854,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 
 <item>
-<title>[COLOR red]ZONA ESPORT10 Stream HQ[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport[/COLOR]</title>
 <sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
 <referer>http://www.zonasports.me</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
@@ -889,62 +863,25 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <item>
 
 <item>
-<title>[COLOR blue]TDN ZONA SPORT RTMP Stream HD[/COLOR]</title>
+<title>[COLOR yellow]UTDN rtmp[/COLOR][COLOR red]Zonasport[/COLOR]</title>
 <link>http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-
 <item>
-<title>[COLOR yellow]TDN RIVOSPORT Stream HD[/COLOR]</title>
+<title>[COLOR yellow]UTDN [/COLOR][COLOR red]Rivoport[/COLOR]</title>
 <sportsdevil>http://rivosportt.info/x1.html</sportsdevil>
 <referer>http://rivosportt.info/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 <item>
-<title>[COLOR blue]AZTECA 7 SPORDEVILS tream [/COLOR]</title>
+<title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
 <sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
 <referer>http://agenda.futligatv.net/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-
-
-<item>
-<title>[COLOR red]TDN ANTENA SPORT HDStream Espanol [/COLOR]</title>
-<sportsdevil>http://antena-sport.com/stream18.html</sportsdevil>
-<referer>http://antena-sport.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]AMO LA TV Stream HQ[/COLOR]</title>
-<sportsdevil>http://www.amolatelehd.com.usrfiles.com/html/157db8_94bf129d49246ad989d77fe9e947233f.html</sportsdevil>
-<referer>http://www.amolatelehd.com.usrfiles.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue]TDN Stream18  HQ[/COLOR]</title>
-<sportsdevil>http://wizhdsports.com/live/stream18.php</sportsdevil>
-<referer>http://wizhdsports.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue]SPORTV TV1Stream  HQ[/COLOR]</title>
-<sportsdevil>http://wizhdsports.com/live/stream16.php</sportsdevil>
-<referer>http://wizhdsports.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR blue]FS1 WIZHDSPORT Stream  HQ[/COLOR]</title>
@@ -977,18 +914,9 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[COLOR red]FS1 RTMP[/COLOR]</title>
-<link>http://w3.musicdivision.xyz/swf/38.m3u8?sf=d2l6aGQx&token=sGR4JpeTgBTcyVm4ZReE2w|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D38%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216</link>
-</item>
-<item>
-<title>[COLOR red]SETANTA FS1 RTMP[/COLOR]</title>
-<link>http://w3.musicdivision.xyz/swf/139.m3u8?sf=d2l6aGQ4&token=sGR4JpeTgBTcyVm4ZReE2w|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D139%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216</link>
-</item>
-
-<item>
-<title>[COLOR green]Stream 1 SPORTDEVIL[/COLOR]</title>
+<title>[COLOR green]Stream 1 SPORTDEVIL bad[/COLOR]</title>
 <sportsdevil>http://agenda.futligatv.net/planeta.html</sportsdevil>
 <referer>http://agenda.tutv-porinternet.net/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
