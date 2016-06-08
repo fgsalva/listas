@@ -551,35 +551,6 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 
-<item>
-<title>VIPRACING [COLOR green]Latino 1 [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/latino1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-<item>
-<title>VIPRACING [COLOR green]Latino 2 [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/latino2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-
-<item>
-<title>VIPRACING [COLOR green]bt2 [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bt-2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
 
 <item>
 <title>[COLOR lightblue]VIPRACING[/COLOR]FS 1 streamlive**</title>
@@ -865,15 +836,44 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 
 <item>
-<title>[COLOR red]TDN Stream Espana HQ[/COLOR]</title>
+<title>[COLOR red]TDN Stream Espana HQ[/COLOR][COLOR red][/COLOR]</title>
 <sportsdevil>http://antena-sport.com/stream18.html</sportsdevil>
 <referer>http://antena-sport.com/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 
+
+
 <item>
-<title>[COLOR red]ZONA ESPORT9[/COLOR]</title>
+<title>[COLOR yellow]ZONASPORT1[/COLOR][/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=1</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]ZONASPORT2[/COLOR][/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=2</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]ZONASPORT3[/COLOR][/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=3</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]ZONA ESPORT9[/COLOR][/COLOR][COLOR red]Zonasport9[/COLOR]</title>
 <sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
