@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>Castalba Regexuuuu tvpublica </title>
+<title>Castalba Regexuuuu tvpublica tyc</title>
 <link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
 <regex>
 <name>rtmp</name>
@@ -551,6 +551,35 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 
+<item>
+<title>VIPRACING [COLOR green]Latino 1 [/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/latino1/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+<item>
+<title>VIPRACING [COLOR green]Latino 2 [/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/latino2/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
+
+<item>
+<title>VIPRACING [COLOR green]bt2 [/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bt-2/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
 <item>
 <title>[COLOR lightblue]VIPRACING[/COLOR]FS 1 streamlive**</title>
@@ -569,6 +598,115 @@
 <sportsdevil>http://www.tele-envivo.com/gala-tv-en-vivo.html</sportsdevil>
 <referer>http://www.tele-envivo.com/</referer>
 </item>
+
+
+<item>
+<title>[COLOR yellow]Bein Sport [/COLOR] streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]ESPN 2 HD [/COLOR] streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=57977',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]FS1 [/COLOR]streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]ESPN HD [/COLOR] streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]NBC SPORT NETWORK [/COLOR]streamlive</title>
+<thumbnail></thumbnail><fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=64232',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]EUROSPORT 1 HD [/COLOR]streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68723',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]EUROSPORT 2 HD[/COLOR] streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68724',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX NETWORKS [/COLOR]streamlive</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70048',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow]C1anal+ Liga[/COLOR] [COLOR lightslategray][I]C1anal+ Liga streamlive [/I]  [/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70190',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
 
 <item>
 <title>[COLOR white][COLOR][/COLOR]***GALA TV m3u8</title>
@@ -668,116 +806,6 @@
 <thumbnail>http://i.imgur.com/JvpukWA.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
 </item>
-
-<item>
-<title>Bein Sport</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>ESPN 2 HD</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=57977',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>FS1</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>ESPN HD</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>NBC SPORT NETWORK</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=64232',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>EUROSPORT 1 HD</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68723',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>EUROSPORT 2 HD</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68724',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-
-<item>
-<title>FOX NETWORKS</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70048',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR lightblue]Vip[/COLOR] [COLOR lightslategray][I]C1anal+ Liga  [/I]  [/COLOR] </title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70190',False,False,'http://vipracing.info/')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>	
-
-
 
 <item>	
 <title>[COLOR lightblue]CANAL 5 MX DEPORTES[/COLOR]  [COLOR lightslategray][I] sky1 [/I]  [/COLOR] </title>
