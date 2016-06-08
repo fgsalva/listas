@@ -846,16 +846,16 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 
 <item>
-<title>[COLOR yellow]ZONASPORT5[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=5</sportsdevil>
+<title>[COLOR yellow]ZONASPORT11[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=11</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]ZONASPORT6[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=6</sportsdevil>
+<title>[COLOR yellow]ZONASPORT12[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=12</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
@@ -863,14 +863,12 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 
 <item>
-<title>[COLOR yellow]ZONASPORT7[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=7</sportsdevil>
+<title>[COLOR yellow]ZONASPORT13[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=13</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
