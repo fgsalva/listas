@@ -616,8 +616,6 @@ rtmp://31.220.40.60/privatestream/ playpath=channeldisc?keys=hIuq333SBfXPQVilCJ2
 rtmp://www1.iguide.to/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,N1at Geo Wild
 rtmp://www1.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,M1TV España
-rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600
 
 #EXTINF:-1,B-E-IN 1HD
 rtmp://www1.iguide.to/iguide playpath=lm7y0p3kzcorjur swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf flashver=WIN/2021,0,0,216 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=15 swfVfy=1 pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=480&channel=32552&autoplay=true
@@ -628,7 +626,41 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:0, K1orean Drama (ENG)
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", a-xteca7 10703
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", 5mx 10503
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",canal 13hd chile
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",canal 13 chile
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",chv destok
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",chv tablet
+http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",chv android
+rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",la red
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",cana9 concepcion
+http://movilstream.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",uctv
+http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",itv
+http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",tvn nacional
+http://mdstrm.com/live-stream-playlist-v/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",tvn inter
+http://tvn.mdstrm.com/liveedge/smil:tvnelemental.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",tvn inter2
+http://mdstrm.com/live-stream-playlist/525431f81bc42c4539000057.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",mega hls
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",mega hlsv
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",antofagasta
+rtmp://stream1.eltelon.com:1935/live/antofagasta-tv/antofagasta-tv540
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",vtv2
+rtmp://flashmedia.aconcaguared.com/live/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",puerto mont Canal
+rtsp://renatel.cl/canal6
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",tv8 concepcion
+http://stream210.digitalproserver.com/tv8/tv8vivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="chile",cnn chile
+rtsp://200.104.250.183:1935/vtr_cnn_online/cnn-bb
