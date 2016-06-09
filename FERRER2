@@ -175,38 +175,6 @@
 </item>
 
 <item>
-<title>Castalba Regexuuuu univision</title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/28442</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/28442</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Castalba Regexuuuu tvpublica tyc</title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/25059</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/25059</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Castalba Regexuuuu FS1 </title>
 <link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
 <regex>
@@ -687,12 +655,17 @@
 <thumbnail></thumbnail>
 </item>	
 
-<item>	
-<title>[COLOR lightblue]T Y C  SPORT RTMP[/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR][COLOR lightslategray][I] tyc sport [/I]  [/COLOR] </title>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<item>
+<title>c1anal+ Liga ok iguide</title>
+<link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/CanalLiga.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
+<item>
+ <title>B1ein España iguide</title>
+<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+</item>
+
 <item>
 <title>[COLOR white][COLOR][/COLOR]***GALA TV m3u8</title>
 <link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?</link>
@@ -706,7 +679,7 @@
 </item>
 
 <item>
-<title>Liga MX [COLOR blue] Canal 5[/COLOR]</title>
+<title>Canal [COLOR blue] 5 mx[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -726,7 +699,6 @@
 <page>http://telerisatv.com/2012/04/cinco.html</page>
 </regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>
 
-XXXX
 <item>
 <title>[COLOR lightblue]canal 5 mx sony[/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR] [COLOR lightslategray][I] Canal5 [/I]  [/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -745,43 +717,6 @@ XXXX
 <fanart>http://cde.americadeportes.pe/ima/0/0/2/2/6/226063/790x495.jpg</fanart>
 <thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
 </item>	
-
-<item>
-<title>c1anal+ Liga ok iguide</title>
-<link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/CanalLiga.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-<item>
- <title>B1ein España iguide</title>
-<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-</item>
-
-<item>
-<title>C1anal+ Futbol lento</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
 
 
 <item>
@@ -811,6 +746,34 @@ XXXX
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
 </item>
 
+
+<item>
+<title>C1anal+ Futbol lento</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+
+
 <item>
 <title>[COLOR lightblue]C1ANAL+FUTBOLXXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
@@ -828,10 +791,16 @@ XXXX
 <page></page></regex></item>
 
 <item>
-<title>[COLOR green]Stream  HQ ARGENTINA tyc[/COLOR]</title>
+<title>[COLOR green]TYC ARGENTINA 35[/COLOR]</title>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
+</item>
+<item>	
+<title>[COLOR lightgreen]TYC  ARGENTINA 3CUATRO RTMP[/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR][COLOR lightslategray][I] tyc sport [/I]  [/COLOR] </title>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -873,13 +842,6 @@ XXXX
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-<item>
-<title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
-<sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
-<referer>http://agenda.futligatv.net/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR blue]FS1[/COLOR]</title>
@@ -906,7 +868,7 @@ XXXX
 </item>
 
 <item>	
-<title>[COLOR lightblue]FS1[/COLOR] [COLOR deepskyblue][COLOR yellow]COPA[/COLOR]AMERICACOLOR red] YEAHH[/COLOR][/COLOR][COLOR lightslategray][I] dailydeportes14 [/I]  [/COLOR] </title>
+<title>[COLOR blue]FS1[/COLOR] [COLOR yellow]COPA[/COLOR]AMERICA [COLOR red] YEAHH[/COLOR][COLOR lightslategray] dailydeportes14 [/COLOR] </title>
 <link>$doregex[get-decode]</link>
 <regex>
 <name>get-decode</name>
@@ -938,6 +900,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <title>[COLOR green]Planeta/ESPN SPORTDEVIL bad[/COLOR]</title>
 <sportsdevil>http://agenda.futligatv.net/planeta.html</sportsdevil>
 <referer>http://agenda.tutv-porinternet.net/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
+<sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
+<referer>http://agenda.futligatv.net/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
