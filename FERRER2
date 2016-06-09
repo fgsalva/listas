@@ -784,7 +784,6 @@ XXXX
 </item>
 
 
-
 <item>
 <title>Estrenos</title>
 <link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
@@ -853,15 +852,21 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.info/')</expres>
 <page></page></regex></item>
 
+<item>
+<title>[COLOR green]Stream  HQ ARGENTINA tyc[/COLOR]</title>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
+               
 <title>[COLOR green]RTMP TYC DEPORTES  ARGENTINA[/COLOR]</title>
-                        <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-                        <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-                        <link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
-                        </item>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
+</item>
 
 
 <item>
-<title>[COLOR yellow]TYC DEPORTESStream [/COLOR]</title>
+<title>[COLOR yellow]TYC DEPORTESStream spordevil[/COLOR]</title>
 <sportsdevil>http://c2.juliodeportes.net/</sportsdevil>
 <referer>http://c2.juliodeportes.net/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
