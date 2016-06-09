@@ -459,6 +459,17 @@
 <thumbnail></thumbnail></item> 
 
 
+<item>
+<title>[COLOR yellow]VIPRACING 09[/COLOR][COLOR dodgerblue] opcion-9 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-9/frame')</expres>
+<page></page>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>VIPRACING [COLOR dodgerblue] (Bein-es)[/COLOR]</title>
@@ -549,8 +560,6 @@
 <page></page>
 </regex>
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-
 
 <item>
 <title>[COLOR lightblue]VIPRACING[/COLOR]FS 1 streamlive**</title>
@@ -678,7 +687,12 @@
 <thumbnail></thumbnail>
 </item>	
 
-
+<item>	
+<title>[COLOR lightblue]T Y C  SPORT RTMP[/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR][COLOR lightslategray][I] tyc sport [/I]  [/COLOR] </title>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>[COLOR white][COLOR][/COLOR]***GALA TV m3u8</title>
 <link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?</link>
@@ -711,6 +725,26 @@
 <expres>channel='(.*?)'</expres>
 <page>http://telerisatv.com/2012/04/cinco.html</page>
 </regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>
+
+XXXX
+<item>
+<title>[COLOR lightblue]canal 5 mx sony[/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR] [COLOR lightslategray][I] Canal5 [/I]  [/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/pmcanal5/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex>
+<fanart>http://cde.americadeportes.pe/ima/0/0/2/2/6/226063/790x495.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
+</item>	
 
 <item>
 <title>c1anal+ Liga ok iguide</title>
@@ -863,11 +897,19 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <item>
 
 <item>
-<title>[COLOR yellow]UTDN rtmp[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<title>[COLOR yellow]UTDN rtmp zonita1[/COLOR][COLOR red]Zonasport[/COLOR]</title>
 <link>http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
+<item>
+<title>[COLOR yellow]UTDN rtmp Zonita2[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<link>http://208.75.225.28:1935/live/zonitax2/playlist.m3u8</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>	
+
+
 <item>
 <title>[COLOR yellow]UTDN [/COLOR][COLOR red]Rivoport[/COLOR]</title>
 <sportsdevil>http://rivosportt.info/x1.html</sportsdevil>
@@ -948,3 +990,24 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
+
+<item>	
+<title>[COLOR lightblue]18:30hr [/COLOR] [COLOR deepskyblue][COLOR yellow]Brasil[/COLOR] vs [COLOR red]Haiti[/COLOR][/COLOR][COLOR lightslategray][I] dailydeportes14 [/I]  [/COLOR] </title>
+<link>$doregex[get-decode]</link>
+<regex>
+<name>get-decode</name>
+<expres>rtmp":"(.*)"</expres>
+<page>http://www.sostart.pw/tk.php?id=$doregex[get-num]</page>
+<referer>http://dailydeportes.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+</regex>
+<regex>
+<name>get-num</name>
+<expres>fid="(.*?)"</expres>
+<page>http://www.dailydeportes.pw/stream14.html</page>
+<referer>http://dailydeportes.com</referer>
+</regex>
+<fanart>http://cde.americadeportes.pe/ima/0/0/2/2/6/226063/790x495.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
+</item>
+
