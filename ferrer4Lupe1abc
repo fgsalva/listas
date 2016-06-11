@@ -92,6 +92,22 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",CARACOL
+http://208.75.225.28:1935/live/cadcgfttfdad/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RNC
+http://208.75.225.28:1935/live/rfgrdfgxdh/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",PUBLICA
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TELEPIN
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w987456678.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",CODOVIVO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN
+http://stream.ssh101.com:1935/live/TuTVOP1/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN ZONITA1
+http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN ZONITA2
+http://208.75.225.28:1935/live/zonitax2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
