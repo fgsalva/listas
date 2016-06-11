@@ -137,12 +137,9 @@ rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.
 http://prepublish.f.qaotic.net/epb/c7live01-20034_360p/Playlist.m3u8|Referer=http://vmf.edge-apps.net
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",TV Publica m3u8 480**
 http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=http://vmf.edge-apps.net
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",TV Publica fm
-http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",2-MX
 http://199.180.114.174:88/files/estrellas87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CanaL DE las Estrellas 518 119660/index_518_av-p
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p
