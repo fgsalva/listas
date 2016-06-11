@@ -80,22 +80,6 @@ rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv22_j5p1mted swfUrl=h
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 3 GENERICO
 rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*.?/ibrodtv23_5px3ntfs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv23&autoplay=true&strech=exactfit
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 index2
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 HD
-http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",CARACOL
-http://208.75.225.28:1935/live/cadcgfttfdad/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RNC
-http://208.75.225.28:1935/live/rfgrdfgxdh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",PUBLICA
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TELEPIN
@@ -109,13 +93,26 @@ http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN ZONITA2
 http://208.75.225.28:1935/live/zonitax2/chunklist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 index2
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 HD
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",A3S Espana 
@@ -160,8 +157,17 @@ http://199.180.114.174:88/files/estrellas87.m3u8|User-Agent=Mozilla/5.0 (Windows
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas Mexico AUTH_HLSLIVE/CEST
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal2 Mexico colo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",zonaespordirect
+http://t2.ebookpost.pw/swf/365.m3u8?sf=NTcwZTYzMjMwZDc2Mw==&token=2iJlpi2DMMr7q_DP8E9d9g|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D365%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",zonaespordirect2
+http://t2.ebookpost.pw/swf/1827.m3u8?sf=NTcyOGVjZjEyODNjMw==&token=2iJlpi2DMMr7q_DP8E9d9g|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D1827%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",mamahd
+rtmpe://185.23.213.233:1935/hfufdxdhrhr/mamahdvch1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2021,0,0,242 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdvch1&vw=854&vh=480
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TeleCinco hd iguide
+rtmp://www1.iguide.to/iguide playpath=8plieykt3adsjs7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a MExico HD Info7_NL/playlist.
 http://38.104.228.230:1938/info7/smil:Stream_Info7_NL/playlist.m3u8?
