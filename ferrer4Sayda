@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="UFC198",U.F.C 1.9.8 latino
-rtmp://www1.iguide.to/iguide playpath=6q4rmbyn9uqc7hd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=32999&autoplay=true
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="UFC198", U.F.C 1.9.8 b.t.2
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdbtsport2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,306 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=854&vh=480
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Mega Extremo MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?hEY2r8KpEvkKz2lGAFESJx7qx4zPPbwk swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_extremo
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA MOVIESHD MODIFICADO
@@ -84,21 +80,6 @@ rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv22_j5p1mted swfUrl=h
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 3 GENERICO
 rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*.?/ibrodtv23_5px3ntfs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv23&autoplay=true&strech=exactfit
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",One B.T.1
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",One B.T.2 SD
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",One B.EIN.1HD 720
-http://149.202.198.114:8000/play/beins1hd
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",One B.T EURO
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbteuro/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",one s.k.y1
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",one s.k.y2
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",one s.k.y3
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
@@ -145,8 +126,8 @@ http://149.202.207.8:8080/real-madrid-14May/sallu/index.m3u8|User-Agent=AppleCor
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",one B.arcatv
 rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt;=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",psn59 v
-rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv59?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv59
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",psn62 v
+rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv62?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv62
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",L.a L.i.g.a Espa.ñola
 rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",B.E.I.N E.S.P.A.Ñ.A
@@ -159,7 +140,6 @@ http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=htt
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",2-MX
 http://199.180.114.174:88/files/estrellas87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CanaL DE las Estrellas 518 119660/index_518_av-p
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p
@@ -531,6 +511,6 @@ http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 rtmp://www1.iguide.to/iguide playpath=lm7y0p3kzcorjur swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf flashver=WIN/2021,0,0,216 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=15 swfVfy=1 pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=480&channel=32552&autoplay=true
 #EXTINF:-1, KBS WORLD
 rtmp://118.97.183.196/jhos//kbs
-#EXTINF:0, K1orean Drama (ENG)
+#EXTINF:0, K1orean Drama (ENG)a
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
