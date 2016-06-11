@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",el conjuro2
+https://openload.co/stream/seMuulTi5lg~1465765209~190.62.0.0~2N0DvDnr?mime=true
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Mega Extremo MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?hEY2r8KpEvkKz2lGAFESJx7qx4zPPbwk swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_extremo
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA MOVIESHD MODIFICADO
