@@ -783,7 +783,7 @@
 </item>
 
 <item>
-<title>[COLOR aquamarine]DIRECTV SLIVE[/COLOR]</tite>
+<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -791,9 +791,8 @@
 <page></page></regex>
 </item>
 
-
 <item>
-<title>[COLOR aquamarine]1HD BEINDIREC[/COLOR]</tite>
+<title>[COLOR lightblue]1HD BEINDIREC[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -802,7 +801,7 @@
 </item>
 
 <item>
-<title>[COLOR aquamarine]ESPN USA SLIVE[/COLOR]</tite>
+<title>[COLOR lightblue]ESPN USA SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -813,7 +812,7 @@
 
 
 <item>
-<title>[COLOR aquamarine]C1ANAL+FUTBOL SLIVE[/COLOR]</tite>
+<title>[COLOR lightblue]C1ANAL+FUTBOL SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
