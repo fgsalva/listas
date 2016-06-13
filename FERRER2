@@ -782,6 +782,38 @@
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR lightblue]hbo[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=36674',False,False,'http://vipracing.info/')</expres>
+<page></page></regex>
+</item>
+
+
+<item>
+<title>[COLOR lightblue]hbo c[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69021',False,False,'http://vipracing.info/')</expres>
+<page></page></regex>
+
+
+<item>
+<title>[COLOR lightblue]hbo f[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=38214',False,False,'http://vipracing.info/')</expres>
+<page></page></regex>
+</item>
+
+
+
+</item>
 <item>
 <title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
