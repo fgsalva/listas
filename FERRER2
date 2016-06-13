@@ -783,34 +783,37 @@
 </item>
 
 <item>
-<title>[COLOR lightblue]DIRECTV[/COLOR](UK) [COLOR gray][I]ilive NUEVO[/I][/COLOR]</tite>
+<title>[COLOR aquamarine]DIRECTV SLIVE[/COLOR]</tite>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72001',False,False,'http://vipracing.info/')</expres>
-<page></page></regex></item>
+<page></page></regex>
+</item>
 
 
 <item>
-<title>[COLOR lightblue]1HD [/COLOR](UK) [COLOR gray][I]ilive NUEVO[/I][/COLOR]</tite>
+<title>[COLOR aquamarine]1HD BEINDIREC[/COLOR]</tite>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.info/')</expres>
-<page></page></regex></item>
+<page></page></regex>
+</item>
 
 <item>
-<title>[COLOR lightblue]ESPN USA [/COLOR](UK) [COLOR gray][I]ilive NUEVO[/I][/COLOR]</tite>
+<title>[COLOR aquamarine]ESPN USA SLIVE[/COLOR]</tite>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.info/')</expres>
-<page></page></regex></item>
+<page></page></regex>
+</item>
 
 
 
 <item>
-<title>[COLOR lightblue]C1ANAL+FUTBOLXXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</tite>
+<title>[COLOR aquamarine]C1ANAL+FUTBOL SLIVE[/COLOR]</tite>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
