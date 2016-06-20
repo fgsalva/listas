@@ -812,6 +812,15 @@
 </item>
 
 
+</item>
+<item>
+<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive*[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72401',False,False,'http://vipracing.info/')</expres>
+<page></page></regex>
+</item>
 
 </item>
 <item>
