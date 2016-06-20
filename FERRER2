@@ -606,7 +606,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]NBC SPORT NETWORK [/COLOR]streamlive</title>
+<title>[COLOR yellow]NBC SPORT NETWORK [/COLOR]streamlive VIP</title>
 <thumbnail></thumbnail><fanart></fanart>
 <link>$doregex[url]</link>
 <regex>
@@ -814,7 +814,7 @@
 
 </item>
 <item>
-<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive*[/I][/COLOR]</title>
+<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive* VIP[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -824,7 +824,7 @@
 
 </item>
 <item>
-<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
+<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive VIP[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -861,7 +861,7 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR lightblue]GOOL CARACOL XXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</title>
+<title>[COLOR lightblue]GOOL CARACOL XXXXXXXXXXXXX[/COLOR](UK) [COLOR gray][I]ilive VIP[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
