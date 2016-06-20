@@ -494,7 +494,7 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR lightblue]GOOL CARACOL XXXXXXXXXXXXX[/COLOR](UK)[COLOR green][I]ilive*VIP*[/I][/COLOR]</title>
+<title>[COLOR lightblue]GOOL CARACOL[/COLOR](UK)[COLOR green][I]ilive*VIP*[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -512,6 +512,19 @@
 </regex>
 <thumbnail></thumbnail>
 </item>	
+
+<item>
+<title>[COLOR green]TYC ARGENTINA 35 m3u[/COLOR]</title>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
+</item>
+<item>	
+<title>[COLOR lightgreen]TYC  ARGENTINA 3CUATRO RTMP[/COLOR]</title>
+<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR yellow]c1anal+ Liga [/COLOR][COLOR red]iguide[/COLOR]</title>
@@ -696,18 +709,6 @@
 </item>
 
 
-<item>
-<title>[COLOR green]TYC ARGENTINA 35 m3u[/COLOR]</title>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
-</item>
-<item>	
-<title>[COLOR lightgreen]TYC  ARGENTINA 3CUATRO RTMP[/COLOR]</title>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
@@ -743,28 +744,13 @@
 </item>
 
 <item>
-<title>[COLOR blue]FS1 [/COLOR]</title>
+<title>[COLOR blue]FS1 **[/COLOR]</title>
 <sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
 <referer>http://americatvstream.blogspot.com/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR blue]FS1[/COLOR]</title>
-<sportsdevil>http://antena-sport.com/stream1.html</sportsdevil>
-<referer>http://antena-sport.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]SETANTA Stream HQ[/COLOR]</title>
-<sportsdevil>http://antena-sport.com/stream8.html</sportsdevil>
-<referer>http://antena-sport.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
