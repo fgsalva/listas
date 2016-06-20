@@ -38,7 +38,8 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 </item>
-<title>[COLOR deepskyblue]ESPN Deportesvaunlive [/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue]Atletico Madrid vs. PSV [/COLOR]</title>
+<item>
+<title>[COLOR yellow]ESPN Deportesvaunlive [/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue]Atletico Madrid vs. PSV [/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
 <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
 <regex>
@@ -114,105 +115,6 @@
 <page></page>
 </regex>
 </item>
-
-<item>
-<title>Castalba Regexuuuu FS1 </title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '(.*?)'</expres>
-<page>http://castalba.tv/channel/27612</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://castalba.tv/channel/27612</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
-</item>	
-
-<item>
-<title>[COLOR deepskyblue]LA- SEXTA HD M3U8[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
-</item>	
-
-<item>
-<title>[COLOR deepskyblue]REAL- MADRIDTV  M3U8[/COLOR]</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-</item>	
-
-<item>
-<title>[COLOR deepskyblue]Barça TV m3u[/COLOR]</title>
-<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/BarsaTV300.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item> 
-
-
-<item>
-<title>[COLOR deepskyblue]POKER CENTRAL M3U8[/COLOR]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
-</item>
-
-<item>
-<title>DXTV HD m3u8 </title>
-<link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
-<item>
-<title>TV Publica m3u8 360**</title>
-<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_360p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
-</item>
-
-<item>
-<title>TV Publica m3u8 480**</title>
-<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
-</item>
-
-<item>
-<title>Deportes TN M3U8</title>
-<link>rtsp://stream.tn.com.ar/live/tnhd1</link>
-<thumbnail>logo.logo.logo</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR deepskyblue]ANIMETV[/COLOR] </title>
-<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
-</item>
-
-
-<item>
-<title>[COLOR magenta]ESPN USA REYTV-ESPNUSA[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-<item>
-<title>[COLOR magenta]TSN 1 RETTV-TS1[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/tsn1.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-<item>
-<title>[COLOR magenta]TSN 2 REYTV-TSNX2[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/tsn2.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-
-<item>
-<title>[COLOR magenta]PREMIERE LIVE [/COLOR]</title>
-<sportsdevil>http://cricfree.sx/premier-sports-live-stream</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-
-
 <item>
 <title>[COLOR lightblue]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][I](multicanal)VAUNLIVE[/I][/COLOR] [COLOR coral] ESPN[/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
@@ -573,6 +475,106 @@
  <title>B1ein España iguide</title>
 <link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 </item>
+
+
+
+<item>
+<title>Castalba Regexuuuu FS1 </title>
+<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv live=true timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '(.*?)'</expres>
+<page>http://castalba.tv/channel/27612</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://castalba.tv/channel/27612</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
+</item>	
+
+<item>
+<title>[COLOR deepskyblue]LA- SEXTA HD M3U8[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+</item>	
+
+<item>
+<title>[COLOR deepskyblue]REAL- MADRIDTV  M3U8[/COLOR]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+</item>	
+
+<item>
+<title>[COLOR deepskyblue]Barça TV m3u[/COLOR]</title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/BarsaTV300.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item> 
+
+
+<item>
+<title>[COLOR deepskyblue]POKER CENTRAL M3U8[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+</item>
+
+<item>
+<title>DXTV HD m3u8 </title>
+<link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item>
+<title>TV Publica m3u8 360**</title>
+<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_360p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+
+<item>
+<title>TV Publica m3u8 480**</title>
+<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
+</item>
+
+<item>
+<title>Deportes TN M3U8</title>
+<link>rtsp://stream.tn.com.ar/live/tnhd1</link>
+<thumbnail>logo.logo.logo</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR deepskyblue]ANIMETV[/COLOR] </title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
+</item>
+
+
+<item>
+<title>[COLOR magenta]ESPN USA REYTV-ESPNUSA[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
+<referer>referer=http://yotv.co/</referer>
+</item>
+<item>
+<title>[COLOR magenta]TSN 1 RETTV-TS1[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/tsn1.php</sportsdevil>
+<referer>referer=http://yotv.co/</referer>
+</item>
+<item>
+<title>[COLOR magenta]TSN 2 REYTV-TSNX2[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/tsn2.php</sportsdevil>
+<referer>referer=http://yotv.co/</referer>
+</item>
+
+<item>
+<title>[COLOR magenta]PREMIERE LIVE [/COLOR]</title>
+<sportsdevil>http://cricfree.sx/premier-sports-live-stream</sportsdevil>
+<referer>referer=http://yotv.co/</referer>
+</item>
+
 
 <item>
 <title>[COLOR white][COLOR][/COLOR]***GALA TV m3u8</title>
