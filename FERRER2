@@ -34,12 +34,47 @@
 <sportsdevil>http://www.sasshamoviez.com/2014/04/moviecity.html</sportsdevil>
 <referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
 </item>
-<item><title>[COLOR silver][Sportsdevil][/COLOR] La Sexta</title>
+<item><title>[COLOR orange][Sportsdevil][/COLOR] La Sexta</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 </item>
 <item>
 <title>[COLOR yellow]ESPN Deportesvaunlive [/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue]Atletico Madrid vs. PSV [/COLOR]</title>
+<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page></page>
+</regex>
+<regex>
+<name>id</name>
+<expres>a href="/psn(.*?)"</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+</regex>
+</item>
+<item>
+<title>[COLOR yellow]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][I](multicanal)VAUNLIVE[/I][/COLOR] [COLOR coral] ESPN[/COLOR]</title>
 <thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
 <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
 <regex>
@@ -113,41 +148,6 @@
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-4/frame')</expres>
 <page></page>
-</regex>
-</item>
-<item>
-<title>[COLOR lightblue]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][I](multicanal)VAUNLIVE[/I][/COLOR] [COLOR coral] ESPN[/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
-<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
-<regex>
-<name>clearCode</name>
-<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page></page>
-</regex>
-<regex>
-<name>id</name>
-<expres>a href="/psn(.*?)"</expres>
-<page>http://vaughnlive.tv/browse/espanol</page>
 </regex>
 </item>
 
@@ -250,7 +250,7 @@
 </item>
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] (Bein-es)[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es)[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -260,7 +260,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -270,7 +270,7 @@
 <thumbnail></thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] (Bein-es1) SDFRAME**[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es1) SDFRAME**[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -280,7 +280,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] FOX1SPORT FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING[/COLOR][COLOR dodgerblue] FOX1SPORT FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -290,7 +290,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] NBC FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] NBC FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -300,7 +300,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] NBCSN FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] NBCSN FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -310,7 +310,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] EUROESPORT1 FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] EUROESPORT1 FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -320,7 +320,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] ESPN USA FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN USA FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -330,7 +330,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
-<title>VIPRACING [COLOR dodgerblue] ESPN2 FRAME[/COLOR]</title>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN2 FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
