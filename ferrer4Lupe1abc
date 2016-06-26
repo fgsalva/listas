@@ -49,53 +49,17 @@ rtmp://198.255.17.58:1935/live app=live?8j5ejrSpTfNlASIOx2r5QqM7eJHuEDcU swfVfy=
 rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/seriespelis?viewers=true&watermark=left&autoplay=true live=true playpath=live_seriespelis
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",T.elemundo cuereta5 MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/telemundo45?viewers=true&watermark=left&autoplay=true live=true playpath=live_telemundo45
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.O.X  N.A.TION 
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdboxnation swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdboxnation&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T S.PORT 1
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbtsport1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport1&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T S.PORT 2
-rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdbtsport2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T -S.PORT E.S.P.N
-rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdespnuk swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdespnuk&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T -S.PORT E.UROPA
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdbteu swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbteu&vw=854&vh=480 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 1
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 2
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdsky2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 3
-rtmpe://185.23.213.234:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-E-T-A-N-TA
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdsetanta swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsetanta&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.E.I.N 2HD
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbeinfr2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD B.T 2 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD B.T 1 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv26_fwfns7fs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv26&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD f.s1  GENERICO
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*-?/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 1 GENERICO
-rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=*.?/ibrodtv21_6vhudlq8 swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv21&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 2 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv22_j5p1mted swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv22&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 3 GENERICO
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*.?/ibrodtv23_5px3ntfs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv23&autoplay=true&strech=exactfit
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",PUBLICA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",tyc PUBLICA 33 Lq
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TELEPIN
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w987456678.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",CODOVIVO
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN
-http://stream.ssh101.com:1935/live/TuTVOP1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN ZONITA1
-http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TDN ZONITA2
-http://208.75.225.28:1935/live/zonitax2/chunklist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
