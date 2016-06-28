@@ -847,12 +847,26 @@
 <agent></agent>
 </regex>
 <thumbnail>[makelist.param2]</thumbnail>
-
-
 ]]></listrepeat>
 <expres>channel=(.*?)"[\w\W\s]{0,6}src="(.*?)"[\w\W\s]{0,40}br>(.*?)<</expres>
 <page>http://www.liveonlinetv247.info/tvchannels.php</page>
 
 </regex>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]TotalPlay [/COLOR] [COLOR lightslategray] Opcion [B]P[/B] [/COLOR]  </title>
+<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>[makelist.param2]</link>
+	<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,.*,(.*?)\n(.*)</expres>
+<page>http://playhdlatino.com/abdavega/lista.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
 </item>
