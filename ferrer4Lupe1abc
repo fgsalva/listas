@@ -508,3 +508,231 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:0, K1orean Drama (ENG)a
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  Azteca 7 
+http://191.101.228.168/tp.php/playlist.m3u8?id=1115
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  El Trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Canal 2
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Gala TV HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1239
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  Canal 5
+http://191.101.228.168/tp.php/playlist.m3u8?id=1111
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Multimedios Monterrey
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master/720/index.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Unicable HD
+http://209.126.106.202:8080/unicable2/index.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Az Coraz�n
+http://download1592.mediafire.com/1sjawku2qrdg/o32oy7spzu0j6kv/azcorazon.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Az Clic
+http://191.101.228.168/tp.php/playlist.m3u8?id=1103
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  Az Mundo 
+http://download1517.mediafire.com/28872vi6txeg/95198495h4o6o9h/amundo.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  TV UNAM
+http://playhdlatino.com/abdavega/error.mp4
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",A&E
+http://191.101.228.168/tp.php/playlist.m3u8?id=1347 
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",AMC HD
+http://download1074.mediafire.com/x8ps35l1c3hg/lyykb1qbeohm6m7/amc.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",AXN HD
+http://download1520.mediafire.com/xd3d9duz83ag/57qt1akzt5kbm1o/axn.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",BBC Entertainment
+https://dl.dropboxusercontent.com/s/za3qgf328o4f6re/bbc.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Cinecanal HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1583
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Cinecanal +
+http://download1507.mediafire.com/6662b7yo6owg/dtwv81ct5r048g0/bbc.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Cinemax (W)
+http://191.101.228.168/tp.php/playlist.m3u8?id=1615
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Comedy Central
+http://191.101.228.168/tp.php/playlist.m3u8?id=1360
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",De Pel�cula HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1599
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Az Cinema
+http://playhdlatino.com/abdavega/error.mp4
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Distrito Comedia
+http://191.101.228.168/tp.php/playlist.m3u8?id=1431
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",E! Entertainment Television
+http://191.101.228.168/tp.php/playlist.m3u8?id=1392
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",El Gourmet
+http://191.101.228.168/tp.php/playlist.m3u8?id=1416
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox 
+http://download854.mediafire.com/p6j73z68xoig/3muejhh6jqh5hfb/fox.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox 1 HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1559
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Action HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1562
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Movies HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1567
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Cin�ma
+http://191.101.228.168/tp.php/playlist.m3u8?id=1571
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Classics
+http://191.101.228.168/tp.php/playlist.m3u8?id=1575
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Life
+http://191.101.228.168/tp.php/playlist.m3u8?id=1427
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",FX HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1343
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Family (W)
+http://playhdlatino.com/abdavega/error.mp4
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Glitz
+http://191.101.228.168/tp.php/playlist.m3u8?id=1423
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Golden HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1592
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Golden Edge
+http://191.101.228.168/tp.php/playlist.m3u8?id=1623
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", I.Sat
+http://191.101.228.168/tp.php/playlist.m3u8?id=1639
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Lifetime
+http://191.101.228.168/tp.php/playlist.m3u8?id=1535
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Sony HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1331
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Space
+http://download938.mediafire.com/jibg28j56nqg/o0neqfm9cs4nnm8/spacehd.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Space HD
+http://download942.mediafire.com/pdnesataangg/aw471kc4cb3x53c/space.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Studio Universal
+http://191.101.228.168/tp.php/playlist.m3u8?id=1635
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",SyFy
+http://191.101.228.168/tp.php/playlist.m3u8?id=1399
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TBS
+http://191.101.228.168/tp.php/playlist.m3u8?id=1435
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",The Film Zone HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1594
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Tlnovelas
+http://191.101.228.168/tp.php/playlist.m3u8?id=1440
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TNT
+http://download846.mediafire.com/p8xaf8kfwpsg/qk6n8qcq6kdcq42/tnt.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TNT HD
+http://download1980.mediafire.com/ivyqoyabonig/bzbuscraik3o95o/tnthd.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", TNT Series
+http://191.101.228.168/tp.php/playlist.m3u8?id=1411
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TruTV HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1355
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Universal HD
+http://download1652.mediafire.com/pu3umcm2a7rg/kh07112akz2h30k/uhd.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Universal Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1339
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Warner Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1335
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Max Prime (W)
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1519
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Animal Planet
+http://191.101.228.168/tp.php/playlist.m3u8?id=1524
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Civilization
+http://191.101.228.168/tp.php/playlist.m3u8?id=1544
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Science
+http://191.101.228.168/tp.php/playlist.m3u8?id=1540
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Turbo
+http://191.101.228.168/tp.php/playlist.m3u8?id=1547
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery World HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1419
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",History HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1506
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",H2
+http://playhdlatino.com/abdavega/error.mp4
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Home and Health
+http://191.101.228.168/tp.php/playlist.m3u8?id=1527
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Investigaci�n Discovery
+http://191.101.228.168/tp.php/playlist.m3u8?id=1407
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Theater HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1503
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TLC
+http://191.101.228.168/tp.php/playlist.m3u8?id=1551
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",NatGeo
+http://191.101.228.168/tp.php/playlist.m3u8?id=1531
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",NatGeo Wild
+http://191.101.228.168/tp.php/playlist.m3u8?id=1511
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",WOBI TV
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Sports
+http://191.101.228.168/tp.php/playlist.m3u8?id=1659
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Fox Sports 2 
+http://191.101.228.168/tp.php/playlist.m3u8?id=1663
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",ESPN +
+http://191.101.228.168/tp.php/playlist.m3u8?id=1651
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",ESPN
+http://191.101.228.168/tp.php/playlist.m3u8?id=1671
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",ESPN 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1675
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",ESPN 3
+http://191.101.228.168/tp.php/playlist.m3u8?id=1655
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Form�la 1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1647
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Real Madrid TV 
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", AyM Sports
+http://191.101.228.168/tp.php/playlist.m3u8?id=1680
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TyC Sports HD
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish6/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Fight Sports
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", NFL Network
+https://dl.dropboxusercontent.com/s/g8bl014d14o0886/nfl.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Euro Sports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", NBA
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Discovery Kids
+http://191.101.228.168/tp.php/playlist.m3u8?id=1452
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Boomerang
+http://191.101.228.168/tp.php/playlist.m3u8?id=1492
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Cartoon Network
+http://191.101.228.168/tp.php/playlist.m3u8?id=1483
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Tooncast
+http://191.101.228.168/tp.php/playlist.m3u8?id=1500
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TIIN
+http://191.101.228.168/tp.php/playlist.m3u8?id=1496
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Nick HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1475
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Nickelodeon (Nick)
+http://191.101.228.168/tp.php/playlist.m3u8?id=1472
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Nick Jr
+http://191.101.228.168/tp.php/playlist.m3u8?id=1480
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Nicktoons
+http://191.101.228.168/tp.php/playlist.m3u8?id=1480
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",CBeebies
+http://191.101.228.168/tp.php/playlist.m3u8?id=1455
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Disney Jr
+http://191.101.228.168/tp.php/playlist.m3u8?id=1459
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Disney XD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1488
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Disney Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1468
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",  Milenio TV
+https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Foro TV
+http://download1641.mediafire.com/tzx6znhzdrxg/pkzkc9pkv24bqjm/forotv.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",TeleF�rmula
+https://dl.dropboxusercontent.com/s/qxmqql9499fj8si/aznoticias.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Rusia Today en Espa�ol
+http://rt-lh.akamaihd.net/i/ch_02@325606/master.m3u8
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",wapa TV
+http://209.126.106.202:8080/wapapr/index.m3u8?DVR-CapoLiveBroadcast.ts
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Euro News
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",MTV
+http://191.101.228.168/tp.php/playlist.m3u8?id=1716
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",VH1 HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1708
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", MTV Live HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1700
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", MTV Hits
+http://191.101.228.168/tp.php/playlist.m3u8?id=1720
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Telehit HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1704
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Bandamax
+http://191.101.228.168/tp.php/playlist.m3u8?id=1732
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW", Ritmoson Latino
+http://191.101.228.168/tp.php/playlist.m3u8?id=1728
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP NEW",Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
