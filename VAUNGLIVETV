@@ -36,6 +36,48 @@
 </item>
 
 <item>
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray]  [/COLOR] </title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/psn$doregex[id]</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>id</name>
+<expres>a href="/psn(.*?)"</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+			
+
+<item>
 <title>Mega Kids</title>
 <link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
 <regex>
