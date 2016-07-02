@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR orange]psnn3[/COLOR]</title>
-<sportsdevil>https://vaughnlive.tv/psn3v</sportsdevil>
-<referer>https://vaughnlive.tv/psn3v</referer>
-</item>
 
 <item>
 <title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
@@ -46,115 +41,46 @@
 <referer>http://cinestrenostv.tv</referer>
 </item>
 <item>
-<title>[COLOR yellow]ESPN Deportesvaunlive [/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue]Atletico Madrid vs. PSV [/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
-<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
+<title>[B][COLOR orange][VAUNLIVE][/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray]  [/COLOR] </title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
 <regex>
-<name>clearCode</name>
-<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-<page></page>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 <regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
+<name>get_key</name>
+<expres>-([^\s]*)</expres>     
+<page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 <regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page></page>
-</regex>
-<regex>
-<name>id</name>
-<expres>a href="/psn(.*?)"</expres>
-<page>http://vaughnlive.tv/browse/espanol</page>
-</regex>
-</item>
-<item>
-<title>[COLOR yellow]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][I](multicanal)VAUNLIVE[/I][/COLOR] [COLOR coral] ESPN[/COLOR]</title>
-<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
-<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
-<regex>
-<name>clearCode</name>
-<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>:mvnkey-(.*)</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);</expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)</expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-<page></page>
+<name>get_channel</name>
+<expres>k2.*?["']([^\s]*)["'];</expres>    
+<page>http://vaughnlive.tv/psn$doregex[id]</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>id</name>
 <expres>a href="/psn(.*?)"</expres>
 <page>http://vaughnlive.tv/browse/espanol</page>
 </regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR yellow]ESPN-DEPORTES [/COLOR] [COLOR deepskyblue]VI  [/COLOR][COLOR lightslategray] uuu  [/COLOR][COLOR lightslategray] ESPN  [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/espn-deportes')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]deportes 720 [/COLOR] [COLOR deepskyblue]euro [/COLOR][COLOR lightslategray]   [/COLOR][COLOR lightslategray] HD  [/COLOR]</title>
- <link>http://cdn.magictvbox.eu:8080/m1/720p.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR yellow]deportes 360 [/COLOR] [COLOR deepskyblue]euro [/COLOR][COLOR lightslategray]   [/COLOR][COLOR lightslategray] HD  [/COLOR]</title>
-<link>http://cdn.magictvbox.eu:8080/m1/360p.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR yellow]espn +[/COLOR] [COLOR deepskyblue] argentina  [/COLOR][COLOR lightslategray]   [/COLOR][COLOR lightslategray] malaga  [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://malaga65.org/p/ch3.php')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]espn mas bein [/COLOR] [COLOR deepskyblue]iguide [/COLOR][COLOR lightslategray]   [/COLOR][COLOR lightslategray] Espn-Bein  [/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=653&amp;height=410&amp;channel=32557&amp;autoplay=true',False,False,'http://vipracing.info')</expres>
-<page></page>
-</regex>
-</item>
+			
 
 
 <item>
