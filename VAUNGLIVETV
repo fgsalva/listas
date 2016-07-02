@@ -1756,15 +1756,7 @@
 </regex>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/alakran00_320.jpg</thumbnail></item>
 
-**********
- <!-- 
-
-
-
-
-
-
-			<item>
+ <!-- <item>
 			<title>[COLOR red]Club_terror[/COLOR]</title> 
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_club_terror live=1 timeout=20</link>
 			<regex>
@@ -2727,5 +2719,4 @@
 			<title>[COLOR blue]USA:[/COLOR][COLOR skyblue]Lonney Toons[/COLOR]</title>
 			<sportsdevil>http://www.streamlive.to/embed/72045</sportsdevil>
 			<referer>http://www.streamlive.to</referer>
-			</item>
--->
+			</item> -->
