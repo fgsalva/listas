@@ -205,11 +205,11 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR yellow]VIPRACING LATINO2[/COLOR][COLOR dodgerblue] latino2 frame[/COLOR]</title>
+<title>[COLOR yellow]VIPRACING LATINO3[/COLOR][COLOR dodgerblue] latino2 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/latino2/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://max-deportv.co.in/indexa.php?canal=3')</expres>
 <page></page>
 </regex>
 <fanart></fanart>
@@ -515,6 +515,12 @@
  <title>[COLOR yellow]B1ein España[/COLOR][COLOR red]iguide[/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 </item>
+
+<item>
+<title>[COLOR yellow]Max Deportes 1[/COLOR][COLOR red]iguide[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel32532&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+</item>
+
 
 <item>
 <title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
