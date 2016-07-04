@@ -194,6 +194,30 @@
 </item>
 
 <item>
+<title>[COLOR yellow]VIPRACING LATINO1[/COLOR][COLOR dodgerblue] latino1 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/latino1/frame')</expres>
+<page></page>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR yellow]VIPRACING LATINO2[/COLOR][COLOR dodgerblue] latino2 frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/latino2/frame')</expres>
+<page></page>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es)[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
