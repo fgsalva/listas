@@ -84,6 +84,15 @@
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.us/')</expres>
 <page></page></regex>
 </item>
+<item>
+<title>[COLOR lightblue]BEING *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.us/')</expres>
+<page></page></regex>
+</item>
+
 
 
 <item>
@@ -193,28 +202,6 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow]VIPRACING LATINO1[/COLOR][COLOR dodgerblue] latino1 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/latino1/frame')</expres>
-<page></page>
-</regex>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR yellow]VIPRACING LATINO3[/COLOR][COLOR dodgerblue] latino2 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://max-deportv.co.in/indexa.php?canal=3')</expres>
-<page></page>
-</regex>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
 
 
 <item>
@@ -482,7 +469,7 @@
 
 
 <item>
-<title>[COLOR yellow]C1anal+ Liga[/COLOR] [COLOR lightslategray][I] streamlive [/I]  [/COLOR] </title>
+<title>[COLOR yellow]C1anal+ Liga[/COLOR] [COLOR lightslategray][I] streamlive  [/I]  [/COLOR] </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
