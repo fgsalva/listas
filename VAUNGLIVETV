@@ -78,7 +78,7 @@
 			
 
 <item>
-<title>Mega Kids</title>
+<title>Mega Kids server</title>
 <link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_$doregex[get_channel] swfUrl=http://vaughnlive.tv/4401923970/swf/VaughnSoftPlayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://vaughnlive.tv/</link>
 <regex>
 <name>get_ip</name>
@@ -86,6 +86,7 @@
 <page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
 <referer>http://vaughnlive.tv/</referer>
 <connection>keep-alive</connection>
+<server> validate.all(validate.get(0), validate.text</server>
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
