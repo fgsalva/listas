@@ -441,16 +441,6 @@
 <page></page></regex>
 </item>
 
-
-<item>
-<title>[COLOR lightblue]71396 espn nose si[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
 <item>
 <title>[COLOR lightblue]ESPN USA SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
 <link>$doregex[url]</link>
@@ -469,7 +459,7 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR lightblue]GOOL CARACOL[/COLOR](colombia)[COLOR green][I]ilive*VIP*[/I][/COLOR]</title>
+<title>[COLOR lightblue]GOOL CARACOL[/COLOR](colombia)[COLOR green][I]ilive*VIP8*[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
