@@ -86,7 +86,6 @@
 <page>http://mvn.vaughnsoft.net/video/edge/mvn-live_$doregex[get_channel]</page>                               
 <referer>http://vaughnlive.tv/</referer>
 <connection>keep-alive</connection>
-<server> validate.all(validate.get(0), validate.text</server>
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
