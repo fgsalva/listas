@@ -173,6 +173,17 @@
 </regex>
 <thumbnail></thumbnail></item> 
 <item>
+<item>
+<title>[COLOR yellow]VIPRACING 06[/COLOR][COLOR dodgerblue] opcion-6a vipracing.us/channel/opcion-6a/frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-6a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
+<item>
+
 <title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
