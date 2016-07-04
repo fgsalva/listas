@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR lightblue]ESPN *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-<item>
 <title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
 <sportsdevil>http://www.latinocanaleshd.com/2014/03/latinomoviez.html</sportsdevil>
 <referer>http://www.latinocanaleshd.com</referer>
 </item>
-
-
-
 <item>
 <title>[COLOR orange]CINE CANAL LATNOSCANALES[/COLOR]</title>
 <sportsdevil>http://www.sasshamoviez.com/2014/04/cinecanal.html</sportsdevil>
@@ -87,48 +76,15 @@
 <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
 			
-
-
 <item>
-<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 1[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-1/frame')</expres>
-<page></page>
-</regex>
+<title>[COLOR lightblue]ESPN *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>	
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.us/')</expres>
+<page></page></regex>
 </item>
 
-<item>
-<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 2[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-
-
-<item>
-<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 3[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3/frame')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 4[COLOR yellow] REGEX[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-4/frame')</expres>
-<page></page>
-</regex>
-</item>
 
 <item>
 <title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
@@ -214,6 +170,15 @@
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
+<item>
+<title>[COLOR yellow]VIPRACING 08[/COLOR][COLOR dodgerblue] opcion-8A frame[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item> 
 
 
 <item>
@@ -237,6 +202,16 @@
 <page></page>
 </regex>
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
+<item>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es-a)[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a')</expres>
+<page></page>
+</regex>
+<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
+
 
 <item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
@@ -332,7 +307,7 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR yellow]Bein Sport [/COLOR] streamlive VIP</title>
+<title>[COLOR yellow]Bein Sport [/COLOR] streamlive VIP**</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>$doregex[url]</link>
@@ -344,7 +319,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]ESPN 2 HD [/COLOR] streamlive</title>
+<title>[COLOR yellow]ESPN 2 HD [/COLOR] streamlive**</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>$doregex[url]</link>
@@ -356,7 +331,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]FS1 [/COLOR]streamlive</title>
+<title>[COLOR yellow]FS1 [/COLOR]streamlive**</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>$doregex[url]</link>
@@ -428,7 +403,7 @@
 </item>
 </item>
 <item>
-<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive* VIP[/I][/COLOR]</title>
+<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive* VIP no funciona[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -438,7 +413,7 @@
 
 </item>
 <item>
-<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive VIP[/I][/COLOR]</title>
+<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive VIP no funciona[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -474,7 +449,7 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR lightblue]GOOL CARACOL[/COLOR](UK)[COLOR green][I]ilive*VIP*[/I][/COLOR]</title>
+<title>[COLOR lightblue]GOOL CARACOL[/COLOR](colombia)[COLOR green][I]ilive*VIP*[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>	
 <name>url</name>
@@ -633,9 +608,8 @@
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
 </item>
 
-
 <item>
-<title>C1anal+ Futbol lento</title>
+<title>C1anal+ Futbol lento Live 24/7</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -653,6 +627,32 @@
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+
+<item>
+<title>C1anal+ Futbol liga Live 24/7</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent></agent>
 </regex>
