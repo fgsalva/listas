@@ -11,7 +11,7 @@
 <thumbnail>[makelist2.param2]</thumbnail>
 <fanart>[makelist2.param2]</fanart>
 ]]></listrepeat>
-<expres>href="http://iwiplay.com/mov/(.*?)"[\w\W\s]{0,71}spec-border[\w\W\s]{0,5}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
+<expres>href="http://iwiplay.com/(.*?)"[\w\W\s]{0,71}spec-border[\w\W\s]{0,5}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
 <page>http://www.iwiplay.com/</page>
 <referer></referer>
 <cookieJar></cookieJar>
