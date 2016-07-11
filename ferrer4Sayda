@@ -1,84 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Mega Extremo MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?hEY2r8KpEvkKz2lGAFESJx7qx4zPPbwk swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_extremo
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA MOVIESHD MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?aZWZSArI0v5poRSsSDPAiMEmWQ6fRuE6 swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_movieshd?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_movieshd
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA MOVIESHD2 MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?5soRG6XnaC5emtvSZb2A0KdWxtZuriTD swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/megamovieshd?viewers=true&watermark=left&autoplay=true live=true playpath=live_megamovieshd
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",CINE_ESCAPE MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?uCgD1S6JA3dglTA69RgNFfFi0tuGKrWO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/cinescape?viewers=true&watermark=left&autoplay=true live=true playpath=live_cinescape
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",KATY HD MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?2OSApm18TFv4nZnaaLZ4SFcdhnvs7F5t swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/katyhd?viewers=true&watermark=left&autoplay=true live=true playpath=live_katyhd
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",ICREAM MAX MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?N7sui85kHznqbhnBlnigD4QziDGv6DXT swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/lcrememax?viewers=true&watermark=left&autoplay=true live=true playpath=live_lcrememax
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",VITATO TV MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?K3hZTY3BOyfOw3Iy4ER4B4fAgvTbCuAG swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/vitatotv?viewers=true&watermark=left&autoplay=true live=true playpath=live_vitatotv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGAKIDS MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?giUtRfVuJiKyyvIAGSlIKVGswyaN42wE swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_kids?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_kids
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",PELICULAS 300 MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?qEoywFbBNcjK81m9xqcMMFrMOiIkecVl swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/300?viewers=true&watermark=left&autoplay=true live=true playpath=live_300
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",.Icream Staff  _vaunlive
-rtmp://198.255.17.58:1935/live app=live?TBhqX6szEYKUSHz8Ij99dBMi9E4mZHVS swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/lcreme_staff?viewers=true&watermark=left&autoplay=true live=true playpath=live_lcreme_staff
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",CREEMCARTON MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?VDIUbO814rBWJptvl4zsjsbl3ocsNWo2 swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/cremecartoon?viewers=true&watermark=left&autoplay=true live=true playpath=live_cremecartoon
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",ANIMETOOS MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?WX4R6Y4xVltaerOalElazap7zQPwNcBu swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/animetoontv?viewers=true&watermark=left&autoplay=true live=true playpath=live_animetoontv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA ANIME MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?o6V6zfRNWBJkmtGurwLpps2WUgLxVeGY swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_animes?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_animes
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA BOOTS MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?Hu9r5gP34dXa4PMTVD7wqDvrzEsCrVjr swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_bot?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_bot
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA CHAVO MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?GZNolliAIjLYBHMJ5B4666HBEk0JaWvj swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_chavo?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_chavo
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",CHESPIRITOMANIA MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?pYRUBzIwMDE9rodOe4Z6Y3HVbC27z5hu swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/chespirito_mania?viewers=true&watermark=left&autoplay=true live=true playpath=live_chespirito_mania
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA BIGBANG MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?8xolzqphlLmPEV1WwmhUGPrpUhwNLSgg swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_bigbang?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_bigbang
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA SIMPSON MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?4PkSYMhB4cWgbIiiu6jR3IQFc2vj45Kd swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mega_simpson?viewers=true&watermark=left&autoplay=true live=true playpath=live_mega_simpson
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",SIMPSON MANIA MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?wZMl24wMfnRngR6ILK3qLbDdUJkKf7xK swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/simpson_mania?viewers=true&watermark=left&autoplay=true live=true playpath=live_simpson_mania
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA FUTURAMA MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?KSSMD2TlgbG5merbZ5yoSYH8Np2olSQ4 swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/megafuturama?viewers=true&watermark=left&autoplay=true live=true playpath=live_megafuturama
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",MEGA MALCON MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?tjlH6SgPVhjyhBnbWQ03dRlP2CzwOngy swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/megamalcolm?viewers=true&watermark=left&autoplay=true live=true playpath=live_megamalcolm
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",TU HYSTORY MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?8j5ejrSpTfNlASIOx2r5QqM7eJHuEDcU swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/mfv_05?viewers=true&watermark=left&autoplay=true live=true playpath=live_mfv_05
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",SERIESPELI MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/seriespelis?viewers=true&watermark=left&autoplay=true live=true playpath=live_seriespelis
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",T.elemundo cuereta5 MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?3GUn85tt3t80ZMlJB3XElr0rCHOg4eWp swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/telemundo45?viewers=true&watermark=left&autoplay=true live=true playpath=live_telemundo45
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.O.X  N.A.TION 
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdboxnation swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdboxnation&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T S.PORT 1
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbtsport1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport1&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T S.PORT 2
-rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdbtsport2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T -S.PORT E.S.P.N
-rtmpe://185.23.213.233:1935/hfufdxdhrh/mamahdespnuk swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdespnuk&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.T -S.PORT E.UROPA
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdbteu swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbteu&vw=854&vh=480 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 1
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdsky11 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky11&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 2
-rtmpe://185.23.213.235:1935/hfufdxdhrh/mamahdsky2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-K-Y 3
-rtmpe://185.23.213.234:1935/hfufdxdhrh/mamahdsky3 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky3&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",S-E-T-A-N-TA
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdsetanta swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsetanta&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",B.E.I.N 2HD
-rtmpe://185.23.213.236:1935/hfufdxdhrh/mamahdbeinfr2 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,228 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbeinfr2&vw=854&vh=480
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD B.T 2 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD B.T 1 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv26_fwfns7fs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv26&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD f.s1  GENERICO
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*-?/ibrodtv27_8hps6ods swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv27&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 1 GENERICO
-rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=*.?/ibrodtv21_6vhudlq8 swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv21&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 2 GENERICO
-rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=*.?/ibrodtv22_j5p1mted swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv22&autoplay=true&strech=exactfit
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MAMAHD",IBROD S.KY 3 GENERICO
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=*.?/ibrodtv23_5px3ntfs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv23&autoplay=true&strech=exactfit
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",warcraft (LA)
+http://www.iwiplay.com/mov/warcraft.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",anima Zombie
+http://iwiplay.com/mov/animaleszombie.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Las Sirenas (asia)
+http://www.iwiplay.com/mov/lassirenas.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",THE ENCONTER
+http://iwiplay.com/mov/theencounter.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",BATMAN VRS SUPERMAN
+http://iwiplay.com/mov/batmanvssuperman.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Reporteras en Guerra
+http://iwiplay.com/mov/reporterasenguerra.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Murader
+http://www.iwiplay.com/mov/maraurders.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Misconduct
+http://www.iwiplay.com/mov/misconduct.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Las pruebas y tribulaciones de (LadyGlasGun)
+http://www.iwiplay.com/mov/theladyinthecarwithglassesandagun.mp4
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 33
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",tyc PUBLICA 33 Lq
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 35
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TELEPIN
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w987456678.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",CODOVIVO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
@@ -92,14 +48,12 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",A3S Espana 
@@ -123,11 +77,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",R.EAL MA.DRID PARK TV
 http://149.202.207.8:8080/real-madrid-14May/sallu/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",one B.arcatv
-rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt;=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",psn62 v
-rtmp://198.255.17.58:1935/live app=live?018kFlkPizxqgnrneuYi3EnGdwGLTsJO swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/psnv62?viewers=true&watermark=left&autoplay=true live=true playpath=live_psnv62
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",L.a L.i.g.a Espa.ñola
 rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",B.E.I.N E.S.P.A.Ñ.A
@@ -144,8 +93,17 @@ http://199.180.114.174:88/files/estrellas87.m3u8|User-Agent=Mozilla/5.0 (Windows
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas Mexico AUTH_HLSLIVE/CEST
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal2 Mexico colo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",zonaespordirect
+http://t2.ebookpost.pw/swf/365.m3u8?sf=NTcwZTYzMjMwZDc2Mw==&token=2iJlpi2DMMr7q_DP8E9d9g|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D365%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",zonaespordirect2
+http://t2.ebookpost.pw/swf/1827.m3u8?sf=NTcyOGVjZjEyODNjMw==&token=2iJlpi2DMMr7q_DP8E9d9g|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D1827%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",mamahd
+rtmpe://185.23.213.233:1935/hfufdxdhrhr/mamahdvch1 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2021,0,0,242 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdvch1&vw=854&vh=480
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TeleCinco hd iguide
+rtmp://www1.iguide.to/iguide playpath=8plieykt3adsjs7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a MExico HD Info7_NL/playlist.
 http://38.104.228.230:1938/info7/smil:Stream_Info7_NL/playlist.m3u8?
@@ -170,9 +128,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca INTERNACIONAL INDEX2
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TELEMUNDO CHIVAS69***
-http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", F.0.X S.P.0.RT
@@ -183,6 +138,9 @@ http://veetle.com/index.php/hls/streamMbrfast/4c1b0ef0a2122_/stream.m3u8
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 13  Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV
@@ -220,8 +178,6 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Guatevision     
 http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama
 rtmp://216.224.177.132/live/sertv
 
@@ -267,8 +223,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="tvc.png",Tv chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA)
