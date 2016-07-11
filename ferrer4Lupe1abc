@@ -17,6 +17,8 @@ http://www.iwiplay.com/mov/maraurders.mp4
 http://www.iwiplay.com/mov/misconduct.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",Las pruebas y tribulaciones de (LadyGlasGun)
 http://www.iwiplay.com/mov/theladyinthecarwithglassesandagun.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",equals
+http://www.iwiplay.com/mov/equals.mp4
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
