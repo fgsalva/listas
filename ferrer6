@@ -85,7 +85,7 @@
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3a frame ok[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -96,17 +96,6 @@
 <thumbnail></thumbnail></item>
 
 <item>
-<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3axxxxb frame ok[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
-<page>http://www.247bay.tv/embedplayer/vipracing3/2/653/410</page>
-</regex>
-<thumbnail></thumbnail></item>
-
-
-<item>
 <title>[COLOR yellow]VIPRACING 04[/COLOR][COLOR dodgerblue]goltv  opcion-4 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -115,7 +104,7 @@
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 05[/COLOR][COLOR dodgerblue]bein1hd opcion-5 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -135,7 +124,7 @@
 </regex>
 <thumbnail></thumbnail></item> 
 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 06[/COLOR][COLOR dodgerblue] opcion-6 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -156,15 +145,15 @@
 <thumbnail></thumbnail></item> 
 <item>
 
-<title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7 frame[/COLOR]</title>
+<title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7a frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-7/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-7a/frame')</expres>
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 08[/COLOR][COLOR dodgerblue] opcion-8 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -183,13 +172,12 @@
 </regex>
 <thumbnail></thumbnail></item> 
 
-
 <item>
-<title>[COLOR yellow]VIPRACING 09[/COLOR][COLOR dodgerblue] opcion-9 frame[/COLOR]</title>
+<title>[COLOR yellow]VIPRACING 09[/COLOR][COLOR dodgerblue] opcion-9a frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-9/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-9a/frame')</expres>
 <page></page>
 </regex>
 <fanart></fanart>
@@ -198,7 +186,7 @@
 
 
 
-<item>
+<tem>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es)[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -207,6 +195,7 @@
 <page></page>
 </regex>
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
+
 <item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es-a)vipracing.us/channel/bein-es-a/frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
@@ -218,7 +207,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 
-<item>
+<tem>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -228,7 +217,7 @@
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item>
+<tem>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es1) SDFRAME**[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
