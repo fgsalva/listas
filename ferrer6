@@ -265,7 +265,27 @@
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/eurosport-1/frame')</expres>
 <page></page>
 </regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
+<thumbnail></thumbnail></item>  
+<item>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] BT1 FRAME[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bt-1/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
+<item>
+<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] BT2 FRAME[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bt-2/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
 
 <item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN USA FRAME[/COLOR]</title>
