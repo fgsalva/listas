@@ -309,6 +309,12 @@
 
 
 <item>
+<title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71112',False,False,'http://vipracing.us/')</expres>
+<page></page></regex></item>
+
+<item>
 <title>[COLOR yellow]VIPRACING[/COLOR]VIP08 EVENTOS EN VIVO streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.us/')</expres>
