@@ -55,7 +55,7 @@
 
 
 
-<nose muestra item>
+<tem>
 <title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -76,7 +76,7 @@
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 02[/COLOR][COLOR dodgerblue] (Bein ñ)opcion-2 frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
