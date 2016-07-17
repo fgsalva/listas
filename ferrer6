@@ -126,11 +126,11 @@
 </regex>
 <thumbnail></thumbnail></item> 
 <item>
-<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3 frame ok[/COLOR]</title>
+<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3a frame ok[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
