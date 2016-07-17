@@ -94,13 +94,14 @@
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>
+
 <item>
-<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3axxxx frame ok[/COLOR]</title>
+<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3axxxxb frame ok[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.247bay.tv/embedplayer/vipracing3/2/653/410')</expres>
-<page>http://vipracing.us/channel/opcion-3a/frame</page>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
+<page>http://www.247bay.tv/embedplayer/vipracing3/2/653/410</page>
 </regex>
 <thumbnail></thumbnail></item>
 
