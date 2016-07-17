@@ -308,6 +308,12 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
+<title>[COLOR yellow]VIPRACING[/COLOR]VIP06 EVENTOS EN VIVO streamlive**</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.us/')</expres>
+<page></page></regex></item>
+
+<item>
 <title>[COLOR yellow]VIPRACING[/COLOR]VIP08 EVENTOS EN VIVO streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.us/')</expres>
@@ -335,6 +341,12 @@
 <title>[COLOR yellow]VIPRACING[/COLOR]SKY1HD EVENTOS EN VIVO streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68713',False,False,'http://vipracing.us/')</expres>
+<page></page></regex></item>
+
+<item>
+<title>[COLOR yellow]VIPRACING[/COLOR]USA NETWORK EVENTOS EN VIVO streamlive**</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73724',False,False,'http://vipracing.us/')</expres>
 <page></page></regex></item>
 
 <item>
