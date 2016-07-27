@@ -92,8 +92,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", F.0.X S.P.0.RT
-http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. VETLLE
 http://veetle.com/index.php/hls/streamMbrfast/4c1b0ef0a2122_/stream.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
@@ -119,16 +117,6 @@ http://streaming.radionomy.com/100-purasalsa
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", MIAMI TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b1550000.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", MIAMI TV 1
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MIAMI TV LIFE ESPAÑA
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MIAMI TV  MUSIC
-http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",orbita tv youtube
-https://www.youtube.com/embed/mkSJDYzC95c
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
