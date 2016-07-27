@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv
+http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 33
