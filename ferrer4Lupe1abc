@@ -127,11 +127,20 @@ http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MIAMI TV  MUSIC
 http://74.208.152.93/music/stream3/stream.m3u8
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",orbita tv youtube
+https://www.youtube.com/embed/mkSJDYzC95c
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
+http://198.24.135.42:80/canal9/canal9/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
+rtmp://198.24.135.42:80/canal10/canal10
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11
+http://198.24.135.42:80/canal11/canal11/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
+http://198.24.135.42:80/canal15/canal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR 
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR
@@ -142,6 +151,16 @@ http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u
 http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama
 rtmp://216.224.177.132/live/sertv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",hondured canal 13
+rtmp://173.236.71.62/hondured/hrtv.sdp
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",cholusat 
+rtmp://live.audiotvserver.com/livemedia/cholusat
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura
+http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras
+http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Azteca Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
