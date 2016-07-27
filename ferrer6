@@ -38,6 +38,63 @@
 <referer>http://cinestrenostv.tv</referer>
 </item>
 
+
+<item>
+<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] SinTele[/B][/COLOR]  [COLOR lightslategray]UnivisionDeportes [/COLOR] </title>
+<link>http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8</link>			
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] GOLTV[/B][/COLOR]  [COLOR lightslategray]AscensoMX [/COLOR] </title>
+<link>http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8</link>			
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] Zonasport05[/B][/COLOR]  [COLOR lightslategray]Multicanal [/COLOR] </title>
+ <link>$doregex[getUrl]</link>
+ <regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m, param=''):
+   
+    import requests
+    import re
+    import base64
+   
+    try:
+       
+        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
+        url = 'http://bro.adca.st/stream.php?id=' + id + '&amp;width=640&amp;height=480'
+        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://zonasports.be/link.php?id=5'}
+        source = requests.get(url, headers = headers)
+        curl = re.findall('curl = "(.*?)"', source.text)[0]
+        m3u8 = base64.b64decode(curl)
+ 
+        url2 = 'http://bro.adca.st/getToken.php'    
+        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+        source2 = requests.get(url2, headers = headers2)
+        token = re.findall('"token":"(.*?)"', source2.text)[0]
+        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+ 
+    except Exception as e:
+        print 'wizhdsports: Error: '
+        if hasattr(e, 'code'):
+            print str(e.code)              
+        if hasattr(e, 'reason'):
+            print " " + str(e.reason)
+]]></expres>
+<page>http://zonasports.be/link.php?id=5</page>
+<referer>http://zonasports.be/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail></item> 
+
 <item>
 <title>[COLOR lightblue]ESPN *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
 <link>$doregex[url]</link>
