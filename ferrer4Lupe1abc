@@ -676,3 +676,257 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,VH1 Classics
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",TotalPlay
+http://mxl-iptv.cf/LIVE/H01/CANAL1/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Azteca Trece
+http://mxl-iptv.cf/LIVE/H01/CANAL13/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Azteca Trece HD
+http://mxl-iptv.cf/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Azteca 7 
+http://mxl-iptv.cf/LIVE/H01/CANAL7/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Azteca 7 HD
+http://mxl-iptv.cf/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Proyecto 40
+http://mxl-iptv.cf/LIVE/H01/CANAL40/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Proyecto 40 HD
+http://mxl-iptv.cf/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Azteca Corazon
+http://mxl-iptv.cf/LIVE/H01/CANAL45/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Az Click
+http://mxl-iptv.cf/LIVE/H01/CANAL103/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Az Click
+http://mxl-iptv.cf/LIVE/H01/CANAL725/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Az Cinema
+http://mxl-iptv.cf/LIVE/H01/CANAL425/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Az Mundo
+http://mxl-iptv.cf/LIVE/H01/CANAL276/PROFILE03.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Canal de las Estrellas HD
+http://mxl-iptv.cf/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Canal 5 HD
+http://mxl-iptv.cf/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Gala TV
+http://mxl-iptv.cf/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Once TV
+http://mxl-iptv.cf/LIVE/H01/CANAL111/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Az Noticias
+http://mxl-iptv.cf/LIVE/H01/CANAL2/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Foro TV
+http://mxl-iptv.cf/LIVE/H01/CANAL104/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Milenio 
+http://mxl-iptv.cf/LIVE/H01/CANAL603/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Bloomberg
+http://mxl-iptv.cf/LIVE/H01/CANAL610/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",UNOMASUNO
+http://mxl-iptv.cf/LIVE/H01/CANAL145/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",TeleFórmula
+http://mxl-iptv.cf/LIVE/H01/CANAL161/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Multimedios Monterrey
+http://mxl-iptv.cf/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",H
+http://mxl-iptv.cf/LIVE/H01/CANAL169/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",FOX HD
+http://mxl-iptv.cf/LIVE/H01/CANAL201/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",FOX 
+http://mxl-iptv.cf/LIVE/H01/CANAL251/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",SONY
+http://mxl-iptv.cf/LIVE/H01/CANAL203/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",WARNER HD 
+http://mxl-iptv.cf/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Universal Channel 
+http://mxl-iptv.cf/LIVE/H01/CANAL256/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",UNIVERSAL HD
+http://mxl-iptv.cf/LIVE/H01/CANAL207/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",FX HD
+http://mxl-iptv.cf/LIVE/H01/CANAL209/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",A&E
+http://mxl-iptv.cf/LIVE/H01/CANAL211/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",AXN HD
+http://mxl-iptv.cf/LIVE/H01/CANAL213/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TRUETV HD
+http://mxl-iptv.cf/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",COMEDY CENTRAL
+http://mxl-iptv.cf/LIVE/H01/CANAL217/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",UniCable HD
+http://mxl-iptv.cf/LIVE/H01/CANAL218/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",BBC
+http://mxl-iptv.cf/LIVE/H01/CANAL253/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",E!
+http://mxl-iptv.cf/LIVE/H01/CANAL255/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",SYFY
+http://mxl-iptv.cf/LIVE/H01/CANAL257/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",FX 
+http://mxl-iptv.cf/LIVE/H01/CANAL258/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TNT Series 
+http://mxl-iptv.cf/LIVE/H01/CANAL266/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",GOURMET
+http://mxl-iptv.cf/LIVE/H01/CANAL268/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",El Garage
+http://mxl-iptv.cf/LIVE/H01/CANAL269/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",GLITZ
+http://mxl-iptv.cf/LIVE/H01/CANAL270/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",FOX Life 
+http://mxl-iptv.cf/LIVE/H01/CANAL271/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TBS
+http://mxl-iptv.cf/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TELENOVELAS
+http://mxl-iptv.cf/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISTRITO COMEDIA
+http://mxl-iptv.cf/LIVE/H01/CANAL272/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISCOVERY KIDS
+http://mxl-iptv.cf/LIVE/H01/CANAL303/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",NICK JR
+http://mxl-iptv.cf/LIVE/H01/CANAL310/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISNEY JR
+http://mxl-iptv.cf/LIVE/H01/CANAL308/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Cbeebies
+http://mxl-iptv.cf/LIVE/H01/CANAL305/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISNEY CHANNEL
+http://mxl-iptv.cf/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",NICK
+http://mxl-iptv.cf/LIVE/H01/CANAL317/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",NICK HD
+http://mxl-iptv.cf/LIVE/H01/CANAL315/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Nick Toons
+http://mxl-iptv.cf/LIVE/H01/CANAL314/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",CARTOON NETWORK
+http://mxl-iptv.cf/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISNEY XD
+http://mxl-iptv.cf/LIVE/H01/CANAL322/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",BOOMERANG
+http://mxl-iptv.cf/LIVE/H01/CANAL324/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TIIN
+http://mxl-iptv.cf/LIVE/H01/CANAL325/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TOONCAST
+http://mxl-iptv.cf/LIVE/H01/CANAL328/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",NAT GEO
+http://mxl-iptv.cf/LIVE/H01/CANAL377/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",NAT GEO WILD
+http://mxl-iptv.cf/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",ANIMAL PLANET
+http://mxl-iptv.cf/LIVE/H01/CANAL373/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISCOVERY HD
+http://mxl-iptv.cf/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",DISCOVERY THEATER
+http://mxl-iptv.cf/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Discovery H&H 
+http://mxl-iptv.cf/LIVE/H01/CANAL374/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Investigation Discovery 
+http://mxl-iptv.cf/LIVE/H01/CANAL263/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",ID
+http://mxl-iptv.cf/LIVE/H01/CANAL900/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Discovery World HD
+http://mxl-iptv.cf/LIVE/H01/CANAL356/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Discovery Science
+http://mxl-iptv.cf/LIVE/H01/CANAL381/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Discovery Civilization
+http://mxl-iptv.cf/LIVE/H01/CANAL382/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Discovery Turbo
+http://mxl-iptv.cf/LIVE/H01/CANAL383/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",HISTORY
+http://mxl-iptv.cf/LIVE/H01/CANAL353/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",LIFETIME
+http://mxl-iptv.cf/LIVE/H01/CANAL379/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",TLC 
+http://mxl-iptv.cf/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",WOBI
+http://mxl-iptv.cf/LIVE/H01/CANAL387/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fox 1 HD
+http://mxl-iptv.cf/LIVE/H01/CANAL415/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fox Action HD
+http://mxl-iptv.cf/LIVE/H01/CANAL416/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fox Movies HD
+http://mxl-iptv.cf/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fox Cinema
+http://mxl-iptv.cf/LIVE/H01/CANAL421/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fox Classics
+http://mxl-iptv.cf/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Cine Canal 
+http://mxl-iptv.cf/LIVE/H01/CANAL430/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TNT HD
+http://mxl-iptv.cf/LIVE/H01/CANAL435/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Golden HD 
+http://mxl-iptv.cf/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2", GOLDEN EDGE 
+http://mxl-iptv.cf/LIVE/H01/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Film Zone HD
+http://mxl-iptv.cf/LIVE/H01/CANAL440/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",De Pelicula HD 
+http://mxl-iptv.cf/LIVE/H01/CANAL442/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",AMC HD
+http://mxl-iptv.cf/LIVE/H01/CANAL444/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Space HD
+http://mxl-iptv.cf/LIVE/H01/CANAL445/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Space 2
+http://mxl-iptv.cf/LIVE/H01/CANAL491/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Cine Canal 
+http://mxl-iptv.cf/LIVE/H01/CANAL480/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Cinemax 
+http://mxl-iptv.cf/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",TNT
+http://mxl-iptv.cf/LIVE/H01/CANAL482/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",AMC 
+http://mxl-iptv.cf/LIVE/H01/CANAL490/PROFILE03.m3u8
+ 
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",UNIVERSAL STUDIO 
+http://mxl-iptv.cf/LIVE/H01/CANAL492/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",I Sat 
+http://mxl-iptv.cf/LIVE/H01/CANAL495/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",TCM
+http://mxl-iptv.cf/LIVE/H01/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",FOX SPORTS 
+http://mxl-iptv.cf/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",FOX SPORTS 2 
+http://mxl-iptv.cf/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",PX 
+http://mxl-iptv.cf/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",ESPN 
+http://mxl-iptv.cf/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",ESPN HD 
+http://mxl-iptv.cf/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",ESPN2 
+http://mxl-iptv.cf/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",ESPN3 
+http://mxl-iptv.cf/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",AYM Sports
+http://mxl-iptv.cf/LIVE/H01/CANAL576/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",CANAL F
+http://mxl-iptv.cf/LIVE/H01/CANAL511/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Telehit
+http://mxl-iptv.cf/LIVE/H01/CANAL702/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Ritmoson
+http://mxl-iptv.cf/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Banda Max
+http://mxl-iptv.cf/LIVE/H01/CANAL732/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",MTV
+http://mxl-iptv.cf/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",MTV Hits
+http://mxl-iptv.cf/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",MTV Live HD
+http://mxl-iptv.cf/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",VH1 HD
+http://mxl-iptv.cf/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",VH1 Classics
+http://mxl-iptv.cf/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Telemundo
+http://mxl-iptv.cf/LIVE/H01/CANAL1873/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="samplelogo.png" group-title="TotalPlay2",Tve 
+http://mxl-iptv.cf/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Hola TV
+http://mxl-iptv.cf/LIVE/H01/CANAL219/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Fashion TV
+http://mxl-iptv.cf/LIVE/H01/CANAL220/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",MAS CHIC
+http://mxl-iptv.cf/LIVE/H01/CANAL221/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",SHE
+http://mxl-iptv.cf/LIVE/H01/CANAL1978/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",EdoMex
+http://mxl-iptv.cf/LIVE/H01/CANAL1899/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Televisa Deportes
+http://mxl-iptv.cf/LIVE/H01/CANAL1902/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Música
+http://mxl-iptv.cf/LIVE/H01/CANAL1938/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Canal
+http://mxl-iptv.cf/LIVE/H01/CANAL63/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Niños en inglés
+http://mxl-iptv.cf/LIVE/H01/CANAL309/PROFILE03.m3u8
+
