@@ -930,3 +930,115 @@ http://mxl-iptv.cf/LIVE/H01/CANAL63/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",Niños en inglés
 http://mxl-iptv.cf/LIVE/H01/CANAL309/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Wobi
+http://grilla.gigared.com.ar/streams/166V1/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Kids HD (inestable)
+http://grilla.gigared.com.ar/streams/166V1/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Kids SD
+http://grilla.gigared.com.ar/streams/166V1/2/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery World HD
+http://grilla.gigared.com.ar/streams/166V1/3/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery World SD
+http://grilla.gigared.com.ar/streams/166V1/3/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  TVe HD
+http://grilla.gigared.com.ar/streams/166V1/4/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Theater HD
+http://grilla.gigared.com.ar/streams/166V1/5/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Theater SD
+http://grilla.gigared.com.ar/streams/166V1/5/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Home&Health HD
+http://grilla.gigared.com.ar/streams/166V1/6/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Discovery Home&Health SD
+http://grilla.gigared.com.ar/streams/166V1/6/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Nicktoons SD (inestable)
+http://grilla.gigared.com.ar/streams/166V1/7/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Nick Jr SD
+http://grilla.gigared.com.ar/streams/166V1/8/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  TV Publica HD
+http://grilla.gigared.com.ar/streams/166V2/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  TV Publica SD
+http://grilla.gigared.com.ar/streams/166V2/1/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Radio ONE HD
+http://grilla.gigared.com.ar/streams/166V2/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Radio ONE SD
+http://grilla.gigared.com.ar/streams/166V2/2/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Rock&Pop 95.9 HD
+http://grilla.gigared.com.ar/streams/166V2/3/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Rock&Pop 95.9 SD
+http://grilla.gigared.com.ar/streams/166V2/3/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Tecnopolis TV HD
+http://grilla.gigared.com.ar/streams/166V2/4/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Tecnopolis TV SD
+http://grilla.gigared.com.ar/streams/166V2/4/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  C5N HD
+http://grilla.gigared.com.ar/streams/166V2/5/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  C5N SD
+http://grilla.gigared.com.ar/streams/166V2/5/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal 26 HD
+http://grilla.gigared.com.ar/streams/166V2/6/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal 26 SD
+http://grilla.gigared.com.ar/streams/166V2/6/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  America HD
+http://grilla.gigared.com.ar/streams/166V2/7/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  America SD
+http://grilla.gigared.com.ar/streams/166V2/7/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  El Trece HD
+http://grilla.gigared.com.ar/streams/166V3/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  El Trece SD
+http://grilla.gigared.com.ar/streams/166V3/1/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal 9 HD
+http://grilla.gigared.com.ar/streams/166V3/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal 9 SD
+http://grilla.gigared.com.ar/streams/166V3/2/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Nickelodeon HD
+http://grilla.gigared.com.ar/streams/166V3/3/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Nickelodeon HD (SD)
+http://grilla.gigared.com.ar/streams/166V3/3/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Disney Junior
+http://grilla.gigared.com.ar/streams/166V4/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Disney Junior (Alternativo)
+http://grilla.gigared.com.ar/streams/166V4/1/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Syfy
+http://grilla.gigared.com.ar/streams/166V4/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Syfy (Alt) (inestable)
+http://grilla.gigared.com.ar/streams/166V4/2/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  History HD
+http://grilla.gigared.com.ar/streams/166V4/3/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  History SD (caido)
+http://grilla.gigared.com.ar/streams/166V4/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal Vasco
+http://grilla.gigared.com.ar/streams/166V4/4/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal Vasco (Alt) (caido)
+http://grilla.gigared.com.ar/streams/166V4/4/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  TV Brasil
+http://grilla.gigared.com.ar/streams/166V4/5/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  TV Brasil (Alt) (caido)
+http://grilla.gigared.com.ar/streams/166V4/6/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  A&E HD
+http://grilla.gigared.com.ar/streams/166V4/6/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  A&E SD (inestable)
+http://grilla.gigared.com.ar/streams/166V4/6/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  HBO Signature HD (ingles)
+http://grilla.gigared.com.ar/streams/166V4/7/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  HBO Signature SD (ingles) (inestable)
+http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Fox Sports 2 HD
+http://grilla.gigared.com.ar/streams/166V5/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Fox Sports 2 HD (Alt) (caido)
+http://grilla.gigared.com.ar/streams/166V5/1/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  AXN HD
+http://grilla.gigared.com.ar/streams/166V5/2/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  AXN SD
+http://grilla.gigared.com.ar/streams/166V5/2/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal Sony HD
+http://grilla.gigared.com.ar/streams/166V5/3/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Canal Sony SD (caido)
+http://grilla.gigared.com.ar/streams/166V5/3/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Warner HD
+http://grilla.gigared.com.ar/streams/166V5/4/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Warner SD (caido)
+http://grilla.gigared.com.ar/streams/166V5/4/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Max HD
+http://grilla.gigared.com.ar/streams/166V5/5/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Max SD (caido)
+http://grilla.gigared.com.ar/streams/166V5/5/2.m3u8
