@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru3
+http://b36642.cdn.telefonica.com/36642/ch01/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru2
+http://b36642.cdn.telefonica.com/36642/ch02/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru cuatro
+http://b36642.cdn.telefonica.com/36642/ch04/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd
+http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu
+http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu hd
+http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv
 http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
