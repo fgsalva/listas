@@ -1042,3 +1042,9 @@ http://grilla.gigared.com.ar/streams/166V5/4/2.m3u8
 http://grilla.gigared.com.ar/streams/166V5/5/1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",  Max SD (caido)
 http://grilla.gigared.com.ar/streams/166V5/5/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",TYC de
+http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 2
+http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 1
+http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
