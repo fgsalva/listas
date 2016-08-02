@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru3
+http://b36642.cdn.telefonica.com/36642/ch01/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru2
+http://b36642.cdn.telefonica.com/36642/ch02/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru cuatro
+http://b36642.cdn.telefonica.com/36642/ch04/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd
+http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu
+http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu hd
+http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv
+http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 33
@@ -491,7 +507,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,AXN HD
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,TRUETV HD
+#EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,TRUE TV HD
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,COMEDY CENTRAL
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
@@ -589,6 +605,8 @@ http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fox 1 HD
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fox 1 HD_SD
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,FOX Action HD
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,FOX Movies HD
@@ -597,6 +615,8 @@ http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fox Classics
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,AZ CINEMA CANAL425
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Cine Canal 
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,TNT HD
@@ -619,6 +639,8 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL475/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Cine Canal 
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE05.m3u8
+#EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Cine CanalSD
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Cinemax 
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,TNT
@@ -651,7 +673,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,ESPN2 
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Deportes 
+#EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,M Y C Deportes 
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Milenio 
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
@@ -671,4 +693,29 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,VH1 Classics
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Telemundo
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1873/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Tve 
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Hola TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fashion TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,MAS CHIC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,SHE
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1978/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,EdoMex
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1899/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Televisa Deportes
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1902/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Música
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Canal
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL63/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Niños en inglés
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL309/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 2
+http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 1
+http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
