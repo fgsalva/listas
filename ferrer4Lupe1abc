@@ -612,10 +612,30 @@ http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,FOX Movies HD
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL418
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL418/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL419
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL419/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL420
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL420/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fox Cinema
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL422
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL422/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL423
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL423/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Fox Classics
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL425
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL426
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL426/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL427
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL427/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL428
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL428/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,CANAL429
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL429/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,Cine Canal 
 http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
 #EXTINF:0 tvg-logo=“samplelogo.png” group-title=“TOTALPLAY”,TNT HD
