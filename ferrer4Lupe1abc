@@ -139,6 +139,10 @@ http://208.75.225.28:1935/live/cbfdhtdyjuy/playlist.m3u8
 http://208.75.225.28:1935/live/rghdrhgyjk/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",icreammovie
 rtmp://198.255.96.50/app playpath=17259?MTQ3MDE5ODY1NzsxNmVlOWIxMjM1NmNmY2M0MjM3MTA3NWE1ODFkOWE0ZQ== swfVfy=1 timeout=10 swfUrl=http://cdn.shidurlive.com/player.swf live=true pageUrl=http://www.shidurlive.com/embed/lcreme-movies
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",HBO
+rtmp://146.185.16.62/stream playPath=hbopaola?id=3053&pk=dd1acda33ab31a002b36d52ea11eafc36f6bbe727724db71e23e1b5404a37e31 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/hbopaola/1/630/450
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Fox
+rtmp://178.162.199.138/stream playPath=foxsusy?id=2280&pk=dd1acda33ab31a002b36d52ea11eafc36f6bbe727724db71e23e1b5404a37e31 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/foxsusy/1/630/450
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
