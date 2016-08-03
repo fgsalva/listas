@@ -29,6 +29,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****a.n.i.m.e*** 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3
