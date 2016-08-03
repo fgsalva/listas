@@ -162,8 +162,6 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Guatevision     
-http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",hondured canal 13
