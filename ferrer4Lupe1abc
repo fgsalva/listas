@@ -35,6 +35,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 index2
@@ -43,6 +45,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
@@ -51,12 +54,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",A3S Espana 
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",A3S Espana MASTER
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",8tv
 http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
