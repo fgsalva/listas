@@ -135,11 +135,43 @@
 
 
 <item>
-    <title>[COLOR deepskyblue]TV  "PROYECT TV"[/COLOR]</title>
+    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 1"[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <externallink>http://projectv.pw/ProjecTV/Listas/Television/cable2.xml</externallink>
+    <externallink>http://playhdlatino.com/abdavega/lista.xml</externallink>
     </item>
+<item>
+    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 2"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://playhdlatino.com/abdavega/lista2.xml</externallink>
+    </item>
+    
+<item>
+    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 3"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://playhdlatino.com/abdavega/lista3.xml</externallink>
+    </item>
+    
+   <item>
+    <title>[COLOR deepskyblue]TV  "PLAY-LATINO SMTV SD"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://playhdlatino.com/abdavega/smtv.m3u</externallink>
+    </item>
+   <item>
+    <title>[COLOR deepskyblue]TV  "PLAY-LATINO SMTV HD"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://playhdlatino.com/abdavega/smtv2.m3u</externallink>
+    </item>
+   
+    
+    http://playhdlatino.com/abdavega/smtv.m3u
+    <item>
+    <title>[COLOR deepskyblue]TV  "PLAY-LAMOVIE"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://playhdlatino.com/abdavega/peliculas.m3u</externallink>
+    </item>
+    
 
+http://playhdlatino.com/abdavega/peliculas.m3u
 <item>
  <title>[COLOR lime]  •[/COLOR][COLOR red] Los Años Maravillosos  [/COLOR]</title>
  <link>$doregex[makelist]</link>
