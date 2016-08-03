@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru3
-http://b36642.cdn.telefonica.com/36642/ch01/3.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru2
-http://b36642.cdn.telefonica.com/36642/ch02/3.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",peru cuatro
-http://b36642.cdn.telefonica.com/36642/ch04/3.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd
 http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu
@@ -15,6 +9,17 @@ http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
 http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv
 http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TVPUBLICA playlist prueba5
+http://live-edge01.telecentro.net.ar/test/smil:prueba5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba1
+http://live-edge01.telecentro.net.ar/test/smil:prueba1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba2
+http://live-edge01.telecentro.net.ar/test/smil:prueba2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba3
+http://live-edge01.telecentro.net.ar/test/smil:prueba3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba4
+http://live-edge01.telecentro.net.ar/test/smil:prueba4.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 33
@@ -26,11 +31,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 35
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****a.n.i.m.e*** 
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3
@@ -137,8 +139,6 @@ http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 http://208.75.225.28:1935/live/cbfdhtdyjuy/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",RCN
 http://208.75.225.28:1935/live/rghdrhgyjk/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",icreammovie
-rtmp://198.255.96.50/app playpath=17259?MTQ3MDE5ODY1NzsxNmVlOWIxMjM1NmNmY2M0MjM3MTA3NWE1ODFkOWE0ZQ== swfVfy=1 timeout=10 swfUrl=http://cdn.shidurlive.com/player.swf live=true pageUrl=http://www.shidurlive.com/embed/lcreme-movies
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",HBO
 rtmp://146.185.16.62/stream playPath=hbopaola?id=3053&pk=dd1acda33ab31a002b36d52ea11eafc36f6bbe727724db71e23e1b5404a37e31 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/hbopaola/1/630/450
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Fox
