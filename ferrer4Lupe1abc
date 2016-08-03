@@ -1319,6 +1319,6 @@ http://107.191.109.146/LIVE/H01/CANAL702/PROFILE03.m3u8
 http://107.191.109.146/LIVE/H01/CANAL703/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV
 http://107.191.109.146/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV Hits
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV Hit
 http://107.191.109.146/LIVE/H01/CANAL727/PROFILE03.m3u8
 
