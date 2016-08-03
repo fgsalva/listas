@@ -1114,6 +1114,7 @@ http://107.191.109.146/LIVE/H01/CANAL105/PROFILE03.m3u8
 http://107.191.109.146/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Gala TV
 http://107.191.109.146/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",once TV
 http://107.191.109.146/LIVE/H01/CANAL111/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TRECE HD
 http://107.191.109.146/LIVE/H01/CANAL113/PROFILE03.m3u8
