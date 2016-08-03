@@ -68,8 +68,6 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",R.EAL MA.DRID PARK TV
-http://149.202.207.8:8080/real-madrid-14May/sallu/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",L.a L.i.g.a Espa.ñola
 rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",B.E.I.N E.S.P.A.Ñ.A
@@ -135,6 +133,11 @@ http://streaming.radionomy.com/100-purasalsa
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CARACOL
+http://208.75.225.28:1935/live/cbfdhtdyjuy/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",RCN
+http://208.75.225.28:1935/live/rghdrhgyjk/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
