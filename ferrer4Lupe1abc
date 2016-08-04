@@ -22,14 +22,10 @@ http://live-edge01.telecentro.net.ar/test/smil:prueba4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 33
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",tyc PUBLICA 33 Lq
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 35
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
