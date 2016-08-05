@@ -163,15 +163,20 @@
     </item>
    
     
-    http://playhdlatino.com/abdavega/smtv.m3u
+
     <item>
     <title>[COLOR deepskyblue]TV  "PLAY-LAMOVIE"[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://playhdlatino.com/abdavega/peliculas.m3u</externallink>
     </item>
     
+     <item>
+    <title>[COLOR deepskyblue]TV  "destino final 5"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://streamin.to/embed-nveyhiq9792w-700x400.html</externallink>
+    </item>
+    
 
-http://playhdlatino.com/abdavega/peliculas.m3u
 <item>
  <title>[COLOR lime]  •[/COLOR][COLOR red] Los Años Maravillosos  [/COLOR]</title>
  <link>$doregex[makelist]</link>
