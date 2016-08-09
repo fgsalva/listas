@@ -261,81 +261,34 @@
 <referer>http://cinestrenostv.tv</referer>
 </item>
 
-
-<item>
-<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] SinTele[/B][/COLOR]  [COLOR lightslategray]UnivisionDeportes [/COLOR] </title>
-<link>http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8</link>			
-<thumbnail></thumbnail>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-1/frame-igua-lhttp://vipracing.us/channel/bein-es-a/frame</title>
+<sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/bein-es-a/frame</referer>
 </item>
-
-<item>
-<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] GOLTV[/B][/COLOR]  [COLOR lightslategray]AscensoMX [/COLOR] </title>
-<link>http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8</link>			
-<thumbnail></thumbnail>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-2/frame-gual-http://vipracing.us/channel/opcion-8/frame</title>
+<sportsdevil>http://vipracing.us/channel/opcion-8/frame</sportsdevil>
+<referer>http://vipracing.us/channel/opcion-8/frame</referer>
 </item>
-
-
-
-
-<item>
-<title>[B][COLOR orange][buzo][/COLOR][COLOR lightblue] Zonasport05[/B][/COLOR]  [COLOR lightslategray]Multicanal [/COLOR] </title>
- <link>$doregex[getUrl]</link>
- <regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m, param=''):
-   
-    import requests
-    import re
-    import base64
-   
-    try:
-       
-        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-        url = 'http://bro.adca.st/stream.php?id=' + id + '&amp;width=640&amp;height=480'
-        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://zonasports.be/link.php?id=5'}
-        source = requests.get(url, headers = headers)
-        curl = re.findall('curl = "(.*?)"', source.text)[0]
-        m3u8 = base64.b64decode(curl)
- 
-        url2 = 'http://bro.adca.st/getToken.php'    
-        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
-        source2 = requests.get(url2, headers = headers2)
-        token = re.findall('"token":"(.*?)"', source2.text)[0]
-        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
- 
-    except Exception as e:
-        print 'wizhdsports: Error: '
-        if hasattr(e, 'code'):
-            print str(e.code)              
-        if hasattr(e, 'reason'):
-            print " " + str(e.reason)
-]]></expres>
-<page>http://zonasports.be/link.php?id=5</page>
-<referer>http://zonasports.be/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail></item> 
-
-<item>
-<title>[COLOR lightblue]ESPN *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-3/frame-igual-http://vipracing.us/channel/opcion-3a/frame</title>
+<sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/opcion-3a/frame</referer>
 </item>
-<item>
-<title>[COLOR lightblue]BEING *ES*direct us[/COLOR][COLOR green][I]ilive* VIP ok[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-5/frame-igual-http://vipracing.us/channel/opcion-5a/frame</title>
+<sportsdevil>http://vipracing.us/channel/opcion-5a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/opcion-5a/frame</referer>
 </item>
-
-
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-8/frame-igual-http://vipracing.us/channel/opcion-8a/frame</title>
+<sportsdevil>http://vipracing.us/channel/opcion-8a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/opcion-8a/frame</referer>
+</item>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/bein-es1/frame-igual-http://vipracing.us/channel/opcion-3a/frame</title>
+<sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/opcion-3a/frame</referer>
+</item>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/bein-es/frame-igual-http://vipracing.us/channel/bein-es-a/frame</title>
+<sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
+<referer>http://vipracing.us/channel/bein-es-a/frame</referer>
+</item>
 
 <tem>
 <title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
@@ -348,7 +301,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<tem>
 <title>[COLOR yellow] VIPRACING 01hd[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1hd frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -425,8 +378,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 <thumbnail></thumbnail></item> 
-<item>
-
+<tem>
 <title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7a frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -454,7 +406,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item> 
 
-<item>
+<tem>
 <title>[COLOR yellow]VIPRACING 09[/COLOR][COLOR dodgerblue] opcion-9a frame[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -548,27 +500,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] BT1 FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bt-1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] BT2 FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bt-2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-
 <item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN USA FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
