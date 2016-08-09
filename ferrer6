@@ -6,69 +6,6 @@
 </item>
 
 <item>
-<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/latinomoviez.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES**[/COLOR]</title>
-<sportsdevil>http://www.latino4ever.com/2014/10/latinomoviez.html</sportsdevil>
-<referer>http://www.latino4ever.com/2014/10/latinomoviez.html</referer>
-</item>
-<item>
-<title>[COLOR yellow]LATINOMOVIEZLATNOSCANALES*Premiun*[/COLOR]</title>
-<sportsdevil>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</sportsdevil>
-<referer>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</referer>
-</item>
-
-
-
-<item>
-<title>[COLOR orange]CINE CANAL LATNOSCANALES***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2015/07/Cinecanal-hd.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/cinemax.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES**[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemaxhd.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemax.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]HBO latino***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/Hbo-latino.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]HBO PLUS[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/hbo.html</sportsdevil>
-<referer>http://www.sasshamoviez.com/2014/04/hbo.html</referer>
-</item>
-<item>
-<title>[COLOR orange]HBO PLUS opcion2[/COLOR]</title>
-<sportsdevil>http://www.latino4ever.com/2014/10/hbo.html</sportsdevil>
-<referer>http://www.latino4ever.com/2014/10/hbo.html</referer>
-</item>
-
-<item>
-<title>[COLOR orange]MOVIE CITY[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/moviecity.html</sportsdevil>
-<referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
-</item>
-
-<item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime][/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
             <referer>http://tvpor-internet.com/</referer>
@@ -272,6 +209,106 @@
 <item><title>[COLOR orange][Sportsdevil][/COLOR] La Sexta</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
+<item>
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] Zonasport01[/B][/COLOR]  [COLOR lightslategray]LigaMx[/COLOR] </title>
+ <link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.publish247.xyz:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.247bay.tv/membedplayer/ZonaSportsx1/2/750/420</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.247bay.tv</referer>
+			</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] Zonasport05[/B][/COLOR]  [COLOR lightslategray]LigaMx [/COLOR] </title>
+ <link>$doregex[getUrl]</link>
+ <regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m, param=''):
+   
+    import requests
+    import re
+    import base64
+   
+    try:
+       
+        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
+        url = 'http://bro.adca.st/stream.php?id=' + id + '&amp;width=640&amp;height=480'
+        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://zonasports.be/channel.php?id=5'}
+        source = requests.get(url, headers = headers)
+        curl = re.findall('curl = "(.*?)"', source.text)[0]
+        m3u8 = base64.b64decode(curl)
+ 
+        url2 = 'http://bro.adca.st/getToken.php'    
+        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+        source2 = requests.get(url2, headers = headers2)
+        token = re.findall('"token":"(.*?)"', source2.text)[0]
+ 
+        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+ 
+    except Exception as e:
+        print 'wizhdsports: Error: '
+        if hasattr(e, 'code'):
+            print str(e.code)              
+        if hasattr(e, 'reason'):
+            print " " + str(e.reason)
+]]></expres>
+<page>http://zonasports.be/channel.php?id=5</page>
+<referer>http://zonasports.be/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item> 
+
+<item> 
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] ZonaSport09[/B][/COLOR]  [COLOR lightslategray]LigaMx[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.zony.tv/membedplayer/ZonaSportsx9n/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.zony.tv</referer>
+			</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>	
+<item>
+<title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
+<referer>http://www.zonasports.me</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] GOLTV[/B][/COLOR]  [COLOR lightslategray]AscensoMX [/COLOR] </title>
+<link>http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8</link>			
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
 </item>
 <item><title>[COLOR orange][OPCION 1][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
 <link>$doregex[getVipRacing]</link>
@@ -770,25 +807,6 @@
 <page></page></regex>
 </item>
 
-
-
-<item>
-<title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
-<referer>http://www.zonasports.me</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-<item>
-
 <item>
 <title>[COLOR blue]FS1 **[/COLOR]</title>
 <sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
@@ -1243,4 +1261,69 @@
 <sportsdevil>http://biophobia.tv/movistarplus/canalplusxtra.php</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 </item>
+
+
+<item>
+<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2014/03/latinomoviez.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+<item>
+<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES**[/COLOR]</title>
+<sportsdevil>http://www.latino4ever.com/2014/10/latinomoviez.html</sportsdevil>
+<referer>http://www.latino4ever.com/2014/10/latinomoviez.html</referer>
+</item>
+<item>
+<title>[COLOR yellow]LATINOMOVIEZLATNOSCANALES*Premiun*[/COLOR]</title>
+<sportsdevil>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</sportsdevil>
+<referer>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</referer>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]CINE CANAL LATNOSCANALES***[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2015/07/Cinecanal-hd.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+
+<item>
+<title>[COLOR orange]CINEMAX LATNOSCANALES[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/cinemax.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+<item>
+<title>[COLOR orange]CINEMAX LATNOSCANALES**[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemaxhd.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+<item>
+<title>[COLOR orange]CINEMAX LATNOSCANALES***[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemax.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+
+<item>
+<title>[COLOR orange]HBO latino***[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2014/03/Hbo-latino.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+
+<item>
+<title>[COLOR orange]HBO PLUS[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/hbo.html</sportsdevil>
+<referer>http://www.sasshamoviez.com/2014/04/hbo.html</referer>
+</item>
+<item>
+<title>[COLOR orange]HBO PLUS opcion2[/COLOR]</title>
+<sportsdevil>http://www.latino4ever.com/2014/10/hbo.html</sportsdevil>
+<referer>http://www.latino4ever.com/2014/10/hbo.html</referer>
+</item>
+
+<item>
+<title>[COLOR orange]MOVIE CITY[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/moviecity.html</sportsdevil>
+<referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
+</item>
+
 
