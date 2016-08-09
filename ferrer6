@@ -261,34 +261,33 @@
 <referer>http://cinestrenostv.tv</referer>
 </item>
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-1/frame-igua-lhttp://vipracing.us/channel/bein-es-a/frame</title>
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
 <sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/bein-es-a/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-2/frame-gual-http://vipracing.us/channel/opcion-8/frame</title>
+<referer>http://vipracing.us/channel/bein-es-a/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
 <sportsdevil>http://vipracing.us/channel/opcion-8/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-8/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-3/frame-igual-http://vipracing.us/channel/opcion-3a/frame</title>
+<referer>http://vipracing.us/channel/opcion-8/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
 <sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-3a/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-5/frame-igual-http://vipracing.us/channel/opcion-5a/frame</title>
+<referer>http://vipracing.us/channel/opcion-3a/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
 <sportsdevil>http://vipracing.us/channel/opcion-5a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-5a/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/opcion-8/frame-igual-http://vipracing.us/channel/opcion-8a/frame</title>
+<referer>http://vipracing.us/channel/opcion-5a/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
 <sportsdevil>http://vipracing.us/channel/opcion-8a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-8a/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/bein-es1/frame-igual-http://vipracing.us/channel/opcion-3a/frame</title>
+<referer>http://vipracing.us/channel/opcion-8a/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/bein-es1/frame-igual-channel/opcion-3a/frame</title>
 <sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-3a/frame</referer>
-</item>
-<item><title>[COLOR orange][Sportsdevil][/COLOR]http://vipracing.us/channel/bein-es/frame-igual-http://vipracing.us/channel/bein-es-a/frame</title>
+<referer>http://vipracing.us/channel/opcion-3a/frame</referer></item>
+
+<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/bein-es/frame-igual-channel/bein-es-a/frame</title>
 <sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/bein-es-a/frame</referer>
-</item>
+<referer>http://vipracing.us/channel/bein-es-a/frame</referer></item>
 
 <tem>
 <title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
