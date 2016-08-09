@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR orange]boadcast[/COLOR]</title>
+
+<item><title>[COLOR orange]boadcast[/COLOR]</title>
 <sportsdevil>http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1</sportsdevil>
-<referer>http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1</referer>
+<referer>http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1</referer></item>
+
+<item><title>[COLOR lightblue]Rio 2016[/COLOR]</title>
+<link>http://rtmp1.ninacdn.com/gstreamstv123/gstreamstv123/playlist.m3u8</link></item>
+
+
+<item>
+<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] SinTele[/B][/COLOR]  [COLOR lightslategray]UnivisionDeportes:  [/COLOR] </title>
+<link>$doregex[get-decode]</link>
+<regex>
+<name>get-decode</name>
+<expres>file: "(.*?)",</expres>
+<page>http://widestream.io/embed-488</page>
+</regex>		
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
+
 
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime][/COLOR]</title>
