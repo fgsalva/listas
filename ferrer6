@@ -260,8 +260,7 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 </item>
-
-<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
+<item><title>[COLOR orange][OPCION 1][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -270,7 +269,7 @@
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
+<item><title>[COLOR orange][OPCION  2][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -279,7 +278,7 @@
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
+<tem><title>[COLOR orange][OPCION 3 ][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -315,154 +314,6 @@
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION][/COLOR]channel/bein-es/frame-igual-channel/bein-es-a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<tem>
-<title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<tem>
-<title>[COLOR yellow] VIPRACING 01hd[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1hd frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-1hd/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<tem>
-<title>[COLOR yellow]VIPRACING 02[/COLOR][COLOR dodgerblue] (Bein ñ)opcion-2 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<tem>
-<title>[COLOR yellow]VIPRACING 03[/COLOR][COLOR dodgerblue] opcion-3a frame ok[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING 04[/COLOR][COLOR dodgerblue]goltv  opcion-4 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-4/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<tem>
-<title>[COLOR yellow]VIPRACING 05[/COLOR][COLOR dodgerblue]bein1hd opcion-5 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-5/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING 05[/COLOR][COLOR dodgerblue]bein1hd opcion-5a vipracing.us/channel/opcion-5a/frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-5a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-
-<tem>
-<title>[COLOR yellow]VIPRACING 06[/COLOR][COLOR dodgerblue] opcion-6 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-6/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<item>
-<item>
-<title>[COLOR yellow]VIPRACING 06[/COLOR][COLOR dodgerblue] opcion-6a vipracing.us/channel/opcion-6a/frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-6a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<tem>
-<title>[COLOR yellow]VIPRACING 07[/COLOR][COLOR dodgerblue] opcion-7a frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-7a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<tem>
-<title>[COLOR yellow]VIPRACING 08[/COLOR][COLOR dodgerblue] opcion-8 frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-<item>
-<title>[COLOR yellow]VIPRACING 08[/COLOR][COLOR dodgerblue] opcion-8A frame vipracing.us/channel/opcion-8a/frame"[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item> 
-
-<tem>
-<title>[COLOR yellow]VIPRACING 09[/COLOR][COLOR dodgerblue] opcion-9a frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-9a/frame')</expres>
-<page></page>
-</regex>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<tem>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es)[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es-a)vipracing.us/channel/bein-es-a/frame[/COLOR]</title>
@@ -475,7 +326,7 @@
 <thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 
-<tem>
+<item>
 <title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -484,16 +335,6 @@
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
-
-<tem>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es1) SDFRAME**[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
 
 <item>
 <title>[COLOR green]VIPRACING[/COLOR][COLOR dodgerblue] FOX1SPORT FRAME[/COLOR]</title>
@@ -562,54 +403,10 @@
 <page></page></regex></item>
 
 <item>
-<title>[COLOR yellow]VIPRACING[/COLOR]VIP08 EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]VIP09 EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72001',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]VIP10 EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72002',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]VIP11 EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71391',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]SKY1HD EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68713',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]USA NETWORK EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73724',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
 <title>[COLOR yellow]VIPRACING[/COLOR]FS 1 streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.us/')</expres>
 <page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPERCING[/COLOR] ESPN (USA) streamlive**</title>
-<link>$doregex[url]</link><regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
 <item>
 <title>[COLOR yellow]Bein Sport [/COLOR] streamlive VIP**</title>
 <thumbnail></thumbnail>
@@ -622,76 +419,6 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR yellow]ESPN 2 HD [/COLOR] streamlive**</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=57977',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]FS1 [/COLOR]streamlive**</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]ESPN HD [/COLOR] streamlive</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]NBC SPORT NETWORK [/COLOR]streamlive VIP</title>
-<thumbnail></thumbnail><fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=64232',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]EUROSPORT 1 HD [/COLOR]streamlive</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68723',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]EUROSPORT 2 HD[/COLOR] streamlive</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68724',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
 
 
 <item>
@@ -706,42 +433,6 @@
 </regex>
 </item>
 </item>
-<item>
-<title>[COLOR lightblue]ESPN *ES*[/COLOR][COLOR green][I]ilive* VIP no funciona[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72401',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
-</item>
-<item>
-<title>[COLOR lightblue]DIRECTV SLIVE[/COLOR][COLOR green][I]ilive VIP no funciona[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72001',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
-<item>
-<title>[COLOR lightblue]1HD BEINDIREC[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
-<item>
-<title>[COLOR lightblue]ESPN USA SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
 
 <item>
 <title>[COLOR lightblue]C1ANAL+FUTBOL SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
@@ -749,14 +440,6 @@
 <regex>	
 <name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68720',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR lightblue]GOOL CARACOL[/COLOR](colombia)[COLOR green][I]ilive*VIP8*[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.us/')</expres>
 <page></page></regex></item>
 
 
@@ -772,19 +455,6 @@
 </item>	
 
 <item>
-<title>[COLOR green]TYC ARGENTINA 35 m3u[/COLOR]</title>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8</link>
-</item>
-<item>	
-<title>[COLOR lightgreen]TYC  ARGENTINA 3CUATRO RTMP[/COLOR]</title>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow]c1anal+ Liga [/COLOR][COLOR red]iguide[/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 <thumbnail>http://i739.photobucket.com/albums/xx33/catoal/CanalLiga.jpg</thumbnail>
@@ -793,11 +463,6 @@
 <item>
  <title>[COLOR yellow]B1ein España[/COLOR][COLOR red]iguide[/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-</item>
-
-<item>
-<title>[COLOR yellow]Max Deportes 1[/COLOR][COLOR red]iguide[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel32532&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 </item>
 
 
@@ -833,16 +498,6 @@
 <title>[COLOR deepskyblue]DXTV HD m3u8 [/COLOR]</title>
 <link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
 <thumbnail>logo.logo.logo</thumbnail></item>
-
-<item>
-<title>[COLOR deepskyblue]TV Publica m3u8 360**[/COLOR]</title>
-<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_360p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]TV Publica m3u8 480**[/COLOR]</title>
-<link>http://prepublish.f.qaotic.net/epb/c7live01-20034_480p/Playlist.m3u8|Referer=http://vmf.edge-apps.net</link>
-</item>
 
 <item>
 <title>[COLOR deepskyblue]Deportes TN M3U8[/COLOR]</title>
@@ -888,7 +543,6 @@
 <sportsdevil>http://cricfree.sx/premier-sports-live-stream</sportsdevil>
 <referer>referer=http://yotv.co/</referer>
 </item>
-
 
 <item>
 <title>Estrenos</title>
@@ -1124,28 +778,70 @@
 <item>
 
 <item>
-<title>[COLOR yellow]UTDN [/COLOR][COLOR red]RivoSport[/COLOR]</title>
-<sportsdevil>http://rivosportt.info/x1.html</sportsdevil>
-<referer>http://rivosportt.info/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]FS1[/COLOR]</title>
-<sportsdevil>http://wizhdsports.com/live/stream1.php</sportsdevil>
-<referer>http://wizhdsports.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR blue]FS1 **[/COLOR]</title>
 <sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
 <referer>http://americatvstream.blogspot.com/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR blue]FS1 **BLOG2[/COLOR]</title>
+<sportsdevil>http://americatvstream.blogspot.com/p/canal-2.html</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]FS1 **BLOG3[/COLOR]</title>
+<sportsdevil>http://americatvstream.blogspot.com/p/canal-3.html</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]BT1 **BLOG3[/COLOR]</title>
+<sportsdevil>http://americatvstream.blogspot.com/2016/05/bt-sport-1-en-vivo-por-internet.html</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]BT2 **BLOG3[/COLOR]</title>
+<sportsdevil>http://americatvstream.blogspot.com/2016/05/bt-sport-2-en-vivo-por-internet.html</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]BT2 **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=btsport2</sportsdevil>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]FOX SPORT1**BLOG3[/COLOR]</title>
+<sportsdevil>http://embed.latino-webtv.com/foxsports.html</sportsdevil>
+<referer>http://embed.latino-webtv.com/foxsports.html</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]FOX SPORT1**BLOG3[/COLOR]</title>
+<sportsdevil>http://latino-webtv.com/embed/canales.php?ch=522&amp;sd=si&amp;name=foxsports</sportsdevil>
+<referer>http://latino-webtv.com/embed/canales.php?ch=522&amp;sd=si&amp;name=foxsports</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+
+
+
+
+
 
 
 <item>
