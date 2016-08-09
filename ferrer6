@@ -529,7 +529,18 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
  <title>[COLOR yellow]B1ein España[/COLOR][COLOR red]iguide[/COLOR]</title>
 <link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 </item>
-
+<item>
+<title>[COLOR yellow]aye[/COLOR][COLOR red]iguide[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=v8b160709a1s6fa   swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+</item>
+<item>
+<title>[COLOR yellow]a y e[/COLOR][COLOR red]iguide rtmp[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=v8b160709a1s6fa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32839&autoplay=true</link>
+</item>
+<item>
+<title>[COLOR yellow]andfutbolabajo[/COLOR][COLOR red]iguide rtmp[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=s8eylqrctaqgobm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=33766&autoplay=true</link>
+</item>
 <item>
 <title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
