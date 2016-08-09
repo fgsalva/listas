@@ -821,29 +821,57 @@
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-
 <item>
-<title>[COLOR blue]FOX SPORT1**BLOG3[/COLOR]</title>
-<sportsdevil>http://embed.latino-webtv.com/foxsports.html</sportsdevil>
-<referer>http://embed.latino-webtv.com/foxsports.html</referer>
+<title>[COLOR blue]BTEUROPA **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=bteurope</sportsdevil>
+<referer>http://streamking.cc/player?channel=bteurope</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 <item>
-<title>[COLOR blue]FOX SPORT1**BLOG3[/COLOR]</title>
-<sportsdevil>http://latino-webtv.com/embed/canales.php?ch=522&amp;sd=si&amp;name=foxsports</sportsdevil>
-<referer>http://latino-webtv.com/embed/canales.php?ch=522&amp;sd=si&amp;name=foxsports</referer>
+<title>[COLOR blue]SETANTA **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=setantasport</sportsdevil>
+<referer>http://streamking.cc/player?channel=setantasport</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR blue]PREMIER **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=premiersport</sportsdevil>
+<referer>http://streamking.cc/player?channel=premiersport</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
 
-
-
-
-
-
-
+<item>
+<title>[COLOR blue]VIASAT FUT **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=viasatfootball</sportsdevil>
+<referer>http://streamking.cc/player?channel=viasatfootball</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]ARENA1 FUT **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena1</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena1</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]ARENA2 FUT **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena2</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena2</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
+<title>[COLOR blue]ARENA3 FUT **BLOG3[/COLOR]</title>
+<sportsdevil>http://streamking.cc/player?channel=arena3</sportsdevil>
+<referer>http://streamking.cc/player?channel=arena3</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
 <item>
 <title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
 <sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
