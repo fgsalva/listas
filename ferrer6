@@ -261,33 +261,68 @@
 <referer>http://cinestrenostv.tv</referer>
 </item>
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
-<sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/bein-es-a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
-<sportsdevil>http://vipracing.us/channel/opcion-8/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-8/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
-<sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-3a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
-<sportsdevil>http://vipracing.us/channel/opcion-5a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-5a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-5a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
-<sportsdevil>http://vipracing.us/channel/opcion-8a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-8a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/bein-es1/frame-igual-channel/opcion-3a/frame</title>
-<sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/opcion-3a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/bein-es1/frame-igual-channel/opcion-3a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][Sportsdevil][/COLOR]channel/bein-es/frame-igual-channel/bein-es-a/frame</title>
-<sportsdevil>http://vipracing.us/channel/bein-es-a/frame</sportsdevil>
-<referer>http://vipracing.us/channel/bein-es-a/frame</referer></item>
+<item><title>[COLOR orange][OPCION][/COLOR]channel/bein-es/frame-igual-channel/bein-es-a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
 
 <tem>
 <title>[COLOR yellow] VIPRACING 01[/COLOR] [COLOR dodgerblue]BeIN ñ opcion-1 frame[/COLOR]</title>
