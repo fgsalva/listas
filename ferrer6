@@ -14,15 +14,13 @@
 <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
 
-
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime][/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
             <referer>http://tvpor-internet.com/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
             </item>               
-  
-  <item>
+    <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO Latino[COLOR red]  [/COLOR]</title>
             <sportsdevil>http://www.moviespremiumhd.com/2016/01/Hbo-Latino.html</sportsdevil>
             <referer>http://www.moviespremiumhd.com/</referer>
@@ -296,9 +294,19 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 			<referer>http://www.zony.tv</referer>
 			</regex>
 <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>	
+</item>
+
+
 <item>
-<title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<title>[COLOR yellow]ZONA ESPORT3[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=3</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
 <sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
@@ -306,7 +314,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport[/COLOR]</title>
+<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
 <sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
 <referer>http://www.zonasports.me</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
