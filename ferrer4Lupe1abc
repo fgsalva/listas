@@ -26,14 +26,16 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34***FerrerList**CowboysHijodePutaLadron
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD 1 STREAM2 *Ferrerlist
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD1 STREAM2 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGROSports HD 2 STREAM2 *Ferrerlist
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGROSports HD2 STREAM2 *Ferrerlist
 http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD 3 STREAM2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD3 STREAM2
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Claro Sports HD 4 STREAM2 *Ferrerlist
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD4 STREAM2 *Ferrerlist
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(02)/index.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 2 STREAM3 *Ferrerlist
@@ -42,13 +44,14 @@ http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo201
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 4 STREAM3 *Ferrerlist 
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM4 *Ferrerlist
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_1 STREAM4 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 2 STREAM3 *Ferrerlist
-http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 3 STREAM3 *Ferrerlist
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_2 STREAM4 *Ferrerlist
+http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_3 STREAM4 *Ferrerlist
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 4 STREAM3 *Ferrerlist
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_4 STREAM4 *Ferrerlist
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**CowboysHijodePutaLadron
