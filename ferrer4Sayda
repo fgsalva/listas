@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1***FerrerList**
+http://0.0.0.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
@@ -27,8 +29,100 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34***FerrerList**CowboysHijodePutaLadron
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO MASTR OOYALA
+http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/master.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD1 STREAM2 *Ferrerlist
+http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGROSports HD2 STREAM2 *Ferrerlist
+http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD3 STREAM2
+http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD4 STREAM2 *Ferrerlist
+http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD5 STREAM2 *Ferrerlist
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD6 STREAM2 *Ferrerlist
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD7 STREAM2 *Ferrerlist
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD8 STREAM2 *Ferrerlist
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD9 STREAM2 *Ferrerlist
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD10 STREAM2 *Ferrerlist
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD11 STREAM2 *Ferrerlist
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD12 STREAM2 *Ferrerlist
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD13 STREAM2 *Ferrerlist
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD14 STREAM2 *Ferrerlist
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
+http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 2 STREAM3 *Ferrerlist
+http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 3 STREAM3
+http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 4 STREAM3 *Ferrerlist 
+http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 5 STREAM3 *Ferrerlist 
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 6 STREAM3 *Ferrerlist 
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 7 STREAM3 *Ferrerlist 
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 8 STREAM3 *Ferrerlist 
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 9 STREAM3 *Ferrerlist 
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 10 STREAM3 *Ferrerlist 
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 11 STREAM3 *Ferrerlist 
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 12 STREAM3 *Ferrerlist 
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 13 STREAM3 *Ferrerlist 
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 14 STREAM3 *Ferrerlist 
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_1 STREAM4 *Ferrerlist
+http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_2 STREAM4 *Ferrerlist
+http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_3 STREAM4 *Ferrerlist
+http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_4 STREAM4 *Ferrerlist
+http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_5 STREAM4 *Ferrerlist
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_6 STREAM6 *Ferrerlist
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_7 STREAM6 *Ferrerlist
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_8 STREAM6 *Ferrerlist
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_9 STREAM6 *Ferrerlist
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_10 STREAM6 *Ferrerlist
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_11 STREAM6 *Ferrerlist
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_12 STREAM6 *Ferrerlist
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_13 STREAM6 *Ferrerlist
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_14 STREAM6 *Ferrerlist
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(04)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****telemunddo *** ***FerrerList**CowboysHijodePutaLadron
+http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Nova Espanas index2***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master***FerrerList**CowboysHijodePutaLadron
@@ -41,6 +135,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 INDEX3 SD***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 Master***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
@@ -455,269 +550,6 @@ rtmp://118.97.183.196/jhos//kbs
 #EXTINF:0, K1orean Drama (ENG)a***FerrerList**CowboysHijodePutaLadron
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TOTALPLAY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AZ NOTICIAS***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AZTECA 7 ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",El Trece***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",4C HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Az Corazon***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Canal 2 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AZ CLICK***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL103/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Foro TV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Canal 5 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",7 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Gala TV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Once TV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TRECE HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Proyecto 40 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cadena 3***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL143/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",UNOMASUNO***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL145/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TeleFórmula***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Multimedios Monterrey***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",H***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",SONY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",WARNER HD ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",UNIVERSAL HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FX HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",A&E***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AXN HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TRUE TV HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",COMEDY CENTRAL***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",UniCable HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Azteca Corazon***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u81
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",BBC***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",E!***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Universal Channel ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",SYFY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FX ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",I.D ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TNT Series ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",GOURMET***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",El Garage***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",GLITZ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX Life ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISTRITO COMEDIA***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TBS***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Casa ClubTv ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL274/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TELENOVELAS***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AZMUNDO***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8 
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISCOVERY KIDS***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cbeebies***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISNEY JR***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",NICK JR***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISNEY CHANNEL***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Nick Toons***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",NICK HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",NICK***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",CARTOON NETWORK***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISNEY XD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",BOOMERANG***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TIIN***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TOONCAST***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISCOVERY HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",HISTORY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",NAT GEO WILD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Discovery World HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",DISCOVERY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",ANIMAL PLANET***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",H&H Discovery***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",NAT GEO***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",LIFETIME***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Discovery Science***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Discovery Civilization***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Discovery Turbo***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TLC ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",WOBI***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Fox 1 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Fox 1 HD_SD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX Action HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX Movies HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Fox Cinema***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Fox Classics***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AZ CINEMA CANAL425***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cine Canal ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TNT HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Golden HD ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Film Zone HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",De Pelicula HD ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AMC HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Space HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX CINEMA***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX FAMILY***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL475/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX Classics ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cine Canal ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE05.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cine CanalSD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Cinemax ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TNT***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY", GOLDEN EDGE ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",AMC ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Space 2***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",UNIVERSAL STUDIO ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",I Sat ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",TCM***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",CANAL F***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",ESPN HD ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",ESPN3 ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX SPORTS ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",FOX SPORTS 2 ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",PX ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",ESPN ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",ESPN2 ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",M Y C Deportes ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Milenio ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Bloomberg***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Tve ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",MTV Live HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Telehit***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",VH1 HD***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",MTV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",MTV Hits***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",VH1 Classics***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Telemundo***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1873/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Tve ***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Hola TV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Fashion TV***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",MAS CHIC***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",SHE***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1978/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",EdoMex***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1899/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Televisa Deportes***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1902/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Música***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Canal***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL63/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY",Niños en inglés***FerrerList**CowboysHijodePutaLadron
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL309/PROFILE03.m3u8
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay2",TotalPlay***FerrerList**CowboysHijodePutaLadron
 http://mxl-iptv.cf/LIVE/H01/CANAL1/PROFILE03.m3u8
@@ -1092,235 +924,460 @@ http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 1***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TOTALPLAY***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL1/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AZ NOTICIAS***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL2/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Azteca 7***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL7/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",El Trece***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL13/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",4C HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL40/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Az Corazon***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL45/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Canal 2 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AZ CLIC***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL103/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Foro TV***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Canal 5 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",7 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Gala TV***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",once TV***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TRECE HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Proyecto 40 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Cadena 3***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL143/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",UNOMASUNO***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL145/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TeleFórmula***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL161/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Multimedios Monterrey***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",H***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL169/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Sony***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",WARNER HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",UNIVERSAL HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FX HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",A&E***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AXN HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TRUTV HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",COMEDY CENTRAL***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",UniCable HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Azteca Corazon***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL250/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",BBC***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL253/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",E!***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Universal Channel***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",SYFY***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FX***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",I.D***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TNT Series***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",GOURMET***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",El Garage***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL269/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",GLITZ***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX Life***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISTRITO COMEDIA***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TBS***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Casa ClubTv***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL274/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TELENOVELAS***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AZMUNDO***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL276/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISCOVERY KIDS***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Cbeebies***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISNEY JR***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL308/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",NICK JR***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISNEY CHANNEL***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Nick Toons***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL314/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",NICK HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",NICK***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",CARTOON NETWORK***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL320/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISNEY XD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",BOOMERANG***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL324/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TIIN***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL325/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TOONCAST***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL328/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISCOVERY HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",HISTORY***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",NAT GEO WILD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Discovery World HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",DISCOVERY***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",ANIMAL PLANET***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",H&H Discovery***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",NAT GEO***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",LIFETIME***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Discovery Science***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Discovery Civilization***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Discovery Turbo***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TLC***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",WOBI***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Fox 1 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX Action HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX Movies HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Fox Cinema***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Fox Classics***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Cine Canal***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TNT HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Golden HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Film Zone HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",De Pelicula HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AMC HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Space HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX CINEMA***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL472/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX FAMILY***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL475/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX Classics***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL478/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Cine Canal***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Cinemax***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TNT***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191", GOLDEN EDGE***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",AMC***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Space 2***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",UNIVERSAL STUDIO***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",I Sat***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL495/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",TCM***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",CANAL F***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL511/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",ESPN HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",ESPN3***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX SPORTS***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",FOX SPORTS 2***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",PX***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",ESPN***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",ESPN2***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Deportes***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL576/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Milenio***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Bloomberg***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL610/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Tve***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV Live HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",Telehit***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",VH1 HD***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TP107191",MTV Hit***FerrerList**CowboysHijodePutaLadron
-http://107.191.109.146/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Canal 2 HD
+http://s4.latino-webtv.ml/live/CANAL102/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AZ CLICK
+http://s4.latino-webtv.ml/live/CANAL103/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Foro TV
+http://s4.latino-webtv.ml/live/CANAL104/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Canal 5 HD
+http://s4.latino-webtv.ml/live/CANAL105/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",7 HD
+http://s4.latino-webtv.ml/live/CANAL107/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Gala TV
+http://s4.latino-webtv.ml/live/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Once TV
+http://s4.latino-webtv.ml/live/CANAL111/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TRECE HD
+http://s4.latino-webtv.ml/live/CANAL113/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Proyecto 40 HD
+http://s4.latino-webtv.ml/live/CANAL140/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Cadena 3
+http://s4.latino-webtv.ml/live/CANAL143/PROFILE03.m3u
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",UNOMASUNO
+http://s4.latino-webtv.ml/live/CANAL145/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TeleFórmula
+http://s4.latino-webtv.ml/live/CANAL161/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Multimedios Monterrey
+http://s4.latino-webtv.ml/live/CANAL167/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",H
+http://s4.latino-webtv.ml/live/CANAL169/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX
+http://s4.latino-webtv.ml/live/CANAL201/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",SONY
+http://s4.latino-webtv.ml/live/CANAL203/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",WARNER HD
+http://s4.latino-webtv.ml/live/CANAL205/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",UNIVERSAL HD
+http://s4.latino-webtv.ml/live/CANAL207/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FX HD
+http://s4.latino-webtv.ml/live/CANAL209/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",A&E
+http://s4.latino-webtv.ml/live/CANAL211/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AXN HD
+http://s4.latino-webtv.ml/live/CANAL213/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TRUETV HD
+http://s4.latino-webtv.ml/live/CANAL215/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",COMEDY CENTRAL
+http://s4.latino-webtv.ml/live/CANAL217/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",UniCable HD
+http://s4.latino-webtv.ml/live/CANAL218/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Azteca Corazon
+http://s4.latino-webtv.ml/live/CANAL250/PROFILE03.m3u81
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX
+http://s4.latino-webtv.ml/live/CANAL251/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",BBC
+http://s4.latino-webtv.ml/live/CANAL253/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",E!
+http://s4.latino-webtv.ml/live/CANAL255/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Universal Channel
+http://s4.latino-webtv.ml/live/CANAL256/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",SYFY
+http://s4.latino-webtv.ml/live/CANAL257/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FX
+http://s4.latino-webtv.ml/live/CANAL258/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",I.D
+http://s4.latino-webtv.ml/live/CANAL263/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TNT Series
+http://s4.latino-webtv.ml/live/CANAL266/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",GOURMET
+http://s4.latino-webtv.ml/live/CANAL268/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",El Garage
+http://s4.latino-webtv.ml/live/CANAL269/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",GLITZ
+http://s4.latino-webtv.ml/live/CANAL270/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX Life
+http://s4.latino-webtv.ml/live/CANAL271/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISTRITO COMEDIA
+http://s4.latino-webtv.ml/live/CANAL272/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TBS
+http://s4.latino-webtv.ml/live/CANAL273/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Casa ClubTv
+http://s4.latino-webtv.ml/live/CANAL274/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TELENOVELAS
+http://s4.latino-webtv.ml/live/CANAL275/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AZMUNDO
+http://s4.latino-webtv.ml/live/CANAL276/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISCOVERY KID
+http://s4.latino-webtv.ml/live/CANAL303/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Cbeebies
+http://s4.latino-webtv.ml/live/CANAL305/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISNEY JR
+http://s4.latino-webtv.ml/live/CANAL308/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",NICK JR
+http://s4.latino-webtv.ml/live/CANAL310/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISNEY CHANNEL
+http://s4.latino-webtv.ml/live/CANAL312/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Nick Toons
+http://s4.latino-webtv.ml/live/CANAL314/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",NICK HD
+http://s4.latino-webtv.ml/live/CANAL315/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",NICK
+http://s4.latino-webtv.ml/live/CANAL317/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",CARTOON NETWORK
+http://s4.latino-webtv.ml/live/CANAL320/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISNEY XD
+http://s4.latino-webtv.ml/live/CANAL322/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",BOOMERANG
+http://s4.latino-webtv.ml/live/CANAL324/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TIIN
+http://s4.latino-webtv.ml/live/CANAL325/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TOONCAST
+http://s4.latino-webtv.ml/live/CANAL328/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISCOVERY HD
+http://s4.latino-webtv.ml/live/CANAL351/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",HISTORY
+http://s4.latino-webtv.ml/live/CANAL353/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",NAT GEO WILD
+http://s4.latino-webtv.ml/live/CANAL355/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Discovery World HD
+http://s4.latino-webtv.ml/live/CANAL356/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",DISCOVERY
+http://s4.latino-webtv.ml/live/CANAL371/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",ANIMAL PLANET
+http://s4.latino-webtv.ml/live/CANAL373/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",H&H Discovery
+http://s4.latino-webtv.ml/live/CANAL374/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",NAT GEO
+http://s4.latino-webtv.ml/live/CANAL377/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",LIFETIME
+http://s4.latino-webtv.ml/live/CANAL379/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Discovery Science
+http://s4.latino-webtv.ml/live/CANAL381/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Discovery Civilization
+http://s4.latino-webtv.ml/live/CANAL382/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Discovery Turbo
+http://s4.latino-webtv.ml/live/CANAL383/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TLC
+http://s4.latino-webtv.ml/live/CANAL386/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",WOBI
+http://s4.latino-webtv.ml/live/CANAL387/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Fox 1 HD
+http://s4.latino-webtv.ml/live/CANAL415/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX Action HD
+http://s4.latino-webtv.ml/live/CANAL416/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX Movies HD
+http://s4.latino-webtv.ml/live/CANAL417/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Fox Cinema
+http://s4.latino-webtv.ml/live/CANAL421/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Fox Classics
+http://s4.latino-webtv.ml/live/CANAL424/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Cine Canal
+http://s4.latino-webtv.ml/live/CANAL430/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TNT HD
+http://s4.latino-webtv.ml/live/CANAL435/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Golden HD
+http://s4.latino-webtv.ml/live/CANAL436/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Film Zone HD
+http://s4.latino-webtv.ml/live/CANAL440/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",De Pelicula HD
+http://s4.latino-webtv.ml/live/CANAL442/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AMC HD
+http://s4.latino-webtv.ml/live/CANAL444/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Space HD
+http://s4.latino-webtv.ml/live/CANAL445/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX CINEMA
+http://s4.latino-webtv.ml/live/CANAL472/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX FAMILY
+http://s4.latino-webtv.ml/live/CANAL475/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX Classics
+http://s4.latino-webtv.ml/live/CANAL478/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Cine Canal
+http://s4.latino-webtv.ml/live/CANAL480/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Cinemax
+http://s4.latino-webtv.ml/live/CANAL481/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TNT
+http://s4.latino-webtv.ml/live/CANAL482/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv", GOLDEN EDGE
+http://s4.latino-webtv.ml/live/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AMC
+http://s4.latino-webtv.ml/live/CANAL490/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Space 2
+http://s4.latino-webtv.ml/live/CANAL491/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",UNIVERSAL STUDIO
+http://s4.latino-webtv.ml/live/CANAL492/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",I Sat
+http://s4.latino-webtv.ml/live/CANAL495/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",TCM
+http://s4.latino-webtv.ml/live/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",CANAL F
+http://s4.latino-webtv.ml/live/CANAL511/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",ESPN HD
+http://s4.latino-webtv.ml/live/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",ESPN3
+http://s4.latino-webtv.ml/live/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX SPORTS
+http://s4.latino-webtv.ml/live/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",FOX SPORTS 2
+http://s4.latino-webtv.ml/live/CANAL527/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",PX
+http://s4.latino-webtv.ml/live/CANAL528/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",ESPN
+http://s4.latino-webtv.ml/live/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",ESPN2
+http://s4.latino-webtv.ml/live/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Deportes
+http://s4.latino-webtv.ml/live/CANAL576/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Milenio
+http://s4.latino-webtv.ml/live/CANAL603/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Bloomberg
+http://s4.latino-webtv.ml/live/CANAL610/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Tve
+http://s4.latino-webtv.ml/live/CANAL651/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",MTV Live HD
+http://s4.latino-webtv.ml/live/CANAL701/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Telehit
+http://s4.latino-webtv.ml/live/CANAL702/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",VH1 HD
+http://s4.latino-webtv.ml/live/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",MTV
+http://s4.latino-webtv.ml/live/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",MTV Hits
+http://s4.latino-webtv.ml/live/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",VH1 Classics
+http://s4.latino-webtv.ml/live/CANAL728/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TOTALPLAY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL1/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZ NOTICIAS
+http://185.141.24.7/LIVE/FOROCABLE/CANAL2/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZTECA 7
+http://185.141.24.7/LIVE/FOROCABLE/CANAL7/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",El Trece
+http://185.141.24.7/LIVE/FOROCABLE/CANAL13/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",4C HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL40/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Az Corazon
+http://185.141.24.7/LIVE/FOROCABLE/CANAL45/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Canal 2 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL102/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZ CLICK
+http://185.141.24.7/LIVE/FOROCABLE/CANAL103/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Foro TV
+http://185.141.24.7/LIVE/FOROCABLE/CANAL104/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Canal 5 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL105/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",7 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL107/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Gala TV
+http://185.141.24.7/LIVE/FOROCABLE/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Once TV
+http://185.141.24.7/LIVE/FOROCABLE/CANAL111/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TRECE HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL113/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Proyecto 40 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL140/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cadena 3
+http://185.141.24.7/LIVE/FOROCABLE/CANAL143/PROFILE03.m3u
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNOMASUNO
+http://185.141.24.7/LIVE/FOROCABLE/CANAL145/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TeleFórmula
+http://185.141.24.7/LIVE/FOROCABLE/CANAL161/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Multimedios Monterrey
+http://185.141.24.7/LIVE/FOROCABLE/CANAL167/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",H
+http://185.141.24.7/LIVE/FOROCABLE/CANAL169/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX
+http://185.141.24.7/LIVE/FOROCABLE/CANAL201/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",SONY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL203/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",WARNER HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL205/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNIVERSAL HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL207/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FX HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL209/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",A&E
+http://185.141.24.7/LIVE/FOROCABLE/CANAL211/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AXN HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL213/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TRUETV HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL215/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",COMEDY CENTRAL
+http://185.141.24.7/LIVE/FOROCABLE/CANAL217/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UniCable HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL218/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Azteca Corazon
+http://185.141.24.7/LIVE/FOROCABLE/CANAL250/PROFILE03.m3u81
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX
+http://185.141.24.7/LIVE/FOROCABLE/CANAL251/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",BBC
+http://185.141.24.7/LIVE/FOROCABLE/CANAL253/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",E!
+http://185.141.24.7/LIVE/FOROCABLE/CANAL255/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Universal Channel
+http://185.141.24.7/LIVE/FOROCABLE/CANAL256/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",SYFY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL257/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FX
+http://185.141.24.7/LIVE/FOROCABLE/CANAL258/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",I.D
+http://185.141.24.7/LIVE/FOROCABLE/CANAL263/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT Series
+http://185.141.24.7/LIVE/FOROCABLE/CANAL266/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",GOURMET
+http://185.141.24.7/LIVE/FOROCABLE/CANAL268/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",El Garage
+http://185.141.24.7/LIVE/FOROCABLE/CANAL269/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",GLITZ
+http://185.141.24.7/LIVE/FOROCABLE/CANAL270/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Life
+http://185.141.24.7/LIVE/FOROCABLE/CANAL271/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISTRITO COMEDIA
+http://185.141.24.7/LIVE/FOROCABLE/CANAL272/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TBS
+http://185.141.24.7/LIVE/FOROCABLE/CANAL273/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Casa ClubTv
+http://185.141.24.7/LIVE/FOROCABLE/CANAL274/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TELENOVELAS
+http://185.141.24.7/LIVE/FOROCABLE/CANAL275/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZMUNDO
+http://185.141.24.7/LIVE/FOROCABLE/CANAL276/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY KID
+http://185.141.24.7/LIVE/FOROCABLE/CANAL303/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cbeebies
+http://185.141.24.7/LIVE/FOROCABLE/CANAL305/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY JR
+http://185.141.24.7/LIVE/FOROCABLE/CANAL308/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK JR
+http://185.141.24.7/LIVE/FOROCABLE/CANAL310/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY CHANNEL
+http://185.141.24.7/LIVE/FOROCABLE/CANAL312/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Nick Toons
+http://185.141.24.7/LIVE/FOROCABLE/CANAL314/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL315/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK
+http://185.141.24.7/LIVE/FOROCABLE/CANAL317/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",CARTOON NETWORK
+http://185.141.24.7/LIVE/FOROCABLE/CANAL320/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY XD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL322/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",BOOMERANG
+http://185.141.24.7/LIVE/FOROCABLE/CANAL324/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TIIN
+http://185.141.24.7/LIVE/FOROCABLE/CANAL325/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TOONCAST
+http://185.141.24.7/LIVE/FOROCABLE/CANAL328/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL351/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",HISTORY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL353/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NAT GEO WILD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL355/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery World HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL356/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL371/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ANIMAL PLANET
+http://185.141.24.7/LIVE/FOROCABLE/CANAL373/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",H&H Discovery
+http://185.141.24.7/LIVE/FOROCABLE/CANAL374/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NAT GEO
+http://185.141.24.7/LIVE/FOROCABLE/CANAL377/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",LIFETIME
+http://185.141.24.7/LIVE/FOROCABLE/CANAL379/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Science
+http://185.141.24.7/LIVE/FOROCABLE/CANAL381/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Civilization
+http://185.141.24.7/LIVE/FOROCABLE/CANAL382/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Turbo
+http://185.141.24.7/LIVE/FOROCABLE/CANAL383/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TLC
+http://185.141.24.7/LIVE/FOROCABLE/CANAL386/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",WOBI
+http://185.141.24.7/LIVE/FOROCABLE/CANAL387/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox 1 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL415/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Action HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL416/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Movies HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL417/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox Cinema
+http://185.141.24.7/LIVE/FOROCABLE/CANAL421/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox Classics
+http://185.141.24.7/LIVE/FOROCABLE/CANAL424/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cine Canal
+http://185.141.24.7/LIVE/FOROCABLE/CANAL430/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL435/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Golden HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL436/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Film Zone HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL440/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",De Pelicula HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL442/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AMC HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL444/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Space HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL445/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX CINEMA
+http://185.141.24.7/LIVE/FOROCABLE/CANAL472/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX FAMILY
+http://185.141.24.7/LIVE/FOROCABLE/CANAL475/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Classics
+http://185.141.24.7/LIVE/FOROCABLE/CANAL478/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cine Canal
+http://185.141.24.7/LIVE/FOROCABLE/CANAL480/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cinemax
+http://185.141.24.7/LIVE/FOROCABLE/CANAL481/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT
+http://185.141.24.7/LIVE/FOROCABLE/CANAL482/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro", GOLDEN EDGE
+http://185.141.24.7/LIVE/FOROCABLE/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AMC
+http://185.141.24.7/LIVE/FOROCABLE/CANAL490/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Space 2
+http://185.141.24.7/LIVE/FOROCABLE/CANAL491/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNIVERSAL STUDIO
+http://185.141.24.7/LIVE/FOROCABLE/CANAL492/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",I Sat
+http://185.141.24.7/LIVE/FOROCABLE/CANAL495/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TCM
+http://185.141.24.7/LIVE/FOROCABLE/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",CANAL F
+http://185.141.24.7/LIVE/FOROCABLE/CANAL511/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN3
+http://185.141.24.7/LIVE/FOROCABLE/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX SPORTS
+http://185.141.24.7/LIVE/FOROCABLE/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX SPORTS 2
+http://185.141.24.7/LIVE/FOROCABLE/CANAL527/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",PX
+http://185.141.24.7/LIVE/FOROCABLE/CANAL528/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN
+http://185.141.24.7/LIVE/FOROCABLE/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN2
+http://185.141.24.7/LIVE/FOROCABLE/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Deportes
+http://185.141.24.7/LIVE/FOROCABLE/CANAL576/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Milenio
+http://185.141.24.7/LIVE/FOROCABLE/CANAL603/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Bloomberg
+http://185.141.24.7/LIVE/FOROCABLE/CANAL610/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Tve
+http://185.141.24.7/LIVE/FOROCABLE/CANAL651/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV Live HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL701/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Telehit
+http://185.141.24.7/LIVE/FOROCABLE/CANAL702/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",VH1 HD
+http://185.141.24.7/LIVE/FOROCABLE/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV
+http://185.141.24.7/LIVE/FOROCABLE/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV Hits
+http://185.141.24.7/LIVE/FOROCABLE/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",VH1 Classics
+http
