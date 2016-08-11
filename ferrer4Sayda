@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1***FerrerList**
-http://0.0.0.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
