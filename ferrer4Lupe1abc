@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1***FerrerList**
-http://0.0.0.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
@@ -1147,237 +1145,135 @@ http://s4.latino-webtv.ml/live/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",VH1 Classics
 http://s4.latino-webtv.ml/live/CANAL728/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TOTALPLAY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL1/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZ NOTICIAS
-http://185.141.24.7/LIVE/FOROCABLE/CANAL2/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZTECA 7
-http://185.141.24.7/LIVE/FOROCABLE/CANAL7/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",El Trece
-http://185.141.24.7/LIVE/FOROCABLE/CANAL13/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",4C HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL40/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Az Corazon
-http://185.141.24.7/LIVE/FOROCABLE/CANAL45/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Canal 2 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL102/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZ CLICK
-http://185.141.24.7/LIVE/FOROCABLE/CANAL103/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Foro TV
-http://185.141.24.7/LIVE/FOROCABLE/CANAL104/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Canal 5 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL105/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",7 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Gala TV
-http://185.141.24.7/LIVE/FOROCABLE/CANAL109/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Once TV
-http://185.141.24.7/LIVE/FOROCABLE/CANAL111/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TRECE HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL113/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Proyecto 40 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL140/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cadena 3
-http://185.141.24.7/LIVE/FOROCABLE/CANAL143/PROFILE03.m3u
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNOMASUNO
-http://185.141.24.7/LIVE/FOROCABLE/CANAL145/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TeleFórmula
-http://185.141.24.7/LIVE/FOROCABLE/CANAL161/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Multimedios Monterrey
-http://185.141.24.7/LIVE/FOROCABLE/CANAL167/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",H
-http://185.141.24.7/LIVE/FOROCABLE/CANAL169/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX
-http://185.141.24.7/LIVE/FOROCABLE/CANAL201/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",SONY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL203/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",WARNER HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL205/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNIVERSAL HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL207/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FX HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL209/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",A&E
-http://185.141.24.7/LIVE/FOROCABLE/CANAL211/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AXN HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL213/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TRUETV HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL215/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",COMEDY CENTRAL
-http://185.141.24.7/LIVE/FOROCABLE/CANAL217/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UniCable HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL218/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Azteca Corazon
-http://185.141.24.7/LIVE/FOROCABLE/CANAL250/PROFILE03.m3u81
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX
-http://185.141.24.7/LIVE/FOROCABLE/CANAL251/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",BBC
-http://185.141.24.7/LIVE/FOROCABLE/CANAL253/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",E!
-http://185.141.24.7/LIVE/FOROCABLE/CANAL255/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Universal Channel
-http://185.141.24.7/LIVE/FOROCABLE/CANAL256/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",SYFY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL257/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FX
-http://185.141.24.7/LIVE/FOROCABLE/CANAL258/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",I.D
-http://185.141.24.7/LIVE/FOROCABLE/CANAL263/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT Series
-http://185.141.24.7/LIVE/FOROCABLE/CANAL266/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",GOURMET
-http://185.141.24.7/LIVE/FOROCABLE/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",El Garage
-http://185.141.24.7/LIVE/FOROCABLE/CANAL269/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",GLITZ
-http://185.141.24.7/LIVE/FOROCABLE/CANAL270/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Life
-http://185.141.24.7/LIVE/FOROCABLE/CANAL271/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISTRITO COMEDIA
-http://185.141.24.7/LIVE/FOROCABLE/CANAL272/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TBS
-http://185.141.24.7/LIVE/FOROCABLE/CANAL273/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Casa ClubTv
-http://185.141.24.7/LIVE/FOROCABLE/CANAL274/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TELENOVELAS
-http://185.141.24.7/LIVE/FOROCABLE/CANAL275/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AZMUNDO
-http://185.141.24.7/LIVE/FOROCABLE/CANAL276/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY KID
-http://185.141.24.7/LIVE/FOROCABLE/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cbeebies
-http://185.141.24.7/LIVE/FOROCABLE/CANAL305/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY JR
-http://185.141.24.7/LIVE/FOROCABLE/CANAL308/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK JR
-http://185.141.24.7/LIVE/FOROCABLE/CANAL310/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY CHANNEL
-http://185.141.24.7/LIVE/FOROCABLE/CANAL312/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Nick Toons
-http://185.141.24.7/LIVE/FOROCABLE/CANAL314/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL315/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NICK
-http://185.141.24.7/LIVE/FOROCABLE/CANAL317/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",CARTOON NETWORK
-http://185.141.24.7/LIVE/FOROCABLE/CANAL320/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISNEY XD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL322/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",BOOMERANG
-http://185.141.24.7/LIVE/FOROCABLE/CANAL324/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TIIN
-http://185.141.24.7/LIVE/FOROCABLE/CANAL325/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TOONCAST
-http://185.141.24.7/LIVE/FOROCABLE/CANAL328/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",HISTORY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NAT GEO WILD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery World HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL356/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",DISCOVERY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL371/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ANIMAL PLANET
-http://185.141.24.7/LIVE/FOROCABLE/CANAL373/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",H&H Discovery
-http://185.141.24.7/LIVE/FOROCABLE/CANAL374/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",NAT GEO
-http://185.141.24.7/LIVE/FOROCABLE/CANAL377/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",LIFETIME
-http://185.141.24.7/LIVE/FOROCABLE/CANAL379/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Science
-http://185.141.24.7/LIVE/FOROCABLE/CANAL381/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Civilization
-http://185.141.24.7/LIVE/FOROCABLE/CANAL382/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Discovery Turbo
-http://185.141.24.7/LIVE/FOROCABLE/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TLC
-http://185.141.24.7/LIVE/FOROCABLE/CANAL386/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",WOBI
-http://185.141.24.7/LIVE/FOROCABLE/CANAL387/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox 1 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Action HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL416/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Movies HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL417/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox Cinema
-http://185.141.24.7/LIVE/FOROCABLE/CANAL421/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Fox Classics
-http://185.141.24.7/LIVE/FOROCABLE/CANAL424/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cine Canal
-http://185.141.24.7/LIVE/FOROCABLE/CANAL430/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL435/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Golden HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL436/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Film Zone HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL440/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",De Pelicula HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL442/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AMC HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL444/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Space HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL445/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX CINEMA
-http://185.141.24.7/LIVE/FOROCABLE/CANAL472/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX FAMILY
-http://185.141.24.7/LIVE/FOROCABLE/CANAL475/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX Classics
-http://185.141.24.7/LIVE/FOROCABLE/CANAL478/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cine Canal
-http://185.141.24.7/LIVE/FOROCABLE/CANAL480/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Cinemax
-http://185.141.24.7/LIVE/FOROCABLE/CANAL481/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TNT
-http://185.141.24.7/LIVE/FOROCABLE/CANAL482/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro", GOLDEN EDGE
-http://185.141.24.7/LIVE/FOROCABLE/CANAL484/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",AMC
-http://185.141.24.7/LIVE/FOROCABLE/CANAL490/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Space 2
-http://185.141.24.7/LIVE/FOROCABLE/CANAL491/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",UNIVERSAL STUDIO
-http://185.141.24.7/LIVE/FOROCABLE/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",I Sat
-http://185.141.24.7/LIVE/FOROCABLE/CANAL495/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",TCM
-http://185.141.24.7/LIVE/FOROCABLE/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",CANAL F
-http://185.141.24.7/LIVE/FOROCABLE/CANAL511/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL516/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN3
-http://185.141.24.7/LIVE/FOROCABLE/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX SPORTS
-http://185.141.24.7/LIVE/FOROCABLE/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",FOX SPORTS 2
-http://185.141.24.7/LIVE/FOROCABLE/CANAL527/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",PX
-http://185.141.24.7/LIVE/FOROCABLE/CANAL528/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN
-http://185.141.24.7/LIVE/FOROCABLE/CANAL558/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",ESPN2
-http://185.141.24.7/LIVE/FOROCABLE/CANAL561/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Deportes
-http://185.141.24.7/LIVE/FOROCABLE/CANAL576/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Milenio
-http://185.141.24.7/LIVE/FOROCABLE/CANAL603/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Bloomberg
-http://185.141.24.7/LIVE/FOROCABLE/CANAL610/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Tve
-http://185.141.24.7/LIVE/FOROCABLE/CANAL651/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV Live HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL701/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",Telehit
-http://185.141.24.7/LIVE/FOROCABLE/CANAL702/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",VH1 HD
-http://185.141.24.7/LIVE/FOROCABLE/CANAL703/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV
-http://185.141.24.7/LIVE/FOROCABLE/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",MTV Hits
-http://185.141.24.7/LIVE/FOROCABLE/CANAL727/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY Foro",VH1 Classics
-http
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR cyan] EXABYTE TV  10-08-2016  18:05 EXABYTE TV[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0 group-title="Z etiquetas",[B]Donaciones PayPal: hola_scg@hotmail.com  GRACIAS[/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0 group-title="Z etiquetas",La lista es gratis-Si te la vendieron envía un inbox al facebook
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0 group-title="Z etiquetas",Facebook Oficial: http://fb.com/ExabyteTV
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== ENTRETENIMIENTO ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/398/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" group-title="ENTRETENIMIENTO",Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/399/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="ENTRETENIMIENTO",Az Clic
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/402/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Az Corazón" tvg-name="Az Corazón" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="ENTRETENIMIENTO",Az Corazón
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/403/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="ENTRETENIMIENTO",Az Mundo
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/404/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="ENTRETENIMIENTO",Azteca 7
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/393/exabytetv.m3u8
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="ENTRETENIMIENTO",Azteca 13
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/396/exabytetv.m3u8
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="" group-title="ENTRETENIMIENTO",Azteca 13 (-30 minutos)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="ENTRETENIMIENTO",BBC Entertainment
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/405/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="ENTRETENIMIENTO",Canal 5 HD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/394/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="ENTRETENIMIENTO",Canal De Las Estrellas
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/395/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="" group-title="ENTRETENIMIENTO",Canal de las Estrellas (México)
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="ENTRETENIMIENTO",Canal de las Estrellas -2 Horas
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/865/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central HD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/406/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Discovery Home & Health
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/407/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png" group-title="ENTRETENIMIENTO",Discovery Home and Health HD
+http://premium.exabytetv.info/cable/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/969/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="ENTRETENIMIENTO",Distrito Comedia
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/408/exabytetv.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment Television
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/409/exabytetv.m3u8
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="ENTRETENIMIENTO",El Gourmet
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/410/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",Fox
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/411/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",Fox Life
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/412/exabytetv.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/413/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="ENTRETENIMIENTO",Gala TV
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/397/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="ENTRETENIMIENTO",Glitz
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/414/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg" group-title="ENTRETENIMIENTO",Hola TV
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/400/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",Lifetime
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/415/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="ENTRETENIMIENTO",Multimedios
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mundo-fox.gif" group-title="ENTRETENIMIENTO",Mundo Fox
+http://premium.exabytetv.info/cable/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/963/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Más chic" tvg-name="Más chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="ENTRETENIMIENTO",Más Chic
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/416/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/881.png" group-title="ENTRETENIMIENTO",RCN Novelas Internacional
+http://co.exabytetv.info/cielos/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/3048/exabytetvcielo.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="ENTRETENIMIENTO",Sony HD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/417/exabytetv.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/418/exabytetv.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS Very Funny
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/419/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/815.png" group-title="ENTRETENIMIENTO",Telemundo
+http://co.exabytetv.info/cielos/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/12518/exabytetvcielo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/34/Telemundo_Internacional_2012.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
+http://co.exabytetv.info:8000/live/visita-facebook-ExabyteTV/9872e/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo Op 2
+http://co.exabytetv.info/cielos/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/1555/exabytetvcielo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="ENTRETENIMIENTO",Telemundo Tijuana-San Diego
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/975/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="ENTRETENIMIENTO",Tlnovelas
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/420/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="ENTRETENIMIENTO",Trendy
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/421/exabytetv.m3u8
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TruTV HD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/422/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",TVC Latino
+http://co.exabytetv.info:8000/live/visita-facebook-ExabyteTV/9872e/5.m3u8
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="ENTRETENIMIENTO",TVE Internacional
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/555/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="ENTRETENIMIENTO",TV Más HD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/976/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="ENTRETENIMIENTO",Unicable
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/423/exabytetv.m3u8
+#EXTINF:-1 tvg-id="j" tvg-name="j" tvg-logo="http://tvbtn.files.wordpress.com/2015/09/unimas-logo.jpg" group-title="ENTRETENIMIENTO",UniMás
+http://co.exabytetv.info/cielos/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/14715/exabytetvcielo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/98.png" group-title="ENTRETENIMIENTO",Univisión
+http://co.exabytetv.info/cielos/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/14535/exabytetvcielo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",Univisión Op2
+http://premium.exabytetv.info/gc/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/1098/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="ENTRETENIMIENTO",Uno TV
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/974/exabytetv.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== INFANTILES ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/428/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",Cartoon Network
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/429/exabytetv.m3u8
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="INFANTILES",CBeebies
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/430/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/431/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/432/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",Disney Channel HD
+http://premium.exabytetv.info/cable/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/964/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Jr
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/433/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD
+http://premium.exabytetv.info/total3/24uihf2jen--------Visita-Facebook-Exabyte-TV----392uhifjn/434/exabytetv.m3u8
