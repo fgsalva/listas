@@ -27,6 +27,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34***FerrerList**CowboysHijodePutaLadron
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO MASTR OOYALA
+http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD1 STREAM2 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGROSports HD2 STREAM2 *Ferrerlist
@@ -35,6 +37,26 @@ http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo201
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD4 STREAM2 *Ferrerlist
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD5 STREAM2 *Ferrerlist
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD6 STREAM2 *Ferrerlist
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD7 STREAM2 *Ferrerlist
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD8 STREAM2 *Ferrerlist
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD9 STREAM2 *Ferrerlist
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD10 STREAM2 *Ferrerlist
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD11 STREAM2 *Ferrerlist
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD12 STREAM2 *Ferrerlist
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD13 STREAM2 *Ferrerlist
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD14 STREAM2 *Ferrerlist
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
@@ -44,6 +66,26 @@ http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo201
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 4 STREAM3 *Ferrerlist 
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 5 STREAM3 *Ferrerlist 
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 6 STREAM3 *Ferrerlist 
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 7 STREAM3 *Ferrerlist 
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 8 STREAM3 *Ferrerlist 
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 9 STREAM3 *Ferrerlist 
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 10 STREAM3 *Ferrerlist 
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 11 STREAM3 *Ferrerlist 
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 12 STREAM3 *Ferrerlist 
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 13 STREAM3 *Ferrerlist 
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 14 STREAM3 *Ferrerlist 
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_1 STREAM4 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
@@ -53,6 +95,27 @@ http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo201
 http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_4 STREAM4 *Ferrerlist
 http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_5 STREAM4 *Ferrerlist
+http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_6 STREAM6 *Ferrerlist
+http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_7 STREAM6 *Ferrerlist
+http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_8 STREAM6 *Ferrerlist
+http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_9 STREAM6 *Ferrerlist
+http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_10 STREAM6 *Ferrerlist
+http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_11 STREAM6 *Ferrerlist
+http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_12 STREAM6 *Ferrerlist
+http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_13 STREAM6 *Ferrerlist
+http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD_14 STREAM6 *Ferrerlist
+http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(04)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
