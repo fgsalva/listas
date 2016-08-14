@@ -9,54 +9,6 @@ http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
 http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv***FerrerList**CowboysHijodePutaLadron
 http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TVPUBLICA playlist prueba5***FerrerList**CowboysHijodePutaLadron
-http://live-edge01.telecentro.net.ar/test/smil:prueba5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba1***FerrerList**CowboysHijodePutaLadron
-http://live-edge01.telecentro.net.ar/test/smil:prueba1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba2***FerrerList**CowboysHijodePutaLadron
-http://live-edge01.telecentro.net.ar/test/smil:prueba2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba3***FerrerList**CowboysHijodePutaLadron
-http://live-edge01.telecentro.net.ar/test/smil:prueba3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",prueba4***FerrerList**CowboysHijodePutaLadron
-http://live-edge01.telecentro.net.ar/test/smil:prueba4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA plyalist***FerrerList**CowboysHijodePutaLadron
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",tyc PUBLICA 33 Lq***FerrerList**CowboysHijodePutaLadron
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", tyc PUBLICA 34***FerrerList**CowboysHijodePutaLadron
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO MASTR OOYALA
-http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD1 STREAM2 *Ferrerlist
-http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGROSports HD2 STREAM2 *Ferrerlist
-http://jjoo2016ch02-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD3 STREAM2
-http://jjoo2016ch03-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD4 STREAM2 *Ferrerlist
-http://jjoo2016ch04-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD5 STREAM2 *Ferrerlist
-http://jjoo2016ch05-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch05)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD6 STREAM2 *Ferrerlist
-http://jjoo2016ch06-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch06)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD7 STREAM2 *Ferrerlist
-http://jjoo2016ch07-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch07)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD8 STREAM2 *Ferrerlist
-http://jjoo2016ch08-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch08)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD9 STREAM2 *Ferrerlist
-http://jjoo2016ch09-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch09)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD10 STREAM2 *Ferrerlist
-http://jjoo2016ch10-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch10)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD11 STREAM2 *Ferrerlist
-http://jjoo2016ch11-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch11)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD12 STREAM2 *Ferrerlist
-http://jjoo2016ch12-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch12)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD13 STREAM2 *Ferrerlist
-http://jjoo2016ch13-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch13)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO Sports HD14 STREAM2 *Ferrerlist
-http://jjoo2016ch14-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch14)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
@@ -221,14 +173,6 @@ http://streaming.radionomy.com/100-purasalsa
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica***FerrerList**CowboysHijodePutaLadron
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CARACOL***FerrerList**CowboysHijodePutaLadron
-http://208.75.225.28:1935/live/cbfdhtdyjuy/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",RCN***FerrerList**CowboysHijodePutaLadron
-http://208.75.225.28:1935/live/rghdrhgyjk/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",HBO***FerrerList**CowboysHijodePutaLadron
-rtmp://146.185.16.62/stream playPath=hbopaola?id=3053&pk=dd1acda33ab31a002b36d52ea11eafc36f6bbe727724db71e23e1b5404a37e31 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/hbopaola/1/630/450
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Fox***FerrerList**CowboysHijodePutaLadron
-rtmp://178.162.199.138/stream playPath=foxsusy?id=2280&pk=dd1acda33ab31a002b36d52ea11eafc36f6bbe727724db71e23e1b5404a37e31 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/foxsusy/1/630/450
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR***FerrerList**CowboysHijodePutaLadron
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
