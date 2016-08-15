@@ -9,6 +9,8 @@ http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
 http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv***FerrerList**CowboysHijodePutaLadron
 http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",H-B-0***FerrerList**CowboysHijodePutaLadron
+rtmp://46.28.53.142/stream playPath=hbopaola?id=3053&pk=6641f3cafa4c9a8649b94054ad65800725dfe880148a1013a31a52f1e8ba1587 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.zony.tv/static/scripts/fplayer.swf flashver=WIN/2022,0,0,192 pageUrl=http://www.zony.tv/embedplayer/hbopaola/1/630/450
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
