@@ -1360,4 +1360,47 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
 </item>
 
+<item>
+<title>BT Sport 1 SD link 3</title>
+<sportsdevil>http://www.time4tv.com/2013/08/bt-sport-1.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://www.zoptv.com/assets/logo/bt-sport-1.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+<item>
+<title>BT Sport 2 SD link 3</title>
+<sportsdevil>http://crichd.tv/bt-sport-2-live-stream.php</sportsdevil>
+<referer>http://crichd.tv/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+</item>
+<item>
+<title>BT Sport 2 SD link 4</title>
+<sportsdevil>http://live.shwidget.com/static/freeplay/3872451659377560.html</sportsdevil>
+<referer>referer=http://live.shwidget.com/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+<item>
+<title>BT Sport 2 SD link 5</title>
+<sportsdevil>http://www.time4tv.com/2016/04/bt-sport-2.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 1 SD FS1</title>
+<sportsdevil>http://www.googlitv.com/fox-sports-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/fox-sports-live-streaming.php</referer>
+<thumbnail>http://a.fssta.com/content/dam/fsdigital/fscom/Buzzer/Images/2014/02/01/020114-13-FS1-FOX-SPORTS-1-LOGO-OB-PI.vresize.1200.675.high.18.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+<item>
+<title>Fox Sports 2 SD</title>
+<sportsdevil>http://www.googlitv.com/Fox-Soccer-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/Fox-Soccer-live-streaming.php</referer>
+<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
 
