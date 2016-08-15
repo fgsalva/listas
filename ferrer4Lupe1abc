@@ -606,9 +606,9 @@ http://grilla.gigared.com.ar/streams/166V5/5/1.m3u8
 http://grilla.gigared.com.ar/streams/166V5/5/2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",HBO SIGNTYC de***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 2***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 1***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 1***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Canal 2 HD
