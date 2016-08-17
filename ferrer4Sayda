@@ -9,6 +9,12 @@ http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
 http://b36642.cdn.telefonica.com/36642/ch08/4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv***FerrerList**CowboysHijodePutaLadron
 http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Dragon-Ball-z***FerrerList**CowboysHijodePutaLadron
+http://iphone-streaming.ustream.tv/uhls/22664955/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas***FerrerList**CowboysHijodePutaLadron
+http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc***FerrerList**CowboysHijodePutaLadron
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
@@ -112,6 +118,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",B.E.I.N E.S.P.A.Ñ.A***FerrerList**CowboysHijodePutaLadron
 rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",B.E.I.N E.S.P.A.Ñ.A1***FerrerList**CowboysHijodePutaLadron
+rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",2-MX***FerrerList**CowboysHijodePutaLadron
@@ -431,7 +439,10 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBITA",ANTE3 A.N.T.E.N.A 3***FerrerList**CowboysHijodePutaLadron
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_2.m3u8
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.i.n.e rtmp***FerrerList**CowboysHijodePutaLadron
+rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",f.o.x rtmp***FerrerList**CowboysHijodePutaLadron
+rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.A.NAL+ #0 rtmp***FerrerList**CowboysHijodePutaLadron
 rtmp://89.248.169.55/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp2",C.A.NAL+#0 RTMP***FerrerList**CowboysHijodePutaLadron
@@ -606,9 +617,9 @@ http://grilla.gigared.com.ar/streams/166V5/5/1.m3u8
 http://grilla.gigared.com.ar/streams/166V5/5/2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",HBO SIGNTYC de***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 2***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TotalPlay3",u-f-c 1***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 1***FerrerList**CowboysHijodePutaLadron
 http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Canal 2 HD
