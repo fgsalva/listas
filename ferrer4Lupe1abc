@@ -761,4 +761,137 @@ http://s4.latino-webtv.ml/live/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",VH1 Classics
 http://s4.latino-webtv.ml/live/CANAL728/PROFILE03.m3u8
 
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",HBOPlusLASD
+http://tmp.duki.me/LIVE/H02/HBOPlusLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",space
+http://tmp.duki.me/LIVE/H02/SpaceLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FX
+http://tmp.duki.me/LIVE/H02/FXLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",SyFy
+http://tmp.duki.me/LIVE/H02/SyFyLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Mundo Fox
+http://tmp.duki.me/LIVE/H02/MundoFoxSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",max
+http://tmp.duki.me/LIVE/H02/MAXLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",max up
+http://tmp.duki.me/LIVE/H02/MaxUPSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Max Prime
+http://tmp.duki.me/LIVE/H02/MaxPrimeLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Max Prime 2
+http://tmp.duki.me/LIVE/H02/MaxPrime2LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FOX Family
+http://tmp.duki.me/LIVE/H02/FOXFamilyLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Fox Cinema
+http://tmp.duki.me/LIVE/H02/FoxCinemaSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FOX Comedy
+http://tmp.duki.me/LIVE/H02/FOXComedyLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FOX ACTION
+http://tmp.duki.me/LIVE/H02/FOXACTIONLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",HBO
+http://tmp.duki.me/LIVE/H02/HBOLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",HBO 2
+http://tmp.duki.me/LIVE/H02/HBO2SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",HBO Signature
+http://tmp.duki.me/LIVE/H02/HBOSignatureLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FOX 1
+http://tmp.duki.me/LIVE/H02/FOX1LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",FOX HD
+http://tmp.duki.me/LIVE/H02/FOXHDLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Film Zone
+http://tmp.duki.me/LIVE/H02/FilmZoneLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",TNT HD
+http://tmp.duki.me/LIVE/H02/TNTAmericaLatinaHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Cine Latino
+http://tmp.duki.me/LIVE/H02/CineLatinoSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Golden HD
+http://tmp.duki.me/LIVE/H02/GoldenHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",canal de las estrellas
+http://tmp.duki.me/LIVE/H02/EstrellasLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Univision
+http://tmp.duki.me/LIVE/H02/UnivisionEastUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",unimas
+http://tmp.duki.me/LIVE/H02/UniMasUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Pasiones
+http://tmp.duki.me/LIVE/H02/PasionesSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Telemundo
+http://tmp.duki.me/LIVE/H02/TelemundoUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Telemundo
+http://tmp.duki.me/LIVE/H02/TelemundoSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",RCN novelas
+http://tmp.duki.me/LIVE/H02/RCNnovelasLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Telenovelas
+http://tmp.duki.me/LIVE/H02/TlnovelasLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Telecentro
+http://tmp.duki.me/LIVE/H02/Telecentro13LA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Caracol internacional
+http://tmp.duki.me/LIVE/H02/CaracolIntSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Tv Globo Internacional
+http://tmp.duki.me/LIVE/H02/TVGloboLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Discovery
+http://tmp.duki.me/LIVE/H02/DiscoveryChLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Discovery Theater
+http://tmp.duki.me/LIVE/H02/DiscoveryenEspanolHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Discovery World
+http://tmp.duki.me/LIVE/H02/DiscoveryWorldLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Discovery Home & Health
+http://tmp.duki.me/LIVE/H02/DiscoveryHomeHealthLAHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",History 2
+http://tmp.duki.me/LIVE/H02/H2LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",History
+http://tmp.duki.me/LIVE/H02/HistoryLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Nat Geo
+http://tmp.duki.me/LIVE/H02/NatGeoLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Animal Planet
+http://tmp.duki.me/LIVE/H02/AnimalPlanetLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",ESPN
+http://tmp.duki.me/LIVE/H02/ESPNLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",ESPN 2
+http://tmp.duki.me/LIVE/H02/ESPN2LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",ESPN 3
+http://tmp.duki.me/LIVE/H02/ESPN3LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Fox Sports
+http://tmp.duki.me/LIVE/H02/FoxSportsLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Fox Sports 2
+http://tmp.duki.me/LIVE/H02/FoxSports2SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Fox Sports 3
+http://tmp.duki.me/LIVE/H02/FoxSports3SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Bein Sports
+http://tmp.duki.me/LIVE/H02/BeinSportsLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",UFC Network
+http://tmp.duki.me/LIVE/H02/UFCNetworkLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",F1
+http://tmp.duki.me/LIVE/H02/F1LA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Planeta Futbol
+http://tmp.duki.me/LIVE/H02/PlanetaFutbolLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Planeta Futbol
+http://tmp.duki.me/LIVE/H02/PlanetaFutbolEnglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",TDN
+http://tmp.duki.me/LIVE/H02/TDNMXLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Univision TDN
+http://tmp.duki.me/LIVE/H02/UnivisionTDNLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Disney Channel
+http://tmp.duki.me/LIVE/H02/DisneyChannelNorteHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",DisneyXD
+http://tmp.duki.me/LIVE/H02/DisneyXDSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Disney Jr
+http://tmp.duki.me/LIVE/H02/DisneyJrLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Nickelodeon
+http://tmp.duki.me/LIVE/H02/NickelodeonLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Nick Jr
+http://tmp.duki.me/LIVE/H02/NickJrLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Discovery Kids
+http://tmp.duki.me/LIVE/H02/DiscoveryKidsSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Cartoon Network
+http://tmp.duki.me/LIVE/H02/CartoonNetworkLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Boomerang
+http://tmp.duki.me/LIVE/H02/BoomerangLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Tooncast
+http://tmp.duki.me/LIVE/H02/TooncastSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Baby First
+http://tmp.duki.me/LIVE/H02/BabyFirstLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Baby TV
+http://tmp.duki.me/LIVE/H02/BabyTVLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Cbeebies
+http://tmp.duki.me/LIVE/H02/CbeebiesLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LATINOS",Sony
+http://tmp.duki.me/LIVE/H02/SonyLA/playlist.m3u8
