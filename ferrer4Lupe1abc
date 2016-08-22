@@ -420,126 +420,6 @@ http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 rtmp://118.97.183.196/jhos//kbs
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp", K1orean Drama (ENG)a***FerrerList**CowboysHijodePutaLadron
 rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Wobi***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Kids HD (inestable)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Kids SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery World HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery World SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  TVe HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Theater HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Theater SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Home&Health HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Discovery Home&Health SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Nicktoons SD (inestable)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Nick Jr SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V1/8/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  TV Publica HD***FerrerList**CowboysHijodePutaLadron
-http://lla.gigared.com.ar/streams/166V2/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  TV Publica SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Radio ONE HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Radio ONE SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Rock&Pop 95.9 HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Rock&Pop 95.9 SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Tecnopolis TV HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Tecnopolis TV SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  C5N HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  C5N SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal 26 HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal 26 SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  America HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  America SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V2/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  El Trece HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  El Trece SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal 9 HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal 9 SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Nickelodeon HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Nickelodeon HD (SD)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Disney Junior***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Disney Junior (Alternativo)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Syfy***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Syfy (Alt) (inestable)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  History HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  History SD (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal Vasco***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal Vasco (Alt) (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  TV Brasil***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  TV Brasil (Alt) (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  A&E HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  A&E SD (inestable)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  HBO Signature HD (ingles)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  HBO Signature SD (ingles) (inestable)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Fox Sports 2 HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Fox Sports 2 HD (Alt) (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  AXN HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  AXN SD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal Sony HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Canal Sony SD (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Warner HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Warner SD (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Max HD***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",  Max SD (caido)***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V5/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Grilla",HBO SIGNTYC de***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 2***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-f-c 1***FerrerList**CowboysHijodePutaLadron
-http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",Canal 2 HD
 http://s4.latino-webtv.ml/live/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",AZ CLICK
@@ -763,654 +643,655 @@ http://s4.latino-webtv.ml/live/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="TOTAL_PLAY webtv",VH1 Classics
 http://s4.latino-webtv.ml/live/CANAL728/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif",A&E - LQ
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="AdryanTP",A&E - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=211&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif",A&E - HQ
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="AdryanTP",A&E - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=211&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif",A&E - Full HD
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="AdryanTP",A&E - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=211&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif",AMC - LQ
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="AdryanTP",AMC - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=444&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif",AMC - HQ
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="AdryanTP",AMC - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=444&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif",AMC - Full HD
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="AdryanTP",AMC - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=444&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet - LQ
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="AdryanTP",Animal Planet - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=373&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet - HQ
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="AdryanTP",Animal Planet - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=373&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet - Full HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="AdryanTP",Animal Planet - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=373&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif",AXN - LQ
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="AdryanTP",AXN - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=213&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif",AXN - HQ
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="AdryanTP",AXN - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=213&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif",AXN - Full HD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="AdryanTP",AXN - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=213&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",AyM Sports - LQ
+#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="AdryanTP",AyM Sports - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=576&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",AyM Sports - HQ
+#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="AdryanTP",AyM Sports - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=576&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",AyM Sports - Full HD
+#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="AdryanTP",AyM Sports - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=576&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif",Az Cinema - LQ
+#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="AdryanTP",Az Cinema - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=425&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif",Az Cinema - HQ
+#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="AdryanTP",Az Cinema - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=425&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif",Az Cinema - Full HD
+#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-cinema.gif" group-title="AdryanTP",Az Cinema - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=425&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",Az Clic - LQ
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="AdryanTP",Az Clic - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=103&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",Az Clic - HQ
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="AdryanTP",Az Clic - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=103&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",Az Clic - Full HD
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="AdryanTP",Az Clic - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=103&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif",Az CorazÃ³n - LQ
+#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="AdryanTP",Az CorazÃ³n - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=45&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif",Az CorazÃ³n - HQ
+#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="AdryanTP",Az CorazÃ³n - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=45&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif",Az CorazÃ³n - Full HD
+#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-name="Az CorazÃ³n" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="AdryanTP",Az CorazÃ³n - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=45&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",Az Mundo - LQ
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="AdryanTP",Az Mundo - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=276&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",Az Mundo - HQ
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="AdryanTP",Az Mundo - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=276&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",Az Mundo - Full HD
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="AdryanTP",Az Mundo - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=276&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif",Az Noticias - LQ
+#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="AdryanTP",Az Noticias - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=2&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif",Az Noticias - HQ
+#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="AdryanTP",Az Noticias - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=2&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif",Az Noticias - Full HD
+#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-noticias.gif" group-title="AdryanTP",Az Noticias - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=2&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif",Azteca 7 - LQ
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="AdryanTP",Azteca 7 - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=7&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif",Azteca 7 - HQ
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="AdryanTP",Azteca 7 - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=7&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif",Azteca 7 - Full HD
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="AdryanTP",Azteca 7 - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=7&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif",Azteca 13 - LQ
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="AdryanTP",Azteca 13 - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=13&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif",Azteca 13 - HQ
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="AdryanTP",Azteca 13 - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=13&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif",Azteca 13 - Full HD
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif" group-title="AdryanTP",Azteca 13 - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=13&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",Bandamax - LQ
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="AdryanTP",Bandamax - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=732&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",Bandamax - HQ
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="AdryanTP",Bandamax - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=732&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",Bandamax - Full HD
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="AdryanTP",Bandamax - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=732&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",BBC Entertainment - LQ
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="AdryanTP",BBC Entertainment - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=253&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",BBC Entertainment - HQ
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="AdryanTP",BBC Entertainment - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=253&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",BBC Entertainment - Full HD
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="AdryanTP",BBC Entertainment - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=253&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif",Boomerang - LQ
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="AdryanTP",Boomerang - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=324&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif",Boomerang - HQ
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="AdryanTP",Boomerang - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=324&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif",Boomerang - Full HD
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="AdryanTP",Boomerang - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=324&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",Canal 5 HD - LQ
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="AdryanTP",Canal 5 HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=105&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",Canal 5 HD - HQ
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="AdryanTP",Canal 5 HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=105&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",Canal 5 HD - Full HD
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="AdryanTP",Canal 5 HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=105&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",Canal De Las Estrellas - LQ
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="AdryanTP",Canal De Las Estrellas - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=102&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",Canal De Las Estrellas - HQ
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="AdryanTP",Canal De Las Estrellas - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=102&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",Canal De Las Estrellas - Full HD
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="AdryanTP",Canal De Las Estrellas - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=102&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Canal de las Estrellas -2 Horas - LQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Canal de las Estrellas -2 Horas - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=1888&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Canal de las Estrellas -2 Horas - HQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Canal de las Estrellas -2 Horas - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=1888&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Canal de las Estrellas -2 Horas - Full HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Canal de las Estrellas -2 Horas - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=1888&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif",Cartoon Network - LQ
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="AdryanTP",Cartoon Network - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=320&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif",Cartoon Network - HQ
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="AdryanTP",Cartoon Network - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=320&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif",Cartoon Network - Full HD
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="AdryanTP",Cartoon Network - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=320&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif",CBeebies - LQ
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="AdryanTP",CBeebies - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=305&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif",CBeebies - HQ
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="AdryanTP",CBeebies - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=305&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif",CBeebies - Full HD
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="AdryanTP",CBeebies - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=305&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif",Cinecanal - LQ
+#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="AdryanTP",Cinecanal - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=480&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif",Cinecanal - HQ
+#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="AdryanTP",Cinecanal - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=480&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif",Cinecanal - Full HD
+#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-(w).gif" group-title="AdryanTP",Cinecanal - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=480&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",Cinecanal+ - LQ
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="AdryanTP",Cinecanal+ - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=430&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",Cinecanal+ - HQ
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="AdryanTP",Cinecanal+ - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=430&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",Cinecanal+ - Full HD
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="AdryanTP",Cinecanal+ - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=430&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif",Cinemax - LQ
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="AdryanTP",Cinemax - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=481&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif",Cinemax - HQ
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="AdryanTP",Cinemax - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=481&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif",Cinemax - Full HD
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-(w).gif" group-title="AdryanTP",Cinemax - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=481&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",Comedy Central HD - LQ
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="AdryanTP",Comedy Central HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=217&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",Comedy Central HD - HQ
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="AdryanTP",Comedy Central HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=217&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",Comedy Central HD - Full HD
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="AdryanTP",Comedy Central HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=217&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif",De PelÃ­cula - LQ
+#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif" group-title="AdryanTP",De PelÃ­cula - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=442&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif",De PelÃ­cula - HQ
+#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif" group-title="AdryanTP",De PelÃ­cula - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=442&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif",De PelÃ­cula - Full HD
+#EXTINF:-1 tvg-id="De PelÃ­cula HD" tvg-name="De PelÃ­cula HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelÃ­cula-hd.gif" group-title="AdryanTP",De PelÃ­cula - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=442&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel - LQ
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="AdryanTP",Discovery Channel - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=371&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel - HQ
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="AdryanTP",Discovery Channel - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=371&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel - Full HD
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="AdryanTP",Discovery Channel - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=371&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization - LQ
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="AdryanTP",Discovery Civilization - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=382&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization - HQ
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="AdryanTP",Discovery Civilization - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=382&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization - Full HD
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="AdryanTP",Discovery Civilization - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=382&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif",Discovery H&H - LQ
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="AdryanTP",Discovery H&H - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=374&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif",Discovery H&H - HQ
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="AdryanTP",Discovery H&H - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=374&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif",Discovery H&H - Full HD
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="AdryanTP",Discovery H&H - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=374&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",Discovery Kids - LQ
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="AdryanTP",Discovery Kids - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=303&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",Discovery Kids - HQ
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="AdryanTP",Discovery Kids - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=303&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",Discovery Kids - Full HD
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="AdryanTP",Discovery Kids - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=303&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery SCI - LQ
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="AdryanTP",Discovery SCI - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=381&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery SCI - HQ
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="AdryanTP",Discovery SCI - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=381&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery SCI - Full HD
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="AdryanTP",Discovery SCI - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=381&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater - LQ
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="AdryanTP",Discovery Theater - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=351&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater - HQ
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="AdryanTP",Discovery Theater - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=351&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater - Full HD
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="AdryanTP",Discovery Theater - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=351&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo - LQ
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="AdryanTP",Discovery Turbo - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=383&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo - HQ
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="AdryanTP",Discovery Turbo - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=383&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo - Full HD
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="AdryanTP",Discovery Turbo - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=383&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World - LQ
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="AdryanTP",Discovery World - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=356&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World - HQ
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="AdryanTP",Discovery World - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=356&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World - Full HD
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="AdryanTP",Discovery World - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=356&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",Disney Channel - LQ
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="AdryanTP",Disney Channel - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=312&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",Disney Channel - HQ
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="AdryanTP",Disney Channel - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=312&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",Disney Channel - Full HD
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="AdryanTP",Disney Channel - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=312&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",Disney Junior - LQ
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="AdryanTP",Disney Junior - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=308&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",Disney Junior - HQ
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="AdryanTP",Disney Junior - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=308&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",Disney Junior - Full HD
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="AdryanTP",Disney Junior - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=308&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD - LQ
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="AdryanTP",Disney XD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=322&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD - HQ
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="AdryanTP",Disney XD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=322&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD - Full HD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="AdryanTP",Disney XD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=322&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",Distrito Comedia - LQ
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="AdryanTP",Distrito Comedia - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=272&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",Distrito Comedia - HQ
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="AdryanTP",Distrito Comedia - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=272&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",Distrito Comedia - Full HD
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="AdryanTP",Distrito Comedia - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=272&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif",E! - LQ
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="AdryanTP",E! - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=255&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif",E! - HQ
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="AdryanTP",E! - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=255&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif",E! - Full HD
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="AdryanTP",E! - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=255&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif",El Financiero Bloomberg - LQ
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="AdryanTP",El Financiero Bloomberg - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=610&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif",El Financiero Bloomberg - HQ
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="AdryanTP",El Financiero Bloomberg - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=610&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif",El Financiero Bloomberg - Full HD
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-financiero-bloomberg.gif" group-title="AdryanTP",El Financiero Bloomberg - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=610&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif",El Gourmet - LQ
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="AdryanTP",El Gourmet - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=268&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif",El Gourmet - HQ
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="AdryanTP",El Gourmet - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=268&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif",El Gourmet - Full HD
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="AdryanTP",El Gourmet - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=268&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif",ESPN - LQ
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="AdryanTP",ESPN - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif",ESPN - HQ
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="AdryanTP",ESPN - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif",ESPN - Full HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="AdryanTP",ESPN - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif",ESPN + MÃ©xico - LQ
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="AdryanTP",ESPN + MÃ©xico - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=516&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif",ESPN + MÃ©xico - HQ
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="AdryanTP",ESPN + MÃ©xico - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=516&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif",ESPN + MÃ©xico - Full HD
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="AdryanTP",ESPN + MÃ©xico - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=516&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif",ESPN 2 - LQ
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="AdryanTP",ESPN 2 - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=561&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif",ESPN 2 - HQ
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="AdryanTP",ESPN 2 - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=561&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif",ESPN 2 - Full HD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="AdryanTP",ESPN 2 - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=561&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif",ESPN 3 - LQ
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="AdryanTP",ESPN 3 - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=520&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif",ESPN 3 - HQ
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="AdryanTP",ESPN 3 - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=520&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif",ESPN 3 - Full HD
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="AdryanTP",ESPN 3 - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=520&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD - LQ
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="AdryanTP",ESPN HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD - HQ
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="AdryanTP",ESPN HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD - Full HD
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="AdryanTP",ESPN HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=558&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif",F1 TV - LQ
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="AdryanTP",F1 TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=511&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif",F1 TV - HQ
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="AdryanTP",F1 TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=511&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif",F1 TV - Full HD
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="AdryanTP",F1 TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=511&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",Film Zone HD - LQ
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif" group-title="AdryanTP",Film Zone HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=440&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",Film Zone HD - HQ
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif" group-title="AdryanTP",Film Zone HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=440&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",Film Zone HD - Full HD
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif" group-title="AdryanTP",Film Zone HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=440&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif",Foro TV - LQ
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="AdryanTP",Foro TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=104&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif",Foro TV - HQ
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="AdryanTP",Foro TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=104&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif",Foro TV - Full HD
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="AdryanTP",Foro TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=104&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif",Fox - LQ
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="AdryanTP",Fox - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=201&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif",Fox - HQ
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="AdryanTP",Fox - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=201&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif",Fox - Full HD
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="AdryanTP",Fox - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=201&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif",Fox 1 HD - LQ
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="AdryanTP",Fox 1 HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=415&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif",Fox 1 HD - HQ
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="AdryanTP",Fox 1 HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=415&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif",Fox 1 HD - Full HD
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="AdryanTP",Fox 1 HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=415&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action - LQ
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="AdryanTP",Fox Action - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=416&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action - HQ
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="AdryanTP",Fox Action - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=416&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action - Full HD
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="AdryanTP",Fox Action - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=416&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif",Fox Cinema - LQ
+#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif" group-title="AdryanTP",Fox Cinema - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=421&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif",Fox Cinema - HQ
+#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif" group-title="AdryanTP",Fox Cinema - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=421&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif",Fox Cinema - Full HD
+#EXTINF:-1 tvg-id="Fox CinÃ©ma" tvg-name="Fox CinÃ©ma" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-cinÃ©ma.gif" group-title="AdryanTP",Fox Cinema - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=421&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif",Fox Classics - LQ
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="AdryanTP",Fox Classics - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=424&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif",Fox Classics - HQ
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="AdryanTP",Fox Classics - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=424&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif",Fox Classics - Full HD
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="AdryanTP",Fox Classics - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=424&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",Fox Life - LQ
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="AdryanTP",Fox Life - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=271&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",Fox Life - HQ
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="AdryanTP",Fox Life - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=271&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",Fox Life - Full HD
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="AdryanTP",Fox Life - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=271&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies - LQ
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="AdryanTP",Fox Movies - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=417&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies - HQ
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="AdryanTP",Fox Movies - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=417&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies - Full HD
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="AdryanTP",Fox Movies - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=417&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports - LQ
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="AdryanTP",Fox Sports - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=522&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports - HQ
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="AdryanTP",Fox Sports - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=522&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports - Full HD
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="AdryanTP",Fox Sports - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=522&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2 - LQ
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="AdryanTP",Fox Sports 2 - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=527&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2 - HQ
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="AdryanTP",Fox Sports 2 - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=527&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2 - Full HD
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="AdryanTP",Fox Sports 2 - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=527&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",FX - LQ
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="AdryanTP",FX - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=209&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",FX - HQ
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="AdryanTP",FX - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=209&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",FX - Full HD
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="AdryanTP",FX - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=209&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif",Gala TV - LQ
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="AdryanTP",Gala TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=109&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif",Gala TV - HQ
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="AdryanTP",Gala TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=109&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif",Gala TV - Full HD
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="AdryanTP",Gala TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=109&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif",Glitz - LQ
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="AdryanTP",Glitz - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=270&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif",Glitz - HQ
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="AdryanTP",Glitz - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=270&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif",Glitz - Full HD
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="AdryanTP",Glitz - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=270&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif",Golden Edge - LQ
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="AdryanTP",Golden Edge - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=484&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif",Golden Edge - HQ
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="AdryanTP",Golden Edge - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=484&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif",Golden Edge - Full HD
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="AdryanTP",Golden Edge - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=484&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif",Golden HD - LQ
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="AdryanTP",Golden HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=436&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif",Golden HD - HQ
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="AdryanTP",Golden HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=436&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif",Golden HD - Full HD
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="AdryanTP",Golden HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=436&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel - LQ
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="AdryanTP",History Channel - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=353&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel - HQ
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="AdryanTP",History Channel - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=353&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel - Full HD
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="AdryanTP",History Channel - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=353&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg",Hola TV - LQ
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg" group-title="AdryanTP",Hola TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=219&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg",Hola TV - HQ
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg" group-title="AdryanTP",Hola TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=219&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg",Hola TV - Full HD
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/HOLA-TV-LOGO.jpg" group-title="AdryanTP",Hola TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=219&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif",I.Sat - LQ
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="AdryanTP",I.Sat - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=495&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif",I.Sat - HQ
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="AdryanTP",I.Sat - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=495&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif",I.Sat - Full HD
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://y.cdn.entutele.com/media/channels/big/i.sat.gif" group-title="AdryanTP",I.Sat - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=495&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif",Investigation Discovery - LQ
+#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif" group-title="AdryanTP",Investigation Discovery - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=263&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif",Investigation Discovery - HQ
+#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif" group-title="AdryanTP",Investigation Discovery - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=263&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif",Investigation Discovery - Full HD
+#EXTINF:-1 tvg-id="InvestigaciÃ³n Discovery" tvg-name="InvestigaciÃ³n Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigaciÃ³n-discovery.gif" group-title="AdryanTP",Investigation Discovery - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=263&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif",Lifetime - LQ
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="AdryanTP",Lifetime - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=379&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif",Lifetime - HQ
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="AdryanTP",Lifetime - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=379&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif",Lifetime - Full HD
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="AdryanTP",Lifetime - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=379&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif",MTV - LQ
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="AdryanTP",MTV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=726&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif",MTV - HQ
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="AdryanTP",MTV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=726&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif",MTV - Full HD
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="AdryanTP",MTV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=726&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif",MTV Hits - LQ
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="AdryanTP",MTV Hits - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=727&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif",MTV Hits - HQ
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="AdryanTP",MTV Hits - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=727&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif",MTV Hits - Full HD
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="AdryanTP",MTV Hits - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=727&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif",MTV Live - LQ
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="AdryanTP",MTV Live - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=701&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif",MTV Live - HQ
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="AdryanTP",MTV Live - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=701&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif",MTV Live - Full HD
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live.gif" group-title="AdryanTP",MTV Live - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=701&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif",MÃ¡s Chic - LQ
+#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="AdryanTP",MÃ¡s Chic - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=221&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif",MÃ¡s Chic - HQ
+#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="AdryanTP",MÃ¡s Chic - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=221&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif",MÃ¡s Chic - Full HD
+#EXTINF:-1 tvg-id="MÃ¡s chic" tvg-name="MÃ¡s chic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="AdryanTP",MÃ¡s Chic - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=221&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo - LQ
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="AdryanTP",Nat Geo - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=377&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo - HQ
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="AdryanTP",Nat Geo - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=377&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo - Full HD
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="AdryanTP",Nat Geo - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=377&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",Nat Geo Wild - LQ
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="AdryanTP",Nat Geo Wild - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=355&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",Nat Geo Wild - HQ
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="AdryanTP",Nat Geo Wild - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=355&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",Nat Geo Wild - Full HD
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="AdryanTP",Nat Geo Wild - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=355&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif",Nickelodeon - LQ
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="AdryanTP",Nickelodeon - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=317&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif",Nickelodeon - HQ
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="AdryanTP",Nickelodeon - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=317&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif",Nickelodeon - Full HD
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-(nick).gif" group-title="AdryanTP",Nickelodeon - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=317&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png",Nick HD - LQ
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png" group-title="AdryanTP",Nick HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=315&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png",Nick HD - HQ
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png" group-title="AdryanTP",Nick HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=315&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png",Nick HD - Full HD
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/330px-Nick_2.png" group-title="AdryanTP",Nick HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=315&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif",Nick Jr - LQ
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="AdryanTP",Nick Jr - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=310&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif",Nick Jr - HQ
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="AdryanTP",Nick Jr - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=310&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif",Nick Jr - Full HD
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="AdryanTP",Nick Jr - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=310&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif",Nick Toons - LQ
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="AdryanTP",Nick Toons - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=314&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif",Nick Toons - HQ
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="AdryanTP",Nick Toons - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=314&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif",Nick Toons - Full HD
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="AdryanTP",Nick Toons - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=314&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif",Once TV - LQ
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif" group-title="AdryanTP",Once TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=111&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif",Once TV - HQ
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif" group-title="AdryanTP",Once TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=111&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif",Once TV - Full HD
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif" group-title="AdryanTP",Once TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=111&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",Ritmoson Latino - LQ
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="AdryanTP",Ritmoson Latino - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=731&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",Ritmoson Latino - HQ
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="AdryanTP",Ritmoson Latino - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=731&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",Ritmoson Latino - Full HD
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="AdryanTP",Ritmoson Latino - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=731&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif",Sony HD - LQ
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="AdryanTP",Sony HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=203&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif",Sony HD - HQ
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="AdryanTP",Sony HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=203&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif",Sony HD - Full HD
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="AdryanTP",Sony HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=203&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif",Space - LQ
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="AdryanTP",Space - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=491&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif",Space - HQ
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="AdryanTP",Space - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=491&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif",Space - Full HD
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="AdryanTP",Space - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=491&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif",Space HD - LQ
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="AdryanTP",Space HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=445&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif",Space HD - HQ
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="AdryanTP",Space HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=445&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif",Space HD - Full HD
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="AdryanTP",Space HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=445&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif",Studio Universal - LQ
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="AdryanTP",Studio Universal - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=492&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif",Studio Universal - HQ
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="AdryanTP",Studio Universal - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=492&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif",Studio Universal - Full HD
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="AdryanTP",Studio Universal - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=492&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif",SyFy - LQ
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="AdryanTP",SyFy - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=257&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif",SyFy - HQ
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="AdryanTP",SyFy - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=257&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif",SyFy - Full HD
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="AdryanTP",SyFy - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=257&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",TBS Very Funny - LQ
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="AdryanTP",TBS Very Funny - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=273&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",TBS Very Funny - HQ
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="AdryanTP",TBS Very Funny - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=273&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",TBS Very Funny - Full HD
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="AdryanTP",TBS Very Funny - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=273&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",TCM - LQ
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="AdryanTP",TCM - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=496&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",TCM - HQ
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="AdryanTP",TCM - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=496&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",TCM - Full HD
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="AdryanTP",TCM - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=496&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif",TeleFÃ³rmula - LQ
+#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif" group-title="AdryanTP",TeleFÃ³rmula - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=161&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif",TeleFÃ³rmula - HQ
+#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif" group-title="AdryanTP",TeleFÃ³rmula - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=161&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif",TeleFÃ³rmula - Full HD
+#EXTINF:-1 tvg-id="TeleFÃ³rmula" tvg-name="TeleFÃ³rmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telefÃ³rmula.gif" group-title="AdryanTP",TeleFÃ³rmula - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=161&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif",Telehit HD - LQ
+#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="AdryanTP",Telehit HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=702&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif",Telehit HD - HQ
+#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="AdryanTP",Telehit HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=702&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif",Telehit HD - Full HD
+#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="AdryanTP",Telehit HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=702&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Telemundo Tijuana-San Diego - LQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Telemundo Tijuana-San Diego - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=1873&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Telemundo Tijuana-San Diego - HQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Telemundo Tijuana-San Diego - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=1873&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Telemundo Tijuana-San Diego - Full HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Telemundo Tijuana-San Diego - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=1873&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif",TIIN - LQ
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="AdryanTP",TIIN - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=325&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif",TIIN - HQ
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="AdryanTP",TIIN - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=325&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif",TIIN - Full HD
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="AdryanTP",TIIN - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=325&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC - LQ
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="AdryanTP",TLC - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=386&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC - HQ
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="AdryanTP",TLC - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=386&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC - Full HD
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="AdryanTP",TLC - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=386&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif",Tlnovelas - LQ
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="AdryanTP",Tlnovelas - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=275&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif",Tlnovelas - HQ
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="AdryanTP",Tlnovelas - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=275&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif",Tlnovelas - Full HD
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="AdryanTP",Tlnovelas - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=275&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif",TNT - LQ
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="AdryanTP",TNT - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=482&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif",TNT - HQ
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="AdryanTP",TNT - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=482&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif",TNT - Full HD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="AdryanTP",TNT - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=482&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif",TNT HD - LQ
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="AdryanTP",TNT HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=435&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif",TNT HD - HQ
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="AdryanTP",TNT HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=435&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif",TNT HD - Full HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="AdryanTP",TNT HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=435&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif",TNT Series - LQ
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="AdryanTP",TNT Series - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=266&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif",TNT Series - HQ
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="AdryanTP",TNT Series - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=266&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif",TNT Series - Full HD
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="AdryanTP",TNT Series - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=266&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif",Tooncast - LQ
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="AdryanTP",Tooncast - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=328&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif",Tooncast - HQ
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="AdryanTP",Tooncast - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=328&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif",Tooncast - Full HD
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="AdryanTP",Tooncast - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=328&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy - LQ
+#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="AdryanTP",Trendy - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=279&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy - HQ
+#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="AdryanTP",Trendy - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=279&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy - Full HD
+#EXTINF:-1 tvg-id="Trendy" tvg-name="Trendy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="AdryanTP",Trendy - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=279&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif",TruTV - LQ
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="AdryanTP",TruTV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=215&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif",TruTV - HQ
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="AdryanTP",TruTV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=215&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif",TruTV - Full HD
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="AdryanTP",TruTV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=215&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif",TVE - LQ
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="AdryanTP",TVE - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=651&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif",TVE - HQ
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="AdryanTP",TVE - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=651&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif",TVE - Full HD
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="AdryanTP",TVE - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=651&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",TV MÃ¡s HD - LQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",TV MÃ¡s HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=1955&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",TV MÃ¡s HD - HQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",TV MÃ¡s HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=1955&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",TV MÃ¡s HD - Full HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",TV MÃ¡s HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=1955&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif",Unicable - LQ
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="AdryanTP",Unicable - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=218&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif",Unicable - HQ
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="AdryanTP",Unicable - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=218&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif",Unicable - Full HD
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="AdryanTP",Unicable - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=218&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif",Universal Channel - LQ
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="AdryanTP",Universal Channel - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=256&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif",Universal Channel - HQ
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="AdryanTP",Universal Channel - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=256&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif",Universal Channel - Full HD
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="AdryanTP",Universal Channel - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=256&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",Universal HD - LQ
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="AdryanTP",Universal HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=207&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",Universal HD - HQ
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="AdryanTP",Universal HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=207&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",Universal HD - Full HD
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="AdryanTP",Universal HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=207&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Uno TV - LQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Uno TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=145&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Uno TV - HQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Uno TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=145&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Uno TV - Full HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif" group-title="AdryanTP",Uno TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=145&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif",VH1 Classic - LQ
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="AdryanTP",VH1 Classic - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=728&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif",VH1 Classic - HQ
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="AdryanTP",VH1 Classic - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=728&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif",VH1 Classic - Full HD
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-classic.gif" group-title="AdryanTP",VH1 Classic - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=728&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif",VH1 HD - LQ
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="AdryanTP",VH1 HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=703&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif",VH1 HD - HQ
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="AdryanTP",VH1 HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=703&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif",VH1 HD - Full HD
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="AdryanTP",VH1 HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=703&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif",Warner HD - LQ
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="AdryanTP",Warner HD - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=205&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif",Warner HD - HQ
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="AdryanTP",Warner HD - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=205&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif",Warner HD - Full HD
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="AdryanTP",Warner HD - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=205&profile=5&f=.m3u8
-#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif",WOBI TV - LQ
+#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="AdryanTP",WOBI TV - LQ
 http://adryanlist.org/adryan/adryantotal.php?id=387&profile=2&f=.m3u8
-#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif",WOBI TV - HQ
+#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="AdryanTP",WOBI TV - HQ
 http://adryanlist.org/adryan/adryantotal.php?id=387&profile=3&f=.m3u8
-#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif",WOBI TV - Full HD
+#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="AdryanTP",WOBI TV - Full HD
 http://adryanlist.org/adryan/adryantotal.php?id=387&profile=5&f=.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="JOKERTV",Canal 2 HD
