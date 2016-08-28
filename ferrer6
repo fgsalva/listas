@@ -348,7 +348,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION  2][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
+<item><title>[COLOR orange][OPCION  2 (8)][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -357,16 +357,16 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item>  
 
-<tem><title>[COLOR orange][OPCION 3 ][/COLOR]channel/opcion-3/frame-igual-channel/opcion-3a/frame</title>
+<Item><title>[COLOR orange][OPCION 4 ][/COLOR]channel/opcion-4/frame-igual-channel/opcion-4a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-4/frame')</expres>
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
+<item><title>[COLOR orange][OPCION] 5[/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -375,7 +375,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
+<item><title>[COLOR orange][OPCION 8a][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -414,66 +414,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING[/COLOR][COLOR dodgerblue] FOX1SPORT FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/fox1sport/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] NBC FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/nbc/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] NBCSN FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/nbcsn/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] EUROESPORT1 FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/eurosport-1/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN USA FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/espnusa/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] ESPN2 FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/espn2/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
 
 <item>
 <title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
