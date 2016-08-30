@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN Noticias***FerrerList**CowboysHijodePutaLadron
+http://cdn.latinovision.net:1935/live/smil:320.smil/chunklist.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN 2 HD***FerrerList**CowboysHijodePutaLadron
+http://cdn.latinovision.net:1935/live/smil:317.smil/chunklist.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol***FerrerList**CowboysHijodePutaLadron
+http://cdn.latinovision.net:1935/live/smil:321.smil/chunklist.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol 2 HD***FerrerList**CowboysHijodePutaLadron
+http://cdn.latinovision.net:1935/live/smil:318.smil/chunklist.m3u
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
