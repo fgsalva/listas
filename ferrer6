@@ -20,12 +20,6 @@
 </item>
 
 
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/bein-es1/frame</sportsdevil>
-            <referer>http://vipracing.us/channel/bein-es1/frame</referer>
-            <thumbnail></thumbnail>
-            </item>               
 
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime][/COLOR]</title>
@@ -392,6 +386,33 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item>  
 
+<item><title>[COLOR orange][OPCION 9][/COLOR]channel/opcion-9/frame-igual-channel/opcion-9a/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-9a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
+<item><title>[COLOR orange][OPCION 10**][/COLOR]channel/opcion-10/frame/title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-10a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+<item><title>[COLOR orange][OPCION 11**][/COLOR]channel/opcion-11/frame/title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-11a/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>  
+
+
 <item><title>[COLOR orange][OPCION][/COLOR]channel/bein-es1/frame-igual-channel/opcion-3a/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
@@ -422,6 +443,118 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/bein-es1/frame</sportsdevil>
+            <referer>http://vipracing.us/channel/bein-es1/frame</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION1 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-1/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION2 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-2/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION3 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-3/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION3a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION4 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-4/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION4a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-4a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION5 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-5/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION5a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-5a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION6 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-6/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION6a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-6a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION7 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-7/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+            
+            <item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION7 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-7a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION58 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-8/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION8a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-8a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION9 SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-9/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION9a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-9a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>    
 
 <item>
 <title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
