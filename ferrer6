@@ -396,7 +396,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail></thumbnail></item>  
 
 <item>
-<title>[COLOR orange][OPCION 10z][/COLOR]channel/opcion-10/frame/title>
+<title>[COLOR orange][OPCION 10z][/COLOR]channel/opcion-10/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -406,7 +406,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail></thumbnail>
 </item>  
 
-<item><title>[COLOR orange][OPCION 11z][/COLOR]channel/opcion-11/frame/title>
+<item><title>[COLOR orange][OPCION 11z][/COLOR]channel/opcion-11/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -448,18 +448,19 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail></thumbnail></item>  
 
 <item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]principal  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.us/channel/bein-es1/frame</sportsdevil>
             <referer>http://vipracing.us/channel/bein-es1/frame</referer>
             <thumbnail></thumbnail>
             </item>               
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL SD [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/bein-es/frame</sportsdevil>
+            <referer>http://vipracing.us/channel/bein-es/frame</referer>
+            <thumbnail></thumbnail>
+            </item>               
+           
 
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION1 SPORTDEVIL  [COLOR lime][/COLOR]</title>
@@ -581,6 +582,20 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
             </item>    
 
 <item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]FS1.US SPORTDEVIL SD [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/fox1sport/frame</sportsdevil>
+            <referer>http://vipracing.us/channel/fox1sport/frame</referer>
+            <thumbnail></thumbnail>
+            </item>   
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]BT1.US SPORTDEVIL SD [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/bt-1/frame</sportsdevil>
+            <referer>http://vipracing.us/channel/bt-1/frame</referer>
+            <thumbnail></thumbnail>
+            </item>   
+            
+
+<item>
 <title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71112',False,False,'http://vipracing.us/')</expres>
@@ -602,8 +617,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 </item>
-
-
 
 <item>
 <title>[COLOR yellow]FOX NETWORKS [/COLOR]streamlive</title>
