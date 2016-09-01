@@ -643,6 +643,86 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
             <referer>http://zonasports.to/channel.php?id=10</referer>
             <thumbnail></thumbnail>
             </item> 
+            
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/2 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://crivz3.blogspot.com/p/2.html</sportsdevil>
+            <referer>http://crivz3.blogspot.com/p/2.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/3 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://crivz3.blogspot.com/p/3.html</sportsdevil>
+            <referer>http://crivz3.blogspot.com/p/3.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://crivz3.blogspot.com/p/5.html</sportsdevil>
+            <referer>http://crivz3.blogspot.com/p/5.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch5.html</sportsdevil>
+            <referer>http://rivonet.co/ch5.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch7 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch7.html</sportsdevil>
+            <referer>http://rivonet.co/ch7.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch8 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch8.html</sportsdevil>
+            <referer>http://rivonet.co/ch8.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch11 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch11.html</sportsdevil>
+            <referer>http://rivonet.co/ch11.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            
+<item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch12 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch12.html</sportsdevil>
+            <referer>http://rivonet.co/ch12.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            
+            
+ <item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch13 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch13.html</sportsdevil>
+            <referer>http://rivonet.co/ch13.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+ <item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch16 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch16.html</sportsdevil>
+            <referer>http://rivonet.co/ch16.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            
+ <item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch17 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://rivonet.co/ch17.html</sportsdevil>
+            <referer>http://rivonet.co/ch17.html</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
+
+
+
+
 <item>
 <title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
 <link>$doregex[url]</link><regex>	<name>url</name>
