@@ -395,15 +395,18 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 <thumbnail></thumbnail></item>  
 
-<item><title>[COLOR orange][OPCION 10**][/COLOR]channel/opcion-10/frame/title>
+<item>
+<title>[COLOR orange][OPCION 10z][/COLOR]channel/opcion-10/frame/title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
 <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-10a/frame')</expres>
 <page></page>
 </regex>
-<thumbnail></thumbnail></item>  
-<item><title>[COLOR orange][OPCION 11**][/COLOR]channel/opcion-11/frame/title>
+<thumbnail></thumbnail>
+</item>  
+
+<item><title>[COLOR orange][OPCION 11z][/COLOR]channel/opcion-11/frame/title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -443,6 +446,13 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>  
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]principal  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>               
 
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
@@ -552,6 +562,20 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION9a SPORTDEVIL  [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.us/channel/opcion-9a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>    
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION10a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-10a/frame</sportsdevil>
+            <referer>http://vipracing.us</referer>
+            <thumbnail></thumbnail>
+            </item>    
+
+<item>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION11a SPORTDEVIL  [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.us/channel/opcion-11a/frame</sportsdevil>
             <referer>http://vipracing.us</referer>
             <thumbnail></thumbnail>
             </item>    
