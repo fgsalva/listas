@@ -7,6 +7,8 @@ http://cdn.latinovision.net:1935/live/smil:317.smil/chunklist.m3u8
 http://cdn.latinovision.net:1935/live/smil:321.smil/chunklist.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol 2 HD***FerrerList**CowboysHijodePutaLadron
 http://cdn.latinovision.net:1935/live/smil:318.smil/chunklist.m3u
+#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI CASTAMP***FerrerList**CowboysHijodePutaLadron
+rtmp://198.255.96.66/live playpath=zonax34ad_1472850923_06379ecb09761aac swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax34ad&vwidth=640&vheight=380
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
