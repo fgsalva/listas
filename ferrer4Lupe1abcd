@@ -1,21 +1,58 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN Noticias***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN Noticias***FerrerList**CowboysHijodePutaLadron
 http://cdn.latinovision.net:1935/live/smil:320.smil/chunklist.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN 2 HD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN 2 HD***FerrerList**CowboysHijodePutaLadron
 http://cdn.latinovision.net:1935/live/smil:317.smil/chunklist.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol***FerrerList**CowboysHijodePutaLadron
 http://cdn.latinovision.net:1935/live/smil:321.smil/chunklist.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol 2 HD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol 2 HD***FerrerList**CowboysHijodePutaLadron
 http://cdn.latinovision.net:1935/live/smil:318.smil/chunklist.m3u
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI CASTAMP***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI CASTAMP***FerrerList**CowboysHijodePutaLadron
 rtmp://198.255.96.66/live playpath=zonax34ad_1472850923_06379ecb09761aac swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax34ad&vwidth=640&vheight=380
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI2 CASTAMP***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI2 CASTAMP***FerrerList**CowboysHijodePutaLadron
 rtmp://50.7.28.130/live playpath=zonax4ad_1472851638_cad3e9a726590832 swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax4ad&vwidth=640&vheight=380
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI3 CASTAMP***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI3 CASTAMP***FerrerList**CowboysHijodePutaLadron
 rtmp://50.7.28.130/live playpath=zonax34ad_1472852443_9d8ae02a07fd2424 swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax34ad&vwidth=640&vheight=380
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenPremier1LA
+http://freedom.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOPus2LASD
+http://freedom.duki.me/LIVE/H02/HBOPus2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA
+http://freedom.duki.me/LIVE/H02/ESPNLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA2
+http://freedom.duki.me/LIVE/H02/ESPN2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA3
+http://freedom.duki.me/LIVE/H02/ESPN3LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA
+http://freedom.duki.me/LIVE/H02/FoxSportsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA2
+http://freedom.duki.me/LIVE/H02/FoxSports2SD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA3
+http://freedom.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BeinSportsLA
+http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UFCNetworkLA
+http://freedom.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",PlanetaFutbolLA
+http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TDNMXLA
+http://freedom.duki.me/LIVE/H02/TDNMXLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionTDNLA
+http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MultiPremierLA
+http://tmp.duki.me/LIVE/H02/MultiPremierLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxPrimeLASD
+http://tmp.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BEIN SPORT
+http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BEIN SPORTL
+http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TDN
+http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8?
 
-#EXTINF:-1,#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GOLST CASTALB***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GOLST CASTALB***FerrerList**CowboysHijodePutaLadron
 rtmp://50.23.113.249/live playpath=26345?313437323835313737315f6137353233366634363864346363393532623061386632616536343834396465 swfUrl=http://static.castalba.tv/player.swf flashver=WIN/2022,0,0,209 live=true timeout=15 swfVfy=true pageUrl=http://www.castalba.tv/embed.php?cid=26345&wh=600&ht=380&d
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
