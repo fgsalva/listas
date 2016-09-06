@@ -1401,791 +1401,791 @@ http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",4seven.stream/		
-http://freedom.duki.me/LIVE/H02/4seven.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",5star.stream/		
-http://freedom.duki.me/LIVE/H02/5star.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",5usa.stream/		
-http://freedom.duki.me/LIVE/H02/5usa.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",9xTashan.stream/		
-http://freedom.duki.me/LIVE/H02/9xTashan.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCFamilyUS/		
-http://freedom.duki.me/LIVE/H02/ABCFamilyUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCMIASD/		
-http://freedom.duki.me/LIVE/H02/ABCMIASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCNY/		
-http://freedom.duki.me/LIVE/H02/ABCNY/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AEEastUS/		
-http://freedom.duki.me/LIVE/H02/AEEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AELatinoamericaHD/		
-http://freedom.duki.me/LIVE/H02/AELatinoamericaHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AMCEastUS/		
-http://freedom.duki.me/LIVE/H02/AMCEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AMCLASD/		
-http://freedom.duki.me/LIVE/H02/AMCLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AXNLA/		
-http://freedom.duki.me/LIVE/H02/AXNLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ActionMaxEastUS/		
-http://freedom.duki.me/LIVE/H02/ActionMaxEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AmericanHeroesUS/		
-http://freedom.duki.me/LIVE/H02/AmericanHeroesUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AnimalPlanetLASD/		
-http://freedom.duki.me/LIVE/H02/AnimalPlanetLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AnimalPlanetUS/		
-http://freedom.duki.me/LIVE/H02/AnimalPlanetUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AudienceUS/		
-http://freedom.duki.me/LIVE/H02/AudienceUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AzMundoLA/		
-http://freedom.duki.me/LIVE/H02/AzMundoLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AzcorazonLA/		
-http://freedom.duki.me/LIVE/H02/AzcorazonLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCAmericaHD/		
-http://freedom.duki.me/LIVE/H02/BBCAmericaHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCEntLA/		
-http://freedom.duki.me/LIVE/H02/BBCEntLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCWorldNewsSD/		
-http://freedom.duki.me/LIVE/H02/BBCWorldNewsSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BabyTVLASD/		
-http://freedom.duki.me/LIVE/H02/BabyTVLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BandamaxLA/		
-http://freedom.duki.me/LIVE/H02/BandamaxLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BeinSportsLA/		
-http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BoomerangLA/		
-http://freedom.duki.me/LIVE/H02/BoomerangLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BravoEastUS/		
-http://freedom.duki.me/LIVE/H02/BravoEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CBSNYUS/		
-http://freedom.duki.me/LIVE/H02/CBSNYUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CBSSportsNetworkUS/		
-http://freedom.duki.me/LIVE/H02/CBSSportsNetworkUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNBCUS/		
-http://freedom.duki.me/LIVE/H02/CNBCUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNNLASD/		
-http://freedom.duki.me/LIVE/H02/CNNLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNNUSAHD/		
-http://freedom.duki.me/LIVE/H02/CNNUSAHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CSNBAUS/		
-http://freedom.duki.me/LIVE/H02/CSNBAUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Canal5LA/		
-http://freedom.duki.me/LIVE/H02/Canal5LA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CaracolIntSD/		
-http://freedom.duki.me/LIVE/H02/CaracolIntSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CartoonNetworkLASD/		
-http://freedom.duki.me/LIVE/H02/CartoonNetworkLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CasaClubLA/		
-http://freedom.duki.me/LIVE/H02/CasaClubLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CbeebiesLA/		
-http://freedom.duki.me/LIVE/H02/CbeebiesLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ChillerUS/		
-http://freedom.duki.me/LIVE/H02/ChillerUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineCanalLA/		
-http://freedom.duki.me/LIVE/H02/CineCanalLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineDinamitaLA/		
-http://freedom.duki.me/LIVE/H02/CineDinamitaLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineLatinoSD/		
-http://freedom.duki.me/LIVE/H02/CineLatinoSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxEastUS/		
-http://freedom.duki.me/LIVE/H02/CinemaxEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxLASD/		
-http://freedom.duki.me/LIVE/H02/CinemaxLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxWestUS/		
-http://freedom.duki.me/LIVE/H02/CinemaxWestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ComedyCentralHD/		
-http://freedom.duki.me/LIVE/H02/ComedyCentralHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ComedyCentralLA/		
-http://freedom.duki.me/LIVE/H02/ComedyCentralLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ConcertChannelSD/		
-http://freedom.duki.me/LIVE/H02/ConcertChannelSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CookingChannelUS/		
-http://freedom.duki.me/LIVE/H02/CookingChannelUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CrimeInvNetUS/		
-http://freedom.duki.me/LIVE/H02/CrimeInvNetUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DIYNetworkHD/		
-http://freedom.duki.me/LIVE/H02/DIYNetworkHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DestinationAmericaUS/		
-http://freedom.duki.me/LIVE/H02/DestinationAmericaUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Digital15RDLA/		
-http://freedom.duki.me/LIVE/H02/Digital15RDLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscovTurbo.stream/		
-http://freedom.duki.me/LIVE/H02/DiscovTurbo.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryChLA/		
-http://freedom.duki.me/LIVE/H02/DiscoveryChLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryChannelUSAHD/		
-http://freedom.duki.me/LIVE/H02/DiscoveryChannelUSAHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryFamilyUS/		
-http://freedom.duki.me/LIVE/H02/DiscoveryFamilyUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryHomeHealthLAHD/		
-http://freedom.duki.me/LIVE/H02/DiscoveryHomeHealthLAHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryKidsSD/		
-http://freedom.duki.me/LIVE/H02/DiscoveryKidsSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryWorldLA/		
-http://freedom.duki.me/LIVE/H02/DiscoveryWorldLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryenEspanolHD/		
-http://freedom.duki.me/LIVE/H02/DiscoveryenEspanolHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyChannelEastHD/		
-http://freedom.duki.me/LIVE/H02/DisneyChannelEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyChannelNorteHD/		
-http://freedom.duki.me/LIVE/H02/DisneyChannelNorteHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyJrLASD/		
-http://freedom.duki.me/LIVE/H02/DisneyJrLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyJrUS/		
-http://freedom.duki.me/LIVE/H02/DisneyJrUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyXDSD/		
-http://freedom.duki.me/LIVE/H02/DisneyXDSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyXDUS/		
-http://freedom.duki.me/LIVE/H02/DisneyXDUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DistritoComediaLA/		
-http://freedom.duki.me/LIVE/H02/DistritoComediaLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN2LASD/		
-http://freedom.duki.me/LIVE/H02/ESPN2LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN2US/		
-http://freedom.duki.me/LIVE/H02/ESPN2US/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN3LASD/		
-http://freedom.duki.me/LIVE/H02/ESPN3LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA/		
-http://freedom.duki.me/LIVE/H02/ESPNLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNUS/		
-http://freedom.duki.me/LIVE/H02/ESPNUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNUUS/		
-http://freedom.duki.me/LIVE/H02/ESPNUUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNewsUS/		
-http://freedom.duki.me/LIVE/H02/ESPNewsUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Eden.stream/		
-http://freedom.duki.me/LIVE/H02/Eden.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EentertaimentSD/		
-http://freedom.duki.me/LIVE/H02/EentertaimentSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EfektoTVLA/		
-http://freedom.duki.me/LIVE/H02/EfektoTVLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ElFinancieroBLA/		
-http://freedom.duki.me/LIVE/H02/ElFinancieroBLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ElgourmetLA/		
-http://freedom.duki.me/LIVE/H02/ElgourmetLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreActionEastUS/		
-http://freedom.duki.me/LIVE/H02/EncoreActionEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreEastHD/		
-http://freedom.duki.me/LIVE/H02/EncoreEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreWesterns/		
-http://freedom.duki.me/LIVE/H02/EncoreWesterns/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EstrellaTVLA/		
-http://freedom.duki.me/LIVE/H02/EstrellaTVLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EurochannelLA/		
-http://freedom.duki.me/LIVE/H02/EurochannelLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EuropaEuropaLA/		
-http://freedom.duki.me/LIVE/H02/EuropaEuropaLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",F1LA/		
-http://freedom.duki.me/LIVE/H02/F1LA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOX1LASD/		
-http://freedom.duki.me/LIVE/H02/FOX1LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOX1OesteLASD/		
-http://freedom.duki.me/LIVE/H02/FOX1OesteLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXACTIONLASD/		
-http://freedom.duki.me/LIVE/H02/FOXACTIONLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXActionOesteLASD/		
-http://freedom.duki.me/LIVE/H02/FOXActionOesteLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXClassicsLASD/		
-http://freedom.duki.me/LIVE/H02/FOXClassicsLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXComedyLASD/		
-http://freedom.duki.me/LIVE/H02/FOXComedyLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXFamilyLASD/		
-http://freedom.duki.me/LIVE/H02/FOXFamilyLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXHDLA/		
-http://freedom.duki.me/LIVE/H02/FOXHDLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXMIASD/		
-http://freedom.duki.me/LIVE/H02/FOXMIASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXMoviesLASD/		
-http://freedom.duki.me/LIVE/H02/FOXMoviesLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXNY/		
-http://freedom.duki.me/LIVE/H02/FOXNY/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FSNTXUS/		
-http://freedom.duki.me/LIVE/H02/FSNTXUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FSNWestUS/		
-http://freedom.duki.me/LIVE/H02/FSNWestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXEastUS/		
-http://freedom.duki.me/LIVE/H02/FXEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXLASD/		
-http://freedom.duki.me/LIVE/H02/FXLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXXUS/		
-http://freedom.duki.me/LIVE/H02/FXXUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FilmArtsLA/		
-http://freedom.duki.me/LIVE/H02/FilmArtsLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FilmZoneLASD/		
-http://freedom.duki.me/LIVE/H02/FilmZoneLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoodNetworkEastHD/		
-http://freedom.duki.me/LIVE/H02/FoodNetworkEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxBusinessUS/		
-http://freedom.duki.me/LIVE/H02/FoxBusinessUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxCinemaSD/		
-http://freedom.duki.me/LIVE/H02/FoxCinemaSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxLifeSD/		
-http://freedom.duki.me/LIVE/H02/FoxLifeSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxNewsChannelHD/		
-http://freedom.duki.me/LIVE/H02/FoxNewsChannelHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports1HD/		
-http://freedom.duki.me/LIVE/H02/FoxSports1HD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports2SD/		
-http://freedom.duki.me/LIVE/H02/FoxSports2SD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports3SD/		
-http://freedom.duki.me/LIVE/H02/FoxSports3SD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsFloridaUS/		
-http://freedom.duki.me/LIVE/H02/FoxSportsFloridaUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA/		
-http://freedom.duki.me/LIVE/H02/FoxSportsLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsSouthUS/		
-http://freedom.duki.me/LIVE/H02/FoxSportsSouthUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GlitzLA/		
-http://freedom.duki.me/LIVE/H02/GlitzLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenEdgeLA/		
-http://freedom.duki.me/LIVE/H02/GoldenEdgeLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenHD/		
-http://freedom.duki.me/LIVE/H02/GoldenHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenMPLXLA/		
-http://freedom.duki.me/LIVE/H02/GoldenMPLXLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenPremier1LA/		
-http://freedom.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenPremiere2LA/		
-http://freedom.duki.me/LIVE/H02/GoldenPremiere2LA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GolfChannelLA/		
-http://freedom.duki.me/LIVE/H02/GolfChannelLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GolfChannelUS/		
-http://freedom.duki.me/LIVE/H02/GolfChannelUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",H2LASD/		
-http://freedom.duki.me/LIVE/H02/H2LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2EastHD/		
-http://freedom.duki.me/LIVE/H02/HBO2EastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2SD/		
-http://freedom.duki.me/LIVE/H02/HBO2SD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2WestUS/		
-http://freedom.duki.me/LIVE/H02/HBO2WestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOComedyEastUS/		
-http://freedom.duki.me/LIVE/H02/HBOComedyEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOEastUS/		
-http://freedom.duki.me/LIVE/H02/HBOEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOFamilyEastUS/		
-http://freedom.duki.me/LIVE/H02/HBOFamilyEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOFamilyLASD/		
-http://freedom.duki.me/LIVE/H02/HBOFamilyLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOLASD/		
-http://freedom.duki.me/LIVE/H02/HBOLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOPlusLASD/		
-http://freedom.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOPus2LASD/		
-http://freedom.duki.me/LIVE/H02/HBOPus2LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOSignatureEastUS/		
-http://freedom.duki.me/LIVE/H02/HBOSignatureEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOSignatureLASD/		
-http://freedom.duki.me/LIVE/H02/HBOSignatureLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOWestUS/		
-http://freedom.duki.me/LIVE/H02/HBOWestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOZoneUS/		
-http://freedom.duki.me/LIVE/H02/HBOZoneUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HGTVUS/		
-http://freedom.duki.me/LIVE/H02/HGTVUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HLNUS/		
-http://freedom.duki.me/LIVE/H02/HLNUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HTVSD/		
-http://freedom.duki.me/LIVE/H02/HTVSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HallmarkMovieChannelUS/		
-http://freedom.duki.me/LIVE/H02/HallmarkMovieChannelUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HistoryHD/		
-http://freedom.duki.me/LIVE/H02/HistoryHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HistoryLA/		
-http://freedom.duki.me/LIVE/H02/HistoryLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IDUS/		
-http://freedom.duki.me/LIVE/H02/IDUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IFCHD/		
-http://freedom.duki.me/LIVE/H02/IFCHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IONTVEastUS/		
-http://freedom.duki.me/LIVE/H02/IONTVEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ISATLA/		
-http://freedom.duki.me/LIVE/H02/ISATLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",InvDiscoverySD/		
-http://freedom.duki.me/LIVE/H02/InvDiscoverySD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",JuicyLA/		
-http://freedom.duki.me/LIVE/H02/JuicyLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",KMusicLA/		
-http://freedom.duki.me/LIVE/H02/KMusicLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Lakers/		
-http://freedom.duki.me/LIVE/H02/Lakers/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeEastUS/		
-http://freedom.duki.me/LIVE/H02/LifetimeEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeLASD/		
-http://freedom.duki.me/LIVE/H02/LifetimeLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeMoviesUS/		
-http://freedom.duki.me/LIVE/H02/LifetimeMoviesUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MASNUS/		
-http://freedom.duki.me/LIVE/H02/MASNUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MATVUS/		
-http://freedom.duki.me/LIVE/H02/MATVUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MAXLASD/		
-http://freedom.duki.me/LIVE/H02/MAXLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MLBExtraIning/		
-http://freedom.duki.me/LIVE/H02/MLBExtraIning/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MLBNetworkHD/		
-http://freedom.duki.me/LIVE/H02/MLBNetworkHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MSGUS/		
-http://freedom.duki.me/LIVE/H02/MSGUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MSNBCUS/		
-http://freedom.duki.me/LIVE/H02/MSNBCUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MTVHitsLA/		
-http://freedom.duki.me/LIVE/H02/MTVHitsLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MTVLA/		
-http://freedom.duki.me/LIVE/H02/MTVLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxPrime2LASD/		
-http://freedom.duki.me/LIVE/H02/MaxPrime2LASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxPrimeLASD/		
-http://freedom.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxUPSD/		
-http://freedom.duki.me/LIVE/H02/MaxUPSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MegaTVUS/		
-http://freedom.duki.me/LIVE/H02/MegaTVUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MultiPremierLA/		
-http://freedom.duki.me/LIVE/H02/MultiPremierLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MultimediosLA/		
-http://freedom.duki.me/LIVE/H02/MultimediosLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MundoFoxSD/		
-http://freedom.duki.me/LIVE/H02/MundoFoxSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBATVUS/		
-http://freedom.duki.me/LIVE/H02/NBATVUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCMIASD/		
-http://freedom.duki.me/LIVE/H02/NBCMIASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCNY/		
-http://freedom.duki.me/LIVE/H02/NBCNY/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCSportNetworkUS/		
-http://freedom.duki.me/LIVE/H02/NBCSportNetworkUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCUniversoUS/		
-http://freedom.duki.me/LIVE/H02/NBCUniversoUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NESNUS/		
-http://freedom.duki.me/LIVE/H02/NESNUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NFLNetworkUS/		
-http://freedom.duki.me/LIVE/H02/NFLNetworkUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NHLNetworkHD/		
-http://freedom.duki.me/LIVE/H02/NHLNetworkHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NTN24LA/		
-http://freedom.duki.me/LIVE/H02/NTN24LA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoLASD/		
-http://freedom.duki.me/LIVE/H02/NatGeoLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoUS/		
-http://freedom.duki.me/LIVE/H02/NatGeoUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoWildLAHD/		
-http://freedom.duki.me/LIVE/H02/NatGeoWildLAHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoWildUS/		
-http://freedom.duki.me/LIVE/H02/NatGeoWildUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Bronx.stream/		
-http://freedom.duki.me/LIVE/H02/News12Bronx.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Brooklyn.stream/		
-http://freedom.duki.me/LIVE/H02/News12Brooklyn.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Connecticut.stream/		
-http://freedom.duki.me/LIVE/H02/News12Connecticut.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12HudsonValley.stream/		
-http://freedom.duki.me/LIVE/H02/News12HudsonValley.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12LongIsland.stream/		
-http://freedom.duki.me/LIVE/H02/News12LongIsland.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12NewJersey.stream/		
-http://freedom.duki.me/LIVE/H02/News12NewJersey.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Westchester.stream/		
-http://freedom.duki.me/LIVE/H02/News12Westchester.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickJrLASD/		
-http://freedom.duki.me/LIVE/H02/NickJrLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickJrUS/		
-http://freedom.duki.me/LIVE/H02/NickJrUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickelodeonEastUS/		
-http://freedom.duki.me/LIVE/H02/NickelodeonEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickelodeonLA/		
-http://freedom.duki.me/LIVE/H02/NickelodeonLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",OvationUS/		
-http://freedom.duki.me/LIVE/H02/OvationUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",OxygenSD/		
-http://freedom.duki.me/LIVE/H02/OxygenSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ParamountChannelLatinAmericaHD/		
-http://freedom.duki.me/LIVE/H02/ParamountChannelLatinAmericaHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",PlanetaFutbolLA/		
-http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",PlayboyTV/		
-http://freedom.duki.me/LIVE/H02/PlayboyTV/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",RCNnovelasLA/		
-http://freedom.duki.me/LIVE/H02/RCNnovelasLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Really.stream/		
-http://freedom.duki.me/LIVE/H02/Really.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SKYSPNews.stream/		
-http://freedom.duki.me/LIVE/H02/SKYSPNews.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ScienceUS/		
-http://freedom.duki.me/LIVE/H02/ScienceUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SecretsLA/		
-http://freedom.duki.me/LIVE/H02/SecretsLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SextremeSD/		
-http://freedom.duki.me/LIVE/H02/SextremeSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeBeyondEastUS/		
-http://freedom.duki.me/LIVE/H02/ShowtimeBeyondEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeEastHD/		
-http://freedom.duki.me/LIVE/H02/ShowtimeEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeExtremeEastUS/		
-http://freedom.duki.me/LIVE/H02/ShowtimeExtremeEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeNextUS/		
-http://freedom.duki.me/LIVE/H02/ShowtimeNextUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeShowcaseEastUS/		
-http://freedom.duki.me/LIVE/H02/ShowtimeShowcaseEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeWestUS/		
-http://freedom.duki.me/LIVE/H02/ShowtimeWestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SonyLA/		
-http://freedom.duki.me/LIVE/H02/SonyLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SonyMovieChannelUS/		
-http://freedom.duki.me/LIVE/H02/SonyMovieChannelUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SpaceLA/		
-http://freedom.duki.me/LIVE/H02/SpaceLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SpikeUS/		
-http://freedom.duki.me/LIVE/H02/SpikeUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SportNetLA/		
-http://freedom.duki.me/LIVE/H02/SportNetLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SportsNetNewYorkUS/		
-http://freedom.duki.me/LIVE/H02/SportsNetNewYorkUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzCinemaEastUS/		
-http://freedom.duki.me/LIVE/H02/StarzCinemaEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzComedyEastUS/		
-http://freedom.duki.me/LIVE/H02/StarzComedyEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzEastHD/		
-http://freedom.duki.me/LIVE/H02/StarzEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzEdgeEastUS/		
-http://freedom.duki.me/LIVE/H02/StarzEdgeEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzKidsFamilyEastUS/		
-http://freedom.duki.me/LIVE/H02/StarzKidsFamilyEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzWestUS/		
-http://freedom.duki.me/LIVE/H02/StarzWestUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StudioUniversalSD/		
-http://freedom.duki.me/LIVE/H02/StudioUniversalSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SundanceLA/		
-http://freedom.duki.me/LIVE/H02/SundanceLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SyFyLASD/		
-http://freedom.duki.me/LIVE/H02/SyFyLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SyFyUS/		
-http://freedom.duki.me/LIVE/H02/SyFyUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TBSEastUS/		
-http://freedom.duki.me/LIVE/H02/TBSEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TBSLASD/		
-http://freedom.duki.me/LIVE/H02/TBSLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TCMSD/		
-http://freedom.duki.me/LIVE/H02/TCMSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TCMUS/		
-http://freedom.duki.me/LIVE/H02/TCMUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TDNMXLA/		
-http://freedom.duki.me/LIVE/H02/TDNMXLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TLC.stream/		
-http://freedom.duki.me/LIVE/H02/TLC.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TLCLASD/		
-http://freedom.duki.me/LIVE/H02/TLCLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TNTAmericaLatinaHD/		
-http://freedom.duki.me/LIVE/H02/TNTAmericaLatinaHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TNTDramaUS/		
-http://freedom.duki.me/LIVE/H02/TNTDramaUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TVGloboLA/		
-http://freedom.duki.me/LIVE/H02/TVGloboLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TVLand/		
-http://freedom.duki.me/LIVE/H02/TVLand/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TeenNickUS/		
-http://freedom.duki.me/LIVE/H02/TeenNickUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TeleCentroRDLA/		
-http://freedom.duki.me/LIVE/H02/TeleCentroRDLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemicroLA/		
-http://freedom.duki.me/LIVE/H02/TelemicroLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoEastUS/		
-http://freedom.duki.me/LIVE/H02/TelemundoEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoLosAngeles/		
-http://freedom.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoPR/		
-http://freedom.duki.me/LIVE/H02/TelemundoPR/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoPunto2/		
-http://freedom.duki.me/LIVE/H02/TelemundoPunto2/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoSD/		
-http://freedom.duki.me/LIVE/H02/TelemundoSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TennisChannelUS/		
-http://freedom.duki.me/LIVE/H02/TennisChannelUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheMovieChannelEastHD/		
-http://freedom.duki.me/LIVE/H02/TheMovieChannelEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheMovieChannelXtraEastUS/		
-http://freedom.duki.me/LIVE/H02/TheMovieChannelXtraEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheWeatherChannelHD/		
-http://freedom.duki.me/LIVE/H02/TheWeatherChannelHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ThrillerMaxEasUS/		
-http://freedom.duki.me/LIVE/H02/ThrillerMaxEasUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TlnovelasLA/		
-http://freedom.duki.me/LIVE/H02/TlnovelasLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TooncastSD/		
-http://freedom.duki.me/LIVE/H02/TooncastSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherHudsonValley.stream/		
-http://freedom.duki.me/LIVE/H02/TrafficWeatherHudsonValley.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherLongIsland.stream/		
-http://freedom.duki.me/LIVE/H02/TrafficWeatherLongIsland.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherNJ.stream/		
-http://freedom.duki.me/LIVE/H02/TrafficWeatherNJ.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherNY.stream/		
-http://freedom.duki.me/LIVE/H02/TrafficWeatherNY.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TruTVSD/		
-http://freedom.duki.me/LIVE/H02/TruTVSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TruTVUS/		
-http://freedom.duki.me/LIVE/H02/TruTVUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UFCNetworkLA/		
-http://freedom.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",USANetworkEastHD/		
-http://freedom.duki.me/LIVE/H02/USANetworkEastHD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UniMasUS/		
-http://freedom.duki.me/LIVE/H02/UniMasUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnicableLA/		
-http://freedom.duki.me/LIVE/H02/UnicableLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UniversalLASD/		
-http://freedom.duki.me/LIVE/H02/UniversalLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionEastUS/		
-http://freedom.duki.me/LIVE/H02/UnivisionEastUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionLosAngeles/		
-http://freedom.duki.me/LIVE/H02/UnivisionLosAngeles/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionPR/		
-http://freedom.duki.me/LIVE/H02/UnivisionPR/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionTDNLA/		
-http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VENUSSD/		
-http://freedom.duki.me/LIVE/H02/VENUSSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VH1ClassicLASD/		
-http://freedom.duki.me/LIVE/H02/VH1ClassicLASD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VH1LatinoSD/		
-http://freedom.duki.me/LIVE/H02/VH1LatinoSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WAPAPR/		
-http://freedom.duki.me/LIVE/H02/WAPAPR/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WETVSD/		
-http://freedom.duki.me/LIVE/H02/WETVSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WGNAmericaUS/		
-http://freedom.duki.me/LIVE/H02/WGNAmericaUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WPA2PR/		
-http://freedom.duki.me/LIVE/H02/WPA2PR/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WarnerLA/		
-http://freedom.duki.me/LIVE/H02/WarnerLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",XTSYLA/		
-http://freedom.duki.me/LIVE/H02/XTSYLA/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Yesterday.stream/		
-http://freedom.duki.me/LIVE/H02/Yesterday.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aajtak.stream/		
-http://freedom.duki.me/LIVE/H02/aajtak.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",alibi.stream/		
-http://freedom.duki.me/LIVE/H02/alibi.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aruj.stream/		
-http://freedom.duki.me/LIVE/H02/aruj.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aryqtv.stream/		
-http://freedom.duki.me/LIVE/H02/aryqtv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro1.stream/		
-http://freedom.duki.me/LIVE/H02/astro1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro2.stream/		
-http://freedom.duki.me/LIVE/H02/astro2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro3.stream/		
-http://freedom.duki.me/LIVE/H02/astro3.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",atlantic.stream/		
-http://freedom.duki.me/LIVE/H02/atlantic.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",attheraces.stream/		
-http://freedom.duki.me/LIVE/H02/attheraces.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",b4umovies.stream/		
-http://freedom.duki.me/LIVE/H02/b4umovies.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc1.stream/		
-http://freedom.duki.me/LIVE/H02/bbc1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc2.stream/		
-http://freedom.duki.me/LIVE/H02/bbc2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc3.stream/		
-http://freedom.duki.me/LIVE/H02/bbc3.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc4.stream/		
-http://freedom.duki.me/LIVE/H02/bbc4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbcn.stream/		
-http://freedom.duki.me/LIVE/H02/bbcn.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",boxnation.stream/		
-http://freedom.duki.me/LIVE/H02/boxnation.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",btsport1.stream/		
-http://freedom.duki.me/LIVE/H02/btsport1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",btsport2.stream/		
-http://freedom.duki.me/LIVE/H02/btsport2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsaction.stream/		
-http://freedom.duki.me/LIVE/H02/cbsaction.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsdrama.stream/		
-http://freedom.duki.me/LIVE/H02/cbsdrama.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsreality.stream/		
-http://freedom.duki.me/LIVE/H02/cbsreality.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ch4.stream/		
-http://freedom.duki.me/LIVE/H02/ch4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ch5.stream/		
-http://freedom.duki.me/LIVE/H02/ch5.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",challenge.stream/		
-http://freedom.duki.me/LIVE/H02/challenge.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",citi21.stream/		
-http://freedom.duki.me/LIVE/H02/citi21.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",colors.stream/		
-http://freedom.duki.me/LIVE/H02/colors.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dave.stream/		
-http://freedom.duki.me/LIVE/H02/dave.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dmax.stream/		
-http://freedom.duki.me/LIVE/H02/dmax.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",drama.stream/		
-http://freedom.duki.me/LIVE/H02/drama.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dunya.stream/		
-http://freedom.duki.me/LIVE/H02/dunya.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",e4.stream/		
-http://freedom.duki.me/LIVE/H02/e4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eEntUS/		
-http://freedom.duki.me/LIVE/H02/eEntUS/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",enter10.stream/		
-http://freedom.duki.me/LIVE/H02/enter10.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eurosp1.stream/		
-http://freedom.duki.me/LIVE/H02/eurosp1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eurosp2.stream/		
-http://freedom.duki.me/LIVE/H02/eurosp2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",film4.stream/		
-http://freedom.duki.me/LIVE/H02/film4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",filmworld.stream/		
-http://freedom.duki.me/LIVE/H02/filmworld.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",filmzia.stream/		
-http://freedom.duki.me/LIVE/H02/filmzia.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",fxuk.stream/		
-http://freedom.duki.me/LIVE/H02/fxuk.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",geosuper.stream/		
-http://freedom.duki.me/LIVE/H02/geosuper.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",geotv.stream/		
-http://freedom.duki.me/LIVE/H02/geotv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",gold.stream/		
-http://freedom.duki.me/LIVE/H02/gold.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",goodfood.stream/		
-http://freedom.duki.me/LIVE/H02/goodfood.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",hallabol.stream/		
-http://freedom.duki.me/LIVE/H02/hallabol.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ikid.stream/		
-http://freedom.duki.me/LIVE/H02/ikid.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",indiatoday.stream/		
-http://freedom.duki.me/LIVE/H02/indiatoday.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",infinitoSD/		
-http://freedom.duki.me/LIVE/H02/infinitoSD/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",irishtv.stream/		
-http://freedom.duki.me/LIVE/H02/irishtv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv2.stream/		
-http://freedom.duki.me/LIVE/H02/itv2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv3.stream/		
-http://freedom.duki.me/LIVE/H02/itv3.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv4.stream/		
-http://freedom.duki.me/LIVE/H02/itv4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itvbe.stream/		
-http://freedom.duki.me/LIVE/H02/itvbe.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itvencore.stream/		
-http://freedom.duki.me/LIVE/H02/itvencore.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",juspunjabi.stream/		
-http://freedom.duki.me/LIVE/H02/juspunjabi.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",living.stream/		
-http://freedom.duki.me/LIVE/H02/living.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",lollywood.stream/		
-http://freedom.duki.me/LIVE/H02/lollywood.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mgreats.stream/		
-http://freedom.duki.me/LIVE/H02/mgreats.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mh1.stream/		
-http://freedom.duki.me/LIVE/H02/mh1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",more4.stream/		
-http://freedom.duki.me/LIVE/H02/more4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movaction.stream/		
-http://freedom.duki.me/LIVE/H02/movaction.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movcomedy.stream/		
-http://freedom.duki.me/LIVE/H02/movcomedy.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movdisney.stream/		
-http://freedom.duki.me/LIVE/H02/movdisney.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movdrama.stream/		
-http://freedom.duki.me/LIVE/H02/movdrama.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movfamily.stream/		
-http://freedom.duki.me/LIVE/H02/movfamily.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movies24.stream/		
-http://freedom.duki.me/LIVE/H02/movies24.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movpremier.stream/		
-http://freedom.duki.me/LIVE/H02/movpremier.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movscifi.stream/		
-http://freedom.duki.me/LIVE/H02/movscifi.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movselect.stream/		
-http://freedom.duki.me/LIVE/H02/movselect.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movthriller.stream/		
-http://freedom.duki.me/LIVE/H02/movthriller.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mutv.stream/		
-http://freedom.duki.me/LIVE/H02/mutv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",pick.stream/		
-http://freedom.duki.me/LIVE/H02/pick.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",playmax.stream/		
-http://freedom.duki.me/LIVE/H02/playmax.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ptcchakde.stream/		
-http://freedom.duki.me/LIVE/H02/ptcchakde.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ptcpunjabi.stream/		
-http://freedom.duki.me/LIVE/H02/ptcpunjabi.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",racinguk.stream/		
-http://freedom.duki.me/LIVE/H02/racinguk.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rishtey.stream/		
-http://freedom.duki.me/LIVE/H02/rishtey.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rte1.stream/		
-http://freedom.duki.me/LIVE/H02/rte1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rte2.stream/		
-http://freedom.duki.me/LIVE/H02/rte2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sabtvind.stream/		
-http://freedom.duki.me/LIVE/H02/sabtvind.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",saharaone.stream/		
-http://freedom.duki.me/LIVE/H02/saharaone.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",samay.stream/		
-http://freedom.duki.me/LIVE/H02/samay.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",setanta.stream/		
-http://freedom.duki.me/LIVE/H02/setanta.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",silverscreen.stream/		
-http://freedom.duki.me/LIVE/H02/silverscreen.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sky1.stream/		
-http://freedom.duki.me/LIVE/H02/sky1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skynews.stream/		
-http://freedom.duki.me/LIVE/H02/skynews.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp1.stream/		
-http://freedom.duki.me/LIVE/H02/skysp1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp2.stream/		
-http://freedom.duki.me/LIVE/H02/skysp2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp3.stream/		
-http://freedom.duki.me/LIVE/H02/skysp3.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp4.stream/		
-http://freedom.duki.me/LIVE/H02/skysp4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp5.stream/		
-http://freedom.duki.me/LIVE/H02/skysp5.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skyspf1.stream/		
-http://freedom.duki.me/LIVE/H02/skyspf1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonyin.stream/		
-http://freedom.duki.me/LIVE/H02/sonyin.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonysabtv.stream/		
-http://freedom.duki.me/LIVE/H02/sonysabtv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonytv.stream/		
-http://freedom.duki.me/LIVE/H02/sonytv.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starmovies.stream/		
-http://freedom.duki.me/LIVE/H02/starmovies.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starplus.stream/		
-http://freedom.duki.me/LIVE/H02/starplus.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starsports1.stream/		
-http://freedom.duki.me/LIVE/H02/starsports1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starsports4.stream/		
-http://freedom.duki.me/LIVE/H02/starsports4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tg4.stream/		
-http://freedom.duki.me/LIVE/H02/tg4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",travel.stream/		
-http://freedom.duki.me/LIVE/H02/travel.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",true1.stream/		
-http://freedom.duki.me/LIVE/H02/true1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",true2.stream/		
-http://freedom.duki.me/LIVE/H02/true2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",truedrama.stream/		
-http://freedom.duki.me/LIVE/H02/truedrama.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn1.stream/		
-http://freedom.duki.me/LIVE/H02/tsn1.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn2.stream/		
-http://freedom.duki.me/LIVE/H02/tsn2.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn3.stream/		
-http://freedom.duki.me/LIVE/H02/tsn3.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn4.stream/		
-http://freedom.duki.me/LIVE/H02/tsn4.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn5.stream/		
-http://freedom.duki.me/LIVE/H02/tsn5.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tvone.stream/		
-http://freedom.duki.me/LIVE/H02/tvone.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",watch.stream/		
-http://freedom.duki.me/LIVE/H02/watch.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",willow.stream/		
-http://freedom.duki.me/LIVE/H02/willow.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",willowshd.stream/		
-http://freedom.duki.me/LIVE/H02/willowshd.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",zeecinema.stream/		
-http://freedom.duki.me/LIVE/H02/zeecinema.stream/master.m3u8		
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",zeetv.stream/		
-http://freedom.duki.me/LIVE/H02/zeetv.stream/master.m3u8		
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",4seven.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/4seven.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",5star.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/5star.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",5usa.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/5usa.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",9xTashan.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/9xTashan.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCFamilyUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ABCFamilyUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCMIASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ABCMIASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ABCNY/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ABCNY/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AEEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AEEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AELatinoamericaHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AELatinoamericaHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AMCEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AMCEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AMCLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AMCLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AXNLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AXNLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ActionMaxEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ActionMaxEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AmericanHeroesUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AmericanHeroesUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AnimalPlanetLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AnimalPlanetLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AnimalPlanetUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AnimalPlanetUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AudienceUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AudienceUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AzMundoLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AzMundoLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",AzcorazonLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/AzcorazonLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCAmericaHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BBCAmericaHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCEntLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BBCEntLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BBCWorldNewsSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BBCWorldNewsSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BabyTVLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BabyTVLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BandamaxLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BandamaxLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BeinSportsLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BoomerangLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BoomerangLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",BravoEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/BravoEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CBSNYUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CBSNYUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CBSSportsNetworkUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CBSSportsNetworkUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNBCUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CNBCUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNNLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CNNLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CNNUSAHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CNNUSAHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CSNBAUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CSNBAUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Canal5LA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Canal5LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CaracolIntSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CaracolIntSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CartoonNetworkLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CartoonNetworkLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CasaClubLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CasaClubLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CbeebiesLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CbeebiesLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ChillerUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ChillerUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineCanalLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CineCanalLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineDinamitaLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CineDinamitaLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CineLatinoSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CineLatinoSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CinemaxEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CinemaxLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CinemaxWestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CinemaxWestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ComedyCentralHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ComedyCentralHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ComedyCentralLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ComedyCentralLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ConcertChannelSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ConcertChannelSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CookingChannelUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CookingChannelUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",CrimeInvNetUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/CrimeInvNetUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DIYNetworkHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DIYNetworkHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DestinationAmericaUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DestinationAmericaUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Digital15RDLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Digital15RDLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscovTurbo.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscovTurbo.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryChLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryChLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryChannelUSAHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryChannelUSAHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryFamilyUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryFamilyUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryHomeHealthLAHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryHomeHealthLAHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryKidsSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryKidsSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryWorldLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryWorldLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DiscoveryenEspanolHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DiscoveryenEspanolHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyChannelEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyChannelEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyChannelNorteHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyChannelNorteHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyJrLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyJrLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyJrUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyJrUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyXDSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyXDSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DisneyXDUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DisneyXDUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",DistritoComediaLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/DistritoComediaLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN2LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPN2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN2US/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPN2US/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPN3LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPN3LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPNLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPNUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNUUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPNUUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNewsUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ESPNewsUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Eden.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Eden.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EentertaimentSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EentertaimentSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EfektoTVLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EfektoTVLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ElFinancieroBLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ElFinancieroBLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ElgourmetLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ElgourmetLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreActionEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EncoreActionEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EncoreEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EncoreWesterns/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EncoreWesterns/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EstrellaTVLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EstrellaTVLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EurochannelLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EurochannelLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",EuropaEuropaLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/EuropaEuropaLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",F1LA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/F1LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOX1LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOX1LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOX1OesteLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOX1OesteLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXACTIONLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXACTIONLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXActionOesteLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXActionOesteLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXClassicsLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXClassicsLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXComedyLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXComedyLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXFamilyLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXFamilyLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXHDLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXHDLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXMIASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXMIASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXMoviesLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXMoviesLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FOXNY/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FOXNY/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FSNTXUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FSNTXUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FSNWestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FSNWestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FXEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FXLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FXXUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FXXUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FilmArtsLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FilmArtsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FilmZoneLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FilmZoneLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoodNetworkEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoodNetworkEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxBusinessUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxBusinessUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxCinemaSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxCinemaSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxLifeSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxLifeSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxNewsChannelHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxNewsChannelHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports1HD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSports1HD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports2SD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSports2SD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSports3SD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsFloridaUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSportsFloridaUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSportsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsSouthUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/FoxSportsSouthUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GlitzLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GlitzLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenEdgeLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GoldenEdgeLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GoldenHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenMPLXLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GoldenMPLXLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenPremier1LA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GoldenPremiere2LA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GoldenPremiere2LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GolfChannelLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GolfChannelLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",GolfChannelUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/GolfChannelUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",H2LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/H2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2EastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBO2EastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2SD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBO2SD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2WestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBO2WestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOComedyEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOComedyEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOFamilyEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOFamilyEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOFamilyLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOFamilyLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOPlusLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOPus2LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOPus2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOSignatureEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOSignatureEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOSignatureLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOSignatureLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOWestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOWestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOZoneUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HBOZoneUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HGTVUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HGTVUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HLNUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HLNUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HTVSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HTVSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HallmarkMovieChannelUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HallmarkMovieChannelUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HistoryHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HistoryHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HistoryLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/HistoryLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IDUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/IDUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IFCHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/IFCHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",IONTVEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/IONTVEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ISATLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ISATLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",InvDiscoverySD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/InvDiscoverySD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",JuicyLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/JuicyLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",KMusicLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/KMusicLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Lakers/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Lakers/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/LifetimeEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/LifetimeLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",LifetimeMoviesUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/LifetimeMoviesUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MASNUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MASNUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MATVUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MATVUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MAXLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MAXLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MLBExtraIning/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MLBExtraIning/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MLBNetworkHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MLBNetworkHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MSGUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MSGUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MSNBCUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MSNBCUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MTVHitsLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MTVHitsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MTVLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MTVLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxPrime2LASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MaxPrime2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxPrimeLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MaxUPSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MaxUPSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MegaTVUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MegaTVUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MultiPremierLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MultiPremierLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MultimediosLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MultimediosLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",MundoFoxSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/MundoFoxSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBATVUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NBATVUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCMIASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NBCMIASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCNY/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NBCNY/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCSportNetworkUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NBCSportNetworkUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBCUniversoUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NBCUniversoUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NESNUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NESNUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NFLNetworkUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NFLNetworkUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NHLNetworkHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NHLNetworkHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NTN24LA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NTN24LA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NatGeoLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NatGeoUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoWildLAHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NatGeoWildLAHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NatGeoWildUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NatGeoWildUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Bronx.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12Bronx.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Brooklyn.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12Brooklyn.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Connecticut.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12Connecticut.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12HudsonValley.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12HudsonValley.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12LongIsland.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12LongIsland.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12NewJersey.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12NewJersey.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",News12Westchester.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/News12Westchester.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickJrLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NickJrLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickJrUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NickJrUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickelodeonEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NickelodeonEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NickelodeonLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/NickelodeonLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",OvationUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/OvationUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",OxygenSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/OxygenSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ParamountChannelLatinAmericaHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ParamountChannelLatinAmericaHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",PlanetaFutbolLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",PlayboyTV/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/PlayboyTV/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",RCNnovelasLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/RCNnovelasLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Really.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Really.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SKYSPNews.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SKYSPNews.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ScienceUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ScienceUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SecretsLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SecretsLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SextremeSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SextremeSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeBeyondEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeBeyondEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeExtremeEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeExtremeEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeNextUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeNextUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeShowcaseEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeShowcaseEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ShowtimeWestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ShowtimeWestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SonyLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SonyLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SonyMovieChannelUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SonyMovieChannelUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SpaceLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SpaceLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SpikeUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SpikeUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SportNetLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SportNetLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SportsNetNewYorkUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SportsNetNewYorkUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzCinemaEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzCinemaEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzComedyEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzComedyEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzEdgeEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzEdgeEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzKidsFamilyEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzKidsFamilyEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StarzWestUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StarzWestUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",StudioUniversalSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/StudioUniversalSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SundanceLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SundanceLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SyFyLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SyFyLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",SyFyUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/SyFyUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TBSEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TBSEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TBSLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TBSLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TCMSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TCMSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TCMUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TCMUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TDNMXLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TDNMXLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TLC.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TLC.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TLCLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TLCLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TNTAmericaLatinaHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TNTAmericaLatinaHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TNTDramaUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TNTDramaUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TVGloboLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TVGloboLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TVLand/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TVLand/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TeenNickUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TeenNickUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TeleCentroRDLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TeleCentroRDLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemicroLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemicroLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemundoEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoLosAngeles/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoPR/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemundoPR/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoPunto2/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemundoPunto2/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TelemundoSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TelemundoSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TennisChannelUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TennisChannelUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheMovieChannelEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TheMovieChannelEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheMovieChannelXtraEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TheMovieChannelXtraEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TheWeatherChannelHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TheWeatherChannelHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ThrillerMaxEasUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ThrillerMaxEasUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TlnovelasLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TlnovelasLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TooncastSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TooncastSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherHudsonValley.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TrafficWeatherHudsonValley.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherLongIsland.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TrafficWeatherLongIsland.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherNJ.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TrafficWeatherNJ.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TrafficWeatherNY.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TrafficWeatherNY.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TruTVSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TruTVSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TruTVUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/TruTVUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UFCNetworkLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",USANetworkEastHD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/USANetworkEastHD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UniMasUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UniMasUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnicableLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UnicableLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UniversalLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UniversalLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionEastUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UnivisionEastUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionLosAngeles/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UnivisionLosAngeles/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionPR/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UnivisionPR/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",UnivisionTDNLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VENUSSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/VENUSSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VH1ClassicLASD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/VH1ClassicLASD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",VH1LatinoSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/VH1LatinoSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WAPAPR/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/WAPAPR/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WETVSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/WETVSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WGNAmericaUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/WGNAmericaUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WPA2PR/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/WPA2PR/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",WarnerLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/WarnerLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",XTSYLA/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/XTSYLA/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",Yesterday.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/Yesterday.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aajtak.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/aajtak.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",alibi.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/alibi.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aruj.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/aruj.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",aryqtv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/aryqtv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/astro1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/astro2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",astro3.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/astro3.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",atlantic.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/atlantic.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",attheraces.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/attheraces.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",b4umovies.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/b4umovies.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/bbc1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/bbc2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc3.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/bbc3.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbc4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/bbc4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",bbcn.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/bbcn.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",boxnation.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/boxnation.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",btsport1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/btsport1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",btsport2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/btsport2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsaction.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/cbsaction.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsdrama.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/cbsdrama.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",cbsreality.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/cbsreality.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ch4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ch4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ch5.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ch5.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",challenge.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/challenge.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",citi21.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/citi21.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",colors.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/colors.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dave.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/dave.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dmax.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/dmax.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",drama.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/drama.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",dunya.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/dunya.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",e4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/e4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eEntUS/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/eEntUS/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",enter10.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/enter10.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eurosp1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/eurosp1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",eurosp2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/eurosp2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",film4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/film4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",filmworld.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/filmworld.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",filmzia.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/filmzia.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",fxuk.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/fxuk.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",geosuper.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/geosuper.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",geotv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/geotv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",gold.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/gold.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",goodfood.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/goodfood.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",hallabol.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/hallabol.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ikid.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ikid.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",indiatoday.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/indiatoday.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",infinitoSD/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/infinitoSD/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",irishtv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/irishtv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/itv2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv3.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/itv3.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itv4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/itv4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itvbe.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/itvbe.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",itvencore.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/itvencore.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",juspunjabi.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/juspunjabi.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",living.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/living.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",lollywood.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/lollywood.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mgreats.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/mgreats.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mh1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/mh1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",more4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/more4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movaction.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movaction.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movcomedy.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movcomedy.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movdisney.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movdisney.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movdrama.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movdrama.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movfamily.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movfamily.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movies24.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movies24.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movpremier.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movpremier.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movscifi.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movscifi.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movselect.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movselect.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",movthriller.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/movthriller.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",mutv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/mutv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",pick.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/pick.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",playmax.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/playmax.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ptcchakde.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ptcchakde.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ptcpunjabi.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/ptcpunjabi.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",racinguk.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/racinguk.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rishtey.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/rishtey.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rte1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/rte1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",rte2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/rte2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sabtvind.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/sabtvind.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",saharaone.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/saharaone.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",samay.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/samay.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",setanta.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/setanta.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",silverscreen.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/silverscreen.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sky1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/sky1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skynews.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skynews.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skysp1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skysp2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp3.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skysp3.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skysp4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skysp5.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skysp5.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",skyspf1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/skyspf1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonyin.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/sonyin.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonysabtv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/sonysabtv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",sonytv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/sonytv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starmovies.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/starmovies.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starplus.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/starplus.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starsports1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/starsports1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",starsports4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/starsports4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tg4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tg4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",travel.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/travel.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",true1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/true1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",true2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/true2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",truedrama.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/truedrama.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn1.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tsn1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn2.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tsn2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn3.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tsn3.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn4.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tsn4.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tsn5.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tsn5.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",tvone.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/tvone.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",watch.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/watch.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",willow.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/willow.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",willowshd.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/willowshd.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",zeecinema.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/zeecinema.stream/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",zeetv.stream/      ***FerrerList**
+http://freedom.duki.me/LIVE/H02/zeetv.stream/master.m3u8
