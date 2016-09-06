@@ -65,6 +65,8 @@ http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
 http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",TDN
 http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",NBC UNI
+http://freedom.duki.me/LIVE/H02/NBCUniversoUS/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GOLST CASTALB***FerrerList**CowboysHijodePutaLadron
 rtmp://50.23.113.249/live playpath=26345?313437323835313737315f6137353233366634363864346363393532623061386632616536343834396465 swfUrl=http://static.castalba.tv/player.swf flashver=WIN/2022,0,0,209 live=true timeout=15 swfVfy=true pageUrl=http://www.castalba.tv/embed.php?cid=26345&wh=600&ht=380&d
