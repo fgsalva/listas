@@ -1687,7 +1687,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR green][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
 <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
@@ -1696,7 +1696,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+			<thumbnail></thumbnail>
 </item>	
 ]]></listrepeat>
 <expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}SPANISH LALIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
@@ -1704,5 +1704,635 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <Agent>Mozilla</Agent>
 </regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
+
+<item>
+			<title>ArenaVision 1 p2p</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av1</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+
+			
+			<item>
+			<title>ArenaVision 2 p2p</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av2</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 3p2p</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av3</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 4p2p</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av4</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 5</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av5</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 6</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av6</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 7</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av7</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 8</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av8</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 9</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av9</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 10</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av10</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 11</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av11</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 12</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av12</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 13</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av13</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 14</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av14</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 15</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av15</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 16</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av16</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 17</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av17</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 18</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av18</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 19</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av19</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 20</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av20</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 21</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av21</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 22</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av22</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 23</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av23</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 24</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av24</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 25</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av25</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 26</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av26</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 27</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av27</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 28</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av28</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 29</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av29</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 30</title>
+			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av30</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+<item>
+<title>ARENAVISION 1 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+<item>
+<title>ARENAVISION 2 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 3 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 4 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs4</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>ARENAVISION 5 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs5</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 6 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 7 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs7</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>ARENAVISION 8 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 9 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 10 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 22 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258921&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 23 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258922&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 24 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258923&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 25 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258924&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 26 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258925&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 27 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258926&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 28 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258927&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 29 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258928&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 30 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/258929&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+
+		
+<item>
+<title>ARENAVISION 31 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/259381&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 32 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/259382&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 33 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/259383&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 34 [SopCast]</title>
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/259384&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+		
+
 
 
