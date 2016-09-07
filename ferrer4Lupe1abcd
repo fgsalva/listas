@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN Noticias***FerrerList**CowboysHijodePutaLadron
-http://cdn.latinovision.net:1935/live/smil:320.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",RCN 2 HD***FerrerList**CowboysHijodePutaLadron
-http://cdn.latinovision.net:1935/live/smil:317.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol***FerrerList**CowboysHijodePutaLadron
-http://cdn.latinovision.net:1935/live/smil:321.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Caracol 2 HD***FerrerList**CowboysHijodePutaLadron
-http://cdn.latinovision.net:1935/live/smil:318.smil/chunklist.m3u
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI CASTAMP***FerrerList**CowboysHijodePutaLadron
-rtmp://198.255.96.66/live playpath=zonax34ad_1472850923_06379ecb09761aac swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax34ad&vwidth=640&vheight=380
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI2 CASTAMP***FerrerList**CowboysHijodePutaLadron
-rtmp://50.7.28.130/live playpath=zonax4ad_1472851638_cad3e9a726590832 swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax4ad&vwidth=640&vheight=380
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",NBC UNI3 CASTAMP***FerrerList**CowboysHijodePutaLadron
-rtmp://50.7.28.130/live playpath=zonax34ad_1472852443_9d8ae02a07fd2424 swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://castamp.com/embed.php?c=zonax34ad&vwidth=640&vheight=380
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBOLASD
 http://tmp.duki.me/LIVE/H02/HBOLASD/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",HBO2SD
@@ -402,6 +388,8 @@ http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif"group-title="JOKERTV",Fox Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="JOKERTV",DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif"group-title="JOKERTV",TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif"group-title="JOKERTV",Tlnovelas
@@ -605,6 +593,8 @@ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif"group-title="JOKERTV02",TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="JOKERTV02",DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif"group-title="JOKERTV02",Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="JOKERTV02",Az Mundo
