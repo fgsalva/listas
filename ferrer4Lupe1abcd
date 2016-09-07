@@ -25,7 +25,7 @@ http://freedom.duki.me/LIVE/H02/ESPNLA/master.m3u8
 http://freedom.duki.me/LIVE/H02/ESPN2LASD/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",ESPNLA3
 http://freedom.duki.me/LIVE/H02/ESPN3LASD/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA.
 http://freedom.duki.me/LIVE/H02/FoxSportsLA/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FREEDOM",FoxSportsLA2
 http://freedom.duki.me/LIVE/H02/FoxSports2SD/master.m3u8
