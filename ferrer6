@@ -1656,3 +1656,53 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LA[COLOR yellow]LIGA[/B] [/COLOR][/COLOR][COLOR lightslategray]  Plexus Requerido - opcion1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param4]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}SPANISH LALIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LA[COLOR yellow]LIGA[/B] [/COLOR][/COLOR][COLOR lightslategray]  pruebap2p ojo[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]  </title>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param4]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}SPANISH LALIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+
