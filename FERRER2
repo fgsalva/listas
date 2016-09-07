@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
                        
  <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] UFC NETWORK</title>
-                        <fanart>http://www.underconsideration.com/brandnew/archives/ufc_logo_system_new.png</fanart>
-                        <thumbnail>http://geek.com.mx/wp-content/uploads/2015/06/UFC-Mexico-Logo-750x370.jpg</thumbnail>
-                        <link>http://142.4.217.104:1200/hls/UFC-MX.m3u8?|User-Agent=Mozilla</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] prueba1</title>
+                        <link>plugin://plugin.video.p2p-streams/?url=http://127.0.0.1:6878/ace/m/e5d58bcec4a5adab052df5130de5b5b64931870a/f34b8cc14bf84c71b8e6e52e14e117db.m3u8</link>
+                        </item> 
+
+ <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] prueba2</title>
+                        <link>plugin://plugin.video.p2p-streams/?url=acestream://8e03793f7d618c1a5696645b727dbd0ce41d0c8f</link>
+                        </item> 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] prueba3</title>
+                        <link>plugin://plugin.video.p2p-streams/?=acestream://8e03793f7d618c1a5696645b727dbd0ce41d0c8f</link>
                         </item> 
 <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] COMBATE FIGHTERS</title>
