@@ -1840,25 +1840,10 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 			
 			
 			<item>
-			<title>[COLOR deepskyblue]prueba aaa 1[/COLOR]</title>
+			<title>[COLOR deepskyblue]prueba aaa 1 fomato plexus[/COLOR]</title>
 			<link>plugin://program.plexus/?url=1336b12c5564da5c23de50c33d03e7119f480731&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-
 			<item>
-			<title>[COLOR deepskyblue]prueba2  17[/COLOR]</title>
-			<link>plugin://program.plexus/?url=71637efae2cb4b507eafe2231e8e2bdd4e496162&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-
-			<item>
-			<title>[COLOR deepskyblue]prueba 18[/COLOR]</title>
-			<link>plugin://program.plexus/?url=014a0825b7fd57280581f12d17dc4fb5ea992451&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-
-			<item>
-			<title>[COLOR deepskyblue]prueba aaa 1 p22[/COLOR]</title>
+			<title>[COLOR deepskyblue]prueba aaa 1 p2p[/COLOR]</title>
 			<link>plugin://plugin.video.p2p-streams/?url=1336b12c5564da5c23de50c33d03e7119f480731&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
 
-			<item>
-			<title>[COLOR deepskyblue]prueba2  17 p2p[/COLOR]</title>
-			<link>plugin://plugin.video.p2p-streams/?url=71637efae2cb4b507eafe2231e8e2bdd4e496162&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-
-			<item>
-			<title>[COLOR deepskyblue]prueba 18 p2p[/COLOR]</title>
-			<link>plugin://plugin.video.p2p-streams/?url=014a0825b7fd57280581f12d17dc4fb5ea992451&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
