@@ -13,6 +13,10 @@
 <title>[COLOR white][COLOR blue]• [/COLOR] prueba3</title>
                         <link>plugin://plugin.video.p2p-streams/?=acestream://8e03793f7d618c1a5696645b727dbd0ce41d0c8f</link>
                         </item> 
+                        <item>
+<title>[COLOR white][COLOR blue]• [/COLOR] prueba5</title>
+                        <link>plugin://plugin.video.p2p-streams/?=//8e03793f7d618c1a5696645b727dbd0ce41d0c8f</link>
+                        </item> 
 <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] COMBATE FIGHTERS</title>
                         <fanart>http://www.blogdicas.com/wp-content/uploads/2013/12/Conhe%C3%A7a-os-melhores-lutadores-de-UFC-1.jpg</fanart>
