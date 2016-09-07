@@ -531,8 +531,8 @@ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Canal 5 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-5-hd.gif"group-title="JOKERTV02",Canal 5 HD
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="JOKERTV02",Azteca 7
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="JOKERTV02",Azteca 7 02
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="JOKERTV02",Azteca 7 HD
 http://200.76.77.237/LIVE/H01/CANAL107/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif"group-title="JOKERTV02",Gala TV HD
