@@ -338,6 +338,14 @@ http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Proyecto 40 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif"group-title="JOKERTV",Proyecto 40 HD
 http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="1CUARETADOS" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif"group-title="JOKERTV",1CUARENTA2
+http://200.76.77.237/LIVE/H01/CANAL142/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="1CUARETASEIR" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif"group-title="JOKERTV",1CUARENTASEIS
+http://200.76.77.237/LIVE/H01/CANAL146/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="1CUARETASEIRE" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif"group-title="JOKERTV",152
+http://200.76.77.237/LIVE/H01/CANAL152/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="1CUARETASEIRES" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif"group-title="JOKERTV",155
+http://200.76.77.237/LIVE/H01/CANAL155/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif"group-title="JOKERTV",TeleFórmula
 http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/multimedios-monterrey.gif"group-title="JOKERTV",Multimedios Monterrey
@@ -372,6 +380,10 @@ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL252/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif"group-title="JOKERTV",BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif"group-title="JOKERTV",WARNERZZZ
+http://200.76.77.237/LIVE/H01/CANAL254/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif"group-title="JOKERTV02",WARNERZZZ
+http://200.76.77.237/LIVE/H01/CANAL254/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif"group-title="JOKERTV",E! Entertainment Television
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif"group-title="JOKERTV",Universal Channel
@@ -380,6 +392,18 @@ http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif"group-title="JOKERTV",FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif"group-title="JOKERTV", A Y E
+http://200.76.77.237/LIVE/H01/CANAL259/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif"group-title="JOKERTV02", A Y E
+http://200.76.77.237/LIVE/H01/CANAL259/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif"group-title="JOKERTV",AXN
+http://200.76.77.237/LIVE/H01/CANAL260/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif"group-title="JOKERTV02",AXN
+http://200.76.77.237/LIVE/H01/CANAL260/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif"group-title="JOKERTV",MUNDO FOX
+http://200.76.77.237/LIVE/H01/CANAL262/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif"group-title="JOKERTV02",MUNDO FOX
+http://200.76.77.237/LIVE/H01/CANAL262/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif"group-title="JOKERTV",Investigación Discovery
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif"group-title="JOKERTV",TNT Series
@@ -398,6 +422,10 @@ http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="JOKERTV",Az Mundo
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="JOKERTV",COMEDIA CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL278/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="JOKERTV02",COMEDIA CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL278/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif"group-title="JOKERTV",Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="CBeebies" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif"group-title="JOKERTV",CBeebies
@@ -432,12 +460,20 @@ http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif"group-title="JOKERTV",Discovery World HD
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-channel.gif"group-title="JOKERTV", H2
+http://200.76.77.237/LIVE/H01/CANAL370/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-channel.gif"group-title="JOKERTV02", H2
+http://200.76.77.237/LIVE/H01/CANAL370/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-channel.gif"group-title="JOKERTV",Discovery Channel
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/animal-planet.gif"group-title="JOKERTV",Animal Planet
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/home-and-health.gif"group-title="JOKERTV",Home and Health
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/home-and-health.gif"group-title="JOKERTV",history
+http://200.76.77.237/LIVE/H01/CANAL375/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/home-and-health.gif"group-title="JOKERTV02",history
+http://200.76.77.237/LIVE/H01/CANAL375/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif"group-title="JOKERTV",NatGeo
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/lifetime.gif"group-title="JOKERTV",Lifetime
@@ -450,16 +486,41 @@ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif"group-title="JOKERTV",TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif"group-title="JOKERTV",wobi
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif"group-title="JOKERTV02",wobi
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-1-hd.gif"group-title="JOKERTV",Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-action-hd.gif"group-title="JOKERTV",Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif"group-title="JOKERTV",Fox Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV",Fox Cinéma
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif"group-title="JOKERTV",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL418/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif"group-title="JOKERTV02",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL418/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif"group-title="JOKERTV",Fox1 
+http://200.76.77.237/LIVE/H01/CANAL420/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif"group-title="JOKERTV02",Fox1
+http://200.76.77.237/LIVE/H01/CANAL420/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV",Fox1 Cinéma
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV",Fox action
+http://200.76.77.237/LIVE/H01/CANAL422/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV02",Fox action
+http://200.76.77.237/LIVE/H01/CANAL422/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL423/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="JOKERTV02",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL423/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif"group-title="JOKERTV",Fox Classics
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif"group-title="JOKERTV",Paramount
+http://200.76.77.237/LIVE/H01/CANAL429/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif"group-title="JOKERTV02",Paramount
+http://200.76.77.237/LIVE/H01/CANAL429/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif"group-title="JOKERTV",Cinecanal HD
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Golden HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-hd.gif"group-title="JOKERTV",Golden HD
@@ -478,8 +539,16 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="JOKERTV",TNT
 http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="JOKERTV",Golden
+http://200.76.77.237/LIVE/H01/CANAL483/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="JOKERTV02",Golden
+http://200.76.77.237/LIVE/H01/CANAL483/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif"group-title="JOKERTV",Golden Edge
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif"group-title="JOKERTV",FilmZone
+http://200.76.77.237/LIVE/H01/CANAL488/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif"group-title="JOKERTV02",FilmZone
+http://200.76.77.237/LIVE/H01/CANAL488/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="De Película" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/de-pelicula.gif"group-title="JOKERTV",De Película
 http://200.76.77.237/LIVE/H01/CANAL489/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/amc.gif"group-title="JOKERTV",AMC
@@ -488,6 +557,14 @@ http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="JOKERTV",Studio Universal
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="JOKERTV",Europa
+http://200.76.77.237/LIVE/H01/CANAL493/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="JOKERTV02",Europa
+http://200.76.77.237/LIVE/H01/CANAL493/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="JOKERTV",FilmARt
+http://200.76.77.237/LIVE/H01/CANAL494/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="JOKERTV02",FilmArt
+http://200.76.77.237/LIVE/H01/CANAL494/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/i.sat.gif"group-title="JOKERTV",I.Sat
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif"group-title="JOKERTV",TCM
@@ -506,6 +583,10 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif"group-title="JOKERTV",Fox Sports
 http://200.76.77.237/LIVE/H01/CANAL563/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif"group-title="JOKERTV",Fox Sportss
+http://200.76.77.237/LIVE/H01/CANAL564/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif"group-title="JOKERTV02",Fox Sportss
+http://200.76.77.237/LIVE/H01/CANAL564/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/aym-sports.gif"group-title="JOKERTV",AyM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="TVE" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tve.gif"group-title="JOKERTV",TVE
