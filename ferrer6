@@ -1803,43 +1803,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 			</item>
 			
 			<item>
-			<title>ArenaVision 9</title>
-			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/av9</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			</item>
-			
-			<item>
-			<title>ArenaVision 10</title>
-			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/av10</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			</item>
-			
-			<item>
-			<title>ArenaVision 11</title>
-			<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/av11</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			</item>
-			
-			
-			<item>
 			<title>[COLOR deepskyblue]prueba aaa 1 fomato plexus[/COLOR]</title>
 			<link>plugin://program.plexus/?url=1336b12c5564da5c23de50c33d03e7119f480731&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
 			<item>
