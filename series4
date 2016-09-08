@@ -1,0 +1,300 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/34/2026035b6f515b/icon=150x.png",Jecan landry     
+ftp://123.456.7.8:9010
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/34/2026035b6f515b/icon=150x.png",Lista Activa hoy
+ftp://123.456.7.8:9010
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/34/2026035b6f515b/icon=150x.png",Martes
+ftp://123.456.7.8:9010
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/34/2026035b6f515b/icon=150x.png",30/8/2016
+ftp://123.456.7.8:9010
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/34/2026035b6f515b/icon=150x.png",
+ftp://123.456.7.8:9010
+
+#EXTINF:-1 tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/04/Canal-26.jpg",26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png",Tv Chile
+http://edge-111-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg",Anime 24H
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png",TELEMUNDO US
+http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
+#EXTINF:1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png",TELEMUNDO
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/2000px-Univision_logo.svg.png",Univision
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/channel.jpg",Movie Channel
+http://iphone-streaming.ustream.tv/uhls/22685771/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ec/My_HBO.png/revision/latest?cb=20121210225836",HBO 
+http://s4.latino-webtv.ml:8000/hls/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_0LgM-BJnKlI/TGmq7_8s3HI/AAAAAAAAAHU/uh0Vb17tZGY/s1600/rcn.png",RCN
+http://208.75.225.28:1935/live/rfdbgfvmnjh/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-H_thhqiW9pg/UeiNNh53xfI/AAAAAAAAA64/p8mHNbx67W8/s1600/examen-logo-caracol-.png",Caracol
+http://208.75.225.28:1935/live/cfdgthygnm/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title=?LATINOS?,HBOPlusLASD
+http://tmp.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,HBO
+http://tmp.duki.me/LIVE/H02/HBOLASD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,HBO 2
+http://tmp.duki.me/LIVE/H02/HBO2SD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Telemundo
+http://tmp.duki.me/LIVE/H02/TelemundoSD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,HBO FAMILY
+http://tmp.duki.me/LIVE/H02/HBOFamilyLASD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Golden Premier 1
+http://tmp.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Golden Premier 2
+http://tmp.duki.me/LIVE/H02/GoldenPremiere2LA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Cine Dinamita
+http://tmp.duki.me/LIVE/H02/CineDinamitaLA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Cine Latino
+http://tmp.duki.me/LIVE/H02/CineLatinoSD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Multipremier
+http://tmp.duki.me/LIVE/H02/MultiPremierLA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Max Premier 1
+http://tmp.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Max Premier 2
+http://tmp.duki.me/LIVE/H02/MaxPrime2LASD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,UNIVICION DePORTES
+http://tmp.duki.me/LIVE/H02/UnivisionDeportesUS/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,TDN
+http://tmp.duki.me/LIVE/H02/TDNMXLA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,UTDN
+http://tmp.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,Fox Sports 3
+http://tmp.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,UFC Network
+http://tmp.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,BoxNation
+http://tmp.duki.me/LIVE/H02/boxnation.stream/master.m3u8
+#EXTINF:-1 group-title=?LATINOS?,UNIVICION Los ANGELES
+http://tmp.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8
+
+#EXTINF:-1,Canal 2 HD
+http://tecnotv.facil.uno/live/premium.php?canal=102&profile=3&f=.m3u8
+#EXTINF:-1,AZ CLICK
+http://tecnotv.facil.uno/live/premium.php?canal=103&profile=3&f=.m3u8
+#EXTINF:-1,Foro TV
+http://tecnotv.facil.uno/live/premium.php?canal=104&profile=3&f=.m3u8
+#EXTINF:-1,Canal 5 HD
+http://tecnotv.facil.uno/live/premium.php?canal=105&profile=3&f=.m3u8
+#EXTINF:-1,7 HD
+http://tecnotv.facil.uno/live/premium.php?canal=107&profile=3&f=.m3u8
+#EXTINF:-1,Gala TV
+http://tecnotv.facil.uno/live/premium.php?canal=109&profile=3&f=.m3u8
+#EXTINF:-1,Once TV
+http://tecnotv.facil.uno/live/premium.php?canal=111&profile=3&f=.m3u8
+#EXTINF:-1,TRECE HD
+http://tecnotv.facil.uno/live/premium.php?canal=113&profile=3&f=.m3u8
+#EXTINF:-1,Proyecto 40 HD
+http://tecnotv.facil.uno/live/premium.php?canal=140&profile=3&f=.m3u8
+#EXTINF:-1,Cadena 3
+http://tecnotv.facil.uno/live/premium.php?canal=143&profile=3&f=.m3u8
+#EXTINF:-1,UNOMASUNO
+http://tecnotv.facil.uno/live/premium.php?canal=145&profile=3&f=.m3u8
+#EXTINF:-1,TeleF?rmula
+http://tecnotv.facil.uno/live/premium.php?canal=161&profile=3&f=.m3u8
+#EXTINF:-1,H
+http://tecnotv.facil.uno/live/premium.php?canal=169&profile=3&f=.m3u8
+#EXTINF:0,FOX
+http://tecnotv.facil.uno/live/premium.php?canal=201&profile=3&f=.m3u8
+#EXTINF:0,SONY
+http://tecnotv.facil.uno/live/premium.php?canal=203&profile=3&f=.m3u8
+#EXTINF:0,WARNER HD
+http://tecnotv.facil.uno/live/premium.php?canal=205&profile=3&f=.m3u8
+#EXTINF:0,UNIVERSAL HD
+http://tecnotv.facil.uno/live/premium.php?canal=207&profile=3&f=.m3u8
+#EXTINF:0,FX HD
+http://tecnotv.facil.uno/live/premium.php?canal=209&profile=3&f=.m3u8
+#EXTINF:0,A&E
+http://tecnotv.facil.uno/live/premium.php?canal=211&profile=3&f=.m3u8
+#EXTINF:0,AXN HD
+http://tecnotv.facil.uno/live/premium.php?canal=213&profile=3&f=.m3u8
+#EXTINF:0,TRUETV HD
+http://tecnotv.facil.uno/live/premium.php?canal=215&profile=3&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://tecnotv.facil.uno/live/premium.php?canal=217&profile=3&f=.m3u8
+#EXTINF:0,UniCable HD
+http://tecnotv.facil.uno/live/premium.php?canal=218&profile=3&f=.m3u8
+#EXTINF:0,Azteca Corazon
+http://tecnotv.facil.uno/live/premium.php?canal=250&profile=3&f=.m3u8
+#EXTINF:0,FOX
+http://tecnotv.facil.uno/live/premium.php?canal=251&profile=3&f=.m3u8
+#EXTINF:0,BBC
+http://tecnotv.facil.uno/live/premium.php?canal=253&profile=3&f=.m3u8
+#EXTINF:0,E!
+http://tecnotv.facil.uno/live/premium.php?canal=255&profile=3&f=.m3u8
+#EXTINF:0,Universal Channel
+http://tecnotv.facil.uno/live/premium.php?canal=256&profile=3&f=.m3u8
+#EXTINF:0,SYFY
+http://tecnotv.facil.uno/live/premium.php?canal=257&profile=3&f=.m3u8
+#EXTINF:0,FX
+http://tecnotv.facil.uno/live/premium.php?canal=258&profile=3&f=.m3u8
+#EXTINF:0,I.D
+http://tecnotv.facil.uno/live/premium.php?canal=263&profile=3&f=.m3u8
+#EXTINF:0,TNT Series
+http://tecnotv.facil.uno/live/premium.php?canal=266&profile=3&f=.m3u8
+#EXTINF:0,GOURMET
+http://tecnotv.facil.uno/live/premium.php?canal=268&profile=3&f=.m3u8
+#EXTINF:0,El Garage
+http://tecnotv.facil.uno/live/premium.php?canal=269&profile=3&f=.m3u8
+#EXTINF:0,GLITZ
+http://tecnotv.facil.uno/live/premium.php?canal=270&profile=3&f=.m3u8
+#EXTINF:0,FOX Life
+http://tecnotv.facil.uno/live/premium.php?canal=271&profile=3&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://tecnotv.facil.uno/live/premium.php?canal=272&profile=3&f=.m3u8
+#EXTINF:0,TBS
+http://tecnotv.facil.uno/live/premium.php?canal=273&profile=3&f=.m3u8
+#EXTINF:0,Casa ClubTv
+http://tecnotv.facil.uno/live/premium.php?canal=274&profile=3&f=.m3u8
+#EXTINF:0,TELENOVELAS
+http://tecnotv.facil.uno/live/premium.php?canal=275&profile=3&f=.m3u8
+#EXTINF:0,AZMUNDO
+http://tecnotv.facil.uno/live/premium.php?canal=276&profile=3&f=.m3u8
+#EXTINF:0,DISCOVERY KID
+http://tecnotv.facil.uno/live/premium.php?canal=303&profile=3&f=.m3u8
+#EXTINF:0,Cbeebies
+http://tecnotv.facil.uno/live/premium.php?canal=305&profile=3&f=.m3u8
+#EXTINF:0,DISNEY JR
+http://tecnotv.facil.uno/live/premium.php?canal=308&profile=3&f=.m3u8
+#EXTINF:0,NICK JR
+http://tecnotv.facil.uno/live/premium.php?canal=310&profile=3&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://tecnotv.facil.uno/live/premium.php?canal=312&profile=3&f=.m3u8
+#EXTINF:0,Nick Toons
+http://tecnotv.facil.uno/live/premium.php?canal=314&profile=3&f=.m3u8
+#EXTINF:0,NICK HD
+http://tecnotv.facil.uno/live/premium.php?canal=315&profile=3&f=.m3u8
+#EXTINF:-1,NICK
+http://tecnotv.facil.uno/live/premium.php?canal=317&profile=3&f=.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://tecnotv.facil.uno/live/premium.php?canal=320&profile=3&f=.m3u8
+#EXTINF:0,DISNEY XD
+http://tecnotv.facil.uno/live/premium.php?canal=322&profile=3&f=.m3u8
+#EXTINF:0,BOOMERANG
+http://tecnotv.facil.uno/live/premium.php?canal=324&profile=3&f=.m3u8
+#EXTINF:0,TIIN
+http://tecnotv.facil.uno/live/premium.php?canal=325&profile=3&f=.m3u8
+#EXTINF:0,TOONCAST
+http://tecnotv.facil.uno/live/premium.php?canal=328&profile=3&f=.m3u8
+#EXTINF:0,DISCOVERY HD
+http://tecnotv.facil.uno/live/premium.php?canal=351&profile=3&f=.m3u8
+#EXTINF:0,HISTORY
+http://tecnotv.facil.uno/live/premium.php?canal=353&profile=3&f=.m3u8
+#EXTINF:0,NAT GEO WILD
+http://tecnotv.facil.uno/live/premium.php?canal=355&profile=3&f=.m3u8
+#EXTINF:0,Discovery World HD
+http://tecnotv.facil.uno/live/premium.php?canal=356&profile=3&f=.m3u8
+#EXTINF:0,DISCOVERY
+http://tecnotv.facil.uno/live/premium.php?canal=371&profile=3&f=.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://tecnotv.facil.uno/live/premium.php?canal=373&profile=3&f=.m3u8
+#EXTINF:0,H&H Discovery
+http://tecnotv.facil.uno/live/premium.php?canal=374&profile=3&f=.m3u8
+#EXTINF:0,NAT GEO
+http://tecnotv.facil.uno/live/premium.php?canal=377&profile=3&f=.m3u8
+#EXTINF:0,LIFETIME
+http://tecnotv.facil.uno/live/premium.php?canal=379&profile=3&f=.m3u8
+#EXTINF:0,Discovery Science
+http://tecnotv.facil.uno/live/premium.php?canal=381&profile=3&f=.m3u8
+#EXTINF:0,Discovery Civilization
+http://tecnotv.facil.uno/live/premium.php?canal=382&profile=3&f=.m3u8
+#EXTINF:0,Discovery Turbo
+http://tecnotv.facil.uno/live/premium.php?canal=383&profile=3&f=.m3u8
+#EXTINF:-1,TLC
+http://tecnotv.facil.uno/live/premium.php?canal=386&profile=3&f=.m3u8
+#EXTINF:0,WOBI
+http://tecnotv.facil.uno/live/premium.php?canal=387&profile=3&f=.m3u8
+#EXTINF:-1,Fox 1 HD
+http://tecnotv.facil.uno/live/premium.php?canal=415&profile=3&f=.m3u8
+#EXTINF:-1,FOX Action HD
+http://tecnotv.facil.uno/live/premium.php?canal=416&profile=3&f=.m3u8
+#EXTINF:-1,FOX Movies HD
+http://tecnotv.facil.uno/live/premium.php?canal=417&profile=3&f=.m3u8
+#EXTINF:0,Fox Cinema
+http://tecnotv.facil.uno/live/premium.php?canal=421&profile=3&f=.m3u8
+#EXTINF:-1,Fox Classics
+http://tecnotv.facil.uno/live/premium.php?canal=424&profile=3&f=.m3u8
+#EXTINF:0,Cine Canal
+http://tecnotv.facil.uno/live/premium.php?canal=430&profile=3&f=.m3u8
+#EXTINF:0,TNT HD
+http://tecnotv.facil.uno/live/premium.php?canal=435&profile=3&f=.m3u8
+#EXTINF:0,Golden HD
+http://tecnotv.facil.uno/live/premium.php?canal=436&profile=3&f=.m3u8
+#EXTINF:-1,Film Zone HD
+http://tecnotv.facil.uno/live/premium.php?canal=440&profile=3&f=.m3u8
+#EXTINF:0,De Pelicula HD
+http://tecnotv.facil.uno/live/premium.php?canal=442&profile=3&f=.m3u8
+#EXTINF:0,AMC HD
+http://tecnotv.facil.uno/live/premium.php?canal=444&profile=3&f=.m3u8
+#EXTINF:0,Space HD
+http://tecnotv.facil.uno/live/premium.php?canal=445&profile=3&f=.m3u8
+#EXTINF:-1,FOX CINEMA
+http://tecnotv.facil.uno/live/premium.php?canal=472&profile=3&f=.m3u8
+#EXTINF:-1,FOX FAMILY
+http://tecnotv.facil.uno/live/premium.php?canal=475&profile=3&f=.m3u8
+#EXTINF:0,FOX Classics
+http://tecnotv.facil.uno/live/premium.php?canal=478&profile=3&f=.m3u8
+#EXTINF:0,Cine Canal
+http://tecnotv.facil.uno/live/premium.php?canal=480&profile=3&f=.m3u8
+#EXTINF:0,Cinemax
+http://tecnotv.facil.uno/live/premium.php?canal=481&profile=3&f=.m3u8
+#EXTINF:0,TNT
+http://tecnotv.facil.uno/live/premium.php?canal=482&profile=3&f=.m3u8
+#EXTINF:0, GOLDEN EDGE
+http://tecnotv.facil.uno/live/premium.php?canal=484&profile=3&f=.m3u8
+#EXTINF:0,AMC
+http://tecnotv.facil.uno/live/premium.php?canal=490&profile=3&f=.m3u8
+#EXTINF:0,Space 2
+http://tecnotv.facil.uno/live/premium.php?canal=491&profile=3&f=.m3u8
+#EXTINF:0,UNIVERSAL STUDIO
+http://tecnotv.facil.uno/live/premium.php?canal=492&profile=3&f=.m3u8
+#EXTINF:0,I Sat
+http://tecnotv.facil.uno/live/premium.php?canal=495&profile=3&f=.m3u8
+#EXTINF:-1,TCM
+http://tecnotv.facil.uno/live/premium.php?canal=496&profile=3&f=.m3u8
+#EXTINF:-1,CANAL F
+http://tecnotv.facil.uno/live/premium.php?canal=511&profile=3&f=.m3u8
+#EXTINF:-1,ESPN HD
+http://tecnotv.facil.uno/live/premium.php?canal=516&profile=3&f=.m3u8
+#EXTINF:0,ESPN3
+http://tecnotv.facil.uno/live/premium.php?canal=520&profile=3&f=.m3u8
+#EXTINF:-1,FOX SPORTS
+http://tecnotv.facil.uno/live/premium.php?canal=522&profile=3&f=.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://tecnotv.facil.uno/live/premium.php?canal=527&profile=3&f=.m3u8
+#EXTINF:0,PX
+http://tecnotv.facil.uno/live/premium.php?canal=528&profile=3&f=.m3u8
+#EXTINF:-1,ESPN
+http://tecnotv.facil.uno/live/premium.php?canal=558&profile=3&f=.m3u8
+#EXTINF:-1,ESPN2
+http://tecnotv.facil.uno/live/premium.php?canal=561&profile=3&f=.m3u8
+#EXTINF:0,Deportes
+http://tecnotv.facil.uno/live/premium.php?canal=576&profile=3&f=.m3u8
+#EXTINF:0,Milenio
+http://tecnotv.facil.uno/live/premium.php?canal=603&profile=3&f=.m3u8
+#EXTINF:0,Bloomberg
+http://tecnotv.facil.uno/live/premium.php?canal=610&profile=3&f=.m3u8
+#EXTINF:0,Tve
+http://tecnotv.facil.uno/live/premium.php?canal=651&profile=3&f=.m3u8
+#EXTINF:-1,MTV Live HD
+http://tecnotv.facil.uno/live/premium.php?canal=701&profile=3&f=.m3u8
+#EXTINF:-1,Telehit
+http://tecnotv.facil.uno/live/premium.php?canal=702&profile=3&f=.m3u8
+#EXTINF:-1,VH1 HD
+http://tecnotv.facil.uno/live/premium.php?canal=703&profile=3&f=.m3u8
+#EXTINF:-1,MTV
+http://tecnotv.facil.uno/live/premium.php?canal=726&profile=3&f=.m3u8
+#EXTINF:-1,MTV Hits
+http://tecnotv.facil.uno/live/premium.php?canal=727&profile=3&f=.m3u8
+#EXTINF:-1,VH1 Classics
+http://tecnotv.facil.uno/live/premium.php?canal=728&profile=3&f=.m3u8
