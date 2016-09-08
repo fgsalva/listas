@@ -123,12 +123,18 @@ rtmp://198.24.135.42:80/canal10/canal10
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11***FerrerList**CowboysHijodePutaLadron
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12***FerrerList**CowboysHijodePutaLadron
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15***FerrerList**CowboysHijodePutaLadron
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
+EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17***FerrerList**CowboysHijodePutaLadron
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR ***FerrerList**CowboysHijodePutaLadron
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR***FerrerList**CowboysHijodePutaLadron
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua***FerrerList**CowboysHijodePutaLadron
@@ -137,10 +143,21 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama***FerrerList**CowboysHijodePutaLadron
 rtmp://216.224.177.132/live/sertv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras***FerrerList**CowboysHijodePutaLadron
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA***FerrerList**CowboysHijodePutaLadron
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA***FerrerList**CowboysHijodePutaLadron
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA***FerrerList**CowboysHijodePutaLadron
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CUARETA2 COSTARICA***FerrerList**CowboysHijodePutaLadron
+rtmp://k3.usastreams.com:1935/canal42/canal42
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ***FerrerList**CowboysHijodePutaLadron
 http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
