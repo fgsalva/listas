@@ -127,7 +127,7 @@ http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15***FerrerList**CowboysHijodePutaLadron
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
-EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17***FerrerList**CowboysHijodePutaLadron
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR ***FerrerList**CowboysHijodePutaLadron
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -155,9 +155,10 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA***FerrerList**CowboysHijodePutaLadron
 rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA***FerrerList**CowboysHijodePutaLadron
+rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CUARETA2 COSTARICA***FerrerList**CowboysHijodePutaLadron
 rtmp://k3.usastreams.com:1935/canal42/canal42
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ***FerrerList**CowboysHijodePutaLadron
 http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
