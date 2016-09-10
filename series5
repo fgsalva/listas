@@ -438,7 +438,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS anime*****[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS anime***A**[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <regex>
   <name>makelist2</name>
