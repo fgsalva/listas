@@ -14,8 +14,6 @@
 <cookieJar></cookieJar>
 </regex>
 
-
-
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
@@ -29,7 +27,7 @@
 <regex>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS anime[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS anime**[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <regex>
   <name>makelist2</name>
@@ -39,11 +37,9 @@
 		<thumbnail>[makelist2.param3]</thumbnail>
         ]]></listrepeat>
 <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
-<page>http://diskokosmiko.mx/RaposaRoja</page>
+<page>http://diskokosmiko.mx/gewro</page>
 <cookieJar></cookieJar>
 </regex>
-
-
 
 <regex>
   <name>makelist</name>
@@ -76,35 +72,6 @@
 </regex>
 <thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICASgewro[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-<regex>
-  <name>makelist2</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
-        <link>$doregex[makelist]</link>
-		<thumbnail>[makelist2.param3]</thumbnail>
-        ]]></listrepeat>
-<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
-<page>http://diskokosmiko.mx/gewro</page>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title> [makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS anime[/COLOR] </title>
