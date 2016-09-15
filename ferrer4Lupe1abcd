@@ -1360,3 +1360,121 @@ http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CARACOL
+http://s4.latino-webtv.ml:8000/caracolhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",RCN
+http://s4.latino-webtv.ml:8000/rcnhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",WIN SPORT
+http://s4.latino-webtv.ml:8000/winhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DIRECTV SPORTS
+http://s4.latino-webtv.ml:8000/directv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX SPORTS
+http://s4.latino-webtv.ml:8000/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX SPORTS 2
+http://s4.latino-webtv.ml:8000/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN HD
+http://s4.latino-webtv.ml:8000/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN 2
+http://s4.latino-webtv.ml:8000/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN 3
+http://s4.latino-webtv.ml:8000/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",+ LIGA
+http://s4.latino-webtv.ml:8000/ligaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX
+http://s4.latino-webtv.ml:8000/CANAL201/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",WARNER CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL205/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CMD HD
+http://s4.latino-webtv.ml:8000/cmd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SYFY
+http://s4.latino-webtv.ml:8000/CANAL257/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX ACTION
+http://s4.latino-webtv.ml:8000/CANAL416/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TNT HD
+http://s4.latino-webtv.ml:8000/CANAL435/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL371/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SPACE HD
+http://s4.latino-webtv.ml:8000/CANAL445/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",UNIVERSAL CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL207/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX 1
+http://s4.latino-webtv.ml:8000/CANAL415/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TNT SERIES
+http://s4.latino-webtv.ml:8000/CANAL266/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",INVESTIGATION DISCOVERY
+http://s4.latino-webtv.ml:8000/CANAL263/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",RCN HD 2
+http://s4.latino-webtv.ml:8000/rcnhd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SONY
+http://s4.latino-webtv.ml:8000/CANAL203/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FX
+http://s4.latino-webtv.ml:8000/CANAL209/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX MOVIES
+http://s4.latino-webtv.ml:8000/CANAL417/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CINEMAX
+http://s4.latino-webtv.ml:8000/CANAL481/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GOLDEN HD
+http://s4.latino-webtv.ml:8000/CANAL436/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CINE CANAL
+http://s4.latino-webtv.ml:8000/CANAL430/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",HBO
+http://s4.latino-webtv.ml:8000/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TELEFE HD
+http://s4.latino-webtv.ml:8000/telefehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",HISTORY CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL353/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AMC HD
+http://s4.latino-webtv.ml:8000/CANAL444/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",STUDIO UNIVERSAL
+http://s4.latino-webtv.ml:8000/CANAL492/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",NATGEO WILD
+http://s4.latino-webtv.ml:8000/CANAL355/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GOLDEN EDGE
+http://s4.latino-webtv.ml:8000/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",H&H
+http://s4.latino-webtv.ml:8000/CANAL374/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX LIFE
+http://s4.latino-webtv.ml:8000/CANAL271/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY TEATHER
+http://s4.latino-webtv.ml:8000/CANAL351/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AMERICA TV HD
+http://s4.latino-webtv.ml:8000/americatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TCM
+http://s4.latino-webtv.ml:8000/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AXN
+http://s4.latino-webtv.ml:8000/CANAL213/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY 😆
+http://s4.latino-webtv.ml:8000/CANAL322/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TRUE TV HD
+http://s4.latino-webtv.ml:8000/CANAL215/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL312/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",NICK HD
+http://s4.latino-webtv.ml:8000/CANAL315/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",BBC ENTERTAINMENT
+http://s4.latino-webtv.ml:8000/CANAL253/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CANAL DE LAS ESTRELLAS
+http://s4.latino-webtv.ml:8000/CANAL102/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",MTV
+http://s4.latino-webtv.ml:8000/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GALAVISION HD
+http://s4.latino-webtv.ml:8000/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",E
+http://s4.latino-webtv.ml:8000/CANAL255/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TOONCAST
+http://s4.latino-webtv.ml:8000/CANAL328/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",BOOMERANG
+http://s4.latino-webtv.ml:8000/CANAL324/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CARTOON NETWORK
+http://s4.latino-webtv.ml:8000/CANAL320/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY KIDS
+http://s4.latino-webtv.ml:8000/CANAL303/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY JUNIOR
+http://s4.latino-webtv.ml:8000/CANAL308/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AZTECA 7 HD
+http://s4.latino-webtv.ml:8000/CANAL107/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TV NOVELAS
+http://s4.latino-webtv.ml:8000/CANAL275/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ANIMAL PLANET
+http://s4.latino-webtv.ml:8000/CANAL373/PROFILE03.m3u8
