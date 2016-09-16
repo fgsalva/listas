@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GOLST CASTALB***FerrerList**CowboysHijodePutaLadron
-rtmp://50.23.113.249/live playpath=26345?313437323835313737315f6137353233366634363864346363393532623061386632616536343834396465 swfUrl=http://static.castalba.tv/player.swf flashver=WIN/2022,0,0,209 live=true timeout=15 swfVfy=true pageUrl=http://www.castalba.tv/embed.php?cid=26345&wh=600&ht=380&d
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
