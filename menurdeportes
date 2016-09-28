@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
 
 <item>
 <title>[COLOR yellow]ZONA ESPORT3[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=3</sportsdevil>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
@@ -347,33 +345,6 @@
 <title>[COLOR magenta]PREMIERE LIVE [/COLOR]</title>
 <sportsdevil>http://cricfree.sx/premier-sports-live-stream</sportsdevil>
 <referer>referer=http://yotv.co/</referer>
-</item>
-
-<item>
-<title>Estrenos</title>
-<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://i.imgur.com/Y103Nw4.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
-</item>
-<item>
-<title>+ Comedia rtmp</title>
-<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canalplus_es_plus1_30-3.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>+ SeriesXtra</title>
-<link>rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://i.imgur.com/0XwnQQ5.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>#0 RTMP</title>
-<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<thumbnail>http://i.imgur.com/JvpukWA.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
 </item>
 
 <item>
