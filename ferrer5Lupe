@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<item>
-    <title>[COLOR deepskyblue]TV  "destino final 5a"[/COLOR]</title>
-    <link>http://streamin.to/embed-nveyhiq9792w-700x400.html</link>
-    </item>
-
 
  <item>
 <title>[COLOR yellow]Adryanlist[/COLOR]</title>
@@ -135,65 +130,15 @@
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/stalker</externallink>
     </item>
-
-
-<item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 1"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/lista.xml</externallink>
-    </item>
-<item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 2"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/lista2.xml</externallink>
-    </item>
-    
-<item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LATINO 3"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/lista3.xml</externallink>
-    </item>
-    
-   <item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LATINO SMTV SD"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/smtv.m3u</externallink>
-    </item>
-   <item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LATINO SMTV HD"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/smtv2.m3u</externallink>
-    </item>
-    <item>
-    <title>[COLOR deepskyblue]TV  "PLAY-LAMOVIE"[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://playhdlatino.com/abdavega/peliculas.m3u</externallink>
-    </item>
     
    <item>
     <title>[COLOR deepskyblue]TV  "destino final 5a"[/COLOR]</title>
     <link>http://streamin.to/embed-nveyhiq9792w-700x400.html</link>
     </item>
     
-
-<item>
- <title>[COLOR lime]  •[/COLOR][COLOR red] Los Años Maravillosos  [/COLOR]</title>
- <link>$doregex[makelist]</link>
- <regex>
- <name>makelist</name>
- <listrepeat><![CDATA[
-     <title>[makelist.param2]</title>
-     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-     <thumbnail>NA</thumbnail>
- ]]></listrepeat>
- <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
- <page>https://www.youtube.com/playlist?list=PL5E6033ED594BF8BA</page>
- <referer>https://www.youtube.com/user/traumaditomaziso/playlists</referer>
- <cookieJar></cookieJar>
- 
  
 <item>
- <title>[COLOR lime]  •[/COLOR][COLOR red] kareoke  [/COLOR]</title>
+ <title>[COLOR lime]  •[/COLOR][COLOR red] kareoke  playlistyou[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
  <name>makelist</name>
