@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>[COLOR orange]TELEMUNDO[/COLOR]</title>
-<sportsdevil>http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1</sportsdevil>
-<referer>http://bro.adca.st/stream.php?id=3655&cache=4&width=650&height=400&stretching=uniform&p=1</referer></item>
-<item><title>[COLOR orange]UNIVISION[/COLOR]</title>
-<link>$doregex[get-decode]</link>
-<regex>
-<name>get-decode</name>
-<expres>file: "(.*?)",</expres>
-<page>http://widestream.io/embed-488</page>
-</regex>		
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
 <item>
-<title>HBO SD</title>
+<title>HBO SD </title>
 <sportsdevil>http://www.malosolandia.com/2012/07/hbo-latino-en-vivo.html</sportsdevil>
 <referer>http://www.malosolandia.com/</referer>
 <thumbnail>http://2.bp.blogspot.com/_MgDB_uRTxb4/TSdKEyHV77I/AAAAAAAAA4w/t9MdkVPwh3w/S1600-R/hbo_hd.png</thumbnail>
 </item>
 
-
-
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
             <referer>http://tvpor-internet.com/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
             </item>               
     <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]HBO Latino[COLOR red]  [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]HBO Latino[COLOR red] no funciona [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://www.moviespremiumhd.com/2016/01/Hbo-Latino.html</sportsdevil>
             <referer>http://www.moviespremiumhd.com/</referer>
             <thumbnail></thumbnail>
@@ -36,91 +22,63 @@
            </item>
 
  <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
             <referer>http://tvpor-internet.com/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
             </item>
  <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]SyFy[COLOR red] [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]SyFy[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
             <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item>
  <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]AMC[COLOR red] [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]AMC[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
             <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item>
 
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]CineMax [COLOR red]  [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]CineMax [COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://vercanalestv.com/tv/argentina/cinemax.html</sportsdevil>
             <referer>http://vercanalestv.com/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
             </item>
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]TNT[COLOR red]  SD [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]TNT[COLOR red]  SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
             <referer>http://tvpor-internet.com/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt.gif</thumbnail>
             </item>
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Sony[COLOR red]  SD[/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Sony[COLOR red]  SD[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://www.televalltv.net/sony.html</sportsdevil>
             <referer>http://www.televalltv.net/</referer>
             <thumbnail>https://lh3.googleusercontent.com/-CsipL1Hzt9E/V3nfTWaSMWI/AAAAAAAABc4/JTXqQdTPZLAcNREvn5XHvRoCiSfYDNHuACLcB/h120/sony.png</thumbnail>
             </item>
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Universal Channel[COLOR red] SD [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Universal Channel[COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://www.televalltv.net/universal.html</sportsdevil>
             <referer>http://www.televalltv.net/</referer>
             <thumbnail>https://4.bp.blogspot.com/-QE8LwSEyLBw/V2LCP4Pc72I/AAAAAAAABak/FOPfd1r_fy82280jN6uf2zWJc7sYdrFlQCLcB/s1600/universal-channel.png</thumbnail>
             </item> 
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]AXN[COLOR red]  [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]AXN[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://www.televalltv.net/axn.html</sportsdevil>
             <referer>http://www.televalltv.net/</referer>
             <thumbnail></thumbnail>
             </item>
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Fox Life[COLOR red]  [/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Fox Life[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://www.samistream.tv/foxlife.html</sportsdevil>
             <referer>http://www.samistream.tv/</referer>
             <thumbnail></thumbnail>
             </item>
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal+ Estrenos [COLOR lime] [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/plusestrenos.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-   <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal+ Comedia [COLOR lime] [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/pluscomedia.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-    <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal+ Acción [COLOR lime] [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/plusaccion.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal+ D Cine [COLOR lime] [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/plusdcine.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal+ Series [COLOR lime] [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/plusseries.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
+	    
+	    
+ 	    
 <item>
             <title>[COLOR white][COLOR blue] [/COLOR]Telemundo 39[COLOR lime] HD [/COLOR]</title>
             <sportsdevil>http://chiivass69.es.tl/TELE-1.htm</sportsdevil>
@@ -170,28 +128,9 @@
             <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo-wild.gif</thumbnail>
             </item>
+  
   <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]National Geographic[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/national.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-            <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Discovery Max.[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/max.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Canal Odisea[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://09stream.com/canales/odisea.html</sportsdevil>
-            <referer>http://09stream.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-            
-            <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport  [COLOR red] fs1[/COLOR]</title>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport  [COLOR red] fs1 ingles[/COLOR]</title>
             <sportsdevil>http://ptvsports.info/fox_sports1hd.php</sportsdevil>
             <referer>http://ptvsports.info/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports.gif</thumbnail>
@@ -208,6 +147,28 @@
             <referer>http://ptvsports.info/</referer>
             <thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail>
             </item>  
+	    
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR] BT 1[COLOR red] usa [/COLOR]</title>
+            <sportsdevil>http://ptvsports.info/bt_sport1.php</sportsdevil>
+            <referer>http://ptvsports.info/</referer>
+            <thumbnail></thumbnail>
+            </item>  
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR] BT 2[COLOR red] usa [/COLOR]</title>
+            <sportsdevil>http://ptvsports.info/bt_sport2.php</sportsdevil>
+            <referer>http://ptvsports.info/</referer>
+            <thumbnail></thumbnail>
+            </item>  
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA [COLOR red] usa [/COLOR]</title>
+            <sportsdevil>http://ptvsports.info/setanta_stream.php</sportsdevil>
+            <referer>http://ptvsports.info/</referer>
+            <thumbnail></thumbnail>
+            </item>  
+
+   
+	    
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Versus Sport [COLOR red] [/COLOR]</title>
 <fanart></fanart>
@@ -645,26 +606,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
             </item> 
             
 <item>
-            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/2 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://crivz3.blogspot.com/p/2.html</sportsdevil>
-            <referer>http://crivz3.blogspot.com/p/2.html</referer>
-            <thumbnail></thumbnail>
-            </item> 
-<item>
-            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/3 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://crivz3.blogspot.com/p/3.html</sportsdevil>
-            <referer>http://crivz3.blogspot.com/p/3.html</referer>
-            <thumbnail></thumbnail>
-            </item> 
-
-<item>
-            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] p/5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://crivz3.blogspot.com/p/5.html</sportsdevil>
-            <referer>http://crivz3.blogspot.com/p/5.html</referer>
-            <thumbnail></thumbnail>
-            </item> 
-
-<item>
             <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
             <sportsdevil>http://rivonet.co/ch5.html</sportsdevil>
             <referer>http://rivonet.co/ch5.html</referer>
@@ -723,84 +664,8 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]NICKE EVENTOS EN VIVO streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71112',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-
-<item>
-<title>[COLOR yellow]VIPRACING[/COLOR]FS 1 streamlive**</title>
-<link>$doregex[url]</link><regex>	<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
-<item>
-<title>[COLOR yellow]Bein Sport [/COLOR] streamlive VIP**</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR yellow]FOX NETWORKS [/COLOR]streamlive</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70048',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-</item>
-</item>
-
-<item>
-<title>[COLOR lightblue]C1ANAL+FUTBOL SLIVE[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68720',False,False,'http://vipracing.us/')</expres>
-<page></page></regex></item>
 
 
-<item>
-<title>[COLOR yellow]C1anal+ Liga[/COLOR] [COLOR lightslategray][I] streamlive  [/I]  [/COLOR] </title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70190',False,False,'http://vipracing.us/')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>	
-
-<item>
-<title>[COLOR yellow]c1anal+ Liga [/COLOR][COLOR red]iguide[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=nkmbihjxj5lmd5b  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/CanalLiga.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-<item>
- <title>[COLOR yellow]B1ein España[/COLOR][COLOR red]iguide[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=9eeg1imgppj6zy0  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-</item>
-<item>
-<title>[COLOR yellow]aye[/COLOR][COLOR red]iguide[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=v8b160709a1s6fa   swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-</item>
-<item>
-<title>[COLOR yellow]a y e[/COLOR][COLOR red]iguide rtmp[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=v8b160709a1s6fa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32839&autoplay=true</link>
-</item>
-<item>
-<title>[COLOR yellow]andfutbolabajo[/COLOR][COLOR red]iguide rtmp[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=s8eylqrctaqgobm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=33766&autoplay=true</link>
-</item>
 <item>
 <title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
@@ -816,12 +681,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 </item>	
 
-<item>
-<title>[COLOR deepskyblue]Barça TV m3u[/COLOR]</title>
-<link>rtmp://31.220.0.187/privatestream/ playpath=barcas?keys=f9C9zoE6GkP1eV8jOs_Omw&keyt=1460719428 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/BarsaTV300.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item> 
 
 
 <item>
@@ -846,7 +705,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR deepskyblue]**AZTECA 13[/COLOR]</title>
+<title>[COLOR deepskyblue]**AZTECA 13 SPORTDEVIL[/COLOR]</title>
 <sportsdevil>http://www.canalesdetv.info/2013/01/azteca-13.html</sportsdevil>
 <referer>http://www.canalesdetv.info/</referer>
 </item>
@@ -904,58 +763,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
 <thumbnail>http://i.imgur.com/JvpukWA.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
-</item>
-
-<item>
-<title>C1anal+ Futbol lento Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>C1anal+  liga Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
 
 <item>
@@ -1065,34 +872,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 
-
-<item>
-<title>[COLOR lightblue]hbo[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=36674',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
-<item>
-<title>[COLOR lightblue]hbo c[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=69021',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-
-
-<item>
-<title>[COLOR lightblue]hbo f[/COLOR][COLOR green][I]ilive[/I][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>	
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=38214',False,False,'http://vipracing.us/')</expres>
-<page></page></regex>
-</item>
-
 <item>
 <title>[COLOR blue]FS1 **[/COLOR]</title>
 <sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
@@ -1138,7 +917,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 <item>
-<title>[COLOR blue]BTEUROPA **BLOG3[/COLOR]</title>
+<title>[COLOR blue]BT EUROPA **BLOG3[/COLOR]</title>
 <sportsdevil>http://streamking.cc/player?channel=bteurope</sportsdevil>
 <referer>http://streamking.cc/player?channel=bteurope</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
@@ -1189,132 +968,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
 <item>
-<title>[COLOR green]AZTECA 7 [/COLOR][COLOR red]Spordevil[/COLOR]</title></title>
-<sportsdevil>http://agenda.futligatv.net/azteca7.html</sportsdevil>
-<referer>http://agenda.futligatv.net/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR green]TDN SPORTDEVIL  [/COLOR]</title>
-<sportsdevil>http://agenda.futligatv.net/tdn.html</sportsdevil>
-<referer>http://agenda.tutv-porinternet.net/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-<item>
-
-<item>
-<title>[COLOR green]TDN UNITDN SPORDEVIL BAD   [/COLOR]</title>
-<sportsdevil>http://agenda.futligatv.net/unitdn.html</sportsdevil>
-<referer>http://deportesmax.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-
-<title> [COLOR lime]•[/COLOR]    [COLOR lime][B] SPORTS[/COLOR][COLOR chartreuse]CHANNELS [/COLOR][/B]  [COLOR lightslategray][I]All World • IPTV Sports[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-   <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<title>[COLOR lightblue][makelist.param3][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/[makelist.param1].php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/[makelist.param1].php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres>channel=(.*?)"[\w\W\s]{0,6}src="(.*?)"[\w\W\s]{0,40}br>(.*?)<</expres>
-<page>http://www.liveonlinetv247.info/tvchannels.php</page>
-
-</regex>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]TotalPlay [/COLOR] [COLOR lightslategray] Opcion [B]P[/B] [/COLOR]  </title>
-<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[makelist.param1]</title>
-	<link>[makelist.param2]</link>
-	<thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-]]></listrepeat>
-<expres>#EXTINF:-1.*,.*,(.*?)\n(.*)</expres>
-<page>http://playhdlatino.com/abdavega/lista.xml</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-<item>
-<title>PARAMOUNT CHANNEL rtmp</title>
-<link>http://195.55.74.212/paramount/live.flv?token=1f1affbf18586b114d88c76c92636df0570fcb9a570fcbd6</link>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-<item>
-<title>CANAL COCINA f4m</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/441.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
-<title>VIAJAR f4m</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/927.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-<item>
- <title>CAZA Y PESCA f4m</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/930.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
-</item>
-
-
-
-<item>
- <title>[COLOR blue][B][I]C+ LIGA opc3[/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.abonateadigitalplus.es/canal-plus-liga1.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/3261903068/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
-</item>
-
-<item>
  <title>[COLOR yellow][B][I]UEFA CHAMPIONS LEAGUE[/I][/B][/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
@@ -1364,51 +1017,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 </item>
 
-<item>            
-<item>
- <title>[COLOR lime][B][I]MULTICANAL /[COLOR yellow][B][I]SOLO EVENTOS 2[/I][/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.mips.tv/membedplayer/verliga1123/1/650/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mips.tv</referer>
-			</regex>
-<thumbnaillogo.logo.logo</thumbnail>
-</item>
 
-<item>
- <title>[COLOR blue][B][I]C+ PLUS FUTBOL opc3[/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</thumbnail>
-<fanart>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</fanart>
-  </item>
-  
   <item>
  <title>[COLOR blue][B][I]SKY SPORTS 1[/I][/B][/COLOR]</title>
 <link>$doregex[select_Url]</link>
@@ -1435,227 +1044,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
   </item>
   
-  <item>
- <title>[COLOR blue][B][I]SKY SPORTS 2 [/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
-<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
-  </item>
-
-
-
-<item>
- <title>[COLOR blue][B][I]SKY SPORTS 3 [/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
-<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
-  </item>
-
-<item>
- <title>[COLOR blue][B][I]SKY SPORTS 4 [/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
-<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
-  </item>
-
-
-<item>
-<title>[COLOR blue][B][I]SKY SPORTS 5[/I][/B][/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
-<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
-  </item>
-
-<item>
-<title>CANAL+ XTRA</title>
-<sportsdevil>http://biophobia.tv/movistarplus/canalplusxtra.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-</item>
-
-
-<item>
-<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/latinomoviez.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]LATINOMOVIEZLATNOSCANALES**[/COLOR]</title>
-<sportsdevil>http://www.latino4ever.com/2014/10/latinomoviez.html</sportsdevil>
-<referer>http://www.latino4ever.com/2014/10/latinomoviez.html</referer>
-</item>
-<item>
-<title>[COLOR yellow]LATINOMOVIEZLATNOSCANALES*Premiun*[/COLOR]</title>
-<sportsdevil>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</sportsdevil>
-<referer>http://www.moviespremiumhd.com/2016/01/latino-moviez.html</referer>
-</item>
-
-
-
-<item>
-<title>[COLOR orange]CINE CANAL LATNOSCANALES***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2015/07/Cinecanal-hd.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/cinemax.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES**[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemaxhd.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-<item>
-<title>[COLOR orange]CINEMAX LATNOSCANALES***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/cinemax.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]HBO latino***[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/Hbo-latino.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
-</item>
-
-<item>
-<title>[COLOR orange]HBO PLUS[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/hbo.html</sportsdevil>
-<referer>http://www.sasshamoviez.com/2014/04/hbo.html</referer>
-</item>
-<item>
-<title>[COLOR orange]HBO PLUS opcion2[/COLOR]</title>
-<sportsdevil>http://www.latino4ever.com/2014/10/hbo.html</sportsdevil>
-<referer>http://www.latino4ever.com/2014/10/hbo.html</referer>
-</item>
-
-<item>
-<title>[COLOR orange]MOVIE CITY[/COLOR]</title>
-<sportsdevil>http://www.sasshamoviez.com/2014/04/moviecity.html</sportsdevil>
-<referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
-</item>
-
-<item>
-<title>BT Sport 1 SD link 3</title>
-<sportsdevil>http://www.time4tv.com/2013/08/bt-sport-1.php</sportsdevil>
-<referer>referer=http://www.time4tv.com/</referer>
-<thumbnail>http://www.zoptv.com/assets/logo/bt-sport-1.png</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-<item>
-<title>BT Sport 2 SD link 3</title>
-<sportsdevil>http://crichd.tv/bt-sport-2-live-stream.php</sportsdevil>
-<referer>http://crichd.tv/</referer>
-<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
-</item>
-<item>
-<title>BT Sport 2 SD link 4</title>
-<sportsdevil>http://live.shwidget.com/static/freeplay/3872451659377560.html</sportsdevil>
-<referer>referer=http://live.shwidget.com/</referer>
-<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-<item>
-<title>BT Sport 2 SD link 5</title>
-<sportsdevil>http://www.time4tv.com/2016/04/bt-sport-2.php</sportsdevil>
-<referer>referer=http://www.time4tv.com/</referer>
-<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-
-<item>
-<title>Fox Sports 1 SD FS1</title>
-<sportsdevil>http://www.googlitv.com/fox-sports-live-streaming.php</sportsdevil>
-<referer>http://www.googlitv.com/fox-sports-live-streaming.php</referer>
-<thumbnail>http://a.fssta.com/content/dam/fsdigital/fscom/Buzzer/Images/2014/02/01/020114-13-FS1-FOX-SPORTS-1-LOGO-OB-PI.vresize.1200.675.high.18.jpg</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-<item>
-<title>Fox Sports 2 SD</title>
-<sportsdevil>http://www.googlitv.com/Fox-Soccer-live-streaming.php</sportsdevil>
-<referer>http://www.googlitv.com/Fox-Soccer-live-streaming.php</referer>
-<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png</thumbnail>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-</item>
-
-
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LA[COLOR yellow]LIGA[/B] [/COLOR][/COLOR][COLOR lightslategray]  Plexus Requerido - opcion1[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -1682,7 +1070,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LA[COLOR yellow]LIGA[/B] [/COLOR][/COLOR][COLOR lightslategray]  pruebap2p ojo[/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]LA[COLOR yellow]LIGA[/B] [/COLOR][/COLOR][COLOR lightslategray]  p2p ojo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -1802,11 +1190,4 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 			</regex>
 			</item>
 			
-			<item>
-			<title>[COLOR deepskyblue]prueba aaa 1 fomato plexus[/COLOR]</title>
-			<link>plugin://program.plexus/?url=1336b12c5564da5c23de50c33d03e7119f480731&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-			<item>
-			<title>[COLOR deepskyblue]prueba aaa 1 p2p[/COLOR]</title>
-			<link>plugin://plugin.video.p2p-streams/?url=1336b12c5564da5c23de50c33d03e7119f480731&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
-
 			
