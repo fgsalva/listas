@@ -1,83 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] Zonasport01[/B][/COLOR]  [COLOR lightslategray]LigaMx[/COLOR] </title>
- <link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.publish247.xyz:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.247bay.tv/membedplayer/ZonaSportsx1/2/750/420</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.247bay.tv</referer>
-			</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] Zonasport05[/B][/COLOR]  [COLOR lightslategray]LigaMx [/COLOR] </title>
- <link>$doregex[getUrl]</link>
- <regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m, param=''):
-   
-    import requests
-    import re
-    import base64
-   
-    try:
-       
-        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-        url = 'http://bro.adca.st/stream.php?id=' + id + '&amp;width=640&amp;height=480'
-        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://zonasports.be/channel.php?id=5'}
-        source = requests.get(url, headers = headers)
-        curl = re.findall('curl = "(.*?)"', source.text)[0]
-        m3u8 = base64.b64decode(curl)
- 
-        url2 = 'http://bro.adca.st/getToken.php'    
-        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
-        source2 = requests.get(url2, headers = headers2)
-        token = re.findall('"token":"(.*?)"', source2.text)[0]
- 
-        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
- 
-    except Exception as e:
-        print 'wizhdsports: Error: '
-        if hasattr(e, 'code'):
-            print str(e.code)              
-        if hasattr(e, 'reason'):
-            print " " + str(e.reason)
-]]></expres>
-<page>http://zonasports.be/channel.php?id=5</page>
-<referer>http://zonasports.be/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item> 
-
-<item> 
-<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] ZonaSport09[/B][/COLOR]  [COLOR lightslategray]LigaMx[/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://cdn.pubzony.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.zony.tv/membedplayer/ZonaSportsx9n/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.zony.tv</referer>
-			</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR yellow]ZONA ESPORT3[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
@@ -108,119 +30,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-<item>
-<item>
-<title>[B][COLOR orange][FAV][/COLOR][COLOR lightblue] GOLTV[/B][/COLOR]  [COLOR lightslategray]AscensoMX [/COLOR] </title>
-<link>http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8</link>			
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
-
-</item>
-<item><title>[COLOR orange][OPCION 1][/COLOR]channel/opcion-1/frame-igua-channel/bein-es-a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item><title>[COLOR orange][OPCION  2 (8)][/COLOR]channel/opcion-2/frame-gual-channel/opcion-8/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<Item><title>[COLOR orange][OPCION 4 ][/COLOR]channel/opcion-4/frame-igual-channel/opcion-4a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-4/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item><title>[COLOR orange][OPCION] 5[/COLOR]channel/opcion-5/frame-igual-channel/opcion-5a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-5a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item><title>[COLOR orange][OPCION 8a][/COLOR]channel/opcion-8/frame-igual-channel/opcion-8a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-8a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item><title>[COLOR orange][OPCION 9][/COLOR]channel/opcion-9/frame-igual-channel/opcion-9a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-9a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-<item>
-<title>[COLOR orange][OPCION 10z][/COLOR]channel/opcion-10/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-10a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>  
-
-<item><title>[COLOR orange][OPCION 11z][/COLOR]channel/opcion-11/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-11a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-
-<item><title>[COLOR orange][OPCION][/COLOR]channel/bein-es1/frame-igual-channel/opcion-3a/frame</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-3a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
-
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es-a)vipracing.us/channel/bein-es-a/frame[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es-a/frame')</expres>
-<page></page>
-</regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/beins.jpg</thumbnail><thumbnail>logo.logo.logo</thumbnail></item>  
-
-
-<item>
-<title>[COLOR green]VIPRACING [/COLOR][COLOR dodgerblue] (Bein-es) HD FRAME[/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/bein-es/frame')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail></item>  
 
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
@@ -475,11 +284,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
             </item> 
 
 
-
-
-
-
-
 <item>
 <title>[COLOR deepskyblue]ANTENA- 3 HD M3U8 [/COLOR]</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
@@ -515,13 +319,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <item>
 <title>[COLOR deepskyblue][COLOR][/COLOR]***GALA TV m3u8</title>
 <link>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?</link>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]**AZTECA 13 SPORTDEVIL[/COLOR]</title>
-<sportsdevil>http://www.canalesdetv.info/2013/01/azteca-13.html</sportsdevil>
-<referer>http://www.canalesdetv.info/</referer>
 </item>
 
 <item>
