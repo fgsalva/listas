@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
+<item>
+    <title>[COLOR red] Peliculas externas livetvplayerlatino[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
+</item>
+<item>
+    <title>[COLOR red] series externas livetvplayerlatino[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/lista_series.m3u</externallink>
+</item>
+
  <item>
     <title>[COLOR yellow]Mi bella genio[/COLOR]</title>
     <link>http://Ignoreme</link>
@@ -25,13 +36,13 @@
 </item>
 
  <item>
-    <title>[COLOR yellow]serie4[/COLOR]</title>
+    <title>[COLOR yellow]serie4 vacia[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series4</externallink>
 </item>
 
  <item>
-    <title>[COLOR yellow]serie5[/COLOR]</title>
+    <title>[COLOR yellow]serie5 SubClasicas[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series5</externallink>
 </item>
@@ -42,11 +53,6 @@
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series6</externallink>
 </item>
 
-<item>
-    <title>[COLOR yellow]serie6 Peliculas livetvplayerlatino[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
-</item>
 
 <item>
     <title>[COLOR yellow]serie7[/COLOR]</title>
@@ -104,42 +110,42 @@
 </item>
 
 <item>
-    <title>[COLOR yellow]serie1 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie1 TVp latino "THE WALKING DEAD" [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/1.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]serie2 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie2 TVp latino " FILES X "[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/2.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]serie3 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie3 TVp latino " JUEGO DE TRONOS" [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/3.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]serie5 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie5 TVp latino "BETTER CALL SAUL "[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/5.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]serie7 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie7 TVp latino "HOUSE OF CARD" [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/7.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]serie8 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie8 TVp latino "NATION Z"[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/8.m3u</externallink>
 </item>
 <item>
-    <title>[COLOR yellow]serie9 TVp latino[/COLOR]</title>
+    <title>[COLOR yellow]serie9 TVp latino "La teoria del big bang"[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://live.tvplayerlatino.com/serie/9.m3u</externallink>
 </item>
