@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",uni-deportes***FerrerList**CowboysHijodePutaLadron
-http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",cmd***FerrerList**CowboysHijodePutaLadron
-http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Golperu***FerrerList**CowboysHijodePutaLadron
-http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",gol-tv***FerrerList**CowboysHijodePutaLadron
-http://158.69.126.183:8081/gstreamstv/gstreamstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc***FerrerList**CowboysHijodePutaLadron
@@ -17,6 +9,8 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo201
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES***FerrerList**CowboysHijodePutaLadron
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2***FerrerList**CowboysHijodePutaLadron
@@ -693,135 +687,58 @@ http://200.76.77.237/LIVE/H01/CANAL731/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/bandamax.gif"group-title="JOKERTV02",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?/PROFILE00-801/JOKERTV.ts
 
-
-#EXTINF:-0 group-title="MOPI" ,#0
-http://stream.zetatv.cf/pw/plus0_b0xk990/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,#0
 rtmp://www1.iguide.to:1935/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="29vme6e.png",ESTRENOS
-http://stream.zetatv.cf/pw/plusestrenos_ahnxk7j/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,ESTRENOS
 rtmp://www1.iguide.to:1935/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,ACCION
-http://stream.zetatv.cf/pw/accion_aqtvoax/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,ACCION
 rtmp://www1.iguide.to:1935/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,COMEDIA
-http://stream.zetatv.cf/pw/comedia_b0dqg8y/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,COMEDIA
 rtmp://www1.iguide.to:1935/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,DCine
-http://stream.zetatv.cf/pw/dcine_aw3g20p/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,DCine
 rtmp://www1.iguide.to:1935/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,MOVI XTRA
 rtmp://31.220.40.61:1935/privatestream playpath=plxtra?keys=hoRpKYbse0kDiEKlpMm2_w&keyt=1471854588 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,AMC
-http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,HOLLYWOOD
-http://stream.zetatv.cf/pw/holliwood_bawwczi/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,HOLLYWOOD
 rtmp://www1.iguide.to:1935/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,TCM
-http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,DCine EspaÑol
 rtmp://31.220.40.59:1935/privatestream playpath=espadcine7?keys=dVynViQX1vGpRphecANOlA&keyt=1471855338 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-0 group-title="MOPI" ,paramount Channel
 http://195.10.10.213/paramount/live-low/stream.m3u8?GKID=ca80123e682311e6826a00163ea2c744
 #EXTINF:-0 group-title="MOPI" ,TNT
-http://stream.zetatv.cf/pw/tnt_alwl3qm/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,TNT
 rtmp://www1.iguide.to:1935/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,FOX
-http://stream.zetatv.cf/pw/fox_alwk17k/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,FOX
 rtmp://www1.iguide.to:1935/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,AXN
-http://stream.zetatv.cf/pw/axn_alwla94/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI",AXN
 rtmp://www1.iguide.to:1935/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,CALLE13
-http://stream.zetatv.cf/pw/calle13_aw3fo9w/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,CALLE13
 rtmp://www1.iguide.to:1935/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,SYFY
-http://stream.zetatv.cf/pw/syfy_aw3eq7m/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,SYFY
 rtmp://www1.iguide.to:1935/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,SERIES
-http://stream.zetatv.cf/pw/series_aw3d82v/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,SERIES
 rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,SERIES XTRA
-http://stream.zetatv.cf/pw/seriesxtra_axgtru5/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,SERIES XTRA
 rtmp://www1.iguide.to:1935/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,AxnWhite
-http://stream.zetatv.cf/pw/axnwhite_aap5cqs/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,AxnWhite
 rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,FOX Life
-http://stream.zetatv.cf/pw/foxlive_au8xxzz/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,FOX Life
 rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI",COSMO
-http://stream.zetatv.cf/pw/cosmos_az4nm9g/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,COMEDY CENTRAL
-http://stream.zetatv.cf/pw/camedycentral_aza0tov/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,COMEDY CENTRAL
 rtmp://31.220.40.62/privatestreamplus playpath=centralcomedy1?keys=Dyb1DR1hETpANfy1f-FArA&keyt=1448278285 swfUrl=http://privatestream.tv/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,MTV
-http://stream.zetatv.cf/pw/mtv_alwkh45/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,TELEDEPORTE
-http://stream.zetatv.cf/pw/teledeporte_aw3kx97/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,MOTO GP
-http://stream.zetatv.cf/pw/motogp_b0xk1e8/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,MOTO GP
 rtmp://www1.iguide.to:1935/iguide playpath=av7woklj9cf5oc2 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,FORMULA1
-http://stream.zetatv.cf/pw/f1_b0xjnv5/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,FORMULA1
 rtmp://31.220.0.201:1935/privatestream playpath=form1?keys=_0wcZuyEbNxcMS4ZoK5iUw&keyt=1471857949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,EUROSPOT
-http://stream.zetatv.cf/pw/eurosport1_b8omvr8/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,EUROSPOT 2
-http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,GOLTV
-http://stream.zetatv.cf/pw/goltv_b2kycdj/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI",Bein
-http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,Bein
-http://stream.zetatv.cf/pw/verliga_bbsglgi/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,Bein
-http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,Bein
 rtmp://www1.iguide.to:1935/iguide playpath=yjigpeqfql1mqvb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,Bein Max 1
-http://stream.zetatv.cf/pw/tvb141/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,Bein Max 2
-http://stream.zetatv.cf/pw/tvb142/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,Bein Max 3
-http://stream.zetatv.cf/pw/tvb143/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI",Bein Max 4
-http://stream.zetatv.cf/pw/tvb144/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" ,Beinliga
-http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" ,la LIGA
 rtmp://www1.iguide.to:1935/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" ,la LIGA 2
 rtmp://31.220.40.63:1935/privatestream playpath=liga222?keys=LsLDt5jvyF_sc4x21SepCQ&keyt=1471857363 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
 #EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
-http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
 rtmp://www1.iguide.to:1935/iguide playpath=8z2sz9pg92rdjw1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
 rtmp://31.220.40.61:1935/privatestream playpath=pdeportes247?keys=mgDfoGMH8EQvEo0NrpXs7Q&keyt=1472043453 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes2_hd-300x127.png",MOVI DEPORTES 2
-http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
-http://stream.zetatv.cf/pw/tvb112/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
-http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
 rtmp://31.220.0.201:1935/privatestream playpath=pfutbolch?keys=bnyDXUd7FdhjyYMIWEX-Nw&keyt=1471857064 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
 #EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
@@ -838,66 +755,31 @@ rtmp://31.220.40.59/privatestream playpath=golfes?keys=pqFNEo7vmyv0JgzAgtFGkg&ke
 http://stream.zetatv.cf/pw/toro_axgsyxl/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="Canal+TOROS.png",TOROS
 rtmp://31.220.40.62:1935/privatestream playpath=torosch?keys=IbreD5WHVIKJmpzMMdJrIg&keyt=1471858155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="logo.png",DISCOVERY MAX
-http://stream.zetatv.cf/pw/dismax_9c7n25t/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" cazaypesca-logo="logo.png",Caza y Pesca
-http://stream.zetatv.cf/pw/caza_aulqd78/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo.png",Nat Geographic
-http://stream.zetatv.cf/pw/national_alwka53/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="natgeo.png",Nat Geographic
 rtmp://www1.iguide.to:1935/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" tvg-logo="natgeo-wild.png",Nat Geo Wild
-http://stream.zetatv.cf/pw/natgeowill_azu3urx/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo-wild.png",Nat Geo Wild
 rtmp://www1.iguide.to:1935/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="discovery channel.png",DISCOVERY CHANNEL
-http://stream.zetatv.cf/pw/discoverydino_9dm3fgv/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="history hd.png",HISTORIA
-http://stream.zetatv.cf/pw/historia_9dm8skt/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="history hd.png",HISTORIA
 rtmp://31.220.0.201:1935/privatestream playpath=historych?keys=BgTJQXeSGPK17jTClc7lgQ&keyt=1471858661 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="odisea hd.png",ODISEA
-http://stream.zetatv.cf/pw/odiseass_ab1rhro/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="iberalia.png",IBERALIA
-rtmp://31.220.0.13:1935/privatestream playpath=iberoch?keys=nqQzu7GZFi5feR68P_T0Fg&keyt=1471858798 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="ci.png",ci(crimen/Investigacion)
-http://stream.zetatv.cf/pw/ci_aaqtqg7/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="a&e.png",A/E
-http://stream.zetatv.cf/pw/AE_13mz39m/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="a&e.png",A/E
 rtmp://www1.iguide.to:1935/iguide playpath=a94301d9dma2hc8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 group-title="MOPI" tvg-logo="Canal-Cocina.png",Canal Cocina
-http://stream.zetatv.cf/pw/cocina_am9cifh/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal-Cocina.png",Canal Cocina
 rtmp://31.220.40.63:1935/privatestream playpath=cocinach?keys=rBYrp-x5Lte_H9b5v17fmg&keyt=1471858902 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="travellogo.png",Travel
-rtmp://87.106.219.140:1935/live playpath=myStream_2 swfUrl= live=1
 #EXTINF:-0 group-title="MOPI" tvg-logo="disney-channel.png",DISNEY CHANNEL
 rtmp://31.220.40.62:1935/privatestream playpath=disneychh?keys=4ZQTv4F1KBf1aOMtIi7Ajw&keyt=1471859377 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-0 group-title="MOPI" tvg-logo="Disney-xd_bird (1).png",Disney XD
 rtmp://31.220.40.59:1935/privatestream playpath=disxdch?keys=7xubfCUnahdxBPduRC4IRQ&keyt=1471859402 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Boing(1).png",Boing
-http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="clan_bird (1).png",Clan
 rtmp://31.220.2.87:1935/privatestream playpath=clanch?keys=RxaDEHlN2LKEUmGVHqoP6A&keyt=1471859420 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo=nickelodeon.png",NICKELODEON
-rtmp://play3.tvope.com:1935/tvope playpath=stream_nickel swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
 #EXTINF:-0 group-title="MOPI" tvg-logo=babytv.png",BABYTV
 rtmp://31.220.40.62:1935/privatestream playpath=babych?keys=uncuDrGRnY7jD4X0NMcVmA&keyt=1471859470 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Formula 1.png",La 1
-http://stream.zetatv.cf/pw/tve1_b0bqgib/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Formula 1.png",La 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="La nueve.png",LA 2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="TDP.png",TELEDEPORTE
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_1.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 OPCION 2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
 #EXTINF:-0 group-title="MOPI" tvg-logo="Cuatro.png",CUATRO
 http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="Telecinco.png",CUATRO 2
@@ -916,34 +798,13 @@ http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
 http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="Energy.jpg",ENERGY
 http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Bemad.jpg",BE MAD
-http://stream.zetatv.cf/pw/bemad_azhj93f/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="ten.jpg",TEN
-http://stream.zetatv.cf/pw/ten_azj987s/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="fdf.jpg",FDF
-http://stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8
 #EXTINF:-0 group-title="MOPI" tvg-logo="fdf.jpg",FDF
 rtmp://31.220.0.201:1935/privatestream playpath=fddf?keys=tAcQKS69N7qSeufqej1YXA&keyt=1471860942 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-0 group-title="MOPI" tvg-logo="neox.jpg",NEOX
-http://stream.zetatv.cf/pw/neox_alwkw2n/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="neox.jpg",NEOX
 rtmp://31.220.0.201:1935/privatestream playpath=neoxch?keys=LFS5qPdZVJgkWnn0IuM3cw&keyt=1471861075 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-0 group-title="MOPI" tvg-logo="Nova.jpg",NOVA
-http://stream.zetatv.cf/pw/nova2_acolsfq/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Nova.jpg",NOVA
 rtmp://31.220.0.201:1935/privatestream playpath=novach?keys=pjpXguRFxiWSPEGQkxvK1w&keyt=1471861294 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Intereconomia.jpg",Intereconomia
-http://edge3.adnstream.com:81/hls/intereconomia.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="13 Tv.jpg",13tv
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="LD Tv.jpg",VIRAL TV(Antes LD TV)
-http://stream-02.vty.dailymotion.com/09/dm/1/xnm032/live.isml/events(live-1472015098)/live-audio=64000-video=400000.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal Sur.jpg",Canal Sur
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="RTP Asturias.jpg",RTP Asturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="ANDALUCIA TV.jpg",ANDALUCIA TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
 #EXTINF:-0 group-title="MOPI" tvg-logo="Los 40 Principales.JPG",Los 40principales
 http://5243.live.streamtheworld.com/LOS40_SC
 #EXTINF:-0 group-title="MOPI" tvg-logo="KISS FM UK.jpg",Kiss FM España
@@ -994,11 +855,7 @@ rtmp://stream.smcloud.net/live2/vox playpath=vox_720p swfUrl= live=1 pageUrl=
 rtmp://stream.smcloud.net/live playpath=polotv swfUrl= live=1 pageUrl=
 #EXTINF:-0 group-title="MOPI" tvg-logo="heavy metal tv.jpg",HEAVY METAL TV
 rtmp://70.166.98.130:1935/hmtv playpath=myStream swfUrl=http://www.heavymetaltelevision.com/swf/video-js.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="hustlertv.jpg",HustlerTV
-http://stream.zetatv.cf/pw/hustlertv_9c7o2m2/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="venustv.jpg",VENUS
-http://stream.zetatv.cf/pw/venus_b9d5p71/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="penhousetv.jpg",PENHOUSETV
+#EXTINF:-0 group-title="MOPI" tvg-logo="penhousetv.jpg",ADULT PENHOUSETV
 rtmp://edge1.everyon.tv/etv1sb//phd10927
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",A&E HD
@@ -1357,122 +1214,3 @@ http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CARACOL
-http://s4.latino-webtv.ml:8000/caracolhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",RCN
-http://s4.latino-webtv.ml:8000/rcnhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",WIN SPORT
-http://s4.latino-webtv.ml:8000/winhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DIRECTV SPORTS
-http://s4.latino-webtv.ml:8000/directv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX SPORTS
-http://s4.latino-webtv.ml:8000/foxsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX SPORTS 2
-http://s4.latino-webtv.ml:8000/foxsports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN HD
-http://s4.latino-webtv.ml:8000/CANAL516/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN 2
-http://s4.latino-webtv.ml:8000/CANAL561/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ESPN 3
-http://s4.latino-webtv.ml:8000/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",+ LIGA
-http://s4.latino-webtv.ml:8000/ligaplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX
-http://s4.latino-webtv.ml:8000/CANAL201/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",WARNER CHANNEL
-http://s4.latino-webtv.ml:8000/CANAL205/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CMD HD
-http://s4.latino-webtv.ml:8000/cmd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SYFY
-http://s4.latino-webtv.ml:8000/CANAL257/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX ACTION
-http://s4.latino-webtv.ml:8000/CANAL416/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TNT HD
-http://s4.latino-webtv.ml:8000/CANAL435/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY CHANNEL
-http://s4.latino-webtv.ml:8000/CANAL371/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SPACE HD
-http://s4.latino-webtv.ml:8000/CANAL445/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",UNIVERSAL CHANNEL
-http://s4.latino-webtv.ml:8000/CANAL207/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX 1
-http://s4.latino-webtv.ml:8000/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TNT SERIES
-http://s4.latino-webtv.ml:8000/CANAL266/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",INVESTIGATION DISCOVERY
-http://s4.latino-webtv.ml:8000/CANAL263/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",RCN HD 2
-http://s4.latino-webtv.ml:8000/rcnhd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",SONY
-http://s4.latino-webtv.ml:8000/CANAL203/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FX
-http://s4.latino-webtv.ml:8000/CANAL209/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX MOVIES
-http://s4.latino-webtv.ml:8000/CANAL417/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CINEMAX
-http://s4.latino-webtv.ml:8000/CANAL481/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GOLDEN HD
-http://s4.latino-webtv.ml:8000/CANAL436/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CINE CANAL
-http://s4.latino-webtv.ml:8000/CANAL430/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",HBO
-http://s4.latino-webtv.ml:8000/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TELEFE HD
-http://s4.latino-webtv.ml:8000/telefehd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",HISTORY CHANNEL
-http://s4.latino-webtv.ml:8000/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AMC HD
-http://s4.latino-webtv.ml:8000/CANAL444/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",STUDIO UNIVERSAL
-http://s4.latino-webtv.ml:8000/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",NATGEO WILD
-http://s4.latino-webtv.ml:8000/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GOLDEN EDGE
-http://s4.latino-webtv.ml:8000/CANAL484/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",H&H
-http://s4.latino-webtv.ml:8000/CANAL374/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",FOX LIFE
-http://s4.latino-webtv.ml:8000/CANAL271/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY TEATHER
-http://s4.latino-webtv.ml:8000/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AMERICA TV HD
-http://s4.latino-webtv.ml:8000/americatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TCM
-http://s4.latino-webtv.ml:8000/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AXN
-http://s4.latino-webtv.ml:8000/CANAL213/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY 😆
-http://s4.latino-webtv.ml:8000/CANAL322/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TRUE TV HD
-http://s4.latino-webtv.ml:8000/CANAL215/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY CHANNEL
-http://s4.latino-webtv.ml:8000/CANAL312/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",NICK HD
-http://s4.latino-webtv.ml:8000/CANAL315/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",BBC ENTERTAINMENT
-http://s4.latino-webtv.ml:8000/CANAL253/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CANAL DE LAS ESTRELLAS
-http://s4.latino-webtv.ml:8000/CANAL102/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",MTV
-http://s4.latino-webtv.ml:8000/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",GALAVISION HD
-http://s4.latino-webtv.ml:8000/CANAL109/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",E
-http://s4.latino-webtv.ml:8000/CANAL255/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TOONCAST
-http://s4.latino-webtv.ml:8000/CANAL328/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",BOOMERANG
-http://s4.latino-webtv.ml:8000/CANAL324/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",CARTOON NETWORK
-http://s4.latino-webtv.ml:8000/CANAL320/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISCOVERY KIDS
-http://s4.latino-webtv.ml:8000/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",DISNEY JUNIOR
-http://s4.latino-webtv.ml:8000/CANAL308/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",AZTECA 7 HD
-http://s4.latino-webtv.ml:8000/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",TV NOVELAS
-http://s4.latino-webtv.ml:8000/CANAL275/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="WEBTV",ANIMAL PLANET
-http://s4.latino-webtv.ml:8000/CANAL373/PROFILE03.m3u8
