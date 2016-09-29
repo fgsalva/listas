@@ -1,275 +1,275 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas (ferrer)
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc (ferrer)
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL ***  (ferrer)
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master (ferrer)
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES (ferrer)
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA (ferrer)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2 (ferrer)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3 (ferrer)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2 (ferrer)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO (ferrer)
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200 (ferrer)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV (ferrer)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER (ferrer)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p (ferrer)
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671 (ferrer)
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL (ferrer)
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV (ferrer)
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO (ferrer)
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda) (ferrer)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur (ferrer)
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica (ferrer)
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR (ferrer)
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union (ferrer)
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador (ferrer)
 rtmp://198.24.135.42:80/canal10/canal10
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR (ferrer)
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11 (ferrer)
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12 (ferrer)
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15 (ferrer)
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17 (ferrer)
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR ***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR  (ferrer)
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR (ferrer)
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR (ferrer)
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR (ferrer)
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua (ferrer)
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua (ferrer)
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama (ferrer)
 rtmp://216.224.177.132/live/sertv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras (ferrer)
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura (ferrer)
 http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras (ferrer)
 http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA (ferrer)
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA (ferrer)
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CUARETA2 COSTARICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CUARETA2 COSTARICA (ferrer)
 rtmp://k3.usastreams.com:1935/canal42/canal42
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ (ferrer)
 http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico (ferrer)
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico T-K (ferrer)
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile (ferrer)
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas (ferrer)
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte (ferrer)
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes (ferrer)
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2 (ferrer)
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis (ferrer)
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD (ferrer)
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 de Las Estrellas***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 de Las Estrellas (ferrer)
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán (ferrer)
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica) (ferrer)
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 (musica)***FerrerList**
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 (musica) (ferrer)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 (musica)***FerrerList**
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 (musica) (ferrer)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica)***FerrerList**
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica) (ferrer)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA) (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA) (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ)***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe***FerrerList**
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe (ferrer)
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia (ferrer)
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional (ferrer)
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL (ferrer)
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 ,Tele Uno TV - Costa Rica***FerrerList**
+#EXTINF:-1 ,Tele Uno TV - Costa Rica (ferrer)
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica (ferrer)
 rtmp://k3.usastreams.com:1935/tv33/tv33
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR (ferrer)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9 (ferrer)
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION (ferrer)
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu ***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu  (ferrer)
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina (ferrer)
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina***FerrerList**
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España (ferrer)
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España***FerrerList**
+#EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España (ferrer)
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD T-K (ferrer)
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España (ferrer)
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España (ferrer)
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Euronews - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Euronews - España (ferrer)
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Huelva TV - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Huelva TV - España (ferrer)
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España (ferrer)
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España (ferrer)
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España (ferrer)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España (ferrer)
 rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena Latina Canal 7 T-K***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena Latina Canal 7 T-K (ferrer)
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 1***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 1 (ferrer)
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 2***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 2 (ferrer)
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",f.o.x rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",f.o.x rtmp (ferrer)
 rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",F.O.X rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",F.O.X rtmp (ferrer)
 rtmp://89.248.169.55/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.A.NAL+ ACCION rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.A.NAL+ ACCION rtmp (ferrer)
 rtmp://89.248.169.55/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.X.N rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.X.N rtmp (ferrer)
 rtmp://89.248.169.55/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",T.N.T rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",T.N.T rtmp (ferrer)
 rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.&.E rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.&.E rtmp (ferrer)
 rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",NA.T GEO WILD rtmp***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",NA.T GEO WILD rtmp (ferrer)
 rtmp://89.248.169.55/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv***FerrerList**
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="JOKERTV",Canal 2 HD
@@ -1161,4 +1161,3 @@ http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-
