@@ -1,55 +1,151 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 <item>
+    <title>[COLOR red] Peliculas externas livetvplayerlatino[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]BATES MOTEL (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/batesmotel</externallink>
-    </item>
+    <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
+</item>
+<item>
+    <title>[COLOR red] Series externas[/COLOR][COLOR red]livetvplayerlatino[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/lista_series.m3u</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]Mi bella genio[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/SERIE1mibellagenio</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]serie1 Juego de Tronos[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series1</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]serie2 Los Simpson[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series2</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]serie3 Thundercats[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series3</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]serie4 vacia[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series4</externallink>
+</item>
+
+ <item>
+    <title>[COLOR yellow]serie5 SubClasicas[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series5</externallink>
+</item>
 
 <item>
+    <title>[COLOR yellow]serie6 Peliculas[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]BlackSails (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/blacksails</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series6</externallink>
+</item>
+
 
 <item>
+    <title>[COLOR yellow]serie7[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]2BrokeGirls (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/2BrokeGirls</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series7</externallink>
+</item>
 
 <item>
+    <title>[COLOR yellow]serie8[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]12Monkeys (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/12Monkeys</externallink>
-    </item>
-<item>
-    <link>http://Ignoreme</link>
-    <title>[COLOR yellow]AmericanHorrorStory (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/AmericanHorrorStory</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series8</externallink>
+</item>
 
 <item>
+    <title>[COLOR yellow]serie9[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]DragonBallZ y DragonballGT (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/DragonBallZ</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series9</externallink>
+</item>
 
 <item>
+    <title>[COLOR yellow]serie10[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]Castle   (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/Castle</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series10</externallink>
+</item>
 
 <item>
+    <title>[COLOR yellow]serie11[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]DeviousMaids   (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/DeviousMaids</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series11</externallink>
+</item>
+
 
 <item>
+    <title>[COLOR yellow]serie12[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <title>[COLOR yellow]Fargo   (carpeta) [/COLOR]</title>
-    <externallink>https://raw.githubusercontent.com/fgsalvaaa/listasseries/master/Fargo</externallink>
-    </item>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series12</externallink>
+</item>
 
-  
+<item>
+    <title>[COLOR yellow]serie13[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series13</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie14[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series14</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie15[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series15</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie1 TVp latino "THE WALKING DEAD" [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/1.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie2 TVp latino " FILES X "[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/2.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie3 TVp latino " JUEGO DE TRONOS" [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/3.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie5 TVp latino "BETTER CALL SAUL "[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/5.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie7 TVp latino "HOUSE OF CARD" [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/7.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]serie8 TVp latino "NATION Z"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/8.m3u</externallink>
+</item>
+<item>
+<title>[CO
+LOR yellow]serie9 TVp latino "La teoria del big bang"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://live.tvplayerlatino.com/serie/9.m3u</externallink>
+</item>
