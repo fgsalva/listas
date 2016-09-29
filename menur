@@ -14,30 +14,30 @@
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR Yellow]Peliculas[/COLOR]</title>
+<title>[COLOR yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Deportes[/COLOR][COLOR lime]SOLO PARTIDOS EN VIVO[/COLOR]</title>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
 </item>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Tv Online [/COLOR][COLOR red]SPORTDEVIL[/COLOR]</title>
+<title>[COLOR yellow]Tv Online [/COLOR][COLOR lime] SPORTDEVIL[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv</externallink>
 </item>
 
 <item>
-    <title>[COLOR deepskyblue]UFC ANTERIORES[/COLOR]</title>
+    <title>[COLOR yellow]UFC ANTERIORES[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ufc</externallink>
 </item>
 
 <item>
- <title>[COLOR lime]  •[/COLOR][COLOR red] kareoke  playlistyou[/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <title>[COLOR lime]  •[/COLOR][COLOR yellow] kareoke  playlistyou[/COLOR] [COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
  <name>makelist</name>
@@ -53,7 +53,7 @@
 
  
  <item>
- <title>[COLOR lime]  •[/COLOR][COLOR red] BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <title>[COLOR lime]  •[/COLOR][COLOR yellow] BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
  <name>makelist</name>
