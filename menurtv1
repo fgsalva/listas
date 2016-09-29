@@ -117,279 +117,8 @@ http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 de Las Estrellas (ferrer)
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán (ferrer)XXXXX
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica) (ferrer)
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 (musica) (ferrer)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 (musica) (ferrer)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica) (ferrer)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA) (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA) (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe (ferrer)
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia (ferrer)
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional (ferrer)
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL (ferrer)
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica (ferrer)
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 ,Tele Uno TV - Costa Rica (ferrer)
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica (ferrer)
-rtmp://k3.usastreams.com:1935/tv33/tv33
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR (ferrer)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9 (ferrer)
-http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION (ferrer)
-http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu  (ferrer)
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina (ferrer)
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
-http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España (ferrer)
-http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España (ferrer)
-http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD T-K (ferrer)
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España (ferrer)
-rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España (ferrer)
-http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Euronews - España (ferrer)
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Huelva TV - España (ferrer)
-http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España (ferrer)
-rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España (ferrer)
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España (ferrer)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España (ferrer)
-rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena Latina Canal 7 T-K (ferrer)
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 1 (ferrer)
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 2 (ferrer)
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",f.o.x rtmp (ferrer)
-rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",F.O.X rtmp (ferrer)
-rtmp://89.248.169.55/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.A.NAL+ ACCION rtmp (ferrer)
-rtmp://89.248.169.55/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.X.N rtmp (ferrer)
-rtmp://89.248.169.55/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",T.N.T rtmp (ferrer)
-rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.&.E rtmp (ferrer)
-rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",NA.T GEO WILD rtmp (ferrer)
-rtmp://89.248.169.55/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-
-#EXTINF:-0 group-title="MOPI" ,#0
-rtmp://www1.iguide.to:1935/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,ESTRENOS
-rtmp://www1.iguide.to:1935/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,ACCION
-rtmp://www1.iguide.to:1935/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,COMEDIA
-rtmp://www1.iguide.to:1935/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,DCine
-rtmp://www1.iguide.to:1935/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,MOVI XTRA
-rtmp://31.220.40.61:1935/privatestream playpath=plxtra?keys=hoRpKYbse0kDiEKlpMm2_w&keyt=1471854588 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,HOLLYWOOD
-rtmp://www1.iguide.to:1935/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,DCine EspaÑol
-rtmp://31.220.40.59:1935/privatestream playpath=espadcine7?keys=dVynViQX1vGpRphecANOlA&keyt=1471855338 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,paramount Channel
-http://195.10.10.213/paramount/live-low/stream.m3u8?GKID=ca80123e682311e6826a00163ea2c744
-#EXTINF:-0 group-title="MOPI" ,TNT
-rtmp://www1.iguide.to:1935/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,FOX
-rtmp://www1.iguide.to:1935/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI",AXN
-rtmp://www1.iguide.to:1935/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,CALLE13
-rtmp://www1.iguide.to:1935/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,SYFY
-rtmp://www1.iguide.to:1935/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,SERIES
-rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,SERIES XTRA
-rtmp://www1.iguide.to:1935/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,AxnWhite
-rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,FOX Life
-rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,COMEDY CENTRAL
-rtmp://31.220.40.62/privatestreamplus playpath=centralcomedy1?keys=Dyb1DR1hETpANfy1f-FArA&keyt=1448278285 swfUrl=http://privatestream.tv/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,MOTO GP
-rtmp://www1.iguide.to:1935/iguide playpath=av7woklj9cf5oc2 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,FORMULA1
-rtmp://31.220.0.201:1935/privatestream playpath=form1?keys=_0wcZuyEbNxcMS4ZoK5iUw&keyt=1471857949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" ,Bein
-rtmp://www1.iguide.to:1935/iguide playpath=yjigpeqfql1mqvb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,la LIGA
-rtmp://www1.iguide.to:1935/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" ,la LIGA 2
-rtmp://31.220.40.63:1935/privatestream playpath=liga222?keys=LsLDt5jvyF_sc4x21SepCQ&keyt=1471857363 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
-rtmp://www1.iguide.to:1935/iguide playpath=8z2sz9pg92rdjw1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
-rtmp://31.220.40.61:1935/privatestream playpath=pdeportes247?keys=mgDfoGMH8EQvEo0NrpXs7Q&keyt=1472043453 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
-rtmp://31.220.0.201:1935/privatestream playpath=pfutbolch?keys=bnyDXUd7FdhjyYMIWEX-Nw&keyt=1471857064 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
-#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
-rtmp://www1.iguide.to:1935/iguide playpath=6ltjhvrrjebsszd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 tvg-logo="MOPI" tvg-logo=Real Madrid TV.jpg",Real Madrid tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="barca-tv-en-vivo-online-por-internet",BARCATV
-http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="MOVI_Golf.png" ,MOVI GOLF
-http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="MOVI_Golf.png" ,MOVI GOLF
-rtmp://31.220.40.59/privatestream playpath=golfes?keys=pqFNEo7vmyv0JgzAgtFGkg&keyt=1456792759 swfUrl=http://privatestream.tv/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal+TOROS.png",TOROS
-http://stream.zetatv.cf/pw/toro_axgsyxl/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal+TOROS.png",TOROS
-rtmp://31.220.40.62:1935/privatestream playpath=torosch?keys=IbreD5WHVIKJmpzMMdJrIg&keyt=1471858155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo.png",Nat Geographic
-rtmp://www1.iguide.to:1935/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo-wild.png",Nat Geo Wild
-rtmp://www1.iguide.to:1935/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="history hd.png",HISTORIA
-rtmp://31.220.0.201:1935/privatestream playpath=historych?keys=BgTJQXeSGPK17jTClc7lgQ&keyt=1471858661 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="a&e.png",A/E
-rtmp://www1.iguide.to:1935/iguide playpath=a94301d9dma2hc8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal-Cocina.png",Canal Cocina
-rtmp://31.220.40.63:1935/privatestream playpath=cocinach?keys=rBYrp-x5Lte_H9b5v17fmg&keyt=1471858902 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="disney-channel.png",DISNEY CHANNEL
-rtmp://31.220.40.62:1935/privatestream playpath=disneychh?keys=4ZQTv4F1KBf1aOMtIi7Ajw&keyt=1471859377 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Disney-xd_bird (1).png",Disney XD
-rtmp://31.220.40.59:1935/privatestream playpath=disxdch?keys=7xubfCUnahdxBPduRC4IRQ&keyt=1471859402 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="clan_bird (1).png",Clan
-rtmp://31.220.2.87:1935/privatestream playpath=clanch?keys=RxaDEHlN2LKEUmGVHqoP6A&keyt=1471859420 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo=babytv.png",BABYTV
-rtmp://31.220.40.62:1935/privatestream playpath=babych?keys=uncuDrGRnY7jD4X0NMcVmA&keyt=1471859470 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 OPCION 2
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cuatro.png",CUATRO
-http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Telecinco.png",CUATRO 2
-rtmp://31.220.0.13:1935/privatestream playpath=teleinco?keys=vRmGtz7iSARj8kIHWN7vkg&keyt=1471860629 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Telecinco.png",TELECINCO
-http://stream.zetatv.cf/pw/telecinco55_ao7nqiq/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="La Sexta.jpg",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="MOPI" tvg-logo="La Sexta.jpg",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="MOPI" tvg-logo="mega.jpg",MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="MOPI" tvg-logo="Divinity.jpg",DIVINITY
-http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Energy.jpg",ENERGY
-http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Energy.jpg",ENERGY
-http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="fdf.jpg",FDF
-rtmp://31.220.0.201:1935/privatestream playpath=fddf?keys=tAcQKS69N7qSeufqej1YXA&keyt=1471860942 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="neox.jpg",NEOX
-rtmp://31.220.0.201:1935/privatestream playpath=neoxch?keys=LFS5qPdZVJgkWnn0IuM3cw&keyt=1471861075 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="Nova.jpg",NOVA
-rtmp://31.220.0.201:1935/privatestream playpath=novach?keys=pjpXguRFxiWSPEGQkxvK1w&keyt=1471861294 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",A&E HD
 http://live.tvplayerlatino.com/lista_remota/src1/a9C5z.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",AMC
@@ -744,5 +473,236 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHSDD 5tv
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT xxxxx
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica) (ferrer)
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 (musica) (ferrer)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 (musica) (ferrer)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica) (ferrer)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA) (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA) (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe (ferrer)
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia (ferrer)
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional (ferrer)
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL (ferrer)
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA (ferrer)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica (ferrer)
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 ,Tele Uno TV - Costa Rica (ferrer)
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica (ferrer)
+rtmp://k3.usastreams.com:1935/tv33/tv33
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR (ferrer)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9 (ferrer)
+http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION (ferrer)
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu  (ferrer)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina (ferrer)
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+
+#EXTINF:-0 group-title="MOPI" ,#0
+rtmp://www1.iguide.to:1935/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,ESTRENOS
+rtmp://www1.iguide.to:1935/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,ACCION
+rtmp://www1.iguide.to:1935/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,COMEDIA
+rtmp://www1.iguide.to:1935/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,DCine
+rtmp://www1.iguide.to:1935/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,MOVI XTRA
+rtmp://31.220.40.61:1935/privatestream playpath=plxtra?keys=hoRpKYbse0kDiEKlpMm2_w&keyt=1471854588 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" ,HOLLYWOOD
+rtmp://www1.iguide.to:1935/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,DCine EspaÑol
+rtmp://31.220.40.59:1935/privatestream playpath=espadcine7?keys=dVynViQX1vGpRphecANOlA&keyt=1471855338 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" ,paramount Channel
+http://195.10.10.213/paramount/live-low/stream.m3u8?GKID=ca80123e682311e6826a00163ea2c744
+#EXTINF:-0 group-title="MOPI" ,TNT
+rtmp://www1.iguide.to:1935/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,FOX
+rtmp://www1.iguide.to:1935/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI",AXN
+rtmp://www1.iguide.to:1935/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,CALLE13
+rtmp://www1.iguide.to:1935/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,SYFY
+rtmp://www1.iguide.to:1935/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,SERIES
+rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,SERIES XTRA
+rtmp://www1.iguide.to:1935/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,AxnWhite
+rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,FOX Life
+rtmp://www1.iguide.to:1935/iguide playpath=203cy9bnzp1kcm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,COMEDY CENTRAL
+rtmp://31.220.40.62/privatestreamplus playpath=centralcomedy1?keys=Dyb1DR1hETpANfy1f-FArA&keyt=1448278285 swfUrl=http://privatestream.tv/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" ,MOTO GP
+rtmp://www1.iguide.to:1935/iguide playpath=av7woklj9cf5oc2 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,FORMULA1
+rtmp://31.220.0.201:1935/privatestream playpath=form1?keys=_0wcZuyEbNxcMS4ZoK5iUw&keyt=1471857949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" ,Bein
+rtmp://www1.iguide.to:1935/iguide playpath=yjigpeqfql1mqvb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,la LIGA
+rtmp://www1.iguide.to:1935/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" ,la LIGA 2
+rtmp://31.220.40.63:1935/privatestream playpath=liga222?keys=LsLDt5jvyF_sc4x21SepCQ&keyt=1471857363 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
+#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
+rtmp://www1.iguide.to:1935/iguide playpath=8z2sz9pg92rdjw1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_deportes_hd-300x127.png",MOVI DEPORTES
+rtmp://31.220.40.61:1935/privatestream playpath=pdeportes247?keys=mgDfoGMH8EQvEo0NrpXs7Q&keyt=1472043453 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
+#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
+rtmp://31.220.0.201:1935/privatestream playpath=pfutbolch?keys=bnyDXUd7FdhjyYMIWEX-Nw&keyt=1471857064 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf http://privatestream.tv
+#EXTINF:-0 group-title="MOPI" tvg-logo="canalplus_futbol_hd-300x127.png",MOVI FUTBOL
+rtmp://www1.iguide.to:1935/iguide playpath=6ltjhvrrjebsszd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 tvg-logo="MOPI" tvg-logo=Real Madrid TV.jpg",Real Madrid tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="barca-tv-en-vivo-online-por-internet",BARCATV
+http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="MOVI_Golf.png" ,MOVI GOLF
+http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="MOVI_Golf.png" ,MOVI GOLF
+rtmp://31.220.40.59/privatestream playpath=golfes?keys=pqFNEo7vmyv0JgzAgtFGkg&keyt=1456792759 swfUrl=http://privatestream.tv/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="Canal+TOROS.png",TOROS
+http://stream.zetatv.cf/pw/toro_axgsyxl/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="Canal+TOROS.png",TOROS
+rtmp://31.220.40.62:1935/privatestream playpath=torosch?keys=IbreD5WHVIKJmpzMMdJrIg&keyt=1471858155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo.png",Nat Geographic
+rtmp://www1.iguide.to:1935/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" tvg-logo="natgeo-wild.png",Nat Geo Wild
+rtmp://www1.iguide.to:1935/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" tvg-logo="history hd.png",HISTORIA
+rtmp://31.220.0.201:1935/privatestream playpath=historych?keys=BgTJQXeSGPK17jTClc7lgQ&keyt=1471858661 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="a&e.png",A/E
+rtmp://www1.iguide.to:1935/iguide playpath=a94301d9dma2hc8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-0 group-title="MOPI" tvg-logo="Canal-Cocina.png",Canal Cocina
+rtmp://31.220.40.63:1935/privatestream playpath=cocinach?keys=rBYrp-x5Lte_H9b5v17fmg&keyt=1471858902 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="disney-channel.png",DISNEY CHANNEL
+rtmp://31.220.40.62:1935/privatestream playpath=disneychh?keys=4ZQTv4F1KBf1aOMtIi7Ajw&keyt=1471859377 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="Disney-xd_bird (1).png",Disney XD
+rtmp://31.220.40.59:1935/privatestream playpath=disxdch?keys=7xubfCUnahdxBPduRC4IRQ&keyt=1471859402 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="clan_bird (1).png",Clan
+rtmp://31.220.2.87:1935/privatestream playpath=clanch?keys=RxaDEHlN2LKEUmGVHqoP6A&keyt=1471859420 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo=babytv.png",BABYTV
+rtmp://31.220.40.62:1935/privatestream playpath=babych?keys=uncuDrGRnY7jD4X0NMcVmA&keyt=1471859470 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 OPCION 2
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="Antena 3.jpg",ANTENA 3 SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-0 group-title="MOPI" tvg-logo="Cuatro.png",CUATRO
+http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="Telecinco.png",CUATRO 2
+rtmp://31.220.0.13:1935/privatestream playpath=teleinco?keys=vRmGtz7iSARj8kIHWN7vkg&keyt=1471860629 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="Telecinco.png",TELECINCO
+http://stream.zetatv.cf/pw/telecinco55_ao7nqiq/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="La Sexta.jpg",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title="MOPI" tvg-logo="La Sexta.jpg",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title="MOPI" tvg-logo="mega.jpg",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title="MOPI" tvg-logo="Divinity.jpg",DIVINITY
+http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="Energy.jpg",ENERGY
+http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="Energy.jpg",ENERGY
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
+#EXTINF:-0 group-title="MOPI" tvg-logo="fdf.jpg",FDF
+rtmp://31.220.0.201:1935/privatestream playpath=fddf?keys=tAcQKS69N7qSeufqej1YXA&keyt=1471860942 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="neox.jpg",NEOX
+rtmp://31.220.0.201:1935/privatestream playpath=neoxch?keys=LFS5qPdZVJgkWnn0IuM3cw&keyt=1471861075 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-0 group-title="MOPI" tvg-logo="Nova.jpg",NOVA
+rtmp://31.220.0.201:1935/privatestream playpath=novach?keys=pjpXguRFxiWSPEGQkxvK1w&keyt=1471861294 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+
