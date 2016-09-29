@@ -68,6 +68,21 @@
  <cookieJar></cookieJar>
  
  
+<item>
+<title>[COLOR yellow]OJO [COLOR skyblue]Exodus Movies[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Sport 365.live[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
+ 
  
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR lightslategray]ok [/COLOR]</title>
