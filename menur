@@ -37,7 +37,7 @@
 </item>
 
 <item>
- <title>[COLOR lime]  •[/COLOR][COLOR yellow] kareoke  playlistyou[/COLOR] [COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <title>[COLOR lime][/COLOR][COLOR yellow]Kareoke  playlistyou[/COLOR] [COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
  <name>makelist</name>
@@ -53,7 +53,7 @@
 
  
  <item>
- <title>[COLOR lime]  •[/COLOR][COLOR yellow] BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <title>[COLOR lime][/COLOR][COLOR yellow]BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
  <name>makelist</name>
@@ -67,4 +67,9 @@
 <referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
  <cookieJar></cookieJar>
  
-
+ <item>
+<title>[COLOR blue]Adryanlist[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://adryanlist.info</externallink>
+<thumbnail><thumbnail>
+</item>
