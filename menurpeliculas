@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 <item>
-<link>http://menu peliculas</link>
-<title>[COLOR red]Peliculas HD[/COLOR]</title>
-<externallink>https://googledrive.com/host/0B6Vak_tKZdofbEMyOEdnZ3phMEE/addon/menu/menur/Peliculas.m3u</externallink>
+    <title>[COLOR yellow]Lista de Peliculas Ferrer 0 [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/PELICULASFERRER</externallink>
+    </item>
+      
+    <item>
+    <title>[COLOR yellow]Lista de Peliculas 2 LATINO [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer4Saydapelis</externallink>
+    </item>
+    
+    <item>
+    <title>[COLOR yellow]Lista de Peliculas 3 LATINO ferrer9[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer9</externallink>
+    </item>
+    
+     <item>
+    <title>[COLOR deepskyblue]Lista de Peliculas 3 BRUCE LEE Y MEXICANAS ferrer3[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer3</externallink>
 </item>
 
 <item>
-<link>http://Ignoreme</link>
-<title>[COLOR red]Peliculas HD 2 modificar[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/fgsalvaaa/listas/master/ferrer7</externallink>
+    <title>[COLOR yellow]Lista de Peliculas 4 LATINO ferrer7[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer7</externallink>
 </item>
 
 <item>
-<link>http://Ignoreme</link>
-<title>[COLOR red]Peliculas Ferrer[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/fgsalvaaa/listas/master/PELICULASFERRER</externallink>
+    <title>[COLOR yellow]PELICULAS3 "PELICUALAS3"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/peliculas3</externallink>
+    </item>
+
+<item>
+    <title>[COLOR deepskyblue]PELICULAS4 kids "PELICUALAS4"[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/peliculas4kids</externallink>
 </item>
-
-
