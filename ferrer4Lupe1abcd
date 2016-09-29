@@ -1214,3 +1214,134 @@ http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",XHTLX 22 TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",De Pelicula
+http://162.243.17.5:8000/live/IPTV/IPTV/116.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",HBO PLUS LA
+http://162.243.17.5:8000/live/IPTV/IPTV/70.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",HISTORY 2
+http://162.243.17.5:8000/live/IPTV/IPTV/69.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",MULTIPREMIER
+http://162.243.17.5:8000/live/IPTV/IPTV/64.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",TYC SPORTS
+http://162.243.17.5:8000/live/IPTV/IPTV/57.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",HBO 2 LA
+http://162.243.17.5:8000/live/IPTV/IPTV/60.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",HBO LA
+http://162.243.17.5:8000/live/IPTV/IPTV/59.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",BEIN Ñ
+http://162.243.17.5:8000/live/IPTV/IPTV/55.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",TELEVISA MTY
+http://162.243.17.5:8000/live/IPTV/IPTV/51.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",TELEMUNDO
+http://162.243.17.5:8000/live/IPTV/IPTV/49.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CNN Español
+http://162.243.17.5:8000/live/IPTV/IPTV/117.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CLAN
+ (PEQUES)
+http://162.243.17.5:8000/live/IPTV/IPTV/123.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CITY TV KOREA
+http://162.243.17.5:8000/live/IPTV/IPTV/113.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CCTV Español
+ documentales
+http://162.243.17.5:8000/live/IPTV/IPTV/109.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Fox 43
+(INGLES)
+http://162.243.17.5:8000/live/IPTV/IPTV/147.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CBS 	HD(ingles)
+http://162.243.17.5:8000/live/IPTV/IPTV/142.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",ABC HD (INGLES)
+http://162.243.17.5:8000/live/IPTV/IPTV/141.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Canal 22 MX
+http://162.243.17.5:8000/live/IPTV/IPTV/101.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",C5N
+http://162.243.17.5:8000/live/IPTV/IPTV/104.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",ATV Peru
+http://162.243.17.5:8000/live/IPTV/IPTV/125.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Arirang
+ (JAPON INGLES)
+http://162.243.17.5:8000/live/IPTV/IPTV/122.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Antena 3
+http://162.243.17.5:8000/live/IPTV/IPTV/102.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",America TV
+http://162.243.17.5:8000/live/IPTV/IPTV/110.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",La Red Chile
+http://162.243.17.5:8000/live/IPTV/IPTV/148.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Global TV
+http://162.243.17.5:8000/live/IPTV/IPTV/139.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Galavision MX
+http://162.243.17.5:8000/live/IPTV/IPTV/111.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",RCN
+http://162.243.17.5:8000/live/IPTV/IPTV/52.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",RCN 2
+http://162.243.17.5:8000/live/IPTV/IPTV/58.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",PARAMOUNT
+http://162.243.17.5:8000/live/IPTV/IPTV/48.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",NICK JR
+http://162.243.17.5:8000/live/IPTV/IPTV/17.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",DISNEY CHANNEL
+http://162.243.17.5:8000/live/IPTV/IPTV/18.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",DISCOVERY KIDS
+http://162.243.17.5:8000/live/IPTV/IPTV/16.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CARTOON NETWORK LA
+http://162.243.17.5:8000/live/IPTV/IPTV/20.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",NICK LA
+http://162.243.17.5:8000/live/IPTV/IPTV/19.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",NATGEO WILD LA
+http://162.243.17.5:8000/live/IPTV/IPTV/22.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",ANIMAL PLANET LA
+http://162.243.17.5:8000/live/IPTV/IPTV/24.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Discovery Theater
+http://162.243.17.5:8000/live/IPTV/IPTV/132.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",GOURMET
+http://162.243.17.5:8000/live/IPTV/IPTV/15.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Tru TV
+http://162.243.17.5:8000/live/IPTV/IPTV/129.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",A&E LA
+http://162.243.17.5:8000/live/IPTV/IPTV/13.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",SPACE LA
+http://162.243.17.5:8000/live/IPTV/IPTV/31.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",TNT
+http://162.243.17.5:8000/live/IPTV/IPTV/134.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",TNT SERIES LA
+http://162.243.17.5:8000/live/IPTV/IPTV/14.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",DISCOVERY LA
+http://162.243.17.5:8000/live/IPTV/IPTV/23.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CINEMAX LA
+http://162.243.17.5:8000/live/IPTV/IPTV/32.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",CINE CANAL
+http://162.243.17.5:8000/live/IPTV/IPTV/28.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",GOLDEN
+http://162.243.17.5:8000/live/IPTV/IPTV/29.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",AMC LA
+http://162.243.17.5:8000/live/IPTV/IPTV/30.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",WARNER B LA
+http://162.243.17.5:8000/live/IPTV/IPTV/10.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Universal LA
+http://162.243.17.5:8000/live/IPTV/IPTV/11.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Sony LA
+http://162.243.17.5:8000/live/IPTV/IPTV/9.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",AXN LA
+http://162.243.17.5:8000/live/IPTV/IPTV/12.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FX
+http://162.243.17.5:8000/live/IPTV/IPTV/130.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",Fox Life
+http://162.243.17.5:8000/live/IPTV/IPTV/131.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX LA
+http://162.243.17.5:8000/live/IPTV/IPTV/8.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX MOVIES LA
+http://162.243.17.5:8000/live/IPTV/IPTV/27.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX ACTION LA
+http://162.243.17.5:8000/live/IPTV/IPTV/26.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX 1 LA
+http://162.243.17.5:8000/live/IPTV/IPTV/25.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX SPORTS 2 LA
+http://162.243.17.5:8000/live/IPTV/IPTV/34.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",FOX SPORTS LA
+http://162.243.17.5:8000/live/IPTV/IPTV/33.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",ESPN 2 LA
+http://162.243.17.5:8000/live/IPTV/IPTV/36.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",ESPN LA
+http://162.243.17.5:8000/live/IPTV/IPTV/35.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="IPTVLIVE",F1 LA
+http://162.243.17.5:8000/live/IPTV/IPTV/1.m3u8
