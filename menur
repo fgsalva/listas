@@ -14,13 +14,13 @@
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR red]Peliculas[/COLOR]</title>
+<title>[COLOR Yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Deportes[/COLOR]</title>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime]SOLO PARTIDOS EN VIVO[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
 </item>
 
