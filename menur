@@ -69,12 +69,18 @@
  
  
 <item>
-<title>[COLOR yellow]OJO [COLOR skyblue]Exodus Movies[/COLOR]</title>
+<title>[COLOR yellow][COLOR skyblue]Exodus Movies[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
 <thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
 <fanart>https://goo.gl/9oQCFk</fanart>
 </item>
+
+<item><title> [COLOR yellow][/COLOR]    [COLOR lightyellow][B]AGENDA[/COLOR][COLOR yellow]ROJADIRECTA [/COLOR][/B]  [COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
 
 <item>
 <title>[COLOR yellow]Sport 365.live[/COLOR]</title>
@@ -83,6 +89,72 @@
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
+ <item>
+<title> [COLOR lime][/COLOR]    [COLOR lightyellow][B]TODO[/COLOR][COLOR yellow]DEPORTES [/COLOR][/B]  [COLOR lightslategray][I]ZemTv Addon Requerido[/I] Schedule.Agenda[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+ <item>
+<title> [COLOR lime][/COLOR]    [COLOR yellow][B]mamaHD[/B] [/COLOR][COLOR skyblue] Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
+<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
+<thumbnail>[makelist.param2]</thumbnail>
+<referer>http://mamahd.com/</referer>
+
+]]></listrepeat>
+<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
+<page>http://mamahd.com/index.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+<item>
+
+<title> [COLOR lime][/COLOR]    [COLOR yellow][B]SportChannelsHD[/B] [/COLOR]  [COLOR lightslategray][I]All World • IPTV Sports • liveonline247[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightblue][makelist.param1][/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' if not '$doregex[progressive]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'=='' else '$doregex[hls]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'</expres>
+<page></page>
+</regex>
+<regex>
+<name>progressive</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<regex>
+<name>hls</name>
+<expres>x-mpegurl" src="(.*?)"</expres>
+<page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+
+
+]]></listrepeat>
+<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/sports-channels.php</page>
+
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+
+
+
+
  
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR lightslategray]ok [/COLOR]</title>
@@ -148,7 +220,204 @@ _psn12v?
 <thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail>
 </item>
 </item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Estrenos [/B] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param3][/COLOR] </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres>href="http://hdfull.tv/pelicula/(.*?)"[\w\W\s]{0,71}spec-border[\w\W\s]{0,5}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
+<page>http://hdfull.tv/peliculas-estreno</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>  
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightblue][makelist2.param3] [/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<link>$doregex[id]</link>
+ <regex>
+ <name>id</name>
+ <expres>file: "(.*?)",</expres>
+ <page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	
+ <referer>http://streamin.to</referer>
+ </regex>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+
+]]></listrepeat>
+
+<expres>http://streamin.to/embed-(.*?)-</expres>
+<page>http://hdfull.tv/pelicula/[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
  
+
+
+
+
+
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Recien Actualizadas[/B] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param3][/COLOR] </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres>href="http://hdfull.tv/pelicula/(.*?)"[\w\W\s]{0,71}spec-border[\w\W\s]{0,5}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
+<page>http://hdfull.tv/peliculas-actualizadas</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+  
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightblue][makelist2.param3] [/COLOR] [COLOR lightslategray][[makelist.param1]][/COLOR]</title>
+<link>$doregex[id]</link>
+ <regex>
+ <name>id</name>
+ <expres>file: "(.*?)",</expres>
+ <page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	
+ <referer>http://streamin.to</referer>
+ </regex> 
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+
+]]></listrepeat>
+
+<expres>http://streamin.to/embed-(.*?)-</expres>
+<page>http://hdfull.tv/pelicula/[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>    
+]]></listrepeat>
+<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
+<page>http://gnula.nu/peliculas-online/lista-de-peliculas-online-parte-1/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
+ <link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex> 
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>http://streamin.to/(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+   <title>[makelist3.param1]</title>
+    <link>$doregex[makelist2]</link>
+    
+]]></listrepeat>
+<expres>strong>(.*?)<[\w\W\s]{0,13}href="(.*?)"</expres>
+<page>http://gnula.nu/generos/lista-de-generos/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>    
+]]></listrepeat>
+<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
+<page>[makelist3.param2]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
+ <link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>http://streamin.to/(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
  <item>
 <title>[COLOR blue]Adryanlist[/COLOR]</title>
 <link>http://Ignoreme</link>
