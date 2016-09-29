@@ -30,3 +30,41 @@
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv</externallink>
 </item>
 
+<item>
+    <title>[COLOR deepskyblue]UFC ANTERIORES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ufc</externallink>
+</item>
+
+<item>
+ <title>[COLOR lime]  •[/COLOR][COLOR red] kareoke  playlistyou[/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLnRnYMp86IGKx__wFRqS2cksdRn_uhwfS</page>
+ <referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
+ <cookieJar></cookieJar>
+
+ 
+ <item>
+ <title>[COLOR lime]  •[/COLOR][COLOR red] BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLnRnYMp86IGLOg8R97O31Zwq7F7CTEX_9</page>
+<referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
+ <cookieJar></cookieJar>
+ 
+
