@@ -36,7 +36,7 @@
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ufc</externallink>
 </item>
 
-<item>
+Nopitem>
  <title>[COLOR lime][/COLOR][COLOR yellow]Kareoke  playlistyou[/COLOR] [COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
@@ -52,7 +52,7 @@
  <cookieJar></cookieJar>
 
  
- <item>
+ noPitem>
  <title>[COLOR lime][/COLOR][COLOR yellow]BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
  <link>$doregex[makelist]</link>
  <regex>
