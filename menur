@@ -90,7 +90,7 @@ Nopitem>
 </item>
  
  <item>
-<title> [COLOR lime][/COLOR][COLOR yellow][B]mamaHD[/B] [/COLOR][COLOR skyblue] Channels[/COLOR]</title>
+<title> [COLOR lime][/COLOR][COLOR yellow][B]mamaHD[/B] [/COLOR][COLOR skyblue] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -110,7 +110,7 @@ Nopitem>
 
 <item>
 
-<title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR]  [COLOR lightslategray][I]All World • IPTV Sports • liveonline247[/I][/COLOR]</title>
+<title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
    <regex>
 <name>makelist</name>
@@ -150,7 +150,7 @@ Nopitem>
 
  
 <item>
-<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR lightslategray]ok [/COLOR]</title>
+<title>[COLOR lime][/COLOR][COLOR deepskyblue][B]VaughLive Television 24/7 [COLOR skyblue][/COLOR][/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -216,7 +216,7 @@ _psn12v?
 
 
  <item>
-<title>[COLOR blue]Adryanlist[/COLOR]</title>
+<title>[COLOR yellow]AdryanList[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail><thumbnail>
