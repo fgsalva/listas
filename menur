@@ -133,7 +133,7 @@ Nopitem>
 <expres>x-mpegurl" src="(.*?)"</expres>
 <page>http://www.liveonlinetv247.info/embed/[makelist.param2].php?width=650&amp;height=480</page>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>http://ferrer</thumbnail>
 
 
 ]]></listrepeat>
