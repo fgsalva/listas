@@ -67,13 +67,28 @@ Nopitem>
 <referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
  <cookieJar></cookieJar>
  
- 
 <item>
 <title>[COLOR yellow][COLOR yellow]Exodus Movies[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
 <thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
 <fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Specto Movies[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
+</item>
+
+<item>
+<title>TV Shows Specto</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+<thumbnail>http://www.pixhoster.info/f/2016-08/8cb4ac7449b3ad8cd4cdf39a6153d4d5.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-09/5cba6618a6a9d21b1de0cec0523f5065.png</fanart>
 </item>
 
 <item><title> [COLOR yellow][/COLOR][COLOR lightyellow][B]Agenda[/COLOR][COLOR yellow]RojaDirecta [/COLOR][/B][COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
