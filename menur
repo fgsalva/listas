@@ -68,9 +68,17 @@ Nopitem>
  <cookieJar></cookieJar>
  
 <item>
-<title>[COLOR yellow][COLOR yellow]Exodus Movies[/COLOR]</title>
+<title>[COLOR yellow][COLOR yellow]Exodus Movies prueba1[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+<item>
+<title>[COLOR yellow][COLOR yellow]Exodus Movies prueba2[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.genesis/?action=movies&url=trending</jsonrpc>
 <thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
 <fanart>https://goo.gl/9oQCFk</fanart>
 </item>
@@ -78,7 +86,7 @@ Nopitem>
 <item>
 <title>[COLOR yellow]Specto Movies[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc> 
 sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
 </item>
