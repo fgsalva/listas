@@ -5013,7 +5013,7 @@
 **************************************
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • NARCOS 1 Y 2 TEMPORADAS LATINOS  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • NARCOS 1 Y 2 TEMPORADAS LATINOS  • </title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -5025,7 +5025,7 @@
 		<fanart>http://www.latinorebels.com/wp-content/uploads/2015/09/narcos-netflix.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://copiapop.com/Robex69/narcos-73708</page>
+<page>http://copiapop.com/Robex69/narcos-73708/list,1,3</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -5043,7 +5043,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://copiapop.com/[makelist.param2]</page>
-<referer>http://copiapop.com/Robex69/narcos-73708</referer>
+<referer>http://copiapop.com/Robex69/narcos-73708/list,1,3</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
