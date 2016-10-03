@@ -5088,9 +5088,8 @@
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/183964/p183964_b_v8_ac.jpg</thumbnail>
 <fanart>http://www.gstatic.com/tv/thumb/tvbanners/183964/p183964_b_v8_ac.jpg</fanart>
 </item>
+
 *******************************
-
-
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • BreakingBad• </title>
 <link>$doregex[makelist]</link>
@@ -5130,6 +5129,45 @@
 </item>
 *******************************
 
+*******************************
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SmallVille• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</thumbnail>
+		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/smallville-temp-12345-latino-20848/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/smallville-temp-12345-latino-20848/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</thumbnail>
+<fanart>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</fanart>
+</item>
+*******************************
 
 
 <item>
