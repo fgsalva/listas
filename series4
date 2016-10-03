@@ -5047,6 +5047,46 @@ _______________
 <thumbnail>http://seriesadicto.com/img/series/embrujada.jpg</thumbnail>
 <fanart>http://seriesadicto.com/img/series/embrujada.jpg</fanart>
 </item>
+*******************************
+
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SUPERNATURAL• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://hexdimension.com/wp-content/uploads/2015/03/Header-Image-1-Supernatural-1200x520.jpg</thumbnail>
+		<fanart>http://hexdimension.com/wp-content/uploads/2015/03/Header-Image-1-Supernatural-1200x520.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/sobrenatural-1-2-3-4-5-6-7-8-9-10-11-el-rockero-29806/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/sobrenatural-1-2-3-4-5-6-7-8-9-10-11-el-rockero-29806/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://hexdimension.com/wp-content/uploads/2015/03/Header-Image-1-Supernatural-1200x520.jpg</thumbnail>
+<fanart>http://hexdimension.com/wp-content/uploads/2015/03/Header-Image-1-Supernatural-1200x520.jpg</fanart>
+</item>
+
 
 *******************************
 <item>
