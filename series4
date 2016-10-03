@@ -5091,6 +5091,48 @@
 *******************************
 
 
+**********
+
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • Guardianes de la Bahia• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</thumbnail>
+		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/titotv/breaking-bad-subtitulado-spanish-espanol-t1-t3-2526/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/titotv/breaking-bad-subtitulado-spanish-espanol-t1-t3-2526/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</thumbnail>
+<fanart>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</fanart>
+</item>
+*******************************
+
+
 
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SUPERNATURAL• </title>
