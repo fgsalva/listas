@@ -5018,8 +5018,8 @@ _______________
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/0a516978-22ab-4ee0-ae67-11649a436c61</thumbnail>
-		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/0a516978-22ab-4ee0-ae67-11649a436c61</fanart>
+        <thumbnail>http://seriesadicto.com/img/series/embrujada.jpg</thumbnail>
+		<fanart>http://seriesadicto.com/img/series/embrujada.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/Cuspide/embrujada-32112/list,1,11</page>
@@ -5044,7 +5044,7 @@ _______________
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/0a516978-22ab-4ee0-ae67-11649a436c61</thumbnail>
-<fanart>http://i.diskokosmiko.mx/images/coverPhoto/0a516978-22ab-4ee0-ae67-11649a436c61</fanart>
+<thumbnail>http://seriesadicto.com/img/series/embrujada.jpg</thumbnail>
+<fanart>http://seriesadicto.com/img/series/embrujada.jpg</fanart>
 </item>
 
