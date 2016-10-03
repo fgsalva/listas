@@ -5090,7 +5090,7 @@ _______________
 *****************************
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • ESTRENOS DE PELICULAS 201SEIS• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • ESTRENOS DE PELICULAS 201SEIS CASTELLANO• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -5125,6 +5125,45 @@ _______________
 </regex>
 <thumbnail>https://i.ytimg.com/vi/DwH6Kn4qXDw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/DwH6Kn4qXDw/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • PELICULAS BUENAS• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+		<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/santy/peliculas-11035/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/santy/peliculas-11035/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
+<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
 </item>
 
 
