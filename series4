@@ -5091,10 +5091,8 @@
 *******************************
 
 
-**********
-
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • Guardianes de la Bahia• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • BreakingBad• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
