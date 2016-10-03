@@ -5050,6 +5050,45 @@
 <thumbnail>http://d.christiantoday.com/en/full/36859/narcos.jpg</thumbnail>
 <fanart>http://www.latinorebels.com/wp-content/uploads/2015/09/narcos-netflix.jpg</fanart>
 </item>
+***************
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • ESPARTACUS  • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://pmcdeadline2.files.wordpress.com/2011/11/spartacus__111107190934.jpg</thumbnail>
+		<fanart>https://www.proximus.be/dam/cdn/Netflix/Spartacus/Spartacus-3.jpg/Spartacus-3.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://copiapop.com/Robex69/spartacus-73690/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://copiapop.com/Robex69/spartacus-73690/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2011/11/spartacus__111107190934.jpg</thumbnail>
+<fanart>https://www.proximus.be/dam/cdn/Netflix/Spartacus/Spartacus-3.jpg/Spartacus-3.jpg</fanart>
+</item>
 
 **************************************
 **************************************
