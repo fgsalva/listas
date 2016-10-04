@@ -5090,6 +5090,47 @@
 <fanart>https://www.proximus.be/dam/cdn/Netflix/Spartacus/Spartacus-3.jpg/Spartacus-3.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • THUNDERCATS  • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.vectorsland.com/imgd/l62799-thundercats-emblem-logo-77471.png</thumbnail>
+		<fanart>http://www.vectorsland.com/imgd/l62799-thundercats-emblem-logo-77471.png</fanart>
+
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://copiapop.com/youpeliculas/thundercats-64940/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://copiapop.com/youpeliculas/thundercats-64940/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vectorsland.com/imgd/l62799-thundercats-emblem-logo-77471.png</thumbnail>
+<fanart>http://www.vectorsland.com/imgd/l62799-thundercats-emblem-logo-77471.png</fanart>
+</item>
+
 **************************************
 **************************************
 <item>
@@ -5405,6 +5446,49 @@
 <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
 <fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
 </item>
+*****
+
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • PELICULAS TERROR LATINO 2  • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://copiapop.com/youpeliculas/peliculas-de-terror-latino-62620/gallery,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://copiapop.com/youpeliculas/peliculas-de-terror-latino-62620/gallery,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 *********************
 **********************************************
 <item>
