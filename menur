@@ -14,6 +14,12 @@
 
 <item>
 <link>http://Ignoreme</link>
+<title>[COLOR yellow]Caricaturas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurcaricaturas</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
 <title>[COLOR yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
@@ -85,28 +91,29 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </item>
 
 <item>
-<title>TV Shows Specto</title>
+<title>Specto TV Shows </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
 <thumbnail>http://www.pixhoster.info/f/2016-08/8cb4ac7449b3ad8cd4cdf39a6153d4d5.png</thumbnail>
 <fanart>http://www.pixhoster.info/f/2016-09/5cba6618a6a9d21b1de0cec0523f5065.png</fanart>
 </item>
 
-<item><title> [COLOR yellow][/COLOR][COLOR lightyellow][B]Agenda[/COLOR][COLOR yellow]RojaDirecta [/COLOR][/B][COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
+<item>
+<title>[COLOR yellow]RojaDirecta [/COLOR][/B][COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 
 <item>
-<title>[COLOR yellow]Sport 365.live[/COLOR]</title>
+<title>[COLOR yellow]Sport 365.live (zentv)[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
  <item>
-<title> [COLOR lime][/COLOR][COLOR yellow][B]mamaHD[/B] [/COLOR][COLOR skyblue] [/COLOR]</title>
+<title> [COLOR lime][/COLOR][COLOR yellow][B]MamaHD[/B] [/COLOR][COLOR skyblue] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -159,11 +166,6 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </regex>
 <thumbnail></thumbnail>
 </item>
-
-
-
-
-
  
 <item>
 <title>[COLOR lime][/COLOR][COLOR deepskyblue][B]VaughLive Television 24/7 [COLOR skyblue][/COLOR][/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
@@ -231,7 +233,7 @@ _psn12v?
 </item>
 
 
- <item>
+ Nopitem>
 <title>[COLOR yellow]AdryanList[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://adryanlist.info</externallink>
