@@ -5331,6 +5331,48 @@
 <fanart>http://hexdimension.com/wp-content/uploads/2015/03/Header-Image-1-Supernatural-1200x520.jpg</fanart>
 </item>
 
+******
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • LA TEORIA DEL BIG BANG LATINO   • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</thumbnail>
+		<fanart>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</fanart>
+
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://copiapop.com/youpeliculas/the-big-bang-theory-63628/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://copiapop.com/youpeliculas/the-big-bang-theory-63628/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</thumbnail>
+<fanart>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</fanart>
+</item>
+
+
 *********
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •SAGA GOKU VRS FREZZER• </title>
