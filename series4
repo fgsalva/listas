@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Mr Bean  • </title>
 <link>$doregex[makelist]</link>
@@ -5214,15 +5213,15 @@
 
 *******************************
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • BreakingBad• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • BreakingBad Sub Español• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</thumbnail>
-		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</fanart>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/87/Breaking_Bad_season_3_DVD.png</thumbnail>
+	<fanart>http://unspoiledpodcasts.com/wp-content/uploads/2014/09/Breaking-Bad.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/titotv/breaking-bad-subtitulado-spanish-espanol-t1-t3-2526/list,1,2</page>
@@ -5247,8 +5246,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</thumbnail>
-<fanart>http://i.diskokosmiko.mx/images/coverPhoto/43281a24-4fb6-47a2-a299-2c5741486f7e</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/87/Breaking_Bad_season_3_DVD.png</thumbnail>
+<fanart>http://unspoiledpodcasts.com/wp-content/uploads/2014/09/Breaking-Bad.jpg</fanart>
 </item>
 *******************************
 
@@ -5261,8 +5260,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</thumbnail>
-		<fanart>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</fanart>
+        <thumbnail>http://cdn-static.sidereel.com/tv_shows/30653/giant_2x/72218-29.jpg</thumbnail>
+	<fanart>http://photos.imageevent.com/batmanonfilm/dccomicsmovies/smallville-season-9-promo.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/marcos20/smallville-temp-12345-latino-20848/list,1,5</page>
@@ -5287,9 +5286,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</thumbnail>
-<fanart>http://i.diskokosmiko.mx/images/coverPhoto/2d8acdcd-a9d2-4c1c-8192-5889d280ab28</fanart>
-</item>
+<thumbnail>http://cdn-static.sidereel.com/tv_shows/30653/giant_2x/72218-29.jpg</thumbnail>
+<fanart>http://photos.imageevent.com/batmanonfilm/dccomicsmovies/smallville-season-9-promo.jpg</fanart></item>
 *******************************
 
 
@@ -5371,6 +5369,54 @@
 <thumbnail>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</thumbnail>
 <fanart>http://i2.esmas.com/2016/01/14/833582/tbbt_1-1920x1080.jpg</fanart>
 </item>
+
+***********
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • THE WALKING DEAD LATINO   • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
+		<fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
+
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://copiapop.com/youpeliculas/the-walking-dead-todas-las-temporadas-en-latino-42573/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://copiapop.com/youpeliculas/the-walking-dead-todas-las-temporadas-en-latino-42573/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
+<fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
+</item>
+
+
+
+
+
+
+
 
 
 *********
