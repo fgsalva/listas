@@ -1,1 +1,1000 @@
+<item>
+<title>He-Man Y Los Amos Del Universo LATINO</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269</page>
+<cookieJar></cookieJar>
+</regex>
 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>She-Ra La Princesa Del Poder LATINO</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/she-ra-la-princesa-del-poder-63271</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Spiderman y Sus Increibles Amigos LATINO</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/spider-man-sus-increibles-amigos-serie-animada-53599</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>El Increible HULK</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/el-increible-hulk-la-serie-animada-50604</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Los Autos Locos Latino</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/los-autos-locos-52052</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>El Coyote Y El Correcaminos</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/Koba1994/el-coyote-y-el-correcaminos-52216</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Transformer Generacion 1</title> 
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
+<page>http://copiapop.com/omyv666/transformers-generacion1-latino-41214</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param3]</page>
+<rawpost>fileId=[makelist.param4]&__RequestVerificationToken=[makelist.param5]</rawpost>
+<referer>http://copiapop.com/[makelist.param1]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>Voltron 1980 Latno</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/voltron-serie-de-los-80-35122</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Capitan Planeta</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/capitan-planeta-34269</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Los Supersonicos LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/los-supersonicos-34227</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Piernas Locas Crane LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/piernas-locas-crane-34164</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Don Gato y Su Pandilla LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/don-gato-y-su-pandilla-serie-y-peliculas-33954</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+<item>
+<title>La Hormiga y El Oso Hormiguero LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/la-hormiga-y-el-oso-hormiguero-34166</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Inspector Gadget LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-inspector-gadget-33109</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Pinky y Cerebro LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/pinky-y-cerebro-31429</page>
+      <cookieJar></cookieJar>
+</regex>
+
+
+<item>
+<title>Chip y Dale Rescatadores LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/chip-y-chop-rescatadores-31229</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Animaniacs LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/animaniancs-30821</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Capitan Cavernicola e Hijo LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/capitan-cavernicola-e-hijo-29163</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Canuto y canito</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/canuto-y-canito-29162</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Inspector de la Pantera Rosa LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-inspector-de-la-pantera-rosa-29161</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Popeye LATINO</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/popeye-el-marino-sere-y-peliculas-28515</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Conde Patula</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-conde-patula-25247</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Droopy</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/droopy-25246</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Nuevo Show Del Pajaro Loco</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-nuevo-show-del-pajaro-loco-24363</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+
+<item>
+<title>Tom y Jerry</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/tom-y-jerry-24358</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>X Men (1992)</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/x-men-serie-1992-24267</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Thundercats</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/los-thundercats-24050</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Los Verdaderos Cazafantasmas</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/los-verdaderos-cazafantasmas-22880</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Los Cazafantasmas</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/los-cazafantasmas-1986-22852</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>G.I. Joe</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/gijoe-serie-animacion-22243</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Coyote y El Correcaminos</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-coyote-y-el-correcaminos-21331</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Pulpo Manotas</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-pulpo-manotas-20868</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>La Hormiga Atomica</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/la-hormiga-atomica-20464</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Lagarto Juancho</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-lagarto-juancho-20462</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Los Ositos Gummi</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/los-osos-gummi-20263</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Pato Darwin</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-pato-darwing-20238</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Las Patoaventuras</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/patoaventuras-20237</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>El Pato Donald</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/naredo/el-pato-donald-29081</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
+
+<item>
+<title>Heidi</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>Capitulo - [makelist.param0]</title>
+               <link>$doregex[finalURL]</link>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/marcos20/heidi-serie-completa-52-capitulos-28421</page>
+      <cookieJar></cookieJar>
+</regex>
+
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+</item>
