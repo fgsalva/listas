@@ -98,7 +98,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • THUNDERCATS  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THUNDERCATS  • </title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -181,7 +181,7 @@ nopitem>
 **********
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • Guardianes de la Bahia• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •Guardianes de la Bahia• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -220,7 +220,7 @@ nopitem>
 
 *******************************
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • BreakingBad Sub Español• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •BreakingBad Sub Español• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -260,7 +260,7 @@ nopitem>
 
 *******************************
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SmallVille• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •SmallVille• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -299,7 +299,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SUPERNATURAL• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •SUPERNATURAL• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -338,7 +338,7 @@ nopitem>
 
 ******
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • LA TEORIA DEL BIG BANG LATINO   • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •LA TEORIA DEL BIG BANG LATINO   • </title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -379,7 +379,7 @@ nopitem>
 
 ***********
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • THE WALKING DEAD LATINO   • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THE WALKING DEAD LATINO   • </title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -417,14 +417,6 @@ nopitem>
 <thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
 <fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
 
 *********
 <item>
@@ -468,7 +460,7 @@ nopitem>
 ***************************
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SERIE TERROR EN ESTADO PURO (CASTELLANO)• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •SERIE TERROR EN ESTADO PURO (CASTELLANO)• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -510,7 +502,7 @@ nopitem>
 ************
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • SERIES MAESTROS DEL TERROR (CASTELLANO?)• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] •SERIES MAESTROS DEL TERROR (CASTELLANO?)• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -630,7 +622,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Mi Bella Genio  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Mi Bella Genio  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -661,7 +653,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • La Isla de Gilligam  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • La Isla de Gilligam  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -848,7 +840,7 @@ nopitem>
 </item> 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • El Zorro  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • El Zorro  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -886,7 +878,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Colombo  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Colombo  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -962,7 +954,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • 90210 Beverly Hills  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • 90210 Beverly Hills  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1000,7 +992,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Melrose Place  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Melrose Place  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1038,7 +1030,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • los Angeles de Charlie  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • los Angeles de Charlie  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1100,7 +1092,7 @@ nopitem>
 </item> 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Autopista Hacia el Cielo  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Autopista Hacia el Cielo  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1138,7 +1130,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Los Sopranos  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Los Sopranos  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1169,7 +1161,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Sabrina Cosas de Brujas  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Sabrina Cosas de Brujas  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1202,7 +1194,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Cosas de Casa  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Cosas de Casa  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1233,7 +1225,7 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • El Principe de Bell Air  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • El Principe de Bell Air  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1341,7 +1333,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • Walker Ranger Texas  • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Walker Ranger Texas  • </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
