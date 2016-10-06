@@ -729,7 +729,7 @@
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
                <thumbnail>http://mm3.vistoenpantalla.com/imagenes-productos/camiseta-el-pajaro-loco-vintage-large2.jpg</thumbnail>
-<fanart>http://vignette3.wikia.nocookie.net/doblaje/images/d/d5/P%C3%A1jaroloco.jpg/revision/latest?cb=20140830143654&path-prefix=es</fanart>
+<fanart>http://mm3.vistoenpantalla.com/imagenes-productos/camiseta-el-pajaro-loco-vintage-large2.jpg</fanart>
 
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
@@ -793,8 +793,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail>http://static.tumblr.com/ca206f6962f2abfac5e49ca1c8252463/wrzatmh/YLNni88qs/tumblr_static_8gi1373h1pc084g4wcggkss4s.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/3e/ea/d3/3eead32d617140e6d80cc39ad31fe320.jpg</fanart>
+               <thumbnail>http://static8.comicvine.com/uploads/scale_medium/5/54089/1010308-x_men_animated.jpg</thumbnail>
+<fanart>http://static8.comicvine.com/uploads/scale_medium/5/54089/1010308-x_men_animated.jpg</fanart>
 
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
@@ -811,6 +811,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://static8.comicvine.com/uploads/scale_medium/5/54089/1010308-x_men_animated.jpg</thumbnail>
+<fanart>http://static8.comicvine.com/uploads/scale_medium/5/54089/1010308-x_men_animated.jpg</fanart>
 </item>
 
 <item>
@@ -821,6 +823,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://cdn-static.sidereel.com/tv_shows/41159/giant_2x/70355-3.jpg</thumbnail>
+<fanart>http://news.thundercats.ws/wp-content/uploads/sites/6/2016/02/Thundercats-Wallpaper-1-HD_1299385920.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/los-thundercats-24050/list,1,11</page>
@@ -836,6 +840,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+    <thumbnail>http://cdn-static.sidereel.com/tv_shows/41159/giant_2x/70355-3.jpg</thumbnail>
+<fanart>http://news.thundercats.ws/wp-content/uploads/sites/6/2016/02/Thundercats-Wallpaper-1-HD_1299385920.jpg</fanart>
 </item>
 
 <item>
