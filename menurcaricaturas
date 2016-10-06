@@ -353,14 +353,13 @@
 <item>
 <title>Don Gato y Su Pandilla LATINO</title>
 <link>$doregex[makelist]</link>
-<thumbnail>http://www.qserie.com/files/uploads/5185.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/3b/b3/45/3bb345c6f2d9e370cde7748770ca1263.jpg</fanart>
-
-<regex>
+      <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.qserie.com/files/uploads/5185.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3b/b3/45/3bb345c6f2d9e370cde7748770ca1263.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/don-gato-y-su-pandilla-serie-y-peliculas-33954</page>
@@ -413,14 +412,14 @@
 <item>
 <title>El Inspector Gadget LATINO</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMzM1MTY1OF5BMl5BanBnXkFtZTcwNjMzNzIzMQ@@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://www.denofgeek.us/sites/denofgeekus/files/6/99/inspector-gadget-movie.jpg</fanart>
-
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMzM1MTY1OF5BMl5BanBnXkFtZTcwNjMzNzIzMQ@@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.denofgeek.us/sites/denofgeekus/files/6/99/inspector-gadget-movie.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-inspector-gadget-33109</page>
@@ -443,14 +442,13 @@
 <item>
 <title>Pinky y Cerebro LATINO</title>
 <link>$doregex[makelist]</link>
-<thumbnail>http://k44.kn3.net/5A5130BD8.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/o6tq2L0Hmb8/hqdefault.jpg</fanart>
-
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://k44.kn3.net/5A5130BD8.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/o6tq2L0Hmb8/hqdefault.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/pinky-y-cerebro-31429</page>
@@ -478,6 +476,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.wolfstad.com/dcw/images/comics/225px/co_chipydale.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/AQjWs0pu0-8/hqdefault.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/chip-y-chop-rescatadores-31229</page>
@@ -493,6 +494,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.wolfstad.com/dcw/images/comics/225px/co_chipydale.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/AQjWs0pu0-8/hqdefault.jpg</fanart>
 </item>
 
 
