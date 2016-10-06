@@ -228,11 +228,6 @@
 </item>
 
 
-
-
-
-
-
 <item>
 <title>Voltron 1980 Latno</title>
 <link>$doregex[makelist]</link>
@@ -241,6 +236,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.chogokinmania.com/wp-content/uploads/2010/10/voltron1.jpg</thumbnail>
+<fanart>http://images-cdn.moviepilot.com/image/upload/c_fill,h_1024,w_1280/t_mp_quality/voltron-70-s-and-80-s-cartoons-on-the-big-screen-jpeg-71120.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/voltron-serie-de-los-80-35122</page>
@@ -256,6 +254,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.chogokinmania.com/wp-content/uploads/2010/10/voltron1.jpg</thumbnail>
+<fanart>http://images-cdn.moviepilot.com/image/upload/c_fill,h_1024,w_1280/t_mp_quality/voltron-70-s-and-80-s-cartoons-on-the-big-screen-jpeg-71120.jpg</fanart>
 </item>
 
 
@@ -267,6 +267,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://vignette2.wikia.nocookie.net/doblaje/images/5/55/Capit%C3%A1n_planeta.jpg/revision/latest?cb=20100608011708&path-prefix=es</thumbnail>
+<fanart>http://lanocheamericana.net/wp-content/uploads/2011/07/capitan-planeta-banner-560x270.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/capitan-planeta-34269</page>
@@ -282,6 +285,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/doblaje/images/5/55/Capit%C3%A1n_planeta.jpg/revision/latest?cb=20100608011708&path-prefix=es</thumbnail>
+<fanart>http://lanocheamericana.net/wp-content/uploads/2011/07/capitan-planeta-banner-560x270.jpg</fanart>
 </item>
 
 
@@ -293,6 +298,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.redtienda.net/storeimages/cosmoanime/pro/25514.file_a.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/55/8f/4d/558f4d2fa8df2436c1b69e64e593e7ea.jpg</fanart>
+         
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/los-supersonicos-34227</page>
@@ -308,6 +316,9 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.redtienda.net/storeimages/cosmoanime/pro/25514.file_a.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/55/8f/4d/558f4d2fa8df2436c1b69e64e593e7ea.jpg</fanart>
+
 </item>
 
 
