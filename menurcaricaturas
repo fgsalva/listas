@@ -318,9 +318,7 @@
 </regex>
 <thumbnail>http://www.redtienda.net/storeimages/cosmoanime/pro/25514.file_a.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/55/8f/4d/558f4d2fa8df2436c1b69e64e593e7ea.jpg</fanart>
-
 </item>
-
 
 <item>
 <title>Piernas Locas Crane LATINO</title>
@@ -390,6 +388,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.panterarosapink.com/personajes/osohormigueropersonaje.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/XAYzNBkJn7E/hqdefault.jpg</fanart>
+              
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/la-hormiga-y-el-oso-hormiguero-34166</page>
@@ -405,11 +406,16 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.panterarosapink.com/personajes/osohormigueropersonaje.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/XAYzNBkJn7E/hqdefault.jpg</fanart>
 </item>
 
 <item>
 <title>El Inspector Gadget LATINO</title>
 <link>$doregex[makelist]</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMzM1MTY1OF5BMl5BanBnXkFtZTcwNjMzNzIzMQ@@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.denofgeek.us/sites/denofgeekus/files/6/99/inspector-gadget-movie.jpg</fanart>
+
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
@@ -430,12 +436,16 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzMzM1MTY1OF5BMl5BanBnXkFtZTcwNjMzNzIzMQ@@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.denofgeek.us/sites/denofgeekus/files/6/99/inspector-gadget-movie.jpg</fanart>
 </item>
-
 
 <item>
 <title>Pinky y Cerebro LATINO</title>
 <link>$doregex[makelist]</link>
+<thumbnail>http://k44.kn3.net/5A5130BD8.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/o6tq2L0Hmb8/hqdefault.jpg</fanart>
+
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
@@ -446,6 +456,18 @@
       <page>http://diskokosmiko.mx/naredo/pinky-y-cerebro-31429</page>
       <cookieJar></cookieJar>
 </regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>
+<thumbnail>http://k44.kn3.net/5A5130BD8.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/o6tq2L0Hmb8/hqdefault.jpg</fanart>
+</item>
 
 
 <item>
