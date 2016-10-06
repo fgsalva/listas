@@ -590,7 +590,7 @@
 </item>
 
 <item>
-<title>El Inspector de la Pantera Rosa LATINO</title>
+<title>El Inspector de la Pantera Rosa LATINOxx</title>
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
@@ -602,7 +602,7 @@
                
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/naredo/el-inspector-de-la-pantera-rosa-29161</page>
+      <page>http://diskokosmiko.mx/naredo/el-inspector-de-la-pantera-rosa-29161/list,1,12</page>
       <cookieJar></cookieJar>
 </regex>
 
