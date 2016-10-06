@@ -71,6 +71,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+<thumbnail>http://www.clipartkid.com/images/400/ultimate-spider-man-animated-series-marvel-comics-database-HMWQrF-clipart.jpeg</thumbnail>
+<fanart>https://consequenceofsound.files.wordpress.com/2015/06/spider-man.png?w=806&h=605</fanart>
+        
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/spider-man-sus-increibles-amigos-serie-animada-53599</page>
@@ -88,6 +91,9 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://www.clipartkid.com/images/400/ultimate-spider-man-animated-series-marvel-comics-database-HMWQrF-clipart.jpeg</thumbnail>
+<fanart>https://consequenceofsound.files.wordpress.com/2015/06/spider-man.png?w=806&h=605</fanart>
+    
 </item>
 
 <item>
@@ -98,6 +104,10 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/1c/dc/90/1cdc901a4fbb88cb4eba1e06d2290250.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/b/bf/Incredible_Hulk_'82.jpg</fanart>
+  
+       
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/el-increible-hulk-la-serie-animada-50604</page>
@@ -115,6 +125,8 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/1c/dc/90/1cdc901a4fbb88cb4eba1e06d2290250.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/b/bf/Incredible_Hulk_'82.jpg</fanart>
 </item>
 
 <item>
@@ -125,6 +137,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+        <thumbnail>http://i.blogs.es/c4064f/pierre_med/450_1000.jpg</thumbnail>
+<fanart>http://www.getafecapital.com/wp-content/uploads/2016/04/autoslocosdibus.jpg</fanart>
+
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/los-autos-locos-52052</page>
@@ -142,6 +157,9 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://i.blogs.es/c4064f/pierre_med/450_1000.jpg</thumbnail>
+<fanart>http://www.getafecapital.com/wp-content/uploads/2016/04/autoslocosdibus.jpg</fanart>
+
 </item>
 
 <item>
@@ -152,6 +170,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+<thumbnail>http://i211.photobucket.com/albums/bb178/omax180_bucket/coyote.jpg</thumbnail>
+<fanart>http://www.ruralisla.com/wp-content/uploads/2015/07/Coyotedibujos.jpg</fanart>
+      
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/el-coyote-y-el-correcaminos-52216</page>
@@ -169,6 +190,8 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://i211.photobucket.com/albums/bb178/omax180_bucket/coyote.jpg</thumbnail>
+<fanart>http://www.ruralisla.com/wp-content/uploads/2015/07/Coyotedibujos.jpg</fanart>
 </item>
 
 <item>
@@ -179,6 +202,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+        <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/bb/f1/46/bbf1467914b8e3e23aa68b3c4291c562.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/4e1c/f/2015/074/6/a/autobot_groupshot_01__silver_bluestreak__by_dan_k__by_cartoon_sentinel-d8lvi0r.jpg</fanart>
+
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/omyv666/transformers-generacion1-latino-41214</page>
@@ -196,6 +222,9 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/564x/bb/f1/46/bbf1467914b8e3e23aa68b3c4291c562.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/4e1c/f/2015/074/6/a/autobot_groupshot_01__silver_bluestreak__by_dan_k__by_cartoon_sentinel-d8lvi0r.jpg</fanart>
+
 </item>
 
 
