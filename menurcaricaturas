@@ -507,6 +507,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://epguides.com/Animaniacs/logo.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/animaniacs/images/f/f4/Animaniacs_1.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/animaniancs-30821</page>
@@ -522,6 +525,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://epguides.com/Animaniacs/logo.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/animaniacs/images/f/f4/Animaniacs_1.jpg</fanart>
 </item>
 
 <item>
@@ -532,6 +537,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://pics.filmaffinity.com/captain_caveman_and_the_teen_angels_tv_series-977278404-large.jpg</thumbnail>
+<fanart>http://losvideosmas.net/sites/default/files/capitan_cavernicola_e_hijo.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/capitan-cavernicola-e-hijo-29163</page>
@@ -547,6 +555,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://pics.filmaffinity.com/captain_caveman_and_the_teen_angels_tv_series-977278404-large.jpg</thumbnail>
+<fanart>http://losvideosmas.net/sites/default/files/capitan_cavernicola_e_hijo.jpg</fanart>
 </item>
 
 <item>
@@ -557,6 +567,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://st-listas.20minutos.es/images/2011-03/278817/2910142_640px.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/N0ltSTIoQYA/hqdefault.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/canuto-y-canito-29162</page>
@@ -572,6 +585,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://st-listas.20minutos.es/images/2011-03/278817/2910142_640px.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/N0ltSTIoQYA/hqdefault.jpg</fanart>
 </item>
 
 <item>
@@ -582,6 +597,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://comosellama.net/wp-content/uploads/2015/05/Como-se-llama-el-inspector-de-La-Pantera-Rosa.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/1a/ee/be/1aeebe7b64ba4c89f1606d3dac48334a.jpg</fanart>
+               
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-inspector-de-la-pantera-rosa-29161</page>
@@ -597,6 +615,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+    <thumbnail>http://comosellama.net/wp-content/uploads/2015/05/Como-se-llama-el-inspector-de-La-Pantera-Rosa.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/1a/ee/be/1aeebe7b64ba4c89f1606d3dac48334a.jpg</fanart>
 </item>
 
 <item>
@@ -894,6 +914,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://i68.tinypic.com/rk0h1h.jpg</thumbnail>
+<fanart>http://edgecast.tech.buscafs.com/uploads/images/41143.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-pulpo-manotas-20868</page>
@@ -909,6 +931,9 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://i68.tinypic.com/rk0h1h.jpg</thumbnail>
+<fanart>http://edgecast.tech.buscafs.com/uploads/images/41143.jpg</fanart>
+
 </item>
 
 <item>
