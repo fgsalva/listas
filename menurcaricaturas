@@ -627,6 +627,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://static4.comicvine.com/uploads/square_small/11/114183/5200264-popeye.jpg</thumbnail>
+<fanart>http://www.telegraph.co.uk/content/dam/books/2016/04/11/popeye5_2960147b-large_trans++pJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg</fanart>
+         
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/popeye-el-marino-sere-y-peliculas-28515/list,1,11</page>
@@ -642,6 +645,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://static4.comicvine.com/uploads/square_small/11/114183/5200264-popeye.jpg</thumbnail>
+<fanart>http://www.telegraph.co.uk/content/dam/books/2016/04/11/popeye5_2960147b-large_trans++pJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg</fanart>
 </item>
 
 <regex>
@@ -663,6 +668,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://st-listas.20minutos.es/images/2008-07/27055/344696_640px.jpg</thumbnail>
+<fanart>https://www.laguiadelvaron.com/wp-content/uploads/2016/06/google.com_.mx-1280x720-OR6.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-conde-patula-25247/list,1,11</page>
@@ -678,6 +686,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://st-listas.20minutos.es/images/2008-07/27055/344696_640px.jpg</thumbnail>
+<fanart>https://www.laguiadelvaron.com/wp-content/uploads/2016/06/google.com_.mx-1280x720-OR6.jpg</fanart>
 </item>
 
 <item>
@@ -688,6 +698,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/ed/3e/15/ed3e15e6d2fa9fa0f822c3d62af520e9.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/67/68/77/676877ba6a37a5499a087bc60de99a35.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/droopy-25246/list,1,11</page>
@@ -703,6 +716,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/564x/ed/3e/15/ed3e15e6d2fa9fa0f822c3d62af520e9.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/67/68/77/676877ba6a37a5499a087bc60de99a35.jpg</fanart>
 </item>
 
 <item>
@@ -713,6 +728,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://mm3.vistoenpantalla.com/imagenes-productos/camiseta-el-pajaro-loco-vintage-large2.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/doblaje/images/d/d5/P%C3%A1jaroloco.jpg/revision/latest?cb=20140830143654&path-prefix=es</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-nuevo-show-del-pajaro-loco-24363/list,1,11</page>
@@ -728,6 +746,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://mm3.vistoenpantalla.com/imagenes-productos/camiseta-el-pajaro-loco-vintage-large2.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/doblaje/images/d/d5/P%C3%A1jaroloco.jpg/revision/latest?cb=20140830143654&path-prefix=es</fanart>
 </item>
 
 
@@ -739,6 +759,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               
+               <thumbnail>http://static.tumblr.com/ca206f6962f2abfac5e49ca1c8252463/wrzatmh/YLNni88qs/tumblr_static_8gi1373h1pc084g4wcggkss4s.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3e/ea/d3/3eead32d617140e6d80cc39ad31fe320.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/tom-y-jerry-24358/list,1,11</page>
@@ -754,7 +777,13 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://static.tumblr.com/ca206f6962f2abfac5e49ca1c8252463/wrzatmh/YLNni88qs/tumblr_static_8gi1373h1pc084g4wcggkss4s.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3e/ea/d3/3eead32d617140e6d80cc39ad31fe320.jpg</fanart>
 </item>
+
+
+
+
 
 <item>
 <title>X Men (1992)</title>
@@ -764,6 +793,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://static.tumblr.com/ca206f6962f2abfac5e49ca1c8252463/wrzatmh/YLNni88qs/tumblr_static_8gi1373h1pc084g4wcggkss4s.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3e/ea/d3/3eead32d617140e6d80cc39ad31fe320.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/x-men-serie-1992-24267/list,1,11</page>
