@@ -1034,9 +1034,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
-               
-               <thumbnail>http://www.dmtinc.cl/imagenes/at0Y1.jpg</thumbnail>
-<fanart>http://www.cartoonscrapbook.com/01pics-L/atom-ant_L08.jpg</fanart>
+               <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/e5/73/b3/e573b336cf3b2b944fd16a91d04f2e43.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D5K9GLuwVyU/hqdefault.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-lagarto-juancho-20462/list,1,11</page>
@@ -1052,6 +1051,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/e5/73/b3/e573b336cf3b2b944fd16a91d04f2e43.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/D5K9GLuwVyU/hqdefault.jpg</fanart>
 </item>
 
 <item>
@@ -1062,6 +1063,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.redtienda.net/storeimages/cosmoanime/pro/232883.file_a.jpg</thumbnail>
+<fanart>http://dibujos-animados.org/wp-content/gallery/imagenes-osos-gummies/imagenes-osos-gummies-12.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/los-osos-gummi-20263/list,1,11</page>
@@ -1077,6 +1080,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.redtienda.net/storeimages/cosmoanime/pro/232883.file_a.jpg</thumbnail>
+<fanart>http://dibujos-animados.org/wp-content/gallery/imagenes-osos-gummies/imagenes-osos-gummies-12.jpg</fanart>
 </item>
 
 <item>
@@ -1087,6 +1092,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://pics.filmaffinity.com/darkwing_duck_tv_series-671045998-large.jpg</thumbnail>
+<fanart>http://universo-nintendo.com.mx/wp-content/uploads/2016/09/El_Pato_Darkwing_y_Joe_McQuack_Principal.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-pato-darwing-20238/list,1,11</page>
@@ -1102,6 +1110,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://pics.filmaffinity.com/darkwing_duck_tv_series-671045998-large.jpg</thumbnail>
+<fanart>http://universo-nintendo.com.mx/wp-content/uploads/2016/09/El_Pato_Darkwing_y_Joe_McQuack_Principal.jpg</fanart>
 </item>
 
 <item>
@@ -1112,6 +1122,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+<thumbnail>http://cloud10.todocoleccion.online/tebeos-clasicos/tc/2010/04/19/18827522.jpg</thumbnail>
+<fanart>http://cdn.expansion.mx/media/2015/02/26/patoaventuras-disney.jpg</fanart>               
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/patoaventuras-20237/list,1,11</page>
@@ -1127,6 +1139,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://cloud10.todocoleccion.online/tebeos-clasicos/tc/2010/04/19/18827522.jpg</thumbnail>
+<fanart>http://cdn.expansion.mx/media/2015/02/26/patoaventuras-disney.jpg</fanart>
 </item>
 
 <item>
@@ -1137,6 +1151,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/41/cb/86/41cb86eb90d8482109d76fac96684952.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2014-06/382556/list_640px.jpg?1465459739</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-pato-donald-29081/list,1,11</page>
@@ -1152,6 +1168,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/41/cb/86/41cb86eb90d8482109d76fac96684952.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2014-06/382556/list_640px.jpg?1465459739</fanart>
 </item>
 
 <item>
@@ -1162,6 +1180,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://media.senscritique.com/media/000006497685/source_big/Heidi.jpg</thumbnail>
+<fanart>http://contura.rhb.ch/system/html/Heidi_Zeichentrick_1974_5_4c_gallerie10-60a6532c.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/marcos20/heidi-serie-completa-52-capitulos-28421/list,1,11</page>
@@ -1177,6 +1198,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+ <thumbnail>http://media.senscritique.com/media/000006497685/source_big/Heidi.jpg</thumbnail>
+<fanart>http://contura.rhb.ch/system/html/Heidi_Zeichentrick_1974_5_4c_gallerie10-60a6532c.jpg</fanart>
 </item>
 
 <item>
@@ -1187,6 +1210,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+                <thumbnail>http://www.animecourtyard.com/gallery/plog-content/images/anime/candy-candy/animecourtyard.com-candy-candy-anime-candy-candy-9421122-595-800.jpg</thumbnail>
+<fanart>http://pm1.narvii.com/5894/b761625a0191a33f8846ef1378bc004cda6e0c43_hq.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/marcos20/candy-candy-x-115-19243/list,1,11</page>
@@ -1202,6 +1228,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.animecourtyard.com/gallery/plog-content/images/anime/candy-candy/animecourtyard.com-candy-candy-anime-candy-candy-9421122-595-800.jpg</thumbnail>
+<fanart>http://pm1.narvii.com/5894/b761625a0191a33f8846ef1378bc004cda6e0c43_hq.jpg</fanart>
 </item>
 
 
@@ -1213,6 +1241,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/marcos20/hey-arnold-temporada1-x-36-latino-19371/list,1,11</page>
@@ -1228,6 +1259,9 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
+
 </item>
 
 <item>
@@ -1238,6 +1272,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/marcos20/hey-arnold-temporada-2-x-39-19445/list,1,11</page>
@@ -1253,6 +1290,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
 </item>
 
 <item>
@@ -1263,6 +1302,8 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/marcos20/hey-arnold-temporada-3-x-53-latino-19494/list,1,11</page>
@@ -1278,4 +1319,6 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://orig14.deviantart.net/2ef4/f/2007/228/8/7/hey_arnold_by_maxintoch.jpg</thumbnail>
+<fanart>http://www.trendybynick.com/wp-content/uploads/2015/07/7-memes-de-Oye-Arnold.jpg</fanart>
 </item>
