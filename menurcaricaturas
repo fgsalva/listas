@@ -6,8 +6,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.lalalandrecords.com/pix/heman-cover.jpg</thumbnail>
-<fanart>http://www.lalalandrecords.com/pix/heman-cover.jpg</fanart>
+        <thumbnail>https://tsdfrontcovers.files.wordpress.com/2013/11/motu-fs.jpg</thumbnail>
+<fanart>https://tsdfrontcovers.files.wordpress.com/2013/11/motu-fs.jpg</fanart>
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
