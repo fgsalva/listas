@@ -809,11 +809,11 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://seriesblanco.com/files/uploads/3142.jpg</thumbnail>
-		<fanart>http://cdn01.ts.infobae.com/adjuntos/164/imagenes/013/811/0013811591.jpg</fanart>
+	<thumbnail>http://66.197.44.244/pics/Lost_In_Space_1.jpg</thumbnail>
+<fanart>http://cdn01.ts.infobae.com/adjuntos/164/imagenes/013/811/0013811591.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Catoal/perdidos-en-el-espacio-68980/gallery,1,4</page>
+<page>http://copiapop.com/Catoal/perdidos-en-el-espacio-68980/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -828,7 +828,7 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://seriesblanco.com/files/uploads/3142.jpg</thumbnail>
+<thumbnail>http://66.197.44.244/pics/Lost_In_Space_1.jpg</thumbnail>
 <fanart>http://cdn01.ts.infobae.com/adjuntos/164/imagenes/013/811/0013811591.jpg</fanart>
 </item> 
 
