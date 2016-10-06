@@ -459,8 +459,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
+        <thumbnail>http://globedia.com/imagenes/noticias/2010/12/20/series-television-tales-from-darkside-antologias-terror-presupuesto_1_786001.jpg</thumbnail>
+		<fanart>http://static.azteca.com/crop/crop.php?width=580&height=&img=http://static.azteca.com/imagenes/2014/17/histerias-1836206.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/terror-en-estado-puroel-rockero-30127</page>
@@ -485,8 +485,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
+<thumbnail>http://globedia.com/imagenes/noticias/2010/12/20/series-television-tales-from-darkside-antologias-terror-presupuesto_1_786001.jpg</thumbnail>
+<fanart>http://static.azteca.com/crop/crop.php?width=580&height=&img=http://static.azteca.com/imagenes/2014/17/histerias-1836206.jpg</fanart>
 </item>
 ************
 
@@ -501,8 +501,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-		<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
+        <thumbnail>http://pics.filmaffinity.com/masters_of_horror_tv_series-687312645-large.jpg</thumbnail>
+		<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/masters-of-horror-2.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/maestros-del-terrorel-rockero-30128</page>
@@ -527,8 +527,9 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</thumbnail>
-<fanart>http://www.catequesisdegalicia.com/wp-content/uploads/2016/06/redes-peliculas.jpg</fanart>
+        <thumbnail>http://pics.filmaffinity.com/masters_of_horror_tv_series-687312645-large.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/masters-of-horror-2.jpg</fanart>
+
 </item>
 
 
