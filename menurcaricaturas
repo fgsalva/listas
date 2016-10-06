@@ -944,8 +944,8 @@
       <name>makelist</name>
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
-               <link>$doregex[finalURL]</link>
-               <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+               <link>$doregex[finalURL]</link>  
+          <thumbnail>http://jvaillant.free.fr/Coyote/gc25_Roadrunner_Wile_E._Coyote-Tounge_Out_NEW.jpg</thumbnail>
 <fanart>http://imagenes.educ.ar/dinamico/UnidadHtml__get__cf8f2924-7025-4325-8abd-a323f5d65d4e/90630/data/a5a2b03c-7a06-11e1-8019-ed15e3c494af/external668.jpg</fanart>
 
       ]]></listrepeat>
@@ -963,7 +963,7 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+<thumbnail>http://jvaillant.free.fr/Coyote/gc25_Roadrunner_Wile_E._Coyote-Tounge_Out_NEW.jpg</thumbnail>
 <fanart>http://imagenes.educ.ar/dinamico/UnidadHtml__get__cf8f2924-7025-4325-8abd-a323f5d65d4e/90630/data/a5a2b03c-7a06-11e1-8019-ed15e3c494af/external668.jpg</fanart>
 </item>
 
