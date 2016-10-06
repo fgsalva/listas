@@ -39,6 +39,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+        <thumbnail>http://static.comicvine.com/uploads/original/4/49448/2243636-3239456630_c064f895b6.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Iz3QJ72KqXI/maxresdefault.jpg</fanart>
+
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/she-ra-la-princesa-del-poder-63271</page>
@@ -56,6 +59,8 @@
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://static.comicvine.com/uploads/original/4/49448/2243636-3239456630_c064f895b6.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Iz3QJ72KqXI/maxresdefault.jpg</fanart>
 </item>
 
 <item>
