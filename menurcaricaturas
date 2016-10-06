@@ -267,7 +267,7 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
-               <thumbnail>http://vignette2.wikia.nocookie.net/doblaje/images/5/55/Capit%C3%A1n_planeta.jpg/revision/latest?cb=20100608011708&path-prefix=es</thumbnail>
+               <thumbnail>http://www.thecollectorsasylum.com/uploads/5/3/8/0/53806157/s646134393542214142_c70_i1_w400.jpeg</thumbnail>
 <fanart>http://lanocheamericana.net/wp-content/uploads/2011/07/capitan-planeta-banner-560x270.jpg</fanart>
 
       ]]></listrepeat>
@@ -285,7 +285,7 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
-<thumbnail>http://vignette2.wikia.nocookie.net/doblaje/images/5/55/Capit%C3%A1n_planeta.jpg/revision/latest?cb=20100608011708&path-prefix=es</thumbnail>
+<thumbnail>http://www.thecollectorsasylum.com/uploads/5/3/8/0/53806157/s646134393542214142_c70_i1_w400.jpeg</thumbnail>
 <fanart>http://lanocheamericana.net/wp-content/uploads/2011/07/capitan-planeta-banner-560x270.jpg</fanart>
 </item>
 
@@ -330,6 +330,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.alphavillevideoteca.com.ar/thumbs/4194.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/Piernas_Locas_Crane_y_el_Mosquito_Dragon_Serie_de_TV-435188160-large.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/piernas-locas-crane-34164</page>
@@ -345,11 +348,16 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.alphavillevideoteca.com.ar/thumbs/4194.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/Piernas_Locas_Crane_y_el_Mosquito_Dragon_Serie_de_TV-435188160-large.jpg</fanart>
 </item>
 
 <item>
 <title>Don Gato y Su Pandilla LATINO</title>
 <link>$doregex[makelist]</link>
+<thumbnail>http://www.qserie.com/files/uploads/5185.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3b/b3/45/3bb345c6f2d9e370cde7748770ca1263.jpg</fanart>
+
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
@@ -370,7 +378,10 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.qserie.com/files/uploads/5185.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3b/b3/45/3bb345c6f2d9e370cde7748770ca1263.jpg</fanart>
 </item>
+
 <item>
 <title>La Hormiga y El Oso Hormiguero LATINO</title>
 <link>$doregex[makelist]</link>
