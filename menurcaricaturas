@@ -11,7 +11,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269/gallery,1,6</page>
+<page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -44,7 +44,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/she-ra-la-princesa-del-poder-63271/list,1,11</page>
+<page>http://copiapop.com/Koba1994/she-ra-la-princesa-del-poder-63271/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -76,7 +76,7 @@
         
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/spider-man-sus-increibles-amigos-serie-animada-53599/list,1,11</page>
+<page>http://copiapop.com/Koba1994/spider-man-sus-increibles-amigos-serie-animada-53599/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -110,7 +110,7 @@
        
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/el-increible-hulk-la-serie-animada-50604/list,1,11</page>
+<page>http://copiapop.com/Koba1994/el-increible-hulk-la-serie-animada-50604/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -142,7 +142,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/los-autos-locos-52052/list,1,11</page>
+<page>http://copiapop.com/Koba1994/los-autos-locos-52052/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -175,7 +175,7 @@
       
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/el-coyote-y-el-correcaminos-52216/list,1,11</page>
+<page>http://copiapop.com/Koba1994/el-coyote-y-el-correcaminos-52216/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -207,7 +207,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/omyv666/transformers-generacion1-latino-41214/list,1,11</page>
+<page>http://copiapop.com/omyv666/transformers-generacion1-latino-41214/gallery,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 
