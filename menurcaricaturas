@@ -22,6 +22,9 @@
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
+<thumbnail>http://www.lalalandrecords.com/pix/heman-cover.jpg</thumbnail>
+<fanart>http://www.lalalandrecords.com/pix/heman-cover.jpg</fanart>
+
 </regex>
 </item>
 
