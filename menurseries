@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-view:tvshows
-<item>
-    <title>[COLOR red] Peliculas externas livetvplayerlatino[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
-</item>
-nopitem>
-    <title>[COLOR red] Series externas[/COLOR][COLOR red]livetvplayerlatino[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://live.tvplayerlatino.com/lista_series.m3u</externallink>
-</item>
+
 
  <item>
     <title>[COLOR yellow]Mi bella genio[/COLOR]</title>
@@ -428,8 +418,8 @@ nopitem>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://vignette3.wikia.nocookie.net/dragonball/images/b/bc/Artwork_Goku_vs_Freezer_forma_final.jpg/revision/latest?cb=20130514193940&path-prefix=es</thumbnail>
-		<fanart>http://vignette3.wikia.nocookie.net/dragonball/images/b/bc/Artwork_Goku_vs_Freezer_forma_final.jpg/revision/latest?cb=20130514193940&path-prefix=es</fanart>
+        <thumbnail>http://orig11.deviantart.net/be5e/f/2011/008/1/2/12fa64649fab1773caba6d401642a1e8-d36qd3u.jpg</thumbnail>
+	<fanart>http://vgezone.com/wp-content/uploads/2015/06/Goku-vs-Freezer.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/goku-vs-freezer-sin-relleno-castellanoel-rockero-29178</page>
@@ -454,9 +444,8 @@ nopitem>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://vignette3.wikia.nocookie.net/dragonball/images/b/bc/Artwork_Goku_vs_Freezer_forma_final.jpg/revision/latest?cb=20130514193940&path-prefix=es</thumbnail>
-<fanart>http://vignette3.wikia.nocookie.net/dragonball/images/b/bc/Artwork_Goku_vs_Freezer_forma_final.jpg/revision/latest?cb=20130514193940&path-prefix=es</fanart>
-</item>
+        <thumbnail>http://orig11.deviantart.net/be5e/f/2011/008/1/2/12fa64649fab1773caba6d401642a1e8-d36qd3u.jpg</thumbnail>
+	<fanart>http://vgezone.com/wp-content/uploads/2015/06/Goku-vs-Freezer.jpg</fanart></item>
 **********************************************
 ***************************
 
