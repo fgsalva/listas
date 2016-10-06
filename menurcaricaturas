@@ -852,6 +852,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://es.web.img3.acsta.net/c_300_300/pictures/16/02/15/08/40/270894.jpg</thumbnail>
+<fanart>http://nerdgasmo.com/wp-content/uploads/2013/02/busters2.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/los-verdaderos-cazafantasmas-22880/list,1,11</page>
@@ -867,6 +870,10 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+
+               <thumbnail>http://es.web.img3.acsta.net/c_300_300/pictures/16/02/15/08/40/270894.jpg</thumbnail>
+<fanart>http://nerdgasmo.com/wp-content/uploads/2013/02/busters2.jpg</fanart>
+
 </item>
 
 <item>
@@ -877,6 +884,10 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               
+               <thumbnail>http://nerdgasmo.com/wp-content/uploads/2013/02/busters2.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/c_300_300/pictures/16/02/15/08/40/270894.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/los-cazafantasmas-1986-22852/list,1,11</page>
@@ -892,6 +903,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://nerdgasmo.com/wp-content/uploads/2013/02/busters2.jpg</thumbnail>
+<fanart>http://es.web.img3.acsta.net/c_300_300/pictures/16/02/15/08/40/270894.jpg</fanart>
 </item>
 
 <item>
@@ -902,6 +915,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               
+               <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+<fanart>http://www.nacion.com/ocio/cine/Alerta-GI-JOE-jaque_LNCIMA20130331_0528_5.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/gijoe-serie-animacion-22243/list,1,11</page>
@@ -917,6 +933,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+<fanart>http://www.nacion.com/ocio/cine/Alerta-GI-JOE-jaque_LNCIMA20130331_0528_5.jpg</fanart>
 </item>
 
 <item>
@@ -927,6 +945,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+<fanart>http://imagenes.educ.ar/dinamico/UnidadHtml__get__cf8f2924-7025-4325-8abd-a323f5d65d4e/90630/data/a5a2b03c-7a06-11e1-8019-ed15e3c494af/external668.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-coyote-y-el-correcaminos-21331/list,1,11</page>
@@ -942,6 +963,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/47/b3/ab/47b3ab90ec81bfae8c103594f9b9837f.jpg</thumbnail>
+<fanart>http://imagenes.educ.ar/dinamico/UnidadHtml__get__cf8f2924-7025-4325-8abd-a323f5d65d4e/90630/data/a5a2b03c-7a06-11e1-8019-ed15e3c494af/external668.jpg</fanart>
 </item>
 
 <item>
@@ -971,7 +994,6 @@
 </regex>
 <thumbnail>http://i68.tinypic.com/rk0h1h.jpg</thumbnail>
 <fanart>http://edgecast.tech.buscafs.com/uploads/images/41143.jpg</fanart>
-
 </item>
 
 <item>
@@ -982,6 +1004,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               <thumbnail>http://www.dmtinc.cl/imagenes/at0Y1.jpg</thumbnail>
+<fanart>http://www.cartoonscrapbook.com/01pics-L/atom-ant_L08.jpg</fanart>
+
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/la-hormiga-atomica-20464/list,1,11</page>
@@ -997,6 +1022,8 @@
       <x-req>XMLHttpRequest</x-req>
       <cookiejar></cookiejar>
 </regex>
+<thumbnail>http://www.dmtinc.cl/imagenes/at0Y1.jpg</thumbnail>
+<fanart>http://www.cartoonscrapbook.com/01pics-L/atom-ant_L08.jpg</fanart>
 </item>
 
 <item>
@@ -1007,6 +1034,9 @@
       <listrepeat><![CDATA[
                <title>Capitulo - [makelist.param0]</title>
                <link>$doregex[finalURL]</link>
+               
+               <thumbnail>http://www.dmtinc.cl/imagenes/at0Y1.jpg</thumbnail>
+<fanart>http://www.cartoonscrapbook.com/01pics-L/atom-ant_L08.jpg</fanart>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/naredo/el-lagarto-juancho-20462/list,1,11</page>
