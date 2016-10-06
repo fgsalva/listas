@@ -6,6 +6,9 @@
   <listrepeat><![CDATA[
         <title>[makelist.param2]</title>
         <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.lalalandrecords.com/pix/heman-cover.jpg</thumbnail>
+<fanart>http://www.lalalandrecords.com/pix/heman-cover.jpg</fanart>
+
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
 <page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269</page>
