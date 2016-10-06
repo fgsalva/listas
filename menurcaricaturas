@@ -1,5 +1,5 @@
 <item>
-<title>He-Man Y Los Amos Del Universo LATINO</title> 
+<title>He-Man Y Los Amos Del Universo LATINO galery</title> 
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -11,7 +11,7 @@
 
 ]]></listrepeat>
 <expres><![CDATA[class="name".*href="\/([^"]*)".+?>(.*?)<[\w\W\s]*?action="\/([^"]*)".+?value="(.*?)".*Token.+?value="(.*?)"]]></expres>
-<page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269/list,1,11</page>
+<page>http://copiapop.com/Koba1994/he-man-los-masters-del-universo-63269/gallery,1,6</page>
 <cookieJar></cookieJar>
 </regex>
 
