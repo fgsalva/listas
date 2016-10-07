@@ -99,7 +99,7 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </item>
 
 <item>
-<title>[COLOR yellow]RojaDirecta [/COLOR][/B][COLOR lightslategray] [I]Sportsdevil[/I][/COLOR]</title>
+<title>[COLOR yellow]RojaDirecta [/COLOR][COLOR lightslategray] Sportsdevi [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
@@ -112,27 +112,7 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
- <item>
-<title> [COLOR lime][/COLOR][COLOR yellow][B]MamaHD[/B] [/COLOR][COLOR skyblue] [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
-<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
-<thumbnail>[makelist.param2]</thumbnail>
-<referer>http://mamahd.com/</referer>
-
-]]></listrepeat>
-<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
-<page>http://mamahd.com/index.html</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
-
 <item>
-
 <title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
    <regex>
@@ -232,8 +212,7 @@ _psn12v?
 </item>
 </item>
 
-
- Nopitem>
+<item>
 <title>[COLOR yellow]AdryanList[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://adryanlist.info</externallink>
