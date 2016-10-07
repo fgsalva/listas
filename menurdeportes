@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR yellow]ZONA ESPORT 1[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
+<sportsdevil>http://www.zonasports.me/channel.php?id=1</sportsdevil>
+<referer>http://www.zonasports.me/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
+<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
+</item>
+<item>
 <title>[COLOR yellow]ZONA ESPORT3[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
 <referer>http://www.zonasports.me/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
