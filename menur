@@ -23,13 +23,13 @@
 <title>[COLOR yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
-
-nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
 </item>
-<item>
+
+Nopitem>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
