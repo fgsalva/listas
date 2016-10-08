@@ -6,13 +6,11 @@
 <link>plugin://xbmc-vk.svoka.com/?url=https://vk.com/video185818961_166092275</link>
 </item>
 
-
 <item>
-            <title>[COLOR white][COLOR blue]• [/COLORvk con spordevil  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>https://vk.com/video185818961_166092275</sportsdevil>
-            <referer></referer>
-            <thumbnail></thumbnail>
-            </item>  
+<title>vk opcion con pelis a la carta</title>
+<link>plugin://plugin.video.pelisalacarta/?url=https://vk.com/video185818961_166092275</link>
+</item>
+
 
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
