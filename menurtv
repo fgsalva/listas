@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 
+
+<item>
+<title>vk opcion 1</title>
+<link>plugin://xbmc-vk.svoka.com/?url=https://vk.com/video185818961_166092275</link>
+</item>
+
+
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLORvk con spordevil  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>https://vk.com/video185818961_166092275</sportsdevil>
+            <referer></referer>
+            <thumbnail></thumbnail>
+            </item>  
+
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
