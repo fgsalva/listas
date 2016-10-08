@@ -11,6 +11,16 @@
 </item> 
 
  <item>
+    <title>[COLOR yellow]Los Monster[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/SERIE3monster</externallink>
+    
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Munsters_cast_1964.JPG/200px-Munsters_cast_1964.JPG</thumbnail>
+	<fanart>http://www.biografiasyvidas.com/biografia/c/fotos/carlo_familia_monster_1.jpg</fanart>
+</item>
+
+
+ <item>
     <title>[COLOR yellow]Juego de Tronos[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/SERIE2got</externallink>
@@ -18,6 +28,7 @@
         <thumbnail>http://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</thumbnail>
 	<fanart>https://i.ytimg.com/vi/T8gNTUup3yk/maxresdefault.jpg</fanart>
 </item>
+
 
 
 
@@ -783,8 +794,8 @@
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://pics.filmaffinity.com/the_munsters_tv_series-209314142-large.jpg</thumbnail>
-		<fanart>http://k31.kn3.net/taringa/F/C/4/B/7/0/dariomustaine/E58.jpg</fanart>
+        <thumbnail>http://www.acervoclube.com/images/a_familia_addams_seriado_00.jpg</thumbnail>
+		<fanart>http://www.tvdeguardia.com/wp-content/uploads/2014/09/La-Familia-Addams-Serie-original.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/chicho306/la-familia-addams-22882/list,1,3</page>
@@ -809,9 +820,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://pics.filmaffinity.com/the_munsters_tv_series-209314142-large.jpg</thumbnail>
-<fanart>http://k31.kn3.net/taringa/F/C/4/B/7/0/dariomustaine/E58.jpg</fanart>
-</item>
+<thumbnail>http://www.acervoclube.com/images/a_familia_addams_seriado_00.jpg</thumbnail>
+<fanart>http://www.tvdeguardia.com/wp-content/uploads/2014/09/La-Familia-Addams-Serie-original.jpg</fanart></item>
 
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Perdidos en el Espacio  • </title>
