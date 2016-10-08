@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<item>
-<title>open load con url resolver opcion 1z</title>
-<link>plugin.video.uwc?url=https://openload.co/embed/jRajWqNrFB4</link>
-</item>
-
-<item>
-<title>open load con url resolver opcion 2z</title>
-plugin.video.uwc?url=https://openload.co/embed/jRajWqNrFB4>
-</item>
-          
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
