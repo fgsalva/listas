@@ -2,13 +2,13 @@
 
 
 <item>
-<title>open load con url resolver opcion 1</title>
-<link>plugin://script.module.urlresolver/?url=https://openload.co/embed/jRajWqNrFB4</link>
+<title>open load con url resolver opcion 1z</title>
+<link>plugin.video.uwc?url=https://openload.co/embed/jRajWqNrFB4</link>
 </item>
 
 <item>
-<title>open load con url resolver opcion 2</title>
-<link>script.mrknow.urlresolver?url=https://openload.co/embed/jRajWqNrFB4</link>
+<title>open load con url resolver opcion 2z</title>
+plugin.video.uwc?url=https://openload.co/embed/jRajWqNrFB4>
 </item>
           
 
