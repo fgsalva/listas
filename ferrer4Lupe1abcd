@@ -1,341 +1,264 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas***FerrerList**CowboysHijodePutaLadron
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc***FerrerList**CowboysHijodePutaLadron
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
-http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**CowboysHijodePutaLadron
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",--u--f--c *Ferrerlist
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", u f c *Ferrerlist
+http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",u f c *Ferrerlist
 http://iphone-streaming.ustream.tv/uhls/22714078/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
 http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", --u--f--c *Ferrerlist
-http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u f c
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
+http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p***FerrerList**CowboysHijodePutaLadron
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESTE ENLACE NO FUNCIONA 
 https://raw.githubusercontent.com/duaaaaa/duaaaaa/master/lists/kodi.txt
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
 rtmp://198.24.135.42:80/canal10/canal10
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR ***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR 
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama
 rtmp://216.224.177.132/live/sertv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura
 http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras
 http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CUARETA2 COSTARICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
 rtmp://k3.usastreams.com:1935/canal42/canal42
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ
 http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico 
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 de Las Estrellas***FerrerList**CowboysHijodePutaLadron
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales 
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv  
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE   
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 (musica)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 (musica)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 (musica)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE  
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA  
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ)***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3  (Españ)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 ,Tele Uno TV - Costa Rica***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 ,Tele Uno TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tv33/tv33
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu ***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu 
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD 
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Euronews - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Huelva TV - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Huelva TV - España
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España
 rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena Latina Canal 7 T-K***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena Latina Canal 7 
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 1***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 2***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",LA 2
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",f.o.x rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",F.O.X rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://89.248.169.55/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",C.A.NAL+ ACCION rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://89.248.169.55/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.X.N rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://89.248.169.55/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",T.N.T rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",A.&.E rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="rtmp",NA.T GEO WILD rtmp***FerrerList**CowboysHijodePutaLadron
-rtmp://89.248.169.55/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv***FerrerList**CowboysHijodePutaLadron
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-uide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-0 tvg-logo="MOPI" tvg-logo=Real Madrid TV.jpg",Real Madrid tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-0 group-title="MOPI" tvg-logo="Los 40 Principales.JPG",Los 40principales
-http://5243.live.streamtheworld.com/LOS40_SC
-#EXTINF:-0 group-title="MOPI" tvg-logo="KISS FM UK.jpg",Kiss FM España
-http://hitfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Europa Fm.jpg",Europa FM España
-http://212.129.60.86:9968/;
-#EXTINF:-0 group-title="MOPI" tvg-logo="Rock Fm (2).jpg",Rock FM España
-http://195.55.74.212/cope/rockfm.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="M80 Radio.jpg",m80 radio España
-http://5293.live.streamtheworld.com/M80RADIO_SC
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cadena 100.jpg",Cadena 100 España
-http://195.55.74.224/cope/cadena100.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Best 80 Dance Radio.JPG",Dance Radio España
-http://streaming.radionomy.com/1-Radio-Dance
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cadena Dial.gif",Cadena Dial España
-http://10883.live.streamtheworld.com/CADENADIAL_SC
-#EXTINF:-0 group-title="MOPI" tvg-logo="Da Vinci Learning.png",I Love FM España
-http://MOPIerver1.us:7088/;
-#EXTINF:-0 group-title="MOPI" tvg-logo="Oldies Radio 88.png",es Radio España
-http://livestreaming.esradio.fm/stream64.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Canal Sur sat.jpg",Canal Sur España
-http://195.55.74.212/rtva/canalsurradio_master.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Radio Im Internet.jpg",RNE Radio Nacional
-http://rne.rtveradio.cires21.com/rne/mp3/icecast.audio
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cadena Ser.gif",Cadena SER España
-http://13373.live.streamtheworld.com/CADENASER_SC
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cadena Cope.png",Cope FM España
-http://195.55.74.208/cope/net1.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Cats & Dogs.jpg",Catalunya Radio
-http://catradio.ccma.audioemotion.stream.flumotion.com/ccma/catradio.mp3
-#EXTINF:-0 group-title="MOPI" tvg-logo="Virgin Radio Tv.png",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="VEVO.jpg",VEVO
-http://vevochunklist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-0 group-title="MOPI" tvg-logo="Kiss tv.jpg",Kiss tv
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live?
-#EXTINF:-0 group-title="MOPI" tvg-logo="Kiss tv.jpg",Kiss tv opcion 2
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live// playpath=live swfUrl=http://tv-live.in/wp-content/uploads/bo dieu khien widih/jwplayer.flash.swf 
-#EXTINF:-0 group-title="MOPI" tvg-logo="Virgin tv.jpg",Virgin tv
-rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/
-#EXTINF:-0 group-title="MOPI" tvg-logo="Virgin tv.jpg",Virgin tv OPCION 2
-rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://televisaoaovivo.com/player/jwplayer.flash.swf live=1 pageUrl=http://televisaoaovivo.com/
-#EXTINF:-0 group-title="MOPI" tvg-logo="rouge tv.jpg",ROUGE TV
-rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl= live=1 pageUrl=
-#EXTINF:-0 group-title="MOPI" tvg-logo="vox tv.jpg",VOX TV
-rtmp://stream.smcloud.net/live2/vox playpath=vox_720p swfUrl= live=1 pageUrl=
-#EXTINF:-0 group-title="MOPI" tvg-logo="polo tv.jpg",POLO TV
-rtmp://stream.smcloud.net/live playpath=polotv swfUrl= live=1 pageUrl=
-#EXTINF:-0 group-title="MOPI" tvg-logo="heavy metal tv.jpg",HEAVY METAL TV
-rtmp://70.166.98.130:1935/hmtv playpath=myStream swfUrl=http://www.heavymetaltelevision.com/swf/video-js.swf
-#EXTINF:-0 group-title="MOPI" tvg-logo="penhousetv.jpg",ADULT PENHOUSETV
-rtmp://edge1.everyon.tv/etv1sb//phd10927
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="playlatino",A&E HD
 http://live.tvplayerlatino.com/lista_remota/src1/a9C5z.m3u8
