@@ -7,116 +7,126 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",ABC NEWS(Sports) (US) (English)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Peliculas (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u-fc (ferrer)
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", u f c *Ferrerlist
+http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",u f c *Ferrerlist
+http://iphone-streaming.ustream.tv/uhls/22714078/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
+http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u f c
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL ***  (ferrer)
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal De Las Estrellas 648 119660/index_648_av-p (ferrer)
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda) (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telesur
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamerica
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESTE ENLACE NO FUNCIONA 
+https://raw.githubusercontent.com/duaaaaa/duaaaaa/master/lists/kodi.txt
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
 rtmp://198.24.135.42:80/canal10/canal10
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", canal 11 EL SALVADOR
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 11
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR  (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 21 EL SALVADOR 
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVO EL SALVADOR
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 2 Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SER TV Panama
 rtmp://216.224.177.132/live/sertv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", H C H Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura
+http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras
+http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
 rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico T-K (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico 
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEportes
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2 (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón index2
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 *Obregón mochis
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán (ferrer)XXXXX
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
