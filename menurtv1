@@ -263,42 +263,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL217/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable-hd.gif"group-title="MarrTV1",Unicable HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif"group-title="MarrTV",Fox
-http://latino-webtv.ml:8880/tpmariocs/CANAL251/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif"group-title="MarrTV",Sony
-http://latino-webtv.ml:8880/tpmariocs/CANAL252/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif"group-title="MarrTV",Universal Channel
-http://latino-webtv.ml:8880/tpmariocs/CANAL256/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif"group-title="MarrTV",FX
-http://latino-webtv.ml:8880/tpmariocs/CANAL258/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif"group-title="MarrTV",Tlnovelas
-http://latino-webtv.ml:8880/tpmariocs/CANAL275/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="MarrTV",Az Mundo
-http://latino-webtv.ml:8880/tpmariocs/CANAL276/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nicktoons.gif"group-title="MarrTV",Nicktoons
-http://latino-webtv.ml:8880/tpmariocs/CANAL314/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tiin.gif"group-title="MarrTV",TIIN
-http://latino-webtv.ml:8880/tpmariocs/CANAL325/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif"group-title="MarrTV",Tooncast
-http://latino-webtv.ml:8880/tpmariocs/CANAL328/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif"group-title="MarrTV1",NatGeo
-http://latino-webtv.ml:8880/tpmariocs/CANAL377/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-science.gif"group-title="MarrTV",Discovery Science
-http://latino-webtv.ml:8880/tpmariocs/CANAL381/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-civilization.gif"group-title="MarrTV",Discovery Civilization
-http://latino-webtv.ml:8880/tpmariocs/CANAL382/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="MarrTV",Fox Cinéma
-http://latino-webtv.ml:8880/tpmariocs/CANAL421/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="MarrTV",TNT
-http://latino-webtv.ml:8880/tpmariocs/CANAL482/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif"group-title="MarrTV",Golden Edge
-http://latino-webtv.ml:8880/tpmariocs/CANAL484/PROFILE03.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif"group-title="MarrTV1",BBC Entertainment
 http://latino-webtv.ml:8880/tpmariocs/CANAL253/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif"group-title="MarrTV1",E! Entertainment Television
@@ -337,7 +301,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL320/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL322/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/boomerang.gif"group-title="MarrTV1",Boomerang
 http://latino-webtv.ml:8880/tpmariocs/CANAL324/PROFILE03.m3u8
-
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif"group-title="MarrTV1",Discovery Theater HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL351/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="History HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/history-hd.gif"group-title="MarrTV1",History HD
@@ -382,31 +345,71 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL444/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL445/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-w.gif"group-title="MarrTV1",Cinemax (W)
 http://latino-webtv.ml:8880/tpmariocs/CANAL481/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="MarrTV1",Studio Universal
+http://latino-webtv.ml:8880/tpmariocs/CANAL492/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/i.sat.gif"group-title="MarrTV1",I.Sat
+http://latino-webtv.ml:8880/tpmariocs/CANAL495/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif"group-title="MarrTV1",TCM
+http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/espn-.gif"group-title="MarrTV1",ESPN + NOP
+http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3.gif"group-title="MarrTV1",ESPN 3 NOP
+http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-hd.gif"group-title="MarrTV1",Fox Sports HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-2-hd.gif"group-title="MarrTV1",Fox Sports 2 HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL527/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn.gif"group-title="MarrTV1",ESPN
+http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-2.gif"group-title="MarrTV1",ESPN 2
+http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/vh1-hd.gif"group-title="MarrTV1",VH1 HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/mtv.gif"group-title="MarrTV1",MTV
+http://latino-webtv.ml:8880/tpmariocs/CANAL726/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-id="De Película" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/de-pelicula.gif"group-title="MarrTV1",De PelículaXXX
+
+
+
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif"group-title="MarrTV",Fox MMMM
+http://latino-webtv.ml:8880/tpmariocs/CANAL251/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif"group-title="MarrTV",Sony
+http://latino-webtv.ml:8880/tpmariocs/CANAL252/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif"group-title="MarrTV",Universal Channel
+http://latino-webtv.ml:8880/tpmariocs/CANAL256/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif"group-title="MarrTV",FX
+http://latino-webtv.ml:8880/tpmariocs/CANAL258/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif"group-title="MarrTV",Tlnovelas
+http://latino-webtv.ml:8880/tpmariocs/CANAL275/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif"group-title="MarrTV",Az Mundo
+http://latino-webtv.ml:8880/tpmariocs/CANAL276/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nicktoons.gif"group-title="MarrTV",Nicktoons
+http://latino-webtv.ml:8880/tpmariocs/CANAL314/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tiin.gif"group-title="MarrTV",TIIN
+http://latino-webtv.ml:8880/tpmariocs/CANAL325/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif"group-title="MarrTV",Tooncast
+http://latino-webtv.ml:8880/tpmariocs/CANAL328/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif"group-title="MarrTV1,NatGeo
+http://latino-webtv.ml:8880/tpmariocs/CANAL377/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-science.gif"group-title="MarrTV",Discovery Science
+http://latino-webtv.ml:8880/tpmariocs/CANAL381/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-civilization.gif"group-title="MarrTV",Discovery Civilization
+http://latino-webtv.ml:8880/tpmariocs/CANAL382/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif"group-title="MarrTV",Fox Cinéma
+http://latino-webtv.ml:8880/tpmariocs/CANAL421/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif"group-title="MarrTV",TNT
+http://latino-webtv.ml:8880/tpmariocs/CANAL482/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif"group-title="MarrTV",Golden Edge
+http://latino-webtv.ml:8880/tpmariocs/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="De Película" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/de-pelicula.gif"group-title="MarrTV",De PelículaXXX
 http://latino-webtv.ml:8880/tpmariocs/CANAL489/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/amc.gif"group-title="MarrTV",AMC
 http://latino-webtv.ml:8880/tpmariocs/CANAL490/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/space.gif"group-title="MarrTV",Space
 http://latino-webtv.ml:8880/tpmariocs/CANAL491/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif"group-title="MarrTV",Studio Universal
-http://latino-webtv.ml:8880/tpmariocs/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/i.sat.gif"group-title="MarrTV",I.Sat
-http://latino-webtv.ml:8880/tpmariocs/CANAL495/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif"group-title="MarrTV",TCM
-http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/espn-.gif"group-title="MarrTV",ESPN +
-http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3.gif"group-title="MarrTV",ESPN 3
-http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-hd.gif"group-title="MarrTV",Fox Sports HD
-http://latino-webtv.ml:8880/tpmariocs/CANAL522/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-2-hd.gif"group-title="MarrTV",Fox Sports 2 HD
-http://latino-webtv.ml:8880/tpmariocs/CANAL527/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn.gif"group-title="MarrTV",ESPN
-http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-2.gif"group-title="MarrTV",ESPN 2
-http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif"group-title="MarrTV",Az Clic
+http://latino-webtv.ml:8880/tpmariocs/CANAL725/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif"group-title="MarrTV",Fox Sports
 http://latino-webtv.ml:8880/tpmariocs/CANAL563/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/aym-sports.gif"group-title="MarrTV",AyM Sports
@@ -417,13 +420,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL651/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL701/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Telehit HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/telehit-hd.gif"group-title="MarrTV",Telehit HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL702/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/vh1-hd.gif"group-title="MarrTV",VH1 HD
-http://latino-webtv.ml:8880/tpmariocs/CANAL703/PROFILE03.m3u8
-#EXT
-INF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif"group-title="MarrTV",Az Clic
-http://latino-webtv.ml:8880/tpmariocs/CANAL725/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/mtv.gif"group-title="MarrTV",MTV
-http://latino-webtv.ml:8880/tpmariocs/CANAL726/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Ritmoson Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ritmoson-latino.gif"group-title="MarrTV",Ritmoson Latino
 http://latino-webtv.ml:8880/tpmariocs/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/bandamax.gif"group-title="MarrTV",Bandamax
