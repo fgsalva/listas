@@ -7,6 +7,9 @@ http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",****D.I.SCOVERY EN ES.PAÑOL *** ***FerrerList**CowboysHijodePutaLadron
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",--u--f--c *Ferrerlist
+http://iphone-streaming.ustream.tv/uhls/22714078/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master***FerrerList**CowboysHijodePutaLadron
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES***FerrerList**CowboysHijodePutaLadron
