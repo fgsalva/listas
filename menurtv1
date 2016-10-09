@@ -9,14 +9,12 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",U F C SD
+http://190.57.234.166/V3/6/2.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", u f c *Ferrerlist
 http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",u f c *Ferrerlist
-http://iphone-streaming.ustream.tv/uhls/22714078/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
 http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",u f c
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
