@@ -361,124 +361,62 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL703/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/mtv.gif"group-title="MarrTV1",MTV
 http://latino-webtv.ml:8880/tpmariocs/CANAL726/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg", DISCOVERY HD
-http://190.57.234.166/V1/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ROPPOK HD
-http://190.57.234.166/V2/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",NICK2 HD
-http://190.57.234.166/V3/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",HISTORY HD
-http://190.57.234.166/V4/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ROPPOK HD
-http://190.57.234.166/V6/3/1.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",WOBIOK HD
-http://190.57.234.166/V1/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",DISCOVERYKIDS HD
-http://190.57.234.166/V1/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",DISCOVERY WORLD HD
-http://190.57.234.166/V1/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",24 HORAS HD
-http://190.57.234.166/V1/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",DISCOVERY THEARY HD
-http://190.57.234.166/V1/5/1.m3u8
-DISCOVERY HH DH
-http://190.57.234.166/V1/6/1.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELEFE HD
-http://190.57.234.166/V2/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELEFE SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE SD
 http://190.57.234.166/V2/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",RADIO
-http://190.57.234.166/V2/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",RADIO SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RADIO SD
 http://190.57.234.166/V2/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ROCKPOC
-http://190.57.234.166/V2/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ROCKPOC SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ROCKPOC SD
 http://190.57.234.166/V2/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TECTV HD
-http://190.57.234.166/V2/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TECTV SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TECTV SD
 http://190.57.234.166/V2/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CN5 HD
-http://190.57.234.166/V2/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CN5 SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CN5 SD
 http://190.57.234.166/V2/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL26 ARG HD
-http://190.57.234.166/V2/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL26 ARG SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL26 ARG SD
 http://190.57.234.166/V2/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELE HHD
-http://190.57.234.166/V2/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELE SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELE SD
 http://190.57.234.166/V2/7/2.m3u8
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL 13 HD
-http://190.57.234.166/V3/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL 13 SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL 13 SD
 http://190.57.234.166/V3/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL 9 HD
-http://190.57.234.166/V3/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL 9 SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL 9 SD
 http://190.57.234.166/V3/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",NICK2 HD
-http://190.57.234.166/V3/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",NICK2 SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",NICK2 SD
 http://190.57.234.166/V3/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",DXTV HD
-http://190.57.234.166/V3/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",24 HORAS SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",24 HORAS SD
 http://190.57.234.166/V3/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",AM SPORT
-http://190.57.234.166/V3/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",UFC HD
-http://190.57.234.166/V3/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",UFC SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",UFC SD
 http://190.57.234.166/V3/6/2.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",NICK JUNIOR HD
-http://190.57.234.166/V4/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",NICK JUNIOR SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",NICK JUNIOR SD
 http://190.57.234.166/V4/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",SYFY HD
-http://190.57.234.166/V4/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",SYFY SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",SYFY SD
 http://190.57.234.166/V4/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",HYSTORY HD
-http://190.57.234.166/V4/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",HYSTORY SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HYSTORY SD
 http://190.57.234.166/V4/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL VASCO HD
-http://190.57.234.166/V4/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CANAL VASCO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL VASCO
 http://190.57.234.166/V4/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TV BRASIL HD
-http://190.57.234.166/V4/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TV BRASIL SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TV BRASIL SD
 http://190.57.234.166/V4/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",AYE HD
-http://190.57.234.166/V4/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",AYE SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",AYE SD
 http://190.57.234.166/V4/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",HBO SIGNATURE HD
-http://190.57.234.166/V4/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",HBO SIGNATURE SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HBO SIGNATURE SD
 http://190.57.234.166/V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELEFE HD
-http://190.57.234.166/V6/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TELEFE SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE SD
 http://190.57.234.166/V6/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",RADIO ONE HD
-http://190.57.234.166/V6/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ROCKPOC TV HD
-http://190.57.234.166/V6/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ARGENTINA HD
-http://190.57.234.166/V6/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",ARGENTINA SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",FOX 1  op.2!!
+http://190.57.234.166/V0/1/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",History channel Argentina !!
+http://190.57.234.166/V4/3/2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ARGENTINA SD
 http://190.57.234.166/V6/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",TN ARGENTINA
-http://190.57.234.166/V7/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="iptvfg",CRONICA
-http://190.57.234.166/V8/1/1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN !!
+http://latino-webtv.ml:8880/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 2 !!
+http://latino-webtv.ml:8880/espn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 3 !!
+http://latino-webtv.ml:8880/espn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Directv Sports !!
+http://latino-webtv.ml:8880/directv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports !!
+http://latino-webtv.ml:8880/foxsports/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports 2 !!!
+http://latino-webtv.ml:8880/foxsports2/playlist.m3u8 
