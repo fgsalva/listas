@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]01 La desaparición de Will Byers[/COLOR] **</title>
+<link>$doregex[rtmp] playpath=$doregex[playpath]</link>
+<regex>
+<name>playpath</name>
+<expres>(mp4.*)</expres>
+<page>$doregex[src]</page>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>(.*?)mp4</expres>
+<page>$doregex[src]</page>
+</regex>
+<regex>
+<name>src</name>
+<expres>src:'(rtmp.*?)'</expres>
+<page>$doregex[unpacked]</page>
+</regex>
+<regex>
+<name>unpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+<page>$doregex[get-source-page]</page>
+</regex>
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import time
+ url ='http://powvideo.net/71pot1p0vu73'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0.2'}
+ source = requests.get(url, headers=headers)
+ cookie1 = source.cookies['__cfduid']
+ id = re.findall('id" value="(.*?)"', source.text)[0]
+ op = re.findall('op" value="(.*?)"', source.text)[0]
+ fname = re.findall('fname" value="(.*?)"', source.text)[0]
+ imhuman = re.findall('imhuman".*value="(.*?)"', source.text)[0]
+ usr_login = re.findall('usr_login" value="(.*?)"', source.text)[0]
+ hash = re.findall('hash" value="(.*?)"', source.text)[0]
+ referer = re.findall('referer" value="(.*?)"', source.text)[0]
+ time.sleep(10)
+ cookie = {'__cfduid': cookie1}
+ data = {'op': op, 'usr_login': usr_login, 'id': id, 'fname': fname, 'referer': referer, 'hash':  hash, 'imhuman': imhuman}
+ r1 = requests.post(url, headers = headers, data= data, cookies=cookie)
+ return r1.text
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]02 La chica rara de la calle Maple[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-f31d2qvqnuqp-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]03 Luces navideñas[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-y53zgo6b17aa-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]04 El cadáver[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-2n766d1m1mef-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]05 La pulga y el acróbata[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-7ojg8ko958sz-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]06 El monstruo[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-3it484ztalfd-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]07 La bañera[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-zkntkat0s5ll-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR] ** [COLOR lime]08 Del revés[/COLOR] **</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file: "(.*?)",</expres>
+<page>http://streamin.to/embed-hmzywerskeyd-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://static.betazeta.com/www.fayerwayer.com/up/2016/07/stranger-things.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-26710.jpg</fanart>
+</item>
+
+
+
