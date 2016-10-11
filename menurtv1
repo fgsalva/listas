@@ -25,10 +25,15 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba index3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta Castalba index3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index 1
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA MASTER
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200
