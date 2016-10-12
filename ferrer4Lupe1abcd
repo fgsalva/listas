@@ -12,6 +12,23 @@ http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",UFC Network Opcion 1
+http://latino-webtv.ml:8880/ufchd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TyC Sports
+http://208.77.20.51:8081/beinsp/beinsp/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",ESPN !!
+http://latino-webtv.ml:8880/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",ESPN 2 !!
+http://latino-webtv.ml:8880/espn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",ESPN 3 !!
+http://latino-webtv.ml:8880/espn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Directv Sports !!
+http://latino-webtv.ml:8880/directv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Fox Sports !!
+http://latino-webtv.ml:8880/foxsports/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Fox Sports 2 !!!
+http://latino-webtv.ml:8880/foxsports2/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES
@@ -867,18 +884,31 @@ http://190.57.234.166/V0/1/2.m3u8
 http://190.57.234.166/V4/3/2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ARGENTINA SD
 http://190.57.234.166/V6/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN !!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HBO
+http://latino-webtv.ml:8880/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RCN Opcion 3
+http://latino-webtv.ml:8880/rcn/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RCN 2 Opcion 1
+http://latino-webtv.ml:8880/rcnhd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TNT
+http://latino-webtv.ml:8880/tnt/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE
+http://latino-webtv.ml:8880/telefehd/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",AMERICA
+http://latino-webtv.ml:8880/americatv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN !
 http://latino-webtv.ml:8880/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 2 !!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 2 !
 http://latino-webtv.ml:8880/espn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 3 !!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 3 !
 http://latino-webtv.ml:8880/espn3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Directv Sports !!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Directv Sports !
 http://latino-webtv.ml:8880/directv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports !!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports !
 http://latino-webtv.ml:8880/foxsports/playlist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports 2 !!!
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports 2 !
 http://latino-webtv.ml:8880/foxsports2/playlist.m3u8 
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD", DISCOVERY HD
 http://190.57.234.166/V1/3/1.m3u8
@@ -966,3 +996,313 @@ http://190.57.234.166/V0/5/1.m3u8
 http://190.57.234.166/V0/3/1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",AM SPORT
 http://190.57.234.166/V3/5/1.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL104/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL107/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL109/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL111/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL113/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL140/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL142/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL146/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL152/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL154/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL155/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL159/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL163/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL167/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL171/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL215/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL218/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL221/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL250/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL251/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL252/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL254/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.mI/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL259/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL260/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL261/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL262/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL263/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL272/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL273/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL276/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL277/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL278/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL314/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL370/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL374/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL375/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL389/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL401/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL402/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL403/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL404/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL405/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL406/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL407/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL408/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL409/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL410/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL418/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL420/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL421/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL422/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL423/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL424/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL429/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL481/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL483/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL488/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL490/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL491/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL493/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL494/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL501/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL502/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL503/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL530/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL563/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL564/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL569/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL571/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL576/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL608/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL624/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL625/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL627/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL629/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL651/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL652/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL657/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL659/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL725/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL731/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL732/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL733/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL734/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL735/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="TPLATINOTOTAL",TPLTOTAL
+http://ss.iptvlatinototal.ml/LIVE/H01/CANAL736/PROFILE03.m3u8?
+
