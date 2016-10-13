@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
-EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",U F C SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",U F C SD
 http://190.57.234.166/V3/6/2.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", u f c *Ferrerlist
 http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
