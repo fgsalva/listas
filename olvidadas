@@ -4432,3 +4432,8 @@ http://iptvcanales.com/xw/cable.php?canal=41
 http://iptvcanales.com/xw/cable.php?canal=42
 
 xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXxxx
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",UFC Network Opcion 1
+http://latino-webtv.ml:8880/ufchd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",TyC Sports
+http://208.77.20.51:8081/beinsp/beinsp/playlist.m3u8
