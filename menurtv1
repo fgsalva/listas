@@ -17,22 +17,19 @@ http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
 http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SD3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES SD3
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/mindex_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta SD2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta Castalba index3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta SD3
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA SD2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index 1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA SD1
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA MASTER
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
@@ -61,8 +58,6 @@ http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESTE ENLACE NO FUNCIONA 
 https://raw.githubusercontent.com/duaaaaa/duaaaaa/master/lists/kodi.txt
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", TRV EL SALVADOR
-http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
@@ -107,15 +102,11 @@ rtmp://199.217.118.90:1935/smotv/stream
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
 rtmp://k3.usastreams.com:1935/canal42/canal42
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",b.ein ñ
-http://globiptv.com:8000/live/cardsharing/yg4tdh/2184.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico 
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", El Trece HD chile
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal Mexico tvmas
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 2 Obregón DEporte
