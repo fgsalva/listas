@@ -15,7 +15,6 @@ http://live.tvplayerlatino.com/lista_remota/src4/fDhQ3.m3u8?
 http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SD3
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES SD3
@@ -28,7 +27,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA SD1
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200
@@ -55,7 +53,6 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESTE ENLACE NO FUNCIONA 
 https://raw.githubusercontent.com/duaaaaa/duaaaaa/master/lists/kodi.txt
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
@@ -100,7 +97,6 @@ rtmp://199.217.118.90:1935/smotv/stream
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
 rtmp://k3.usastreams.com:1935/canal42/canal42
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico 
@@ -117,10 +113,8 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/index_2_av-p.m3u8
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
@@ -215,14 +209,12 @@ http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu  (ferrer)
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina (ferrer)
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)jeje
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="MarrTV1",Canal 2 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="MarrTV1",Azteca 7 HD
@@ -249,7 +241,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL215/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL217/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable-hd.gif"group-title="MarrTV1",Unicable HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
-
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif"group-title="MarrTV1",BBC Entertainment
 http://latino-webtv.ml:8880/tpmariocs/CANAL253/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif"group-title="MarrTV1",E! Entertainment Television
@@ -354,7 +345,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL703/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/mtv.gif"group-title="MarrTV1",MTV
 http://latino-webtv.ml:8880/tpmariocs/CANAL726/PROFILE03.m3u8
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE SD
 http://190.57.234.166/V2/1/2.m3u8
