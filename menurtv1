@@ -17,10 +17,8 @@ http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SD3
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES SD1
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/mindex_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES SD2
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/mindex_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES master
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta SD2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta SD3
