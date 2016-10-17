@@ -5,8 +5,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",ABC NEWS(Sports) (US) (English)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Canal PeliculasS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal PeliculasS
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",U F C SD
 http://190.57.234.166/V3/6/2.m3u8
