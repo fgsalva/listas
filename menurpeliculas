@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<item>
+nopitem>
     <title>[COLOR yellow]Lista de Peliculas Ferrer 0 [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/PELICULASFERRER</externallink>
     </item>
       
-    <item>
+    nopitem>
     <title>[COLOR yellow]Lista de Peliculas 2 LATINO [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer4Saydapelis</externallink>
     </item>
     
-    <item>
+    nopitem>
     <title>[COLOR yellow]Lista de Peliculas 3 LATINO ferrer9[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer9</externallink>
     </item>
     
-     <item>
+     nopitem>
     <title>[COLOR deepskyblue]Lista de Peliculas 3 BRUCE LEE Y MEXICANAS ferrer3[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer3</externallink>
 </item>
 
-<item>
+nopitem>
     <title>[COLOR yellow]Lista de Peliculas 4 LATINO ferrer7[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ferrer7</externallink>
-</item>
+nop/item>
 
-<item>
+nopitem>
     <title>[COLOR yellow]PELICULAS3 "PELICUALAS3"[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/peliculas3</externallink>
     </item>
 
-<item>
+nopitem>
     <title>[COLOR deepskyblue]PELICULAS4 kids "PELICUALAS4"[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/peliculas4kids</externallink>
