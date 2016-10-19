@@ -396,7 +396,7 @@
 
 ***********
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THE WALKING DEAD LATINO   • </title>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THE WALKING DEAD LATINO (temp 1-5 ) • </title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -409,7 +409,7 @@
 
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://copiapop.com/youpeliculas/the-walking-dead-todas-las-temporadas-en-latino-42573/list,1,3</page>
+<page>http://copiapop.com/youpeliculas/the-walking-dead-todas-las-temporadas-en-latino-42573/list,1,7</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -434,6 +434,51 @@
 <thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
 <fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
 </item>
+
+***********
+<item>
+<title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THE WALKING DEAD Castellano (TodasTemp ) • </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
+		<fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
+
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://copiapop.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://copiapop.com/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://copiapop.com/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Elnegro17/twd-the-walking-dead-36805/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://serieshub.org/wp-content/uploads/The-Walking-Dead.jpg</thumbnail>
+<fanart>http://www.optimaitalia.com/blog/wp-content/uploads/2015/02/the-walking-dead.jpg</fanart>
+</item>
+
+
+
+
 
 *********
 <item>
