@@ -1,12 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1",Fox HD (RONALD ROSALES)
+http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="MarrTV1",Canal 2 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="MarrTV1",Azteca 7 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif"group-title="MarrTV1",Gala TV HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL109/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1",Fox HD
-http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif"group-title="MarrTV1",Sony HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL203/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/warner-hd.gif"group-title="MarrTV1",Warner HD
