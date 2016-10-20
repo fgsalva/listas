@@ -35,6 +35,46 @@
 
 *************************************
 
+********
+<item>
+<title>[COLOR blue]Recuerdos[/COLOR] [COLOR yellow]•JUEGO DE TRONOS OPCION 2• [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</thumbnail>
+	<fanart>http://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Elnegro17/juego-de-tronos-123456-35879/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Elnegro17/juego-de-tronos-123456-35879/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+	<thumbnail>http://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</thumbnail>
+	<fanart>http://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</fanart></item>
+
+**************************************
+
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] • NARCOS 1 Y 2 TEMPORADAS LATINOS  • </title>
 <link>$doregex[makelist]</link>
