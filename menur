@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
-<item>
-<link>http://Ignoreme</link>
-<title>[COLOR yellow]FerreList;Addon en Matenimiento [/COLOR][COLOR red]M A N T E N I M I E N T O[/COLOR]</title>
-</item>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]FerreList;Addon en Matenimiento [/COLOR][COLOR red]M A N T E N I M I E N T O[/COLOR]</title>
+<title>[COLOR yellow]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR]</title>
 </item>
 
 <item>
-<link>http://Ignoreme</link>
-<title>[COLOR yellow]FerreList;Addon en Matenimiento [/COLOR][COLOR red]M A N T E N I M I E N T O[/COLOR]</title>
-</item>
-
-<nopitem>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv1</externallink>
 </item>
 
-<nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Series[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurseries</externallink>
 </item>
 
-<nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Caricaturas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurcaricaturas</externallink>
 </item>
 
-<nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
-<nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
@@ -50,13 +41,13 @@ Nopitem>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
 </item>
 
-<nopitem>
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Tv Online [/COLOR][COLOR lime] SPORTDEVIL[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv</externallink>
 </item>
 
-<nopitem>
+<item>
     <title>[COLOR yellow]UFC ANTERIORES[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ufc</externallink>
@@ -102,7 +93,7 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <fanart>https://goo.gl/9oQCFk</fanart>
 </item>
 
-<nopitem>
+<item>
 <title>[COLOR yellow]Specto Movies[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc> 
@@ -110,7 +101,7 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
 </item>
 
-<nopitem>
+<item>
 <title>Specto TV Shows </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
@@ -118,21 +109,21 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <fanart>http://www.pixhoster.info/f/2016-09/5cba6618a6a9d21b1de0cec0523f5065.png</fanart>
 </item>
 
-<nopitem>
+<item>
 <title>[COLOR yellow]RojaDirecta [/COLOR][COLOR lightslategray] Sportsdevi [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 
-<nopitem>
+<item>
 <title>[COLOR yellow]Sport 365.live (zentv)[/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
-<nopitem>
+<item>
 <title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
    <regex>
