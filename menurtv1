@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", HBO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", HBO Baja calidad
 http://latino-webtv.ml:8880/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", CARACOL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", CARACOL
 http://latino-webtv.ml:8880/caracolhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FOX NUEVO
-http://latino-webtv.ml:8880/fox/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FS1
-http://latino-webtv.ml:8880/foxsports/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FS2
-http://latino-webtv.ml:8880/foxsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", CMD
-http://latino-webtv.ml:8880/cmdhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1",Fox HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
@@ -235,3 +227,12 @@ http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Directv Sports !!OK
 http://latino-webtv.ml:8880/directv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", FOX ERROR
+http://latino-webtv.ml:8880/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", FS1 ERROR
+http://latino-webtv.ml:8880/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", FS2 ERROR
+http://latino-webtv.ml:8880/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD", CMD ERROR
+http://latino-webtv.ml:8880/cmdhd/playlist.m3u8
