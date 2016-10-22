@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
-
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR]</title>
+<title>[COLOR green]*************[/COLOR][COLOR blue]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR][COLOR green]*************[/COLOR]</title>
 </item>
 
 <item>
@@ -35,9 +34,9 @@
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
 </item>
 
-Nopitem>
+<item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1[/COLOR]</title>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1 nop[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
 </item>
 
@@ -223,7 +222,7 @@ _psn12v?
 </item>
 </item>
 
-<nopitem>
+<item>
 <title>[COLOR yellow]AdryanList[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://adryanlist.info</externallink>
