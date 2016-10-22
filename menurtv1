@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", HBO
+http://latino-webtv.ml:8880/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", CARACOL
+http://latino-webtv.ml:8880/caracolhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FOX NUEVO
+http://latino-webtv.ml:8880/fox/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FS1
+http://latino-webtv.ml:8880/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", FS2
+http://latino-webtv.ml:8880/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1", CMD
+http://latino-webtv.ml:8880/cmdhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1",Fox HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif"group-title="MarrTV1",Sony HD
