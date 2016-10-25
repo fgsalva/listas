@@ -1,6 +1,120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 
 
+
+<item>
+<title>CANAL + LIGA Esperar 5 segundos</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+<item>
+<title>DIRECTV SPORT Esperar 5 segundos</title>
+<sportsdevil>http://tvpor-internet.com/directv-sports-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+
+<item>
+<title>UFC NETWORK(opcion2)</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/ufc-network-en-vivo.html</page> 
+</regex>
+</item>
+
+
+
+<item>
+<title>FOX SPORT ARGENTINA opcion2 Zony</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-en-vivo.html</page>  
+</regex>
+</item>	
+
+<item>
+<title>FOX SPORT ARGENTINA Sportdevil opc1</title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>	
+
+<item>
+<title>FOX SPORT 2 ARGENTINA (zony)</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-2-en-vivo.html</page>  
+</regex>
+</item>	
+
+<item>	
+<title>FOX SPORT 3 ARGENTINA (opc3 juanja)</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-sports-3-en-vivo.html</page> 
+</regex>
+</item>	
+
+<item>	
+<title>FOX SPORT 3 ARGENTINA Sportsdevil</title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-3-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>	
+
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
