@@ -249,3 +249,60 @@ nopitem>
 
 
 
+
+<item>
+<title>[COLOR greenyellow][COLOR green]TV Latino_we bLista Baja SD Indefinido Canales sin Geobloqueo[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR dodgerblue]BB[COLOR lightblue]FF[/COLOR]X[/COLOR]: [COLOR khaki][B][makelist.param1][/B][/COLOR]</title>
+<link>$doregex[finalURL]</link>
+<regex>
+<name>finalURL</name>
+<expres>$pyFunction: '$doregex[getURL]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf' if not '$doregex[getURL]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
+<page></page>
+</regex>
+<regex>
+<name>getURL</name>
+<expres>file.+?[",']([^"']*)</expres>
+<page>$doregex[get-canales]</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-canales</name>
+<expres>SRC.+?[",']([^"']*)</expres>
+<page>http://embed.latino-webtv.com/$doregex[get-embed].html</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-embed</name>
+<expres>$pyFunction: '$doregex[get-name]' if not '$doregex[get-name]'=='' else '$doregex[get-channel]' </expres>
+<page></page>
+</regex>
+<regex>
+<name>get-name</name>
+<expres>src=[",']http.*?embed\.latino-webtv\.com\/(.*?)\.html</expres>
+<page>http://latino-webtv.com/[makelist.param1]/</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-channel</name>
+<expres>channel.+?[",']([^"']*)</expres>
+<page>http://latino-webtv.com/[makelist.param1]/</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres>a href=[",']([^<]*)/[",'].*?src=[",']([^<]*)[",']\W</expres>
+<page>http://latino-webtv.com/</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
