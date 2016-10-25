@@ -1,4 +1,15 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+ 
+ <item>
+ <title>Lego audioLatino</title>
+    <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT_DB_4HOWU1oYdvra7wEM1nRRUZl3PtM6Xba6VOQ3VAFXjvP6g</thumbnail>
+     <fanart>http://t3.gstatic.com/images?q=tbn:ANd9GcT_DB_4HOWU1oYdvra7wEM1nRRUZl3PtM6Xba6VOQ3VAFXjvP6g</fanart>
+     <genre>aventura</genre>
+     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0F6073426E6F936A849F83C47FEC3BCB653FC041</link>
+ </item>
+
+
+ 
  <item>
  <title>Los Minions audioLatino</title>
     <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</thumbnail>
