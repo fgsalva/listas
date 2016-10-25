@@ -2,7 +2,7 @@
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR green]*************[/COLOR][COLOR blue]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR][COLOR green]*************[/COLOR]</title>
+<title>[COLOR green]**********************[/COLOR][COLOR blue]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR][COLOR green]**********************[/COLOR]</title>
 </item>
 
 <item>
@@ -34,7 +34,7 @@
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
 </item>
 
-<item>
+nopitem>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1 nop[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
@@ -222,9 +222,99 @@ _psn12v?
 </item>
 </item>
 
-<item>
+nopitem>
 <title>[COLOR yellow]AdryanList[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail><thumbnail>
 </item>
+
+
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Exabyte 1 [/COLOR][COLOR red]Resolución muy baja[/COLOR]</title>
+<externallink>http://exabytetv.info/1.m3u</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Exabyte 2 [/COLOR][COLOR red]Resolución baja[/COLOR]</title>
+<externallink>http://exabytetv.info/2.m3u</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Exabyte 3 [/COLOR][COLOR red]Resolución Standar[/COLOR]</title>
+<externallink>http://exabytetv.info/2.m3u</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tecno TV [/COLOR][COLOR red]Resolución Baja[/COLOR]</title>
+<externallink>http://tecnotv.info/alt.m3u</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tecno TV Peliculas[/COLOR][COLOR red][/COLOR]</title>
+<externallink>http://tecnotv.info/peliculas.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tecno TV Peliculas Niños[/COLOR][COLOR red][/COLOR]</title>
+<externallink>http://tecnotv.info/kids.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Player Latino [/COLOR][COLOR red]Tv[/COLOR]</title>
+<externallink>http://live.tvplayerlatino.com/lista_tv.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Player Latino [/COLOR][COLOR red]Peliculas[/COLOR]</title>
+<externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Player Latino [/COLOR][COLOR red]Series[/COLOR]</title>
+<externallink>http://live.tvplayerlatino.com/lista_series.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]AdryanList[/COLOR]</title>
+<externallink>http://tp.adryanlist.org</externallink>
+</item>
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]abdavega[/COLOR]</title>
+<externallink>http://abdavega.playlatinohd.com/lista.xml</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]abdavega Standar[/COLOR]</title>
+<externallink>http://abdavega.playlatinohd.com/lista2.xml</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]abdavega Smart[/COLOR]</title>
+<externallink>http://abdavega.playlatinohd.com/smtv.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]abdavega Smart[/COLOR]</title>
+<externallink>http://abdavega.playlatinohd.com/smtv.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv  [/COLOR][COLOR red]abdavega Smart Baja[/COLOR]</title>
+<externallink>http://abdavega.playlatinohd.com/smtv2.m3u</externallink>
+</item>
+
