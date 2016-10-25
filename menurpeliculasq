@@ -1,13 +1,23 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
  
- <item>
+
+
+
+<item>
+ <title>MR pibody audioLatino</title>
+    <thumbnail></thumbnail>
+     <fanart></fanart>
+     <genre>aventura</genre>
+     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6105cff1580901b17a95f2a5d939d6dbc92172ab</link>
+ </item>
+
+<item>
  <title>Lego audioLatino</title>
     <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT_DB_4HOWU1oYdvra7wEM1nRRUZl3PtM6Xba6VOQ3VAFXjvP6g</thumbnail>
      <fanart>http://t3.gstatic.com/images?q=tbn:ANd9GcT_DB_4HOWU1oYdvra7wEM1nRRUZl3PtM6Xba6VOQ3VAFXjvP6g</fanart>
      <genre>aventura</genre>
      <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0F6073426E6F936A849F83C47FEC3BCB653FC041</link>
  </item>
-
 
  
  <item>
@@ -18,11 +28,11 @@
      <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:835e56c0818edf527ba84ebd413ee7ae4f123ab4</link>
  </item>
  <item>
-     <title>Intensamente audioLatino</title>
+     <title>Intensamente audioLatino ok</title>
     <thumbnail>http://i.imhttp://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE</thumbnail>
      <fanart>http://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE</fanart>
      <genre>aventura</genre>
-     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ff1544025a11d3e4988b349c35ffc4574a344550</link>
+     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:35C70B4A585E75087371058438196CAC39C15C43</link>
  </item>
  
     <title>ESCALOFRIOS audioLatino</title>
