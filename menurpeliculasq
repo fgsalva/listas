@@ -1,8 +1,6 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
  
 
-
-
 <item>
  <title>MR pibody audioLatino</title>
     <thumbnail></thumbnail>
@@ -21,12 +19,12 @@
 
  
  <item>
- <title>Los Minions audioLatino</title>
+ <title>Los Minions 1080 audioLatino</title>
     <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</thumbnail>
      <fanart>http://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</fanart>
      <genre>aventura</genre>
-     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:835e56c0818edf527ba84ebd413ee7ae4f123ab4</link>
- </item>
+     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8a7a5d79ec7afb77d64e113780a55a313e5f1c6d</link>
+     </item>
  <item>
      <title>Intensamente audioLatino ok</title>
     <thumbnail>http://i.imhttp://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE</thumbnail>
@@ -34,8 +32,18 @@
      <genre>aventura</genre>
      <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:35C70B4A585E75087371058438196CAC39C15C43</link>
  </item>
- 
-    <title>ESCALOFRIOS audioLatino</title>
+
+<item>
+     <title>Intensamente audioLatino ok</title>
+    <thumbnail>http://i.imhttp://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE</thumbnail>
+     <fanart>http://t0.gstatic.com/images?q=tbn:ANd9GcTtZdvrahQxfjGkSBJCS-uiZKUfJNH4ddsqgCbV5oFkQiQ-tszE</fanart>
+     <genre>aventura</genre>
+     <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:35c70b4a585e75087371058438196cac39c15c43</link>
+ </item>
+
+
+
+<title>ESCALOFRIOS audioLatino</title>
     <thumbnail>http://i.imgur.com/6dsqRgY.jpg</thumbnail>
      <fanart>http://www.sanicomfort.be/Content/uploads/fall4.jpg</fanart>
      <genre>aventura</genre>
