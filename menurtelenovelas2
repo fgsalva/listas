@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Esmeralda Página 1</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/1</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 2</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/2</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 3</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/3</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 4</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/4</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 5</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/5</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 6</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/6</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 7</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/7</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 8</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/8</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 9</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/9</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>Página 10</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x2qig5_felilean_esmeralda/10</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</item>
