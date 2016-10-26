@@ -38,8 +38,13 @@
 
 </item>
 
+
+***
+
+
+
 <item>
-<title>Página 2</title>
+<title>Página 2 MOD</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -75,6 +80,7 @@
 </regex>
 
 </item>
+***
 
 <item>
 <title>Página 3</title>
