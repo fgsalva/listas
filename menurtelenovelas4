@@ -39,10 +39,6 @@
 </item>
 
 
-***
-
-
-
 <item>
 <title>Página 2 MOD</title>
 <link>$doregex[makelist]</link>
@@ -235,10 +231,8 @@
 </item>
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <item>
-<title>LA USURPADORA OPCION 2 Página 1</title>
+<title>LA USURPADORA OPCION 2* Página 1</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -250,7 +244,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/1</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -288,7 +282,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/2</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/2</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -326,7 +320,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/3</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/3</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -364,7 +358,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/4</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/4</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -402,7 +396,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/5</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/5</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -440,7 +434,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/6</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/6</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -478,7 +472,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/7</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/7</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -516,7 +510,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/8</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/8</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -554,7 +548,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/9</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/9</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
@@ -592,7 +586,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/playlist/x4muaq_gleiciquiel_la-usurpadora/10</page>
+<page>http://www.dailymotion.com/playlist/x4ms6m_cgregori_usurpadora/10</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
