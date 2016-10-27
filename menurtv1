@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", BUSCANDO A DORYS (ONLINE)LATINO720
 http://www52.uptostream.com/28440m74a0b/720/0/video.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", BUSCANDO A DORYS (ONLINE)LATINO480
+http://www52.uptostream.com/28440m74a0b/480/0/video.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO 480
 http://www66.uptostream.com/284d5udbe24/480/0/video.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO 360
 http://www66.uptostream.com/284dmi402f0/360/0/video.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", MI PAPA ES UN GATO (ONLINE)SUBT
 http://www.spruto.tv/get_file/9/96a07c6db62e394cb2d7a3d938153a83/234000/234543/234543.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", MI PAPA ES UN GATO (ONLINE)Latino
 http://www.spruto.tv/get_file/9/3e25d801071f82d14cae50d95fc03a91/234000/234542/234542.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", EL ABOGADO DEL MAL (ONLINE)Subt
-http://www.spruto.tv/get_file/9/e1158683dd273858cb958fafeb27b300/234000/234548/234548.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", EL ABOGADO DEL MAL (ONLINE)Subt
-http://www.spruto.tv/get_file/9/ad04d3a3665d548fe2183fd4764a26e4/234000/234548/234548.mp4
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="MarrTV1",Canal 2 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL102/PROFILE03.m3u8
