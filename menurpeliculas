@@ -222,6 +222,24 @@ nopitem>
 
 
 ************************
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Peliculas[/COLOR][COLOR red](Tecno TV )[/COLOR]</title>
+<externallink>http://tecnotv.info/peliculas.m3u</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Peliculas  [/COLOR][COLOR red](Tv Player Latino)[/COLOR]</title>
+<externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
+</item>
+
+<item>
+    <title>[COLOR yellow]Peliculas Ferrer (VK)[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculasvk</externallink>
+    </item>
+
 ***********************
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • PELICULAS CANTINFLAS (LATINO)• </title>
@@ -782,7 +800,7 @@ nopitem>
     </item>
 
 <item>
-<title>Peliculas DailyMotion</title>
+<title>Peliculas Ferrer (DailyMotion)</title>
 <link>$doregex[makelist]</link>
 
 <regex>
