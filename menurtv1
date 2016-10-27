@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", BUSCANDO A DORYS (ONLINE)LATINO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", BUSCANDO A DORYS (ONLINE)LATINO720
 http://www52.uptostream.com/28440m74a0b/720/0/video.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO
+http://www66.uptostream.com/284d5udbe24/480/0/video.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", ALBERT (ONLINE)LATINO
+http://www66.uptostream.com/284dmi402f0/360/0/video.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", MI PAPA ES UN GATO (ONLINE)SUBT
 http://www.spruto.tv/get_file/9/96a07c6db62e394cb2d7a3d938153a83/234000/234543/234543.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", MI PAPA ES UN GATO (ONLINE)Latino
