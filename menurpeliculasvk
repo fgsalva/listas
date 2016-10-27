@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",tadeo jons
-http://vk.com/video_ext.php?oid=171703806&id=164622325&hash=281b4b81f51e3471
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",no se
-http://vk.com/video_ext.php?oid=171703806&id=169836072&hash=a01a657ce513c15d
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",coreana
-http://vk.com/video_ext.php?oid=171703806&id=169772547&hash=ed446ba83ea5eb56
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",chicas
-http://vk.com/video_ext.php?oid=171703806&id=169772525&hash=4f3a806a4eeb957d
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",el gallo
-http://vk.com/video_ext.php?oid=171703806&id=169709696&hash=4891b0c2f1221c1a
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",el gallo kikiriki opcio2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",La leyenda del Oro
+https://cs541407.vk.me/u262185565/videos/79658ccb1b.360.mp4?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",el gallo kikiriki opcio2 OK
 https://cs543400.vk.me/u131742790/videos/40aa798816.360.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",el gallo kikiriki opcio3 OK
+https://cs543400.vk.me/u131742790/videos/40aa798816.240.mp4?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",Perdona si te llamo Amor opcio2 OK
+https://cs12810.vk.me/u99040283/videos/86cec26779.360.mp4?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",coreana HANADAMA (+18) opcion2
+https://cs543300.vk.me/u262185565/videos/5ebf20b4b6.360.mp4?
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",Perdona si te llamo amorNOFUNCIONAN
+http://vk.com/video_ext.php?oid=171703806&id=169836072&hash=a01a657ce513c15d
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",el gallo NO FUNCIONA
+http://vk.com/video_ext.php?oid=171703806&id=169709696&hash=4891b0c2f1221c1a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",coreana HANADAMANo funciona
+http://vk.com/video_ext.php?oid=171703806&id=169772547&hash=ed446ba83ea5eb56
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES",La leyenda del Oro No funciona
+http://vk.com/video_ext.php?oid=171703806&id=169772525&hash=4f3a806a4eeb957d
