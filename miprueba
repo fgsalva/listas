@@ -1,4 +1,40 @@
 
+
+
+
+<item>
+<title>[COLOR yellow]Llamado VK jsonr[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://xbmc-vk.svoka.com/?gid=36327213&mode=GROUP_VIDEO&thumb=https%3a%2f%2fpp.vk.me%2fc10803%2fg36327213%2fd_cd3f7160.jpg</jsonrpc> 
+sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Llamado VK link[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?gid=36327213&mode=GROUP_VIDEO&thumb=https%3a%2f%2fpp.vk.me%2fc10803%2fg36327213%2fd_cd3f7160.jpg</link>
+</item>
+
+<item>
+<title>[COLOR yellow]Llamado VK link opcion2[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?gid=36327213&mode=GROUP_VIDEO</link>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Llamado VK solo 1 item[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?PlayMedia=http://vk.com/video_ext.php?oid=213767042&id=165739140&hash=ba9aaa51753f2980</link>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Llamado VK solo 1 item opcion2[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?url=http://vk.com/video_ext.php?oid=213767042&id=165739140&hash=ba9aaa51753f2980</link>
+</item>
+
+
+
+
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]wixplay[/B] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
