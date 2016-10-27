@@ -240,22 +240,6 @@ nopitem>
 
 
 <item>
-<link>http://Ignoreme</link>
-<title>[COLOR yellow]Tecno TV Peliculas[/COLOR][COLOR red]Buenas[/COLOR]</title>
-<externallink>http://tecnotv.info/peliculas.m3u</externallink>
-</item>
-
-
-<item>
-<link>http://Ignoreme</link>
-<title>[COLOR yellow]Tv Player Latino [/COLOR][COLOR red]Peliculas[/COLOR]</title>
-<externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
-</item>
-
-
-
-
-<item>
 <title>[COLOR greenyellow][COLOR green]TV Latino_we bLista Baja SD Indefinido Canales sin Geobloqueo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
