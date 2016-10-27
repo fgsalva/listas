@@ -1,6 +1,25 @@
 
 
 
+plugin://xbmc-vk.svoka.com/?gid=102017772&mode=GROUP_VIDEO&thumb=https://pp.vk.me/c625421/v625421109/4c121/tKG0ABNI5p4.jpg
+
+<item>
+<title>[COLOR yellow]Llamado VK jsonrintento 2[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://xbmc-vk.svoka.com/?gid=102017772&mode=GROUP_VIDEO&thumb=https://pp.vk.me/c625421/v625421109/4c121/tKG0ABNI5p4.jpg</jsonrpc> 
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Llamado VK jsonrintento 3[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?gid=102017772&mode=GROUP_VIDEO&thumb=https://pp.vk.me/c625421/v625421109/4c121/tKG0ABNI5p4.jpg</link>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
+</item>
+
+
+
+
+
 
 <item>
 <title>[COLOR yellow]Llamado VK jsonr[/COLOR]</title>
