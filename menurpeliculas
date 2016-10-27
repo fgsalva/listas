@@ -224,18 +224,18 @@ nopitem>
 ************************
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Peliculas[/COLOR][COLOR red](Tecno TV )[/COLOR]</title>
+<title>[COLOR yellow]Peliculas[/COLOR][COLOR red] (Tecno TV )[/COLOR]</title>
 <externallink>http://tecnotv.info/peliculas.m3u</externallink>
 </item>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Peliculas  [/COLOR][COLOR red](Tv Player Latino)[/COLOR]</title>
+<title>[COLOR yellow]Peliculas[/COLOR][COLOR red] (Tv Player Latino)[/COLOR]</title>
 <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
 </item>
 
 <item>
-    <title>[COLOR yellow]Peliculas Ferrer (VK)[/COLOR]</title>
+    <title>[COLOR yellow]Peliculas Ferrer[/COLOR][COLOR red] (VK)[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculasvk</externallink>
     </item>
