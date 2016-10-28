@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] LISTA EXTERNALINK XML USERYOU[/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Series-VOD/serdir.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR yellow]Llamado VK jsonrintento 2[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://xbmc-vk.svoka.com/?gid=102017772&mode=GROUP_VIDEO&thumb=https://pp.vk.me/c625421/v625421109/4c121/tKG0ABNI5p4.jpg</jsonrpc> 
