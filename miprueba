@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR deepskyblue]prueba vk[/COLOR]</title>
+<title>[COLOR deepskyblue]prueba vkk[/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -9,7 +9,7 @@
 <title>[COLOR skyblue] [makelist3.param1] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 ]]></listrepeat>
-<expres>href='https://vk.com/videos164904740(.*?)'</expres>
+<expres>href='https://vk.com/videos164904740?section=album_1'</expres>
 <page>https://vk.com/videos164904740</page>
 </regex
 ******
