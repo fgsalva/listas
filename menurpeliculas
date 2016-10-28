@@ -920,7 +920,7 @@ nopitem>
 
 ****
 <item>
-<title>Peliculas Ferrer (DailyMotion movie)</title>
+<title>Peliculas Ferrer (DailyMotion user)</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -932,7 +932,7 @@ nopitem>
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
-<page>http://www.dailymotion.com/mov-ie</page>
+<page>http://www.dailymotion.com/playlists/user/elenilson-ferrer/1</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 
