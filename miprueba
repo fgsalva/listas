@@ -1,7 +1,20 @@
+https://vk.com/videos164904740
 
 
+<item>
+<title>[COLOR deepskyblue]prueba vk[/COLOR]</title>
+<link>$doregex[makelist3]</link>
 
-plugin://xbmc-vk.svoka.com/?gid=102017772&mode=GROUP_VIDEO&thumb=https://pp.vk.me/c625421/v625421109/4c121/tKG0ABNI5p4.jpg
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist3.param1] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>href='https://vk.com/videos164904740(.*?)'</expres>
+<page>https://vk.com/videos164904740</page>
+</regex
+******
 
 <item>
 <title>[COLOR yellow]Llamado VK jsonrintento 2[/COLOR]</title>
