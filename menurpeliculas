@@ -805,7 +805,7 @@ nopitem>
     </item>
 
 <item>
-<title>Peliculas Ferrer (DailyMotion)</title>
+<title>Peliculas Ferrer (DailyMotion 1)</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -841,4 +841,118 @@ nopitem>
 </regex>
 </item>
 
-    
+ **
+ <item>
+<title>Peliculas Ferrer (DailyMotion 2)</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x4pf9a_elenilson-ferrer_ferrer1/2</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</item>
+
+****
+<item>
+<title>Peliculas Ferrer (DailyMotion 3)</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x4pf9a_elenilson-ferrer_ferrer1/3</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</item>
+
+
+****
+<item>
+<title>Peliculas Ferrer (DailyMotion movie)</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/mov-ie</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</item>
+
