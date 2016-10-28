@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 
 
-
 <item>
-<title>CANAL + LIGA Esperar 5 segundos</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Canal + Liga Esperar[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 </item>
 
 <item>
-<title>DIRECTV SPORT Esperar 5 segundos</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Direc TV [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/directv-sports-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>
 
 
 <item>
-<title>UFC NETWORK(opcion2)</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]U.f.c Network(opcion2)[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -40,7 +39,7 @@
 
 
 <item>
-<title>FOX SPORT ARGENTINA opcion2 Zony</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 Sony[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -61,13 +60,13 @@
 </item>	
 
 <item>
-<title>FOX SPORT ARGENTINA Sportdevil opc1</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>	
 
 <item>
-<title>FOX SPORT 2 ARGENTINA (zony)</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport2 Arg Sony[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -88,7 +87,7 @@
 </item>	
 
 <item>	
-<title>FOX SPORT 3 ARGENTINA (opc3 juanja)</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport3 Arg2 juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -110,7 +109,7 @@
 </item>	
 
 <item>	
-<title>FOX SPORT 3 ARGENTINA Sportsdevil</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport3 Arg Sdevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/fox-sports-3-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>	
