@@ -1,18 +1,22 @@
 
-<item>
-<title>[COLOR deepskyblue]prueba vkk[/COLOR]</title>
-<link>$doregex[makelist3]</link>
 
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] [makelist3.param1] [/COLOR] </title>
-<link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres>href='https://vk.com/videos164904740?section=album_1'</expres>
-<page>https://vk.com/videos164904740</page>
-</regex
-******
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] LISTA EXTERNALINK[/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] LISTA LINK[/COLOR] </title>
+<link>https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml</link>
+</item>
+
 
 <item>
 <title>[COLOR yellow]Llamado VK jsonrintento 2[/COLOR]</title>
@@ -107,9 +111,6 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </regex>
 </item>
 
-
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <items>
