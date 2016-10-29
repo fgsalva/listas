@@ -11,7 +11,8 @@ http://www66.uptostream.com/284dmi402f0/360/0/video.mp4
 http://www.spruto.tv/get_file/9/96a07c6db62e394cb2d7a3d938153a83/234000/234543/234543.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MOVIES", MI PAPA ES UN GATO (ONLINE)Latino
 http://www.spruto.tv/get_file/9/3e25d801071f82d14cae50d95fc03a91/234000/234542/234542.mp4
-
+#EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="especial",BCONETC
+http://latino-webtv.ml:8880/beinhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="MarrTV1",Canal 2 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif"group-title="MarrTV1",Azteca 7 HD
