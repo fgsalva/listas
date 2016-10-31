@@ -23,7 +23,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>html += "src="(.*?)""</expres>
+				<expres>src="(.*?)"</expres>
 				<page>https://es.chaturbate.com/autumnvondoe</page>
 				</regex> 
 				
@@ -31,11 +31,11 @@
 <streaminginfo>
 		<cname>prueba atrapra p3u82</cname>
 		<item>
-			<title>atrapar chat(m3u8)</title>
+			<title>atrapar chat(m3u8***)</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>html += "src='(.*?)'"</expres>
+				<expres>src='(.*?)'</expres>
 				<page>https://es.chaturbate.com/autumnvondoe</page>
 				</regex> 
 				
