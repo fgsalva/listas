@@ -405,7 +405,7 @@
 
 <item> 
 <title>[COLOR red]CANAL FOX mx3 [/COLOR][COLOR yellos]F4M*agent2[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/612.ts&amp;streamtype=TSDOWNLOADER|<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</agent><cookieJar></cookieJar></link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/612.ts&amp;streamtype=TSDOWNLOADER|<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</agent></link>
 </item>
 
 <item> <title>[COLOR red]UFC mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
