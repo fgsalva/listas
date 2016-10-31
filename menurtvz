@@ -298,7 +298,7 @@
 <cname>GET-DELINK SRC beines</cname>
 <item>
 <title>Bein ingles 15 1hd</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.us</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.info</link>
 <regex>
 <name>get-delink</name>
 <expres>link15source src="(.*?)"</expres>
@@ -306,19 +306,10 @@
 </regex> 
 </item>
 
-<item>
-<title>Bein es 18</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.us</link>
-<regex>
-<name>get-delink</name>
-<expres>link18source src="(.*?)"</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
-</regex> 
-</item>
 
 <item>
-<title>Bein es 19</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.us</link>
+<title>Bein es 19</title
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.info</link>
 <regex>
 <name>get-delink</name>
 <expres>link19source src="(.*?)"</expres>
@@ -328,7 +319,7 @@
 
 <item>
 <title>Bein es 20</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.us</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.info</link>
 <regex>
 <name>get-delink</name>
 <expres>link20source src="(.*?)"</expres>
@@ -336,12 +327,3 @@
 </regex> 
 </item>
 
-<item>
-<title>Bein es 21</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://vipracing.us</link>
-<regex>
-<name>get-delink</name>
-<expres>link21source src="(.*?)"</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
-</regex> 
-</item>
