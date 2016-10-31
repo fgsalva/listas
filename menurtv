@@ -4,22 +4,22 @@
     <title>[COLOR yellow]a y e modo 1[/COLOR]</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts</link>
     </item>
-
-<item>
-    <title>[COLOR yellow]aye modo 2[/COLOR]</title>
-    plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts
-    </item>
-    
-    
     <item>
     <title>[COLOR yellow]fox modo 1[/COLOR]</title>
     <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts</link>
     </item>
 
-<item>
-    <title>[COLOR yellow]fox modo 2[/COLOR]</title>
-   plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts
-    </item>
+
+
+
+<item>  
+<title>[COLOR lawngreen]ayd modo3 [/COLOR][COLOR orange]F4M[/COLOR]</title>   
+<link>plugin://plugin.video.f4mTester/?url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts&amp;name=SPORT TV1;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+
+<item>  
+<title>[COLOR lawngreen]fox modo3 [/COLOR][COLOR orange]F4M[/COLOR]</title>   
+<link>plugin://plugin.video.f4mTester/?url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts&amp;name=SPORT TV1;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Canal + Liga Esperar[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
