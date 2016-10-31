@@ -4,7 +4,7 @@ link2source src="rtmp://89.248.169.50/live playpath=sss5 swfUrl=http://www.yocas
 
 link3source src="rtmp://89.248.169.50/live playpath=sss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss5&vw=600&vh=450 timeout=20"
 
-link4source src="http://vipracing.us/channel/opcion-1/frame"
+link4source src="http://vipracing.info/channel/opcion-1/frame"
 
 link5source src="rtmp://89.248.169.50/live playpath=sss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss5&vw=600&vh=450 timeout=20"
 
@@ -27,11 +27,11 @@ link16source src="http://encryptedchannels.blogspot.ae/p/bein-sport-2-hd.html"
 
 link17source src="http://paf-tv.com/player4.php"
 
-link18source src="http://vipracing.us/channel/bein-es"
+link18source src="http://vipracing.info/channel/bein-es"
 
-link19source src="http://vipracing.us/channel/bein-es1"
+link19source src="http://vipracing.info/channel/bein-es1"
 
-link20source src="http://vipracing.us/channel/opcion-1/frame"
+link20source src="http://vipracing.info/channel/opcion-1/frame"
 
-link21source src="http://vipracing.us/channel/opcion-2/frame"
+link21source src="http://vipracing.info/channel/opcion-2/frame"
 
