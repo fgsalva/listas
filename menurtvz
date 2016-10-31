@@ -17,13 +17,14 @@
 
 
 <streaminginfo>
-		<cname>prueba atrapra p3u</cname>
+		<cname>prueba atrapra p3u8</cname>
 		<item>
 			<title>atrapar chat(m3u8)</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>file: "(.*?)"</expres>
+				<expres>html += "src='</expres>
 				<page>https://es.chaturbate.com/autumnvondoe</page>
 				</regex> 
+				
 
