@@ -48,7 +48,7 @@
 <streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>HD</title>
+			<title>HD Bein Sport 1</title>
 				<link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -74,7 +74,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>HD</title>
+			<title>HD Bein Sport 3</title>
 				<link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -100,7 +100,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>HD</title>
+			<title>HD Bein Sport 2</title>
 				<link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
