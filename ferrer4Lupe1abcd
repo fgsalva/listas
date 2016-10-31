@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",U F C SD
@@ -820,414 +819,7 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL731/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL732/PROFILE03.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE SD
-http://190.57.234.166/V2/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RADIO SD
-http://190.57.234.166/V2/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ROCKPOC SD
-http://190.57.234.166/V2/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TECTV SD
-http://190.57.234.166/V2/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CN5 SD
-http://190.57.234.166/V2/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL26 ARG SD
-http://190.57.234.166/V2/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELE SD
-http://190.57.234.166/V2/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL 13 SD
-http://190.57.234.166/V3/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL 9 SD
-http://190.57.234.166/V3/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",NICK2 SD
-http://190.57.234.166/V3/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",24 HORAS SD
-http://190.57.234.166/V3/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",UFC SD
-http://190.57.234.166/V3/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",NICK JUNIOR SD
-http://190.57.234.166/V4/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",SYFY SD
-http://190.57.234.166/V4/2/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HYSTORY SD
-http://190.57.234.166/V4/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",CANAL VASCO
-http://190.57.234.166/V4/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TV BRASIL SD
-http://190.57.234.166/V4/5/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",AYE SD
-http://190.57.234.166/V4/6/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HBO SIGNATURE SD
-http://190.57.234.166/V4/7/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE SD
-http://190.57.234.166/V6/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",FOX 1  op.2!!
-http://190.57.234.166/V0/1/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",History channel Argentina !!
-http://190.57.234.166/V4/3/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ARGENTINA SD
-http://190.57.234.166/V6/4/2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",HBO
-http://latino-webtv.ml:8880/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RCN Opcion 3
-http://latino-webtv.ml:8880/rcn/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",RCN 2 Opcion 1
-http://latino-webtv.ml:8880/rcnhd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TNT
-http://latino-webtv.ml:8880/tnt/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",TELEFE
-http://latino-webtv.ml:8880/telefehd/playlist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",AMERICA
-http://latino-webtv.ml:8880/americatv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN !
-http://latino-webtv.ml:8880/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 2 !
-http://latino-webtv.ml:8880/espn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",ESPN 3 !
-http://latino-webtv.ml:8880/espn3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Directv Sports !
-http://latino-webtv.ml:8880/directv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports !
-http://latino-webtv.ml:8880/foxsports/playlist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES SD",Fox Sports 2 !
-http://latino-webtv.ml:8880/foxsports2/playlist.m3u8 
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD", DISCOVERY HD
-http://190.57.234.166/V1/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",ROPPOK HD
-http://190.57.234.166/V2/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",NICK2 HD
-http://190.57.234.166/V3/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",HISTORY HD
-http://190.57.234.166/V4/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",ROPPOK HD
-http://190.57.234.166/V6/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",WOBIOK HD
-http://190.57.234.166/V1/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",DISCOVERYKIDS HD
-http://190.57.234.166/V1/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",DISCOVERY WORLD HD
-http://190.57.234.166/V1/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",24 HORAS HD
-http://190.57.234.166/V1/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",DISCOVERY THEARY HD
-http://190.57.234.166/V1/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",DISCOVERY HH DH
-http://190.57.234.166/V1/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TELEFE HD
-http://190.57.234.166/V2/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",RADIO
-http://190.57.234.166/V2/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",ROCKPOC
-http://190.57.234.166/V2/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TECTV HD
-http://190.57.234.166/V2/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CN5 HD
-http://190.57.234.166/V2/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CANAL26 ARG HD
-http://190.57.234.166/V2/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TELE HHD
-http://190.57.234.166/V2/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CANAL 13 HD
-http://190.57.234.166/V3/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CANAL 9 HD
-http://190.57.234.166/V3/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",NICK2 HD
-http://190.57.234.166/V3/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",DXTV HD
-http://190.57.234.166/V3/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",UFC HD
-http://190.57.234.166/V3/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",RADIO ONE HD
-http://190.57.234.166/V6/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",NICK JUNIOR HD
-http://190.57.234.166/V4/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",SYFY HD
-http://190.57.234.166/V4/2/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",HYSTORY HD
-http://190.57.234.166/V4/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CANAL VASCO HD
-http://190.57.234.166/V4/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TV BRASIL HD
-http://190.57.234.166/V4/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",AYE HD
-http://190.57.234.166/V4/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",HBO SIGNATURE HD
-http://190.57.234.166/V4/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TELEFE HD
-http://190.57.234.166/V6/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",ROCKPOC TV HD
-http://190.57.234.166/V6/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",ARGENTINA HD
-http://190.57.234.166/V6/4/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",TN ARGENTINA HD
-http://190.57.234.166/V7/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",CRONICA HD
-http://190.57.234.166/V8/1/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",Mundo Fox Mexico!! HD
-http://190.57.234.166/V0/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",fOX 1 !! HD
-http://190.57.234.166/V0/1/1.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",Discovery Civilization !! HD
-http://190.57.234.166/V0/6/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",Discovery Science !! HD
-http://190.57.234.166/V0/7/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",Discovery Turbo !!HD
-http://190.57.234.166/V0/5/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",Mundo Fox !!HD
-http://190.57.234.166/V0/3/1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CANALES HD",AM SPORT
-http://190.57.234.166/V3/5/1.m3u8
-
-
-##EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",4seven.stream
-http://latino-webtv.ml:8880/stalker/4seven.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",5star.stream
-http://latino-webtv.ml:8880/stalker/5star.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",5usa.stream
-http://latino-webtv.ml:8880/stalker/5usa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",9xTashan.stream
-http://latino-webtv.ml:8880/stalker/9xTashan.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ABCFamilyUS
-http://latino-webtv.ml:8880/stalker/ABCFamilyUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ABCMIASD
-http://latino-webtv.ml:8880/stalker/ABCMIASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ABCNY
-http://latino-webtv.ml:8880/stalker/ABCNY/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AEEastUS
-http://latino-webtv.ml:8880/stalker/AEEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AELatinoamericaHD
-http://latino-webtv.ml:8880/stalker/AELatinoamericaHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AMCEastUS
-http://latino-webtv.ml:8880/stalker/AMCEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AMCLASD
-http://latino-webtv.ml:8880/stalker/AMCLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AXNLA
-http://latino-webtv.ml:8880/stalker/AXNLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ActionMaxEastUS
-http://latino-webtv.ml:8880/stalker/ActionMaxEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AmericanHeroesUS
-http://latino-webtv.ml:8880/stalker/AmericanHeroesUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AnimalPlanetLASD
-http://latino-webtv.ml:8880/stalker/AnimalPlanetLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AnimalPlanetUS
-http://latino-webtv.ml:8880/stalker/AnimalPlanetUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AnimalPlanetUS_HD
-http://latino-webtv.ml:8880/stalker/AnimalPlanetUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AudienceUS
-http://latino-webtv.ml:8880/stalker/AudienceUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AzCorazonLA
-http://latino-webtv.ml:8880/stalker/AzCorazonLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AzMundoLA
-http://latino-webtv.ml:8880/stalker/AzMundoLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Azteca7LA
-http://latino-webtv.ml:8880/stalker/Azteca7LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BBCAmericaHD
-http://latino-webtv.ml:8880/stalker/BBCAmericaHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BBCEntLA
-http://latino-webtv.ml:8880/stalker/BBCEntLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BBCWorldNewsSD
-http://latino-webtv.ml:8880/stalker/BBCWorldNewsSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BNNHD
-http://latino-webtv.ml:8880/stalker/BNNHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BabyTVLASD
-http://latino-webtv.ml:8880/stalker/BabyTVLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BoomerangLA
-http://latino-webtv.ml:8880/stalker/BoomerangLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BoomerangUS
-http://latino-webtv.ml:8880/stalker/BoomerangUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BravoEastUS
-http://latino-webtv.ml:8880/stalker/BravoEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CBCHD
-http://latino-webtv.ml:8880/stalker/CBCHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CBCVancover
-http://latino-webtv.ml:8880/stalker/CBCVancover/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CBSNYUS
-http://latino-webtv.ml:8880/stalker/CBSNYUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CDN2LA
-http://latino-webtv.ml:8880/stalker/CDN2LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CDN37LA
-http://latino-webtv.ml:8880/stalker/CDN37LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CNBCUS
-http://latino-webtv.ml:8880/stalker/CNBCUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CNNInternationlLA
-http://latino-webtv.ml:8880/stalker/CNNInternationlLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CNNLASD
-http://latino-webtv.ml:8880/stalker/CNNLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CNNUSAHD
-http://latino-webtv.ml:8880/stalker/CNNUSAHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CNNUSA_HD
-http://latino-webtv.ml:8880/stalker/CNNUSA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CP24
-http://latino-webtv.ml:8880/stalker/CP24/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CSNBAUS
-http://latino-webtv.ml:8880/stalker/CSNBAUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CTVHD
-http://latino-webtv.ml:8880/stalker/CTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CTVNewsHD
-http://latino-webtv.ml:8880/stalker/CTVNewsHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CTVVancouver
-http://latino-webtv.ml:8880/stalker/CTVVancouver/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal13PanLA
-http://latino-webtv.ml:8880/stalker/Canal13PanLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal21ESALA
-http://latino-webtv.ml:8880/stalker/Canal21ESALA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal22MXLA
-http://latino-webtv.ml:8880/stalker/Canal22MXLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal2PanLA
-http://latino-webtv.ml:8880/stalker/Canal2PanLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal4ESALA
-http://latino-webtv.ml:8880/stalker/Canal4ESALA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal4PanLA
-http://latino-webtv.ml:8880/stalker/Canal4PanLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal5LA
-http://latino-webtv.ml:8880/stalker/Canal5LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Canal9CRLA
-http://latino-webtv.ml:8880/stalker/Canal9CRLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CartoonNetworkLASD
-http://latino-webtv.ml:8880/stalker/CartoonNetworkLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CbeebiesLA
-http://latino-webtv.ml:8880/stalker/CbeebiesLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ChillerUS
-http://latino-webtv.ml:8880/stalker/ChillerUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineCanalLA
-http://latino-webtv.ml:8880/stalker/CineCanalLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineCanalPrimeLA
-http://latino-webtv.ml:8880/stalker/CineCanalPrimeLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineDinamitaLA
-http://latino-webtv.ml:8880/stalker/CineDinamitaLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineLatinoSD
-http://latino-webtv.ml:8880/stalker/CineLatinoSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxEastUS
-http://latino-webtv.ml:8880/stalker/CinemaxEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxEastUS_HD
-http://latino-webtv.ml:8880/stalker/CinemaxEastUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxLASD
-http://latino-webtv.ml:8880/stalker/CinemaxLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxWestUS
-http://latino-webtv.ml:8880/stalker/CinemaxWestUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxWestUS_HD
-http://latino-webtv.ml:8880/stalker/CinemaxWestUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CityTVHD
-http://latino-webtv.ml:8880/stalker/CityTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CityTVVancouver
-http://latino-webtv.ml:8880/stalker/CityTVVancouver/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ClaroSportLA
-http://latino-webtv.ml:8880/stalker/ClaroSportLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ComedyCentralHD
-http://latino-webtv.ml:8880/stalker/ComedyCentralHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ComedyCentralHD_HD
-http://latino-webtv.ml:8880/stalker/ComedyCentralHD_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ComedyCentralLA
-http://latino-webtv.ml:8880/stalker/ComedyCentralLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ConcertChannelSD
-http://latino-webtv.ml:8880/stalker/ConcertChannelSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CookingChannelUS
-http://latino-webtv.ml:8880/stalker/CookingChannelUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CookingChannelUS_HD
-http://latino-webtv.ml:8880/stalker/CookingChannelUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CrimeInvNetUS
-http://latino-webtv.ml:8880/stalker/CrimeInvNetUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CrimeInvNetUS_HD
-http://latino-webtv.ml:8880/stalker/CrimeInvNetUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DIYNetworkHD
-http://latino-webtv.ml:8880/stalker/DIYNetworkHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DePeliculaLA
-http://latino-webtv.ml:8880/stalker/DePeliculaLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DePeliculaMPLXLA
-http://latino-webtv.ml:8880/stalker/DePeliculaMPLXLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DestinationAmericaUS
-http://latino-webtv.ml:8880/stalker/DestinationAmericaUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Digital15RDLA
-http://latino-webtv.ml:8880/stalker/Digital15RDLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscovTurbo.stream
-http://latino-webtv.ml:8880/stalker/DiscovTurbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryChLA
-http://latino-webtv.ml:8880/stalker/DiscoveryChLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryChannelUSAHD
-http://latino-webtv.ml:8880/stalker/DiscoveryChannelUSAHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryChannelUSAHD_HD
-http://latino-webtv.ml:8880/stalker/DiscoveryChannelUSAHD_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryFamilyUS
-http://latino-webtv.ml:8880/stalker/DiscoveryFamilyUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryHomeHealthLAHD
-http://latino-webtv.ml:8880/stalker/DiscoveryHomeHealthLAHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryKidsSD
-http://latino-webtv.ml:8880/stalker/DiscoveryKidsSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryWorldLA
-http://latino-webtv.ml:8880/stalker/DiscoveryWorldLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryWorldLA_HD
-http://latino-webtv.ml:8880/stalker/DiscoveryWorldLA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryenEspanolHD
-http://latino-webtv.ml:8880/stalker/DiscoveryenEspanolHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryenEspanol_HD
-http://latino-webtv.ml:8880/stalker/DiscoveryenEspanol_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyChannelEastHD
-http://latino-webtv.ml:8880/stalker/DisneyChannelEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyChannelNorteHD
-http://latino-webtv.ml:8880/stalker/DisneyChannelNorteHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyJrLASD
-http://latino-webtv.ml:8880/stalker/DisneyJrLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyJrUS
-http://latino-webtv.ml:8880/stalker/DisneyJrUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyXDSD
-http://latino-webtv.ml:8880/stalker/DisneyXDSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyXDUS
-http://latino-webtv.ml:8880/stalker/DisneyXDUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DistritoComediaLA
-http://latino-webtv.ml:8880/stalker/DistritoComediaLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPN2LASD
-http://latino-webtv.ml:8880/stalker/ESPN2LASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPN2US
-http://latino-webtv.ml:8880/stalker/ESPN2US/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPN3LASD
-http://latino-webtv.ml:8880/stalker/ESPN3LASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNLA
-http://latino-webtv.ml:8880/stalker/ESPNLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNUS
-http://latino-webtv.ml:8880/stalker/ESPNUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNUS_HD
-http://latino-webtv.ml:8880/stalker/ESPNUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNUUS
-http://latino-webtv.ml:8880/stalker/ESPNUUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNewsUS
-http://latino-webtv.ml:8880/stalker/ESPNewsUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNewsUS_HD
-http://latino-webtv.ml:8880/stalker/ESPNewsUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Eden.stream
-http://latino-webtv.ml:8880/stalker/Eden.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EentertaimentSD
-http://latino-webtv.ml:8880/stalker/EentertaimentSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EfektoTVLA
-http://latino-webtv.ml:8880/stalker/EfektoTVLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElFinancieroBLA
-http://latino-webtv.ml:8880/stalker/ElFinancieroBLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElLiderLA
-http://latino-webtv.ml:8880/stalker/ElLiderLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElgourmetLA
-http://latino-webtv.ml:8880/stalker/ElgourmetLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EncoreActionEastUS
-http://latino-webtv.ml:8880/stalker/EncoreActionEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EncoreEastHD
-http://latino-webtv.ml:8880/stalker/EncoreEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EncoreEastHD_HD
-http://latino-webtv.ml:8880/stalker/EncoreEastHD_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EncoreWesterns
-http://latino-webtv.ml:8880/stalker/EncoreWesterns/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EstrellaTVLA
-http://latino-webtv.ml:8880/stalker/EstrellaTVLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EstrellasLA
-http://latino-webtv.ml:8880/stalker/EstrellasLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EurochannelLA
-http://latino-webtv.ml:8880/stalker/EurochannelLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EuropaEuropaLA
-http://latino-webtv.ml:8880/stalker/EuropaEuropaLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ExaTVLA
-http://latino-webtv.ml:8880/stalker/ExaTVLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ExcelsiorTVLA
-http://latino-webtv.ml:8880/stalker/ExcelsiorTVLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",F1LA
-http://latino-webtv.ml:8880/stalker/F1LA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOX1LASD
 http://latino-webtv.ml:8880/stalker/FOX1LASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOX1OesteLASD
@@ -1240,90 +832,28 @@ http://latino-webtv.ml:8880/stalker/FOXClassicsLASD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/FOXComedyLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXFamilyLASD
 http://latino-webtv.ml:8880/stalker/FOXFamilyLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXHD
-http://latino-webtv.ml:8880/stalker/FOXHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",infinitoSD
+http://latino-webtv.ml:8880/stalker/infinitoSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXHDLA
 http://latino-webtv.ml:8880/stalker/FOXHDLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXMIASD
-http://latino-webtv.ml:8880/stalker/FOXMIASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXMoviesLASD
 http://latino-webtv.ml:8880/stalker/FOXMoviesLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXNY
-http://latino-webtv.ml:8880/stalker/FOXNY/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FSNTXUS
-http://latino-webtv.ml:8880/stalker/FSNTXUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FSNWestUS
-http://latino-webtv.ml:8880/stalker/FSNWestUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FXEastUS
-http://latino-webtv.ml:8880/stalker/FXEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FXLASD
 http://latino-webtv.ml:8880/stalker/FXLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FXXUS
-http://latino-webtv.ml:8880/stalker/FXXUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FilmZoneLASD
 http://latino-webtv.ml:8880/stalker/FilmZoneLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoodNetworkEastHD
-http://latino-webtv.ml:8880/stalker/FoodNetworkEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxBusinessUS
-http://latino-webtv.ml:8880/stalker/FoxBusinessUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxCinemaSD
 http://latino-webtv.ml:8880/stalker/FoxCinemaSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxLifeSD
 http://latino-webtv.ml:8880/stalker/FoxLifeSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxNewsChannelHD
-http://latino-webtv.ml:8880/stalker/FoxNewsChannelHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxNewsChannelHD_HD
-http://latino-webtv.ml:8880/stalker/FoxNewsChannelHD_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSports1HD
-http://latino-webtv.ml:8880/stalker/FoxSports1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSports2SD
-http://latino-webtv.ml:8880/stalker/FoxSports2SD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSports2US
-http://latino-webtv.ml:8880/stalker/FoxSports2US/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSports3SD
-http://latino-webtv.ml:8880/stalker/FoxSports3SD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSportsFloridaUS
-http://latino-webtv.ml:8880/stalker/FoxSportsFloridaUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSportsLA
 http://latino-webtv.ml:8880/stalker/FoxSportsLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSportsSouthUS
-http://latino-webtv.ml:8880/stalker/FoxSportsSouthUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GlitzLA
-http://latino-webtv.ml:8880/stalker/GlitzLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GlobalBC
-http://latino-webtv.ml:8880/stalker/GlobalBC/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GlobalHD
-http://latino-webtv.ml:8880/stalker/GlobalHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GoldenMPLXLA
 http://latino-webtv.ml:8880/stalker/GoldenMPLXLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GoldenPremier1LA
-http://latino-webtv.ml:8880/stalker/GoldenPremier1LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GoldenPremiere2LA
-http://latino-webtv.ml:8880/stalker/GoldenPremiere2LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GolfChannelLA
-http://latino-webtv.ml:8880/stalker/GolfChannelLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GolfChannelUS
-http://latino-webtv.ml:8880/stalker/GolfChannelUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",H2LASD
 http://latino-webtv.ml:8880/stalker/H2LASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",H2US
-http://latino-webtv.ml:8880/stalker/H2US/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBO2EastHD
-http://latino-webtv.ml:8880/stalker/HBO2EastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBO2EastHD_HD
-http://latino-webtv.ml:8880/stalker/HBO2EastHD_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBO2SD
 http://latino-webtv.ml:8880/stalker/HBO2SD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBO2WestUS
-http://latino-webtv.ml:8880/stalker/HBO2WestUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOComedyEastUS
-http://latino-webtv.ml:8880/stalker/HBOComedyEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOEastUS
-http://latino-webtv.ml:8880/stalker/HBOEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOEastUS_HD
-http://latino-webtv.ml:8880/stalker/HBOEastUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOFamilyEastUS
-http://latino-webtv.ml:8880/stalker/HBOFamilyEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOFamilyLASD
 http://latino-webtv.ml:8880/stalker/HBOFamilyLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOLASD
@@ -1332,72 +862,18 @@ http://latino-webtv.ml:8880/stalker/HBOLASD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/HBOPlusLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOPus2LASD
 http://latino-webtv.ml:8880/stalker/HBOPus2LASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOSignatureEastUS
-http://latino-webtv.ml:8880/stalker/HBOSignatureEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOSignatureLASD
 http://latino-webtv.ml:8880/stalker/HBOSignatureLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOWestUS
-http://latino-webtv.ml:8880/stalker/HBOWestUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HBOZoneUS
-http://latino-webtv.ml:8880/stalker/HBOZoneUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HGTVUS
-http://latino-webtv.ml:8880/stalker/HGTVUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HLNUS
-http://latino-webtv.ml:8880/stalker/HLNUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HTVSD
-http://latino-webtv.ml:8880/stalker/HTVSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HallmarkMovieChannelUS
-http://latino-webtv.ml:8880/stalker/HallmarkMovieChannelUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HistoryHD
-http://latino-webtv.ml:8880/stalker/HistoryHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",HistoryLA
 http://latino-webtv.ml:8880/stalker/HistoryLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",IDUS
-http://latino-webtv.ml:8880/stalker/IDUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",IDUS_HD
-http://latino-webtv.ml:8880/stalker/IDUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",IFCHD
-http://latino-webtv.ml:8880/stalker/IFCHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",IONTVEastUS
-http://latino-webtv.ml:8880/stalker/IONTVEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ISATLA
 http://latino-webtv.ml:8880/stalker/ISATLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",IngenioTVLA
 http://latino-webtv.ml:8880/stalker/IngenioTVLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",InvDiscoverySD
 http://latino-webtv.ml:8880/stalker/InvDiscoverySD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",JuicyLA
-http://latino-webtv.ml:8880/stalker/JuicyLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",KMusicLA
-http://latino-webtv.ml:8880/stalker/KMusicLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Lakers
-http://latino-webtv.ml:8880/stalker/Lakers/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",LifetimeEastUS
-http://latino-webtv.ml:8880/stalker/LifetimeEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",LifetimeLASD
 http://latino-webtv.ml:8880/stalker/LifetimeLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",LifetimeMoviesUS
-http://latino-webtv.ml:8880/stalker/LifetimeMoviesUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",LifetimeMoviesUS_HD
-http://latino-webtv.ml:8880/stalker/LifetimeMoviesUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",LoveNatureHD
-http://latino-webtv.ml:8880/stalker/LoveNatureHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MASNUS
-http://latino-webtv.ml:8880/stalker/MASNUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MASTVPanLA
-http://latino-webtv.ml:8880/stalker/MASTVPanLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MATVUS
-http://latino-webtv.ml:8880/stalker/MATVUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MCLA
-http://latino-webtv.ml:8880/stalker/MCLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MLBNetworkHD
-http://latino-webtv.ml:8880/stalker/MLBNetworkHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MLBNetwork_HD
-http://latino-webtv.ml:8880/stalker/MLBNetwork_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MSGUS
-http://latino-webtv.ml:8880/stalker/MSGUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MSNBCUS
-http://latino-webtv.ml:8880/stalker/MSNBCUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MTVHitsLA
 http://latino-webtv.ml:8880/stalker/MTVHitsLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MTVLA
@@ -1410,212 +886,50 @@ http://latino-webtv.ml:8880/stalker/MaxPanLA/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/MaxPrimeLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MaxUPSD
 http://latino-webtv.ml:8880/stalker/MaxUPSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MegaTVPR
-http://latino-webtv.ml:8880/stalker/MegaTVPR/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MultiPremierLA
 http://latino-webtv.ml:8880/stalker/MultiPremierLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MultimediosLA
 http://latino-webtv.ml:8880/stalker/MultimediosLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",MundoFoxSD
 http://latino-webtv.ml:8880/stalker/MundoFoxSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBATVUS
-http://latino-webtv.ml:8880/stalker/NBATVUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBATVUS_HD
-http://latino-webtv.ml:8880/stalker/NBATVUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCMIASD
-http://latino-webtv.ml:8880/stalker/NBCMIASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCNY
-http://latino-webtv.ml:8880/stalker/NBCNY/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCPR
-http://latino-webtv.ml:8880/stalker/NBCPR/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCSportNetworkUS
-http://latino-webtv.ml:8880/stalker/NBCSportNetworkUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCUniversoUS
 http://latino-webtv.ml:8880/stalker/NBCUniversoUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCUniversoUS_HD
-http://latino-webtv.ml:8880/stalker/NBCUniversoUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NESNUS
-http://latino-webtv.ml:8880/stalker/NESNUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NEXTPanLA
-http://latino-webtv.ml:8880/stalker/NEXTPanLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL1
-http://latino-webtv.ml:8880/stalker/NFL1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL2
-http://latino-webtv.ml:8880/stalker/NFL2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL3
-http://latino-webtv.ml:8880/stalker/NFL3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL4
-http://latino-webtv.ml:8880/stalker/NFL4/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL5
-http://latino-webtv.ml:8880/stalker/NFL5/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFL6
-http://latino-webtv.ml:8880/stalker/NFL6/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NFLNetworkUS
-http://latino-webtv.ml:8880/stalker/NFLNetworkUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NHLNetworkHD
-http://latino-webtv.ml:8880/stalker/NHLNetworkHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NTN24LA
-http://latino-webtv.ml:8880/stalker/NTN24LA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NatGeoLASD
 http://latino-webtv.ml:8880/stalker/NatGeoLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NatGeoUS
-http://latino-webtv.ml:8880/stalker/NatGeoUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NatGeoUS_HD
-http://latino-webtv.ml:8880/stalker/NatGeoUS_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NatGeoWildLAHD
 http://latino-webtv.ml:8880/stalker/NatGeoWildLAHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NatGeoWildUS
-http://latino-webtv.ml:8880/stalker/NatGeoWildUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12Bronx.stream
-http://latino-webtv.ml:8880/stalker/News12Bronx.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12Brooklyn.stream
-http://latino-webtv.ml:8880/stalker/News12Brooklyn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12Connecticut.stream
-http://latino-webtv.ml:8880/stalker/News12Connecticut.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12HudsonValley.stream
-http://latino-webtv.ml:8880/stalker/News12HudsonValley.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12LongIsland.stream
-http://latino-webtv.ml:8880/stalker/News12LongIsland.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12NewJersey.stream
-http://latino-webtv.ml:8880/stalker/News12NewJersey.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",News12Westchester.stream
-http://latino-webtv.ml:8880/stalker/News12Westchester.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NickJrLASD
 http://latino-webtv.ml:8880/stalker/NickJrLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NickJrUS
-http://latino-webtv.ml:8880/stalker/NickJrUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NickelodeonEastUS
-http://latino-webtv.ml:8880/stalker/NickelodeonEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NickelodeonLA
 http://latino-webtv.ml:8880/stalker/NickelodeonLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Omni2HD
-http://latino-webtv.ml:8880/stalker/Omni2HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Once2LA
-http://latino-webtv.ml:8880/stalker/Once2LA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",OutdoorUS
-http://latino-webtv.ml:8880/stalker/OutdoorUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",OvationUS
-http://latino-webtv.ml:8880/stalker/OvationUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",OxygenSD
-http://latino-webtv.ml:8880/stalker/OxygenSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",PalladiaHDUS
-http://latino-webtv.ml:8880/stalker/PalladiaHDUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ParamountChannelLatinAmericaHD
 http://latino-webtv.ml:8880/stalker/ParamountChannelLatinAmericaHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",PlayboyTV
-http://latino-webtv.ml:8880/stalker/PlayboyTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",RCNnovelasLA
 http://latino-webtv.ml:8880/stalker/RCNnovelasLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Really.stream
-http://latino-webtv.ml:8880/stalker/Really.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ReelzUS
-http://latino-webtv.ml:8880/stalker/ReelzUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Repretel4CRLA
-http://latino-webtv.ml:8880/stalker/Repretel4CRLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Repretel6CRLA
-http://latino-webtv.ml:8880/stalker/Repretel6CRLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SKYSPNews.stream
-http://latino-webtv.ml:8880/stalker/SKYSPNews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ScienceUS
-http://latino-webtv.ml:8880/stalker/ScienceUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ScienceUS_HD
-http://latino-webtv.ml:8880/stalker/ScienceUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SextremeSD
-http://latino-webtv.ml:8880/stalker/SextremeSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Showtime2EastUS
-http://latino-webtv.ml:8880/stalker/Showtime2EastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeBeyondEastUS
-http://latino-webtv.ml:8880/stalker/ShowtimeBeyondEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeEastHD
-http://latino-webtv.ml:8880/stalker/ShowtimeEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeEastHD_HD
-http://latino-webtv.ml:8880/stalker/ShowtimeEastHD_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeExtremeEastUS
-http://latino-webtv.ml:8880/stalker/ShowtimeExtremeEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeNextUS
-http://latino-webtv.ml:8880/stalker/ShowtimeNextUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeShowcaseEastUS
-http://latino-webtv.ml:8880/stalker/ShowtimeShowcaseEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ShowtimeWestUS
-http://latino-webtv.ml:8880/stalker/ShowtimeWestUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SinartCRLA
-http://latino-webtv.ml:8880/stalker/SinartCRLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SliceHD
-http://latino-webtv.ml:8880/stalker/SliceHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SonyLA
 http://latino-webtv.ml:8880/stalker/SonyLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SonyMovieChannelUS
-http://latino-webtv.ml:8880/stalker/SonyMovieChannelUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SpaceLA
 http://latino-webtv.ml:8880/stalker/SpaceLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SpikeUS
-http://latino-webtv.ml:8880/stalker/SpikeUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportNetLA
-http://latino-webtv.ml:8880/stalker/SportNetLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportsNet360HD
-http://latino-webtv.ml:8880/stalker/SportsNet360HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportsNetOneHD
-http://latino-webtv.ml:8880/stalker/SportsNetOneHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportsNetOntorioHD
-http://latino-webtv.ml:8880/stalker/SportsNetOntorioHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportsNetWestHD
-http://latino-webtv.ml:8880/stalker/SportsNetWestHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SportsNetWorldHD
-http://latino-webtv.ml:8880/stalker/SportsNetWorldHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzCinemaEastUS
-http://latino-webtv.ml:8880/stalker/StarzCinemaEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzCinemaEastUS_HD
-http://latino-webtv.ml:8880/stalker/StarzCinemaEastUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzComedyEastUS
-http://latino-webtv.ml:8880/stalker/StarzComedyEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzEastHD
-http://latino-webtv.ml:8880/stalker/StarzEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzEast_HD
-http://latino-webtv.ml:8880/stalker/StarzEast_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzEdgeEastUS
-http://latino-webtv.ml:8880/stalker/StarzEdgeEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzInBlackEastUS
-http://latino-webtv.ml:8880/stalker/StarzInBlackEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzKidsFamilyEastUS
-http://latino-webtv.ml:8880/stalker/StarzKidsFamilyEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StarzWestUS
-http://latino-webtv.ml:8880/stalker/StarzWestUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StudioUniversalSD
 http://latino-webtv.ml:8880/stalker/StudioUniversalSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SundanceLA
 http://latino-webtv.ml:8880/stalker/SundanceLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SyFyLASD
 http://latino-webtv.ml:8880/stalker/SyFyLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",SyFyUS
-http://latino-webtv.ml:8880/stalker/SyFyUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TBSEastUS
-http://latino-webtv.ml:8880/stalker/TBSEastUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TBSLASD
 http://latino-webtv.ml:8880/stalker/TBSLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TCMSD
 http://latino-webtv.ml:8880/stalker/TCMSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TCMUS
-http://latino-webtv.ml:8880/stalker/TCMUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TDNMXLA
 http://latino-webtv.ml:8880/stalker/TDNMXLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TLC.stream
-http://latino-webtv.ml:8880/stalker/TLC.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TLCLASD
 http://latino-webtv.ml:8880/stalker/TLCLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TNTAmericaLatinaHD
 http://latino-webtv.ml:8880/stalker/TNTAmericaLatinaHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TNTDramaUS
-http://latino-webtv.ml:8880/stalker/TNTDramaUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVCLA
 http://latino-webtv.ml:8880/stalker/TVCLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVChileLA
 http://latino-webtv.ml:8880/stalker/TVChileLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVGloboLA
-http://latino-webtv.ml:8880/stalker/TVGloboLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVLand
-http://latino-webtv.ml:8880/stalker/TVLand/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TeenNickUS
-http://latino-webtv.ml:8880/stalker/TeenNickUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TeleCentroRDLA
 http://latino-webtv.ml:8880/stalker/TeleCentroRDLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TeleformulaLA
@@ -1634,50 +948,16 @@ http://latino-webtv.ml:8880/stalker/TelemundoPR/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/TelemundoPunto2/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TelemundoSD
 http://latino-webtv.ml:8880/stalker/TelemundoSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TeleticaLA
-http://latino-webtv.ml:8880/stalker/TeleticaLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TennisChannelUS
-http://latino-webtv.ml:8880/stalker/TennisChannelUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TennisChannelUS_HD
-http://latino-webtv.ml:8880/stalker/TennisChannelUS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TheMovieChannelEastHD
-http://latino-webtv.ml:8880/stalker/TheMovieChannelEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TheMovieChannelXtraEastUS
-http://latino-webtv.ml:8880/stalker/TheMovieChannelXtraEastUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TheWeatherChannelHD
-http://latino-webtv.ml:8880/stalker/TheWeatherChannelHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ThrillerMaxEasUS
-http://latino-webtv.ml:8880/stalker/ThrillerMaxEasUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TraceSportsHD
-http://latino-webtv.ml:8880/stalker/TraceSportsHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TraceSports_HD
-http://latino-webtv.ml:8880/stalker/TraceSports_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TrafficWeatherHudsonValley.stream
-http://latino-webtv.ml:8880/stalker/TrafficWeatherHudsonValley.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TrafficWeatherLongIsland.stream
-http://latino-webtv.ml:8880/stalker/TrafficWeatherLongIsland.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TrafficWeatherNJ.stream
-http://latino-webtv.ml:8880/stalker/TrafficWeatherNJ.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TrafficWeatherNY.stream
-http://latino-webtv.ml:8880/stalker/TrafficWeatherNY.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TruTVSD
 http://latino-webtv.ml:8880/stalker/TruTVSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TruTVUS
-http://latino-webtv.ml:8880/stalker/TruTVUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UFCNetwork2LA_HD
 http://latino-webtv.ml:8880/stalker/UFCNetwork2LA_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UFCNetworkLA
 http://latino-webtv.ml:8880/stalker/UFCNetworkLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",USANetworkEastHD
-http://latino-webtv.ml:8880/stalker/USANetworkEastHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",USANetworkEast_HD
-http://latino-webtv.ml:8880/stalker/USANetworkEast_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UniMasUS
 http://latino-webtv.ml:8880/stalker/UniMasUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UniversalLASD
 http://latino-webtv.ml:8880/stalker/UniversalLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UniversalUS
-http://latino-webtv.ml:8880/stalker/UniversalUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UnivisionDeportesUS
 http://latino-webtv.ml:8880/stalker/UnivisionDeportesUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UnivisionEastUS
@@ -1686,12 +966,6 @@ http://latino-webtv.ml:8880/stalker/UnivisionEastUS/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/UnivisionEastUS_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UnivisionLosAngeles
 http://latino-webtv.ml:8880/stalker/UnivisionLosAngeles/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UnivisionPR
-http://latino-webtv.ml:8880/stalker/UnivisionPR/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",UnivisionTDNLA
-http://latino-webtv.ml:8880/stalker/UnivisionTDNLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",VENUSSD
-http://latino-webtv.ml:8880/stalker/VENUSSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",VH1ClassicLASD
 http://latino-webtv.ml:8880/stalker/VH1ClassicLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",VH1LatinoSD
@@ -1700,176 +974,120 @@ http://latino-webtv.ml:8880/stalker/VH1LatinoSD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/VideoRolaLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WAPAPR
 http://latino-webtv.ml:8880/stalker/WAPAPR/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WETVSD
-http://latino-webtv.ml:8880/stalker/WETVSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WGNAmericaUS
-http://latino-webtv.ml:8880/stalker/WGNAmericaUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WOBILA
-http://latino-webtv.ml:8880/stalker/WOBILA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WPA2PR
-http://latino-webtv.ml:8880/stalker/WPA2PR/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WWE
-http://latino-webtv.ml:8880/stalker/WWE/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WarnerLA
-http://latino-webtv.ml:8880/stalker/WarnerLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",YesNetworkUS
-http://latino-webtv.ml:8880/stalker/YesNetworkUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Yesterday.stream
-http://latino-webtv.ml:8880/stalker/Yesterday.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ZooMooLA
-http://latino-webtv.ml:8880/stalker/ZooMooLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",aajtak.stream
-http://latino-webtv.ml:8880/stalker/aajtak.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",alibi.stream
-http://latino-webtv.ml:8880/stalker/alibi.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",aryqtv.stream
-http://latino-webtv.ml:8880/stalker/aryqtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",astro1.stream
-http://latino-webtv.ml:8880/stalker/astro1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",astro2.stream
-http://latino-webtv.ml:8880/stalker/astro2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",astro3.stream
-http://latino-webtv.ml:8880/stalker/astro3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",astro4.stream
-http://latino-webtv.ml:8880/stalker/astro4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",atlantic.stream
-http://latino-webtv.ml:8880/stalker/atlantic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",attheraces.stream
-http://latino-webtv.ml:8880/stalker/attheraces.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",b4umovies.stream
-http://latino-webtv.ml:8880/stalker/b4umovies.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",bbc1.stream
-http://latino-webtv.ml:8880/stalker/bbc1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",bbc2.stream
-http://latino-webtv.ml:8880/stalker/bbc2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",bbc4.stream
-http://latino-webtv.ml:8880/stalker/bbc4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",bbcn.stream
-http://latino-webtv.ml:8880/stalker/bbcn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",boxnation.stream
-http://latino-webtv.ml:8880/stalker/boxnation.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",btsport2.stream
 http://latino-webtv.ml:8880/stalker/btsport2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",btsport3.stream
-http://latino-webtv.ml:8880/stalker/btsport3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",cartoonuk.stream
-http://latino-webtv.ml:8880/stalker/cartoonuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",cbsaction.stream
-http://latino-webtv.ml:8880/stalker/cbsaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",cbsdrama.stream
-http://latino-webtv.ml:8880/stalker/cbsdrama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",cbsreality.stream
-http://latino-webtv.ml:8880/stalker/cbsreality.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ch4.stream
-http://latino-webtv.ml:8880/stalker/ch4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ch5.stream
-http://latino-webtv.ml:8880/stalker/ch5.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",challenge.stream
-http://latino-webtv.ml:8880/stalker/challenge.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",citi21.stream
-http://latino-webtv.ml:8880/stalker/citi21.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",colors.stream
-http://latino-webtv.ml:8880/stalker/colors.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",dave.stream
-http://latino-webtv.ml:8880/stalker/dave.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",dmax.stream
-http://latino-webtv.ml:8880/stalker/dmax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",drama.stream
-http://latino-webtv.ml:8880/stalker/drama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",dunya.stream
-http://latino-webtv.ml:8880/stalker/dunya.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",e4.stream
-http://latino-webtv.ml:8880/stalker/e4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",eEntUS
-http://latino-webtv.ml:8880/stalker/eEntUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",eEntUS_HD
-http://latino-webtv.ml:8880/stalker/eEntUS_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",eurosp1.stream
 http://latino-webtv.ml:8880/stalker/eurosp1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",eurosp2.stream
 http://latino-webtv.ml:8880/stalker/eurosp2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",film4.stream
-http://latino-webtv.ml:8880/stalker/film4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",fxuk.stream
-http://latino-webtv.ml:8880/stalker/fxuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",geotv.stream
-http://latino-webtv.ml:8880/stalker/geotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",gold.stream
-http://latino-webtv.ml:8880/stalker/gold.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",goodfood.stream
-http://latino-webtv.ml:8880/stalker/goodfood.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",hallabol.stream
-http://latino-webtv.ml:8880/stalker/hallabol.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ikid.stream
-http://latino-webtv.ml:8880/stalker/ikid.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",indiatoday.stream
-http://latino-webtv.ml:8880/stalker/indiatoday.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",infinitoSD
-http://latino-webtv.ml:8880/stalker/infinitoSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itv1.stream
-http://latino-webtv.ml:8880/stalker/itv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itv2.stream
-http://latino-webtv.ml:8880/stalker/itv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itv3.stream
-http://latino-webtv.ml:8880/stalker/itv3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itv4.stream
-http://latino-webtv.ml:8880/stalker/itv4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itvbe.stream
-http://latino-webtv.ml:8880/stalker/itvbe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",itvencore.stream
-http://latino-webtv.ml:8880/stalker/itvencore.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",juspunjabi.stream
-http://latino-webtv.ml:8880/stalker/juspunjabi.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",living.stream
-http://latino-webtv.ml:8880/stalker/living.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",mgreats.stream
-http://latino-webtv.ml:8880/stalker/mgreats.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",mh1.stream
-http://latino-webtv.ml:8880/stalker/mh1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",more4.stream
-http://latino-webtv.ml:8880/stalker/more4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movaction.stream
-http://latino-webtv.ml:8880/stalker/movaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movcomedy.stream
-http://latino-webtv.ml:8880/stalker/movcomedy.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movdisney.stream
-http://latino-webtv.ml:8880/stalker/movdisney.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movdrama.stream
-http://latino-webtv.ml:8880/stalker/movdrama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movfamily.stream
-http://latino-webtv.ml:8880/stalker/movfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movies24.stream
-http://latino-webtv.ml:8880/stalker/movies24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movpremier.stream
-http://latino-webtv.ml:8880/stalker/movpremier.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movscifi.stream
-http://latino-webtv.ml:8880/stalker/movscifi.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movselect.stream
-http://latino-webtv.ml:8880/stalker/movselect.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",movthriller.stream
-http://latino-webtv.ml:8880/stalker/movthriller.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",mutv.stream
-http://latino-webtv.ml:8880/stalker/mutv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",pick.stream
-http://latino-webtv.ml:8880/stalker/pick.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",playmax.stream
-http://latino-webtv.ml:8880/stalker/playmax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ptcchakde.stream
-http://latino-webtv.ml:8880/stalker/ptcchakde.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ptcpunjabi.stream
-http://latino-webtv.ml:8880/stalker/ptcpunjabi.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",racinguk.stream
-http://latino-webtv.ml:8880/stalker/racinguk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",rishtey.stream
-http://latino-webtv.ml:8880/stalker/rishtey.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",rte1.stream
-http://latino-webtv.ml:8880/stalker/rte1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",rte2.stream
-http://latino-webtv.ml:8880/stalker/rte2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",saharaone.stream
-http://latino-webtv.ml:8880/stalker/saharaone.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",samay.stream
-http://latino-webtv.ml:8880/stalker/samay.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WOBILA
+http://latino-webtv.ml:8880/stalker/WOBILA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WPA2PR
+http://latino-webtv.ml:8880/stalker/WPA2PR/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",WarnerLA
+http://latino-webtv.ml:8880/stalker/WarnerLA/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AELatinoamericaHD
+http://latino-webtv.ml:8880/stalker/AELatinoamericaHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AMCLASD
+http://latino-webtv.ml:8880/stalker/AMCLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AXNLA
+http://latino-webtv.ml:8880/stalker/AXNLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AnimalPlanetLASD
+http://latino-webtv.ml:8880/stalker/AnimalPlanetLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AzCorazonLA
+http://latino-webtv.ml:8880/stalker/AzCorazonLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",AzMundoLA
+http://latino-webtv.ml:8880/stalker/AzMundoLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",Azteca7LA
+http://latino-webtv.ml:8880/stalker/Azteca7LA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BBCEntLA
+http://latino-webtv.ml:8880/stalker/BBCEntLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BabyTVLASD
+http://latino-webtv.ml:8880/stalker/BabyTVLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",BoomerangLA
+http://latino-webtv.ml:8880/stalker/BoomerangLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CartoonNetworkLASD
+http://latino-webtv.ml:8880/stalker/CartoonNetworkLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CbeebiesLA
+http://latino-webtv.ml:8880/stalker/CbeebiesLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineCanalLA
+http://latino-webtv.ml:8880/stalker/CineCanalLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineCanalPrimeLA
+http://latino-webtv.ml:8880/stalker/CineCanalPrimeLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineDinamitaLA
+http://latino-webtv.ml:8880/stalker/CineDinamitaLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CineLatinoSD
+http://latino-webtv.ml:8880/stalker/CineLatinoSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",CinemaxLASD
+http://latino-webtv.ml:8880/stalker/CinemaxLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ClaroSportLA
+http://latino-webtv.ml:8880/stalker/ClaroSportLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ComedyCentralLA
+http://latino-webtv.ml:8880/stalker/ComedyCentralLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DePeliculaLA
+http://latino-webtv.ml:8880/stalker/DePeliculaLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DePeliculaMPLXLA
+http://latino-webtv.ml:8880/stalker/DePeliculaMPLXLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryChLA
+http://latino-webtv.ml:8880/stalker/DiscoveryChLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryHomeHealthLAHD
+http://latino-webtv.ml:8880/stalker/DiscoveryHomeHealthLAHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryKidsSD
+http://latino-webtv.ml:8880/stalker/DiscoveryKidsSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryWorldLA
+http://latino-webtv.ml:8880/stalker/DiscoveryWorldLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryWorldLA_HD
+http://latino-webtv.ml:8880/stalker/DiscoveryWorldLA_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryenEspanolHD
+http://latino-webtv.ml:8880/stalker/DiscoveryenEspanolHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DiscoveryenEspanol_HD
+http://latino-webtv.ml:8880/stalker/DiscoveryenEspanol_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyChannelNorteHD
+http://latino-webtv.ml:8880/stalker/DisneyChannelNorteHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyJrLASD
+http://latino-webtv.ml:8880/stalker/DisneyJrLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyJrUS
+http://latino-webtv.ml:8880/stalker/DisneyJrUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyXDSD
+http://latino-webtv.ml:8880/stalker/DisneyXDSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DisneyXDUS
+http://latino-webtv.ml:8880/stalker/DisneyXDUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",DistritoComediaLA
+http://latino-webtv.ml:8880/stalker/DistritoComediaLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPN2LASD
+http://latino-webtv.ml:8880/stalker/ESPN2LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPN3LASD
+http://latino-webtv.ml:8880/stalker/ESPN3LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ESPNLA
+http://latino-webtv.ml:8880/stalker/ESPNLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EfektoTVLA
+http://latino-webtv.ml:8880/stalker/EfektoTVLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElFinancieroBLA
+http://latino-webtv.ml:8880/stalker/ElFinancieroBLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElLiderLA
+http://latino-webtv.ml:8880/stalker/ElLiderLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ElgourmetLA
+http://latino-webtv.ml:8880/stalker/ElgourmetLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EstrellaTVLA
+http://latino-webtv.ml:8880/stalker/EstrellaTVLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EstrellasLA
+http://latino-webtv.ml:8880/stalker/EstrellasLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EurochannelLA
+http://latino-webtv.ml:8880/stalker/EurochannelLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",EuropaEuropaLA
+http://latino-webtv.ml:8880/stalker/EuropaEuropaLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ExaTVLA
+http://latino-webtv.ml:8880/stalker/ExaTVLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",ExcelsiorTVLA
+http://latino-webtv.ml:8880/stalker/ExcelsiorTVLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",F1LA
+http://latino-webtv.ml:8880/stalker/F1LA/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",setanta.stream
 http://latino-webtv.ml:8880/stalker/setanta.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",sky1.stream
@@ -1888,22 +1106,7 @@ http://latino-webtv.ml:8880/stalker/skysp4.stream/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/skysp5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",skyspf1.stream
 http://latino-webtv.ml:8880/stalker/skyspf1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",sonyin.stream
-http://latino-webtv.ml:8880/stalker/sonyin.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",sonysabtv.stream
-http://latino-webtv.ml:8880/stalker/sonysabtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",sonytv.stream
-http://latino-webtv.ml:8880/stalker/sonytv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",tg4.stream
-http://latino-webtv.ml:8880/stalker/tg4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",travel.stream
-http://latino-webtv.ml:8880/stalker/travel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",true1.stream
-http://latino-webtv.ml:8880/stalker/true1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",true2.stream
-http://latino-webtv.ml:8880/stalker/true2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",truedrama.stream
-http://latino-webtv.ml:8880/stalker/truedrama.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",tsn1.stream
 http://latino-webtv.ml:8880/stalker/tsn1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",tsn2.stream
@@ -1914,10 +1117,5 @@ http://latino-webtv.ml:8880/stalker/tsn3.stream/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/tsn4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",tsn5.stream
 http://latino-webtv.ml:8880/stalker/tsn5.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",watch.stream
-http://latino-webtv.ml:8880/stalker/watch.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",willowshd.stream
-http://latino-webtv.ml:8880/stalker/willowshd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",zeetv.stream
-http://latino-webtv.ml:8880/stalker/zeetv.stream/playlist.m3u8
+
 
