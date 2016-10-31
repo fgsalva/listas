@@ -209,7 +209,6 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CMD ZR
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/770.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AMERICA TELEVISION ZR
@@ -242,16 +241,11 @@ http://q.gs:80/14844761/chile-cdf-bacico?user=pawer-by-juan&pass=modo-seguro.ts
 http://q.gs:80/14844761/chile-cdf-premiun?user=pawer-by-juan&pass=modo-seguro.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CANAL13 SR
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/761.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX CLASSICS mx
-http://zialcobra.dyndns.org:8000/live/mexico/mexico/608.ts
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TRAVEL & LIVING ZR
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/812.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT SERIES ZR
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/813.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",500 Dias con Ella
-http://zialcobra.dyndns.org:8000/movie/mexico/mexico/936.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",13 Asesinos
-http://zialcobra.dyndns.org:8000/movie/mexico/mexico/935.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MAX UP
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/1034.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",maxprime
@@ -298,6 +292,9 @@ http://zialcobra.dyndns.org:8000/live/mexico/mexico/769.ts
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/768.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",frecuencia latina
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/762.ts
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX CLASSICS mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/608.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX LIFE mx
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/605.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX COMEDY mx
@@ -386,8 +383,6 @@ http://zialcobra.dyndns.org:8000/live/mexico/mexico/610.ts
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/613.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO PLUS mx
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/594.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",JASMIN XXX
-http://zialcobra.dyndns.org:8000/live/mexico/mexico/331.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",REAL MADRID ES
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/294.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AMAZING
@@ -682,6 +677,10 @@ http://zialcobra.dyndns.org:8000/live/mexico/mexico/1029.ts
 http://zialcobra.dyndns.org:8000/live/mexico/mexico/1030.ts
 
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",500 Dias con Ella
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/936.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",13 Asesinos
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/935.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Noche en el Museo 3
 http://zialcobra.dyndns.org:8000/movie/mexico/mexico/381.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Noche en el Museo 2
