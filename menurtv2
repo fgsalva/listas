@@ -17,20 +17,6 @@
 <link>http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail></thumbnail>
 </item>
-
-<item>
-<title>CANAL+ESTRENOS spordevil</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-</item>
-<item>
-<title>Fox spordevil</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/fox.php/sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-</item>
-
-
-
 <item>
 <title>CANAL+ ACCION</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/accion_bijd7ld/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
@@ -459,6 +445,44 @@ nopitem>
 </item>
 
 </stream>
+
+
+
+<item>
+<title>CANAL+ESTRENOS spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+<item>
+<title>Fox spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/fox.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+<item>
+<title>Space spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/space.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+
+<item>
+<title>Cinemax spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/cinemax.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+<item>
+<title>Space spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/space.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+<item>
+<title>Amc spordevil</title>
+<sportsdevil>http://cinestrenostv.tv/canales/argentina/amc.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
 
 
 
