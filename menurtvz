@@ -288,3 +288,17 @@
 </item>
 </streaminginfo>
 
+
+
+
+
+<streaminginfo>
+		<cname>GET-DELINK SRC Canal+ sport</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
