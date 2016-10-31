@@ -289,6 +289,20 @@
 </streaminginfo>
 
 
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>GET-DELINK SRC beines</cname>
+<item>
+<title>Bein es cuatro iframe1</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+<regex>
+<name>get-delink</name>
+<expres>link4source src="(.*?)"</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
+</regex> 
+</item>
+</streaminginfo>
 
 
 
@@ -315,4 +329,4 @@
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
 </regex> 
 </item>
-	</streaminginfo>
+</streaminginfo>
