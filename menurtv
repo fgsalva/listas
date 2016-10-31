@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 
+<item>
+    <title>[COLOR yellow]a y e modo 1[/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts</link>
+    </item>
 
+<item>
+    <title>[COLOR yellow]aye modo 2[/COLOR]</title>
+    plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts
+    </item>
+    
+    
+    <item>
+    <title>[COLOR yellow]fox modo 1[/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts</link>
+    </item>
+
+<item>
+    <title>[COLOR yellow]fox modo 2[/COLOR]</title>
+   plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts
+    </item>
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Canal + Liga Esperar[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
