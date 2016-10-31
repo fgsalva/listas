@@ -18,10 +18,26 @@
 <streaminginfo>
 <cname>Sky Sports 5</cname>
 <item>
-<title>Link4</title>
-				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/8enq4zq05aduvj3/skysport5.xml menutvdatos</page>
-				</regex> 
+<title>Link4 Sky Sports 5</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+<regex>
+<name>get-delink</name>
+<expres>link4source src="(.*?)"</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
+</regex> 
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Sky Sports 5</cname>
+<item>
+<title>Link5 Sky Sports 5</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+<regex>
+<name>get-delink</name>
+<expres>link5source src="(.*?)"</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvzdatos</page>
+</regex> 
+</item>
+</streaminginfo>
