@@ -207,3 +207,620 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)jeje
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CMD ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/770.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AMERICA TELEVISION ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/771.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SUPER SPORT
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1031.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",LA RED HD
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1074.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MEGA HD ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/596.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CHV HD ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/447.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CANAL13 HD ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/446.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TVN HD SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/15.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TVN ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/449.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MEGA ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/384.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CHV ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/425.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",13 CABLE ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/429.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",LA RED SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/412.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",cdf bacico
+http://q.gs:80/14844761/chile-cdf-bacico?user=pawer-by-juan&pass=modo-seguro.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",cdf premiun
+http://q.gs:80/14844761/chile-cdf-premiun?user=pawer-by-juan&pass=modo-seguro.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CANAL13 SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/761.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX CLASSICS mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/608.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TRAVEL & LIVING ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/812.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT SERIES ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/813.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",500 Dias con Ella
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/936.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",13 Asesinos
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/935.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MAX UP
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1034.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",maxprime
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1032.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MAX PRIME OESTE.
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1035.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MAX.
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1033.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TLC ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/814.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",NICK ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/815.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MAS CHIC ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/816.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",INVESTIGACION DISCOVERY ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/817.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISNEY XD ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/818.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISNEY JUNIOR ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/819.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISNEY CHANNEL ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/820.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CCTV ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/821.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISCOVERY KIDS ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/822.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISCOVERY H&H  ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/823.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISCOVERY CHANNEL SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/824.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CNN ESPAÑOL ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/825.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CARTOON NETWOORK ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/826.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",BOOMERANG ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/827.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FILMZONE SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/256.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",A&E SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MTV ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/769.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MTV HITS ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/768.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",frecuencia latina
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/762.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX LIFE mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/605.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX COMEDY mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/607.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CANAL FOX mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/612.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",UFC mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/452.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/276.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN 2 ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/272.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MUNDO FOX SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/262.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FX SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/268.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX LIFE SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/261.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TVE ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/434.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TELEFE ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/432.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TELETRAK ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/430.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ZONA LATINA
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/426.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TBS ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/421.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CNN CHILE ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/400.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",WARNER BROSS ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/398.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",NATIONAL GEOGRAPHIC ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/407.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AXN ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/399.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HISTORY SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/385.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",UNIVERSAL CHANNEL SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/255.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/259.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",STUDIO UNIVERSAL SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/267.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SPACE SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/265.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SONY SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/269.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ANIMAL PLANET SR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/253.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CARACOL zR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/254.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",WINSPORT
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/351.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORTS 2 ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/694.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORTS CHILE ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/693.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO Signature mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/592.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO PLUS OESTE mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/593.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO OESTE mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/597.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/600.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO FAMILY mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/598.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO 2 mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/599.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORT MEXICO
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/603.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORT 3  mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/601.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORT 2 mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/602.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX MOVIES mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/604.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX FAMILY mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/606.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX CINEMA mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/609.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX ACTION mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/610.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX 1 ESTE mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/613.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO PLUS mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/594.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",JASMIN XXX
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/331.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",REAL MADRID ES
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/294.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AMAZING
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/355.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SONY BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/441.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",NATIONAL GEOGRAPHIC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/445.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FX BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/444.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DISCOVERY H&H BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/442.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DICOVERY TURBO BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/443.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ANIMAL PLANET BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/440.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",UNIVERSAL CHANNEL BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/293.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SPORTV 2 BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/292.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SPN BRASIL BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/281.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SPN BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/280.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",RECORD BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/291.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",PFC BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/288.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",PFC 5 BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/290.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",PFC 2 BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/289.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO ASIGNATURE BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/287.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",HBO 2 BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/286.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",GLOBO SP BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/285.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",GLOBO RBS BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/284.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",GLOBO NEW BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/283.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX SPORT 2 BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/282.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",BANDSPORT BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/279.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",BANDA NEW BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/278.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AXN BR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/277.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MUSICA
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/356.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",VIRGIN RADIO
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/357.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MIAMI TV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/389.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",LANCELOT
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/133.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MEGAPIX
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/388.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TVE 24H
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/790.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TV3
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/784.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TELET VENEZUELA
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/792.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TELEMUNDO 39
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/785.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TELEMAX
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/787.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SMOTV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/774.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",RETRO TV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/794.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",PROYECTO 40
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/786.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",NEOX
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/781.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MEGA ESP
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/776.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",LA SEXTA
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/778.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FOX 1 OESTE mx
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/611.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",EUROSPORT
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/772.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",EURONEWS
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/789.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DW LATINOAMERICA
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/791.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",DEPORTV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/775.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CNN INTERNACIONAL
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/777.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CDO PREMIUN ZR
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/773.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ATRESERIES
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/779.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ANTENA 3
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/782.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ANIME TV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/795.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",360 TV
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/783.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Warner Channel EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/942.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",VH1 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/944.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",VH1 Classics EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/943.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Universal EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/946.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Universal Channel EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/945.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Unicable EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/947.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Tru TV EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/938.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Tooncast EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/948.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT Series EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/949.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT HD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/950.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TNT EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/951.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TLnovelas EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/952.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TVE Internacional EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/937.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TIIN EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/939.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Telehit EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/954.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Teleformula EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/955.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Space SD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/959.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",PXTV HD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/963.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Nick Jr EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/968.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Multimedios EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/969.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Milenio EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/972.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Cinecanal EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1014.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Bandamax EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1024.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Azteca Novelas EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1027.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TLC Discovery EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/953.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TCM EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/940.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",TBS EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/956.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",SyFy EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/957.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Studio Universal EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/958.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Space EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/960.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Sony EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/961.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Ritmoson EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/962.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Proyecto 40 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/964.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",NickToons EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/965.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Nickelodeon EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/966.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Nick2 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/967.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MTV Live HD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/941.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MTV hits EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/970.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",MTV EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/971.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Lifetime EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/973.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",iSat EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/974.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Investigation Discovery EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/975.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",History EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/976.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Golden Edge EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/977.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Golden EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/978.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FX SD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/979.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",FX EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/980.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox1 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Sports EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/983.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Sports 2 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/982.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox SD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/984.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Movies EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/985.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Life EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/986.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/990.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Classics EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/987.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Cinema EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/988.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fox Action EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/989.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Foro TV EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/991.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Film Zone EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/992.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN Plus EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/994.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/997.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN 3 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/995.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",ESPN 2 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/996.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",E! EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/998.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Distrito Comedia EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/999.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Disney XD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1002.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Disney Junior EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1003.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Disney Channel EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1004.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery World EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1005.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Turbo EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1006.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Teather EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1000.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Science EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1007.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Kids EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1008.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Home & Health EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1009.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Civilization EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1010.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Discovery Channel EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1011.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",De Película HD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/993.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Comedy Central EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1001.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Cinemax EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1012.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Cinecanal HD EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1013.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",CBeebies EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1015.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Cartoon Network EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1016.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Canal Once EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1017.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Canal Gourmet EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1018.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Canal de las Estrellas EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1019.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Canal 5 EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1020.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Boomerang EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1021.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",BBC Entertainment EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1023.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Azteca Trece EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1025.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Azteca Siete EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1026.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Azteca Noticias EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/830.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Animal Planet EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1028.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",AMC EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1029.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",A&E EC
+http://zialcobra.dyndns.org:8000/live/mexico/mexico/1030.ts
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Noche en el Museo 3
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/381.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Noche en el Museo 2
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/380.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Vamos de Robo
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1044.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Bala en la Cabeza
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1043.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Ted 2
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1050.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Ted
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1049.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Mi Abuelo es un Peligro
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1047.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Mejor Solteras
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1042.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",La Niebla
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1051.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Iron Man 3
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1038.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Iro Man 2
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1037.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Iro Man 1
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1036.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Inmortales
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1039.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Transportador 4
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1073.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Septimo Hijo
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1070.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Secreto de Adeline
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1069.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Rey Escorpion 4
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1071.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El puente de los Espias
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1067.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Niño 44
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1068.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Mas Buscado
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1066.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Marino 4
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1065.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Incidente
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1048.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Hombre Araña 3
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1063.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Guru de Bodas
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1064.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Gato con Botas
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1040.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Escape del Siglo
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1062.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Diablo Viste de Parada
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1046.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Bosque de los Suicidios
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1045.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Dope Atrapado en los 90
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1072.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Crimenes Ocultos
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1061.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Batman vs Robin
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1060.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Angel de Venganza
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1059.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Anacleto El Agente secreto
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1058.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Amenaza en la Red
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1054.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Alzando el Vuelo
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1053.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Alma Salvaje
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1052.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",A la Mala
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1057.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",90 Minutos en el Cielo
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1055.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",8 Tiros
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/1056.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Una Noche en el Museo 1
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/379.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Tierra de Osos
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/382.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Un vuelo de locura
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/760.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Toy story
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/758.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Impacto mortal
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/757.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Asesino de La Carretera
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/759.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Tarzan 2
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/383.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Rescatando a Papa
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/376.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Rapido y Furioso 7
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/375.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Que paso Ayer
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/372.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",La gran Fiesta
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/394.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Hombre de la Mascara de Hierro
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/393.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Fuego de la Venganza
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/392.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Asalto al Furgon Blindado
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/391.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Amor y Honor
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/390.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Malditos Vecinos
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/378.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",La Dictadura Perfecta
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/371.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Guardianes de la Galaxia
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/370.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Francotirador
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/374.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Este Cuerpo no es Mio
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/377.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",En el Bosque
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/373.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Red Line
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/369.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Perfume
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/366.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Peligro en Bangkok
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/365.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Niña Mala
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/360.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Mensajero de la Oscuridad
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/362.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",La Vida Perfecta
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/367.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Horas de Oscuridad
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/361.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Fiesta de Bodas
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/363.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Esquizofrenia
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/364.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",Espia por Accidente
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/368.mp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="cobra",El Matador
+http://zialcobra.dyndns.org:8000/movie/mexico/mexico/359.mp4
