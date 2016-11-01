@@ -364,3 +364,10 @@ nopitem>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/livefootball.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
+
+<item>
+<title>Champion Legue (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/watch.php?title=UEFA+Champions+League&channel=uefachampionsleague%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
+<referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
+</item>
+
