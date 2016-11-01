@@ -360,33 +360,37 @@ nopitem>
 </item>
 
 <item>
-<title>live footbal (Spordevil www.liveonlinetv247.info*)</title>
+<title>live footbal (Spordevil 247.info*)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/livefootball.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
 
 <item>
-<title>Champion Legue (en vivo ingles) (Spordevil www.liveonlinetv247.info*-)</title>
+<title>Live Sport (Spordevil 247.info*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/livesports.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
+<referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
+</item>
+
+<item>
+<title>Champion Legue  (Spordevil 247.info*-)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/uefachampionsleague.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
 
 <item>
-<title>Premier (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<title>Premier  (Spordevil 247.info*)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/barclayspremierleague.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
 
 <item>
-<title>fs1 uk (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<title>fs1 uk (en vivo ingles) (Spordevil 247.info*)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/foxsports1.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
 
-
-
 <item>
-<title>fs2 uk (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<title>fs2 uk (en vivo ingles) (Spordevil 247.info*)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/foxsports2.php%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
