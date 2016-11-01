@@ -346,3 +346,15 @@ nopitem>
 <link>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbt%2bsport%2b2%2bonline%2ben%2bdirecto%26catcher%3dstreams%26title%3dBt%2bSport%2b2%26url%3dhttp%253A%252F%252Fcinestrenostv.tv%252Fcanales%252Fdeportes%252Fbtsport2.php%26cfg%3dcinestrenostv.tv.cfg%2540Catch%26videoTitle%3dBt%2bSport%2b2%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fcinestrenostv.tv%252F%26definedIn%3dcinestrenostv.tv.cfg%26type%3drss%26icon%3d%252Fimg%252Fbtsport2.png&mode=1</link>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
+
+<item>
+<title>BT1 (Spordevil Cinestreno*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport1.php&referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
+
+<item>
+<title>BT2 (Spordevil Cinestreno*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport2.php&referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
