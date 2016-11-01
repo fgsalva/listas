@@ -371,3 +371,22 @@ nopitem>
 <referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
 </item>
 
+<item>
+<title>Premier (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=www.liveonlinetv247.info/watch.php?title=Barclays+Premier+League&channel=barclayspremierleague%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
+<referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
+</item>
+
+<item>
+<title>fs1 uk (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/watch.php?title=Fox+Sports+1&channel=foxsports1%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
+<referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
+</item>
+
+
+
+<item>
+<title>fs2 uk (en vivo ingles) (Spordevil www.liveonlinetv247.info*)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/watch.php?title=Fox+Sports+2&channel=foxsports2%26referer=http://www.liveonlinetv247.info/tvchannels.php</link>
+<referer>http://www.liveonlinetv247.info/tvchannels.php<referer>
+</item>
