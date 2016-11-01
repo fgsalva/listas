@@ -346,11 +346,6 @@ nopitem>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
 
-<item>
-<title>BT1 (Spordevil Cinestreno*******)</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport1.php</link>
-<referer>http://cinestrenostv.tv/<referer>
-</item>
 
 <item>
 <title>BT2 (Spordevil Cinestreno**)</title>
@@ -364,9 +359,8 @@ nopitem>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
 
-
 <item>
-<title>BT2 (Spordevil Cinestreno*******)</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport2.php</link>
-<referer>http://cinestrenostv.tv/<referer>
+<title>live footba (Spordevil www.liveonlinetv247.info)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/watch.php%26referer=http://www.liveonlinetv247.info</link>
+<referer>http://www.liveonlinetv247.info<referer>
 </item>
