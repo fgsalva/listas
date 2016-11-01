@@ -340,7 +340,17 @@ nopitem>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cinestrenostv.tv/canales/deportes/btsport1.php%26referer=http://cinestrenostv.tv/</link>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
+<item>
+<title>BT1 (Spordevil Cinestreno***)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url%3dhttp%253A%252F%252Fcinestrenostv.tv%252Fcanales%252Fdeportes%252Fbtsport1.php%26referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
 
+<item>
+<title>BT1 (Spordevil Cinestreno*****)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport1.php&referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
 
 <item>
 <title>BT2 (Spordevil Cinestreno**)</title>
@@ -348,4 +358,15 @@ nopitem>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
 
+<item>
+<title>BT2 (Spordevil Cinestreno***)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url%3dhttp%253A%252F%252Fcinestrenostv.tv%252Fcanales%252Fdeportes%252Fbtsport2.php%26referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
 
+
+<item>
+<title>BT2 (Spordevil Cinestreno*****)</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cinestrenostv.tv/canales/deportes/btsport2.php&referer=http://cinestrenostv.tv/</link>
+<referer>http://cinestrenostv.tv/<referer>
+</item>
