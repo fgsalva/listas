@@ -1,4 +1,48 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
+http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
+http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
+http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Directv Sports !!
+http://latino-webtv.ml:8880/directv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3Master
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta Castalba index3
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8?sd=10&rebase=on/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index 1
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA MASTER
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
+
+
+
 #EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif"group-title="MarrTV1",Gala TV HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif"group-title="MarrTV1",Fox HD
