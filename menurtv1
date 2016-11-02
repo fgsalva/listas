@@ -113,6 +113,14 @@ http://latino-webtv.ml:8880/stalker/ElgourmetLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",EstrellaTVLA
 http://latino-webtv.ml:8880/stalker/EstrellaTVLA/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN ARG
+http://latino-webtv.ml:8880/gx/tv-espnar/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN2 ARG
+http://latino-webtv.ml:8880/gx/tv-espn2ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN3 ARG
+http://latino-webtv.ml:8880/gx/tv-espn3ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA FOX SPORT ARG HD
+http://latino-webtv.ml:8880/gx/tv-foxsparhd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
