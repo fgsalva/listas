@@ -123,6 +123,31 @@ http://latino-webtv.ml:8880/gx/tv-espn3ar/playlist.m3u8
 http://latino-webtv.ml:8880/gx/tv-foxsparhd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA 26TV
+http://latino-webtv.ml:8880/gx/tv-26tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA AMERICA 24
+http://latino-webtv.ml:8880/gx/tv-amerca24/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA C5N ARG
+http://latino-webtv.ml:8880/gx/tv-c5narg/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA CANAL 9
+http://latino-webtv.ml:8880/gx/tv-canal9/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA DEPORTV
+http://latino-webtv.ml:8880/gx/tv-deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ELTRECE
+http://latino-webtv.ml:8880/gx/tv-eltrece/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA TV-ENCUENTRO
+http://latino-webtv.ml:8880/gx/tv-encuentro/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA TELEFE
+http://latino-webtv.ml:8880/gx/tv-telefe/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA TN
+http://latino-webtv.ml:8880/gx/tv-tn/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA TVP
+http://latino-webtv.ml:8880/gx/tv-tvp/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA TYC
+http://latino-webtv.ml:8880/gx/tv-tyc/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA VOLVER
+http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="especial",BCONETC
