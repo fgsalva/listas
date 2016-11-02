@@ -671,10 +671,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL481/PROFILE03.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif"group-title="MarrTVnop",Fox MMMM
 http://latino-webtv.ml:8880/tpmariocs/CANAL251/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif"group-title="MarrTVnop",Sony
@@ -727,9 +723,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL702/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/bandamax.gif"group-title="MarrTVnop",Bandamax
 http://latino-webtv.ml:8880/tpmariocs/CANAL732/PROFILE03.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",FOXACTIONLASD*
@@ -826,10 +819,6 @@ http://latino-webtv.ml:8880/stalker/CineDinamitaLA/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/CineLatinoSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",DiscoveryKidsSD*
 http://latino-webtv.ml:8880/stalker/DiscoveryKidsSD/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",DiscoveryenEspanolHD*
 http://latino-webtv.ml:8880/stalker/DiscoveryenEspanolHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",DisneyChannelNorteHD*
@@ -848,11 +837,6 @@ http://latino-webtv.ml:8880/stalker/EfektoTVLA/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/ElgourmetLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",EstrellaTVLA
 http://latino-webtv.ml:8880/stalker/EstrellaTVLA/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOX1LASD
 http://latino-webtv.ml:8880/stalker/FOX1LASD/playlist.m3u8
