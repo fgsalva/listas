@@ -724,7 +724,14 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/bandamax.gif"group-title="MarrTVnop",Bandamax
 http://latino-webtv.ml:8880/tpmariocs/CANAL732/PROFILE03.m3u8
 
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",FOX1LASD*
+http://latino-webtv.ml:8880/stalker/FOX1LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",FoxLifeSD
+http://latino-webtv.ml:8880/stalker/FoxLifeSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",TLCLASD*
+http://latino-webtv.ml:8880/stalker/TLCLASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",TNTAmericaLatinaHD*
+http://latino-webtv.ml:8880/stalker/TNTAmericaLatinaHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",FOXACTIONLASD*
 http://latino-webtv.ml:8880/stalker/FOXACTIONLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",FOXClassicsLASD*
@@ -747,9 +754,7 @@ http://latino-webtv.ml:8880/stalker/HBOLASD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/HBOPlusLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",HBOPus2LASD*
 http://latino-webtv.ml:8880/stalker/HBOPus2LASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StudioUniversalSD
-http://latino-webtv.ml:8880/stalker/StudioUniversalSD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TDNMXLA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",TDNMXLA*
 http://latino-webtv.ml:8880/stalker/TDNMXLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",InvDiscoverySD*
 http://latino-webtv.ml:8880/stalker/InvDiscoverySD/playlist.m3u8
@@ -833,12 +838,10 @@ http://latino-webtv.ml:8880/stalker/ESPN3LASD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/ESPNLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",EfektoTVLA*
 http://latino-webtv.ml:8880/stalker/EfektoTVLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",ElgourmetLA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",ElgourmetLA*
 http://latino-webtv.ml:8880/stalker/ElgourmetLA/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",EstrellaTVLA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK",EstrellaTVLA*
 http://latino-webtv.ml:8880/stalker/EstrellaTVLA/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN ARG
 http://latino-webtv.ml:8880/gx/tv-espnar/playlist.m3u8
@@ -848,8 +851,6 @@ http://latino-webtv.ml:8880/gx/tv-espn2ar/playlist.m3u8
 http://latino-webtv.ml:8880/gx/tv-espn3ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA FOX SPORT ARG HD
 http://latino-webtv.ml:8880/gx/tv-foxsparhd/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA 26TV
 http://latino-webtv.ml:8880/gx/tv-26tv/playlist.m3u8
@@ -877,10 +878,8 @@ http://latino-webtv.ml:8880/gx/tv-tyc/playlist.m3u8
 http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOX1LASD
-http://latino-webtv.ml:8880/stalker/FOX1LASD/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",StudioUniversalSD
+http://latino-webtv.ml:8880/stalker/StudioUniversalSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOX1OesteLASD
 http://latino-webtv.ml:8880/stalker/FOX1OesteLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FOXComedyLASD
@@ -891,8 +890,6 @@ http://latino-webtv.ml:8880/stalker/infinitoSD/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/FXLASD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FilmZoneLASD
 http://latino-webtv.ml:8880/stalker/FilmZoneLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxLifeSD
-http://latino-webtv.ml:8880/stalker/FoxLifeSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",FoxSportsLA
 http://latino-webtv.ml:8880/stalker/FoxSportsLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",GoldenMPLXLA
@@ -919,10 +916,6 @@ http://latino-webtv.ml:8880/stalker/MaxPanLA/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/MultimediosLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",NBCUniversoUS
 http://latino-webtv.ml:8880/stalker/NBCUniversoUS/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TLCLASD
-http://latino-webtv.ml:8880/stalker/TLCLASD/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TNTAmericaLatinaHD
-http://latino-webtv.ml:8880/stalker/TNTAmericaLatinaHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVCLA
 http://latino-webtv.ml:8880/stalker/TVCLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSk",TVChileLA
@@ -1061,6 +1054,7 @@ http://latino-webtv.ml:8880/stalker/tsn5.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSknot",FOXHD
 http://latino-webtv.ml:8880/stalker/FOXHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSknot",FOXMIASD
@@ -1135,7 +1129,6 @@ http://latino-webtv.ml:8880/stalker/HBOSignatureEastUS/playlist.m3u8
 http://latino-webtv.ml:8880/stalker/HBOWestUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSknot",HBOZoneUS
 http://latino-webtv.ml:8880/stalker/HBOZoneUS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSknot",IDUS
 http://latino-webtv.ml:8880/stalker/IDUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSknot",IDUS_HD
