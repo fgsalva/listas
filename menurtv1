@@ -157,7 +157,7 @@ http://latino-webtv.ml:8880/gx/tv-tyc/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA VOLVER
 http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
 
--title="DEPORTES",canal peliculas
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif"group-title="especial",BCONETC
 http://latino-webtv.ml:8880/beinhd/playlist.m3u8
