@@ -317,7 +317,7 @@
 
 
 <item>
-<title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] Gracias a Manuel L[/COLOR]</title>
+<title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] *[/COLOR]</title>
 <link>http://104.223.36.232:1935/live/myStream/playlist.m3u8</link>
 </item>
 
@@ -859,7 +859,7 @@ nopitem>
 </item>
 
 <item>
-<title><title>[COLOR yellow]Bein ñ vip[/COLOR]</title
+<title><title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
 </item>
