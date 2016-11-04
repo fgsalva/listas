@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 <item>
-<title><title>[COLOR yellow]***********FERRERLIST**********[/COLOR]</title>
+<title>[COLOR yellow]***********FERRERLIST**********[/COLOR]</title>
 <link>http://0.0.0.0.0</link>
 </item>
 
@@ -856,7 +856,7 @@ nopitem>
 </item>
 
 <item>
-<title><title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
+<title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
 </item>
