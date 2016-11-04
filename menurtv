@@ -430,7 +430,7 @@
 </item>
 
 <item>
-<title>[COLOR=yelloww]DISCOVERY CHANNEL[/B][COLOR orange] Opción 2 [/COLOR]</title>
+<title>[COLOR=yelloww]DISCOVERY CHANNEL[COLOR orange] Opción 2 [/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
 </item>
 
@@ -580,7 +580,7 @@
        
 				 
 <item>
-<title>[COLOR=white]HBO bay[/B][/COLOR] </title>
+<title>[COLOR=white]HBO bay[/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -665,10 +665,7 @@
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.247bay.tv</referer>
 </regex>
-<thumbnail>http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_649.png</thumbnail>
-<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
-<info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
-</item>http://tvpor-internet.com/fox-1-en-vivo.html
+</item>
 
 <item>
 <title>[COLOR=white]FOX ACTION janjua[/COLOR]</title>
