@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title><title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
+<title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
+</item>
+
+<item>
+<title>[COLOR yellow]Bein ligaplus[/COLOR]</title>
+<link>http://latino-webtv.ml:8880/ligaplus/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR yellow]Bein Conect[/COLOR]</title>
+<link>http://latino-webtv.ml:8880/beinhd/playlist.m3u8</link>
 </item>
 
 <item> 
@@ -15,15 +25,6 @@
 <title>[COLOR yellow]Bein ingles 15 1hd[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-sport-1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
-</item>
-<item>
-<title>[COLOR yellow]Bein ligaplus[/COLOR]</title>
-<link>http://latino-webtv.ml:8880/ligaplus/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR yellow]Bein Conect[/COLOR]</title>
-<link>http://latino-webtv.ml:8880/beinhd/playlist.m3u8</link>
 </item>
 
 <item>
