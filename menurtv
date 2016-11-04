@@ -333,6 +333,12 @@ nopitem>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtve</externallink>
 </item>
 
+<item> <title>[COLOR yellow]b.e.in us [/COLOR][COLOR green]F4M*[/COLOR]</title>	
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.6.8:8000/live/00/00/1166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
+<item> <title>[COLOR yellow]b.e.i.n 17ES [/COLOR][COLOR green]F4M*[/COLOR]</title>	
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.hitech0iptv.com:8000/live/elf/elf/1121.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
+
+
 <item> <title>[COLOR red]CMD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/770.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
 <item> <title>[COLOR red]AMERICA TELEVISION ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
