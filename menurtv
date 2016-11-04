@@ -877,6 +877,12 @@ nopitem>
 </item>
 
 <item>
+<title>[COLOR yellow]Bein Conect[/COLOR]</title>
+<link>http://latino-webtv.ml:8880/beinhd/playlist.m3u8</link>
+</item>
+
+
+<item>
 <title>BT1 (Spordevil Cinestreno**)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cinestrenostv.tv/canales/deportes/btsport1.php%26referer=http://cinestrenostv.tv/</link>
 <referer>http://cinestrenostv.tv/<referer>
