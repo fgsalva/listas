@@ -315,6 +315,7 @@
             <thumbnail></thumbnail>
             </item>
 
+
 <item>
 <title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] Gracias a Manuel L[/COLOR]</title>
 <link>http://104.223.36.232:1935/live/myStream/playlist.m3u8</link>
@@ -324,6 +325,85 @@
 <title>[COLOR=white]Miami TV[/COLOR]</title>
 <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
 </item>
+
+<item>
+<title>[COLOR=white]Univision Pacifico[/COLOR] </title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-url</name>
+<expres>http://(.*)</expres>
+<page>http://iphone-streaming.ustream.tv/uhls/22738162/streams/live/iphone/playlist.m3u8</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<referer>http://ustream.tv</referer>
+</regex>
+</item>
+<item>
+<title>[COLOR=white]CANAL DE LAS ESTRELLAS inest[/COLOR]</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo SD ustream[/COLOR] </title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-url</name>
+<expres>http://(.*)</expres>
+<page>http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<referer>http://ustream.tv</referer>
+</regex>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/telemundo_logo_detail.jpg</thumbnail>
+<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR=white]Telemundo HD[/COLOR] [COLOR=orange]Opción 3[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 4[/COLOR] [COLOR=green]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://m.chiivass69.es.tl/TELE-2.htm</sportsdevil>
+<referer>http://m.chiivass69.es.tl</referer>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 5[/COLOR] [COLOR=green]Sportsdevil[/COLOR]</title>
+<sportsdevil>http://m.chiivass69.es.tl/TELE-3.htm</sportsdevil>
+<referer>http://m.chiivass69.es.tl</referer>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo Pacifico[/COLOR]</title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-url</name>
+<expres>http://(.*)</expres>
+<page>http://iphone-streaming.ustream.tv/uhls/22736242/streams/live/iphone/playlist.m3u8</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<referer>http://ustream.tv</referer>
+</regex>
+</item>
+
+     
+<item>
+<title>[COLOR=white]Univision SD ustream[/COLOR]</title>
+<link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-url</name>
+<expres>http://(.*)</expres>
+<page>http://iphone-streaming.ustream.tv/uhls/22781454/streams/live/iphone/playlist.m3u8</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<referer>http://ustream.tv</referer>
+</regex>
+</item>
+
+
 
 <item>
 <title>[COLOR=yellow][B]DISCOVERY CHANNEL janjua[/B][/COLOR]</title>
