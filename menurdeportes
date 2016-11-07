@@ -5,8 +5,8 @@
 
 
 <item>
-<title>[COLOR yellow]albun vk[/COLOR]</title>
-<link>plugin://xbmc-vk.svoka.com/?album_id=3&mode=VIDEO_ALBUM_LIST&owner_id=209882599</link>
+<title>[COLOR yellow]albun vk*[/COLOR]</title>
+<link>plugin://xbmc-vk.svoka.com/?&mode=VIDEO_ALBUM_LIST&owner_id=209882599</link>
 <referer>https://vk.com/videos209882599?section=album_3</referer>
 </item>
 
