@@ -137,6 +137,13 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
+ <item>
+<title>[COLOR yellow]prueba vk[/COLOR][COLOR lightslategray] jsonrpc[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://xbmc-vk.svoka.com/?&mode=VIDEO_ALBUM_LIST&owner_id=209882599</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
+
 <item>
 <title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
