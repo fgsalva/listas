@@ -1,3 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>La Familia Monster Página 1</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x3ix5i_werewolf1912_la-familia-monster-temporada-1/1</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>la-familia-monster-temporada-1 Página 2</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x3ix5i_werewolf1912_la-familia-monster-temporada-1/2</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>la-familia-monster-temporada-1 Página 3</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x3ix5i_werewolf1912_la-familia-monster-temporada-1/3</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+<item>
+<title>la-familia-monster-temporada-1 Página 4</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [makelist.param1]</title>
+<link>$doregex[final-url]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"link" title="(.*?)">.*? data-id="(.*?)"</expres>                (.*?)            ([^"]+)
+<page>http://www.dailymotion.com/playlist/x3ix5i_werewolf1912_la-familia-monster-temporada-1/4</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>final-url</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+</regex>
+
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-url</name>
+<expres>mpegURL.*"(http.*auth.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/[makelist.param2]</page>                                        
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+
+</item>
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1,Temporada 1 (byFerrer) capitulo1
 https://cs506515.vk.me/u185818961/videos/98cdd5433b.480.mp4
