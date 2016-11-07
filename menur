@@ -137,7 +137,7 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
- <item>
+ nopitem>
 <title>[COLOR yellow]prueba vk mode 12[/COLOR][COLOR lightslategray] jsonrpc[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://xbmc-vk.svoka.com/?&mode=12&owner_id=209882599</jsonrpc>
@@ -178,6 +178,9 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </regex>
 <thumbnail></thumbnail>
 </item>
+ 
+ 
+ 
  
 <item>
 <title>[COLOR lime][/COLOR][COLOR deepskyblue][B]VaughLive Television 24/7 [COLOR skyblue][/COLOR][/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
