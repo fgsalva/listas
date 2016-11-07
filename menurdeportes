@@ -4,16 +4,6 @@
 
 
 
-<item>
-<title>[COLOR yellow]albun vk*[/COLOR]</title>
-<link>plugin://xbmc-vk.svoka.com/?&mode=VIDEO_ALBUM_LIST&owner_id=209882599</link>
-<referer>https://vk.com/videos209882599?section=album_3</referer>
-</item>
-<item>
-<title>[COLOR yellow]albun vk**[/COLOR]</title>
-<link>plugin://xbmc-vk.svoka.com/?&mode=VIDEO_ALBUM_LIST&owner_id=209882599&url=https://vk.com/videos209882599?section=album_3&z=video185818961_166092275%2Fpl_209882599_3</link>
-<referer>https://vk.com/videos209882599?section=album_3</referer>
-</item>
 
 <item>
 <title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
