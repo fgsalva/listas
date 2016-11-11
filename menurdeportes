@@ -37,7 +37,18 @@
             <thumbnail></thumbnail>
             </item>               
 
+
+<item><title>[COLOR orange][OPCION 1][/COLOR]vipracing.us/channel/opcion-1/frame</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-1/frame')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail></item>
+
 <item>
+
             <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION1 SPORTDEVIL info [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.info/channel/opcion-1/frame</sportsdevil>
             <referer>http://vipracing.us</referer>
