@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-
-
 <item>
 <title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
@@ -18,44 +14,6 @@
 <referer>http://vipracing.info</referer>
 </item>
 
-<item>
-<title>[COLOR yellow]ZONA ESPORT 1[/COLOR][COLOR red] Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=1</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ZONA ESPORT3[/COLOR][COLOR red] Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=3</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ZONA ESPORT 4[/COLOR][COLOR red] Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=4</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-<item>
-<title>[COLOR yellow]ZONA ESPORT9[/COLOR][COLOR red] Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=9</sportsdevil>
-<referer>http://www.zonasports.me/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]ZONA ESPORT10[/COLOR][COLOR red]Zonasport SPORDEVIL[/COLOR]</title>
-<sportsdevil>http://www.zonasports.me/channel.php?id=10</sportsdevil>
-<referer>http://www.zonasports.me</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
 
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
@@ -80,117 +38,11 @@
             </item>               
 
 <item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION2 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-2/frame</sportsdevil>
+            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION1 SPORTDEVIL info [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://vipracing.info/channel/opcion-1/frame</sportsdevil>
             <referer>http://vipracing.us</referer>
             <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION3 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-3/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION3a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-3a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION4 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-4/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION4a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-4a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION5 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-5/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION5a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-5a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION6 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-6/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION6a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-6a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION7 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-7/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-            
-            <item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION7 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-7a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION58 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-8/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION8a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-8a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION9 SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-9/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION9a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-9a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>    
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION10a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-10a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>    
-
-<item>
-            <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION11a SPORTDEVIL  [COLOR lime][/COLOR]</title>
-            <sportsdevil>http://vipracing.us/channel/opcion-11a/frame</sportsdevil>
-            <referer>http://vipracing.us</referer>
-            <thumbnail></thumbnail>
-            </item>    
-
+            </item>       
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]FS1.US SPORTDEVIL SD [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.us/channel/fox1sport/frame</sportsdevil>
