@@ -3,9 +3,9 @@
 
 
 <item>
-<title>[COLOR yellow]OKRU pelis a la cartaa[/COLOR]</title>
-<link>plugin://plugin.video.pelisalacarta/?url=https://ok.ru/video/39220152838</link>
-<referer>https://ok.ru/video/39220152838</referer>
+<title>[COLOR yellow]pelis a la carta UI[/COLOR]</title>
+<link>plugin://plugin.video.pelisalacarta-ui/</link>
+<referer></referer>
 </item>
 
 <item>
