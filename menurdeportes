@@ -3,9 +3,11 @@
 
 
 <item>
-<title>[COLOR yellow]pelis a la carta UI Y[/COLOR]</title>
-<link>plugin://plugin.video.pelisalacarta-ui/&quot</link>
-<referer></referer>
+<title>[COLOR red][/COLOR][COLOR yellow]Pelisalacarta[/COLOR][COLOR white][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.pelisalacarta-ui/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
