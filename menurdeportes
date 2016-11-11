@@ -38,11 +38,11 @@
             </item>               
 
 
-<item><title>[COLOR orange][OPCION 1][/COLOR]vipracing.us/channel/opcion-1/frame</title>
+<item><title>[COLOR orange][OPCION 1][/COLOR]vipracing.info/channel/bein-es/frame</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.us/channel/opcion-1/frame')</expres>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es/frame')</expres>
 <page></page>
 </regex>
 <thumbnail></thumbnail></item>
