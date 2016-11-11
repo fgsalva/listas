@@ -3,9 +3,9 @@
 
 
 <item>
-<title>[COLOR yellow]OKRU[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://ok.ru/video/39220152838%26referer=http://vipracing.info</link>
-<referer>http://vipracing.info</referer>
+<title>[COLOR yellow]OKRU pelis a la carta[/COLOR]</title>
+<link>plugin://plugin.video.pelisalacra/?url=https://ok.ru/video/39220152838</link>
+<referer>https://ok.ru/video/39220152838</referer>
 </item>
 
 <item>
