@@ -22,7 +22,7 @@
             <thumbnail></thumbnail>
             </item>               
 
-<item>
+nopitem>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL SD [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.us/channel/bein-es/frame</sportsdevil>
             <referer>http://vipracing.us/channel/bein-es/frame</referer>
@@ -30,7 +30,7 @@
             </item>               
            
 
-<item>
+nopitem>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]OPCION1 SPORTDEVIL  [COLOR lime][/COLOR]</title>
             <sportsdevil>http://vipracing.us/channel/opcion-1/frame</sportsdevil>
             <referer>http://vipracing.us</referer>
