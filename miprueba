@@ -4,6 +4,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>albun 3</title>
+<link>$doregex[mp4]</link>
+<regex>
+<name>mp4</name>
+<expres>$pyFunction:'$doregex[file]'.replace("\/","/")</expres>
+<page>https://vk.com/videos209882599?section=album_3</page>
+</regex>
+<regex>
+<name>file</name>
+<expres>"720":.*"video\\\/mp4","url":"(.*?720.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_3</page>
+<referer>https://vk.com/videos209882599?section=album_3</referer>
+</regex>
+</item>
+
+
+<item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue] LISTA EXTERNALINK ZOMB[/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml</externallink>
