@@ -1,45 +1,50 @@
-
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
 <item>
-<title>MOVIE (720p+++) RegEx **http://daxab.com/ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43**</title>
-<link>$doregex[getCleanURL]</link>
-<regex>
-<name>getCleanURL</name>
-<expres>$pyFunction:'$doregex[getURL]'.replace('\/','/')</expres>
-<page></page>
-</regex>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]Series VO pack1[/B] [/COLOR][COLOR skyblue]agregar subtitulos[/COLOR] </title>
+<link>$doregex[makelist3]</link>
 
 <regex>
-<name>getURL</name>
-<expres>"url720":"(.*?)"</expres>
-<page>http://vk.com/video_ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43&autoplay=0</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR white] [makelist3.param2] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>href="(.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_3</page>
+<referer></referer>
 <cookieJar></cookieJar>
 </regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param2] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_3[makelist3.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue] [makelist.param2] [/COLOR] </title>
+<link>https://vk.com/videos209882599?section=album_3[makelist3.param1][makelist2.param2][makelist.param1]</link>
+]]></listrepeat>
+<expres>href="(.*?)">(.*?)<</expres>
+<page>https://vk.com/videos209882599?section=album_3[makelist3.param1][makelist2.param2]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://vk.com/videos209882599?section=album_3</fanart>
 </item>
 
 
-<item>
-<title>MOVIE (480p) RegEx **http://daxab.com/ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43**</title>
-<link>$doregex[getCleanURL]</link>
-<regex>
-<name>getCleanURL</name>
-<expres>$pyFunction:'$doregex[getURL]'.replace('\/','/')</expres>
-<page></page>
-</regex>
 
-<regex>
-<name>getURL</name>
-<expres>"url480":"(.*?)"</expres>
-<page>http://vk.com/video_ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43&autoplay=0</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 
 
