@@ -137,13 +137,6 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
  
- nopitem>
-<title>[COLOR yellow]prueba vk mode 12[/COLOR][COLOR lightslategray] jsonrpc[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://xbmc-vk.svoka.com/?&mode=12&owner_id=209882599</jsonrpc>
-<thumbnail></thumbnail>
-<thumbnail></thumbnail></item>
-
 <item>
 <title> [COLOR lime][/COLOR][COLOR yellow][B]SportChannelsHD[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
@@ -179,11 +172,9 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail></thumbnail>
 </item>
  
- 
- 
- 
+  
 <item>
-<title>[COLOR blue][B] TV 24/7 [/B][/COLOR] [COLOR green][B]vaughnlive[/B][/COLOR]</title>
+<title>[COLOR blue][B] TV 24/7 [/B][/COLOR] [COLOR green][B]vaughnlive**[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -304,7 +295,7 @@ nopitem>
 </item>
 
 
-<item>
+nopitem>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]pruebas albumvk[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/miprueba</externallink>
