@@ -5,8 +5,8 @@
 
 
 <item>
-<title>MOVIE (720p) RegEx **http://daxab.com/ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43**</title>
-<link>https://forums.tvaddons.ag/$doregex[getCleanURL]</link>
+<title>MOVIE (720p+++) RegEx **http://daxab.com/ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43**</title>
+<link>$doregex[getCleanURL]</link>
 <regex>
 <name>getCleanURL</name>
 <expres>$pyFunction:'$doregex[getURL]'.replace('\/','/')</expres>
@@ -25,7 +25,7 @@
 
 <item>
 <title>MOVIE (480p) RegEx **http://daxab.com/ext.php?oid=356166081&id=456239068&hash=b250a727f1cd8d43**</title>
-<link>https://forums.tvaddons.ag/$doregex[getCleanURL]</link>
+<link>$doregex[getCleanURL]</link>
 <regex>
 <name>getCleanURL</name>
 <expres>$pyFunction:'$doregex[getURL]'.replace('\/','/')</expres>
