@@ -1,16 +1,13 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", hbo
-http://latino-webtv.ml:8880/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", hbo2
-http://latino-webtv.ml:8880/hbo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", conect hd
 http://latino-webtv.ml:8880/beinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", direct
 http://latino-webtv.ml:8880/directv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", rcnhd
 http://latino-webtv.ml:8880/rcnhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", rcnhd2
+http://latino-webtv.ml:8880/rcnhd2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN ARG
