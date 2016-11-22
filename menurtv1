@@ -8,6 +8,8 @@ http://latino-webtv.ml:8880/directv/playlist.m3u8
 http://latino-webtv.ml:8880/rcnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", rcnhd2
 http://latino-webtv.ml:8880/rcnhd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", caracolhd
+http://latino-webtv.ml:8880/caracolhd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FerrerListSkOK", SUDAMERICA ESPN ARG
