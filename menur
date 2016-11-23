@@ -155,9 +155,9 @@ nopitemFuncionahalandotodoslostvonline>
 
 
 <item>
-<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2aa [/COLOR]</title>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2aaa [/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=cinestrenostv.tv+(Spanish+TV)&url=customs/cinestrenostv.tv.cfg&definedIn=customs.cfg&director=cinestrenostv.tv&genre=Live+TV&type=rss&icon=&amp;mode=1
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=cinestrenostv.tv=url=customs/cinestrenostv.tv.cfg&definedIn=customs.cfg&director=cinestrenostv.tv&genre=Live+TV&type=rss&icon=&amp;mode=1
 </jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
