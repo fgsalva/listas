@@ -131,9 +131,15 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail></thumbnail></item>
 
 <item>
-<title>[COLOR yellow]CinestrenoTV (Spanih) [/COLOR][COLOR lightslategray] Sportsdevi [/COLOR]</title>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
+<item>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=53</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 
