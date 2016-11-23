@@ -147,7 +147,7 @@ nopitemFuncionahalandotodoslostvonline>
 
 
 <item>
-<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2 [/COLOR]</title>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil Perfect [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
@@ -155,14 +155,6 @@ nopitemFuncionahalandotodoslostvonline>
 <item>
 
 
-<item>
-<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2aaa [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=cinestrenostv.tv=url=customs/cinestrenostv.tv.cfg&definedIn=customs.cfg&director=cinestrenostv.tv&genre=Live+TV&type=rss&icon=&amp;mode=1
-</jsonrpc>
-<thumbnail></thumbnail>
-<thumbnail></thumbnail></item>
-<item>
 
 
 <item>
