@@ -124,13 +124,13 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 </item>
 
 <item>
-<title>[COLOR yellow]RojaDirecta [/COLOR][COLOR lightslategray] Sportsdevi [/COLOR]</title>
+<title>[COLOR yellow]RojaDirecta [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 
-<item>
+NopLlama a una pagina antescineitem>
 <title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
@@ -143,6 +143,7 @@ nopitemFuncionahalandotodoslostvonline>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dLive%2bTV%26url%3dcustoms.cfg%26definedIn%3dmainMenu.cfg%26director%3dSportsDevil%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
+
 
 
 <item>
