@@ -136,16 +136,11 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
-<item>
+
+nopitemFuncionahalandotodoslostvonline>
 <title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 1 [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dLive%2bTV%26url%3dcustoms.cfg%26definedIn%3dmainMenu.cfg%26director%3dSportsDevil%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<thumbnail></thumbnail></item>
-<item>
-<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 1a [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=Live+TV&url=customs.cfg&definedIn=mainMenu.cfg&director=SportsDevil&genre=Live+TV&type=rss&icon=&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 
@@ -160,9 +155,10 @@ sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 
 
 <item>
-<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2a [/COLOR]</title>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 2aa [/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=cinestrenostv.tv+%28Spanish+TV%29&url=customs%2Fcinestrenostv.tv.cfg&definedIn=customs.cfg&director=cinestrenostv.tv&genre=Live+TV&type=rss&icon=&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=cinestrenostv.tv+(Spanish+TV)&url=customs/cinestrenostv.tv.cfg&definedIn=customs.cfg&director=cinestrenostv.tv&genre=Live+TV&type=rss&icon=&amp;mode=1
+</jsonrpc>
 <thumbnail></thumbnail>
 <thumbnail></thumbnail></item>
 <item>
