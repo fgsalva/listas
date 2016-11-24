@@ -21,6 +21,27 @@ nopitem>
 <referer>http://vipracing.info</referer>
 </item>
 
+
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 113 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>  
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 114[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 115[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
+
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 119 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
