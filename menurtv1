@@ -48,6 +48,8 @@ http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27
+http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=20109787&stream=1&connectionId=oldurl-bbb53762277a954fcd39d660afd76808a9052e5b&group=iphone
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",BCONETC
 http://latino-webtv.ml:8880/beinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
