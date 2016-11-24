@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+nopitem>
 <title>[COLOR red][/COLOR][COLOR yellow]Pelisalacarta[/COLOR][COLOR white][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta-ui/</jsonrpc>
@@ -21,6 +21,12 @@
 <referer>http://vipracing.info</referer>
 </item>
 
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 119 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>              
 
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
