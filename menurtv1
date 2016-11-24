@@ -48,8 +48,24 @@ http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27a
+http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27
 http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=20109787&stream=1&connectionId=oldurl-bbb53762277a954fcd39d660afd76808a9052e5b&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Discovery Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",rpc Amazona
+http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/rpctvlive/medcomrpctv/rpctv/rpctv720/chunks.m3u8?
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Telemetro Amazona
+http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/telemetrolive/medcomtm/telemetro/tmnimble720/chunks.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",RT
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",EuroNews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",BCONETC
 http://latino-webtv.ml:8880/beinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPORTS
