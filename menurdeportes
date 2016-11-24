@@ -21,7 +21,14 @@ nopitem>
 <referer>http://vipracing.info</referer>
 </item>
 
-
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinLiga 111 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            
+            
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 113 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</sportsdevil>
@@ -43,12 +50,63 @@ nopitem>
             </item> 
 
 <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Movistar F1 116[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Movistar Motogp 117[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+<item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 119 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
             </item>              
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Euroesport 120 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
 
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 1hd 122 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 2hd 123 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 3hd 124 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=124&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=124&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky1 hd 127 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=127&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=127&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky5 hd 134 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=134&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=134&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinDirect 141[COLOR lime][/COLOR]</title>
@@ -78,10 +136,17 @@ nopitem>
             
             <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 146[COLOR lime][/COLOR]</title>
-            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=145&width=650&height=450&autostart=true</sportsdevil>
-            <referer>http://www.dinozap.info/redirect/channel.php?id=145&width=650&height=450&autostart=true</referer>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=146&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=146&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
             </item>   
+            
+             <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 147[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=147&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=147&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item> 
             
 <item>
             <title>[COLOR white][COLOR blue] VIP [/COLOR]BEIN.US SPORTDEVIL  [COLOR lime][/COLOR]</title>
