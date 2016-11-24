@@ -56,15 +56,7 @@ http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Discovery Español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",rpc Amazona 
-http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/rpctvlive/medcomrpctv/rpctv/rpctv360/chunks.m3u8?
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Telemetro Amazona
-http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/telemetrolive/medcomtm/telemetro/tmnimble360/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",rpc HD Amazona 
-http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/rpctvlive/medcomrpctv/rpctv/rpctv720/chunks.m3u8?
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Telemetro HD Amazona
-http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/telemetrolive/medcomtm/telemetro/tmnimble720/chunks.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",EuroNews
