@@ -233,13 +233,13 @@ nopitem>
 <externallink>http://tecnotv.info/peliculas.m3u</externallink>
 </item>
 
-<item>
+nopitem>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Peliculas[/COLOR][COLOR red] (Tv Player Latino)[/COLOR]</title>
 <externallink>http://live.tvplayerlatino.com/lista_peliculas.m3u</externallink>
 </item>
 
-<item>
+nopitem>
     <title>[COLOR yellow]Peliculas Ferrer[/COLOR][COLOR red] (VK en pruebas aun)[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculasvk</externallink>
