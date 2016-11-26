@@ -16,13 +16,34 @@
 <referer>http://09stream.com/ver-neox-online-en-directo-gratis-24h-por-internet/</referer>
 <thumbnail></thumbnail>
 </item> 
-	<item>
+<item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]Canal Neox [COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/neox.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/neox.php</referer>
 <thumbnail></thumbnail>
 </item>		
-			
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal AE[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/documentales/bio.php</referer>
+<thumbnail></thumbnail>
+</item>		
+
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal fox sport1 mexico[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports3.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/foxsports3.php</referer>
+<thumbnail></thumbnail>
+</item>	
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal fox sport2 mexico[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports4.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/foxsports4.php</referer>
+<thumbnail></thumbnail>
+</item>	
+
 <item>
 <title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] *[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
 <link>http://104.223.36.232:1935/live/myStream/playlist.m3u8</link>
