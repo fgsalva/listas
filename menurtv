@@ -4,6 +4,556 @@
 <link>http://0.0.0.0.0</link>
 </item>
 
+			
+<item>
+<title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] *[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://104.223.36.232:1935/live/myStream/playlist.m3u8</link>
+</item>
+
+
+
+<item>
+<title>[COLOR=white]CANAL DE LAS ESTRELLAS inest[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo SD ustream iphone[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo HD[/COLOR] [COLOR=orange]Opción 3[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Telemundo HD[/COLOR] [COLOR=orange]pacifico[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/22736242/streams/live/iphone/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Univision HD[/COLOR] [COLOR=orange]pacifico[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/22781454/streams/live/iphone/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Univision HD[/COLOR] [COLOR=orange]pacifico[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/22738162/streams/live/iphone/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white]Miami TV[/COLOR][COLOR yellow] m3u8[/COLOR]</title>
+<link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+</item>
+
+		
+<item>
+<title>[COLOR=white]CANAL CLARO TV*[/COLOR][COLOR yellow] m3u8[/COLOR] </title>
+<link>http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8</link> 
+</item>
+
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
+            <referer>http://tvpor-internet.com/</referer>
+            <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
+            </item>       
+
+<item>
+<title>[COLOR=white]HBO bay[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.publish247.xyz:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.247bay.tv/membedplayer/hboperu/2/750/420</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.247bay.tv</referer>
+</regex>
+<thumbnail>http://i1.cdnds.net/10/04/ustv_hbo_logo_0.jpg</thumbnail>
+</item>
+
+			
+    
+ <item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+ <sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
+ <referer>http://tvpor-internet.com/</referer>
+ <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
+ </item>
+	  
+<item>	
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox SD juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-channel.html</page> 
+</regex>
+</item>	
+       
+<item> 
+<title>[COLOR=white][B]FOX 1 bay[/B][/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.publish247.xyz:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.247bay.tv/membedplayer/fox1peru/2/750/420</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.247bay.tv</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=white]FOX ACTION janjua[/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fox-action-en-vivo.html</page>
+</regex>
+</item>
+
+	
+<item>
+<title>[COLOR=white]FX janjua[/COLOR] [COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/fx-en-vivo.html</page>
+</regex>
+</item>
+
+	    
+	    
+	    
+ <item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]SyFy[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+ <item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]AMC[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			
+<item>
+<title>[COLOR=white]SPACE zony[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubzony.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.zony.tv</referer>
+</regex><regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/space-en-vivo.html</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]CineMax [COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://vercanalestv.com/tv/argentina/cinemax.html</sportsdevil>
+<referer>http://vercanalestv.com/</referer>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
+</item>
+			
+<item>
+<title>[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=green]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/Cinemax-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+
+<item>
+<title>[COLOR=white][B]CINEMAX janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/Cinemax-en-vivo.html</page>
+</regex>
+<thumbnail>http://www.imctv.com/wp-content/uploads/2014/03/cinemax21.png</thumbnail>
+</item>
+
+			
+			
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]TNT[COLOR red]  SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com/</referer>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt.gif</thumbnail>
+</item>
+			
+<item>
+<title>[COLOR=white]TNT [/COLOR][COLOR red]janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/tnt-latino-en-vivo.html</page> 
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
+</item>
+    
+<item>
+<title>[COLOR=white]TNT[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
+<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=white][B]WARNER Juanja[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/warner-en-vivo.html</page>
+</regex>
+</item>
+
+			
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Sony[COLOR red]  SD[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://www.televalltv.net/sony.html</sportsdevil>
+            <referer>http://www.televalltv.net/</referer>
+            <thumbnail>https://lh3.googleusercontent.com/-CsipL1Hzt9E/V3nfTWaSMWI/AAAAAAAABc4/JTXqQdTPZLAcNREvn5XHvRoCiSfYDNHuACLcB/h120/sony.png</thumbnail>
+            </item>
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Universal Channel[COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://www.televalltv.net/universal.html</sportsdevil>
+            <referer>http://www.televalltv.net/</referer>
+            <thumbnail>https://4.bp.blogspot.com/-QE8LwSEyLBw/V2LCP4Pc72I/AAAAAAAABak/FOPfd1r_fy82280jN6uf2zWJc7sYdrFlQCLcB/s1600/universal-channel.png</thumbnail>
+            </item> 
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]AXN[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://www.televalltv.net/axn.html</sportsdevil>
+            <referer>http://www.televalltv.net/</referer>
+            <thumbnail></thumbnail>
+            </item>
+	    
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Life[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+            <sportsdevil>http://www.samistream.tv/foxlife.html</sportsdevil>
+            <referer>http://www.samistream.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+   
+	    
+ 	    
+<item>
+            <title>[COLOR white][COLOR blue] [/COLOR]Telemundo 39[COLOR lime] HD [/COLOR]</title>
+            <sportsdevil>http://chiivass69.es.tl/TELE-1.htm</sportsdevil>
+            <referer>http://chiivass69.es.tl/</referer>
+            <thumbnail>https://3.bp.blogspot.com/-o_Ugo0R1m5U/VvizMfR9dmI/AAAAAAAABG0/gZ4V6ov_kbwnjpTmKdTcvghBJLtNnOX_Q/s1600/Telemundo.png</thumbnail>
+            </item>
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Nick[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/nickelodeon-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com/</referer>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white]NICK[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://www.television-envivo.com/nickelodeon-en-vivo.html</sportsdevil>
+<referer>http://www.television-envivo.com</referer>
+</item>
+			
+				
+<item>
+<title>[COLOR=white][B]NICK janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/nickelodeon-en-vivo.html</page>
+</regex>
+</item>			
+
+
+
+			
+			
+			
+			
+			
+ <item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]ToonCast[COLOR red]  [/COLOR]</title>
+            <sportsdevil>http://www.televalltv.net/tooncast.html</sportsdevil>
+            <referer>http://www.televalltv.net/</referer>
+            <thumbnail>http://z.cdn.entutele.com/media/channels/big/tooncast.gif</thumbnail>
+            </item>
+            
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Disney Channel[COLOR red]  [/COLOR]</title>
+            <sportsdevil>http://tvpor-internet.com/disney-channel-en-vivo.html</sportsdevil>
+            <referer>http://tvpor-internet.com/</referer>
+            <thumbnail>http://z.cdn.entutele.com/media/channels/big/disney-channel.gif</thumbnail>
+            </item>
+<item>
+            <title>[COLOR white][COLOR blue]• [/COLOR]Disney XD[COLOR red]  [/COLOR]</title>
+            <sportsdevil>http://tvpor-internet.com/disney-xd-en-vivo.html</sportsdevil>
+            <referer>http://tvpor-internet.com/</referer>
+            <thumbnail>http://z.cdn.entutele.com/media/channels/big/disney-xd.gif</thumbnail>
+            </item>
+			
+			
+<item>
+<title>[COLOR=white]DISNEY XD janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/disney-xd-en-vivo.html</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=white]DISNEY JUNIOR janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/disney-junior-en-vivo.html</page>
+</regex>
+</item>
+                        
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Cartoon Network[COLOR red] Spordevil [/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/cartoon-network-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com/</referer>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail>
+</item>
+			
+<item>
+<title>[COLOR=white]CARTOON NETWORK janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/cartoon-network-en-vivo.html</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]History Channel ESPAÑOL[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/history-latino-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com/</referer>
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/history-channel.gif</thumbnail>
+</item>
+			
+			
+<item>
+<title>[COLOR=white]HISTORY CHANNEL janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/history-latino-en-vivo.html</page>
+</regex>
+</item>
+
+ <item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Nat Geo Wild[COLOR red] [COLOR lime]Espera 10 segundos a que cargue[/COLOR] [/COLOR]</title>
+ <sportsdevil>http://cinestrenostv.tv/canales/envivo/natgeowill.html</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+ <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo-wild.gif</thumbnail>
+ </item>
+
+
+<item>
+<title>[COLOR=yellow][B]DISCOVERY CHANNEL janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/discovery-latino-en-vivo.html</page>
+</regex>
+<thumbnail>https://lh3.ggpht.com/u6vJ0KXtVCjzrzfLHqyumP1ueGoqcvDIp7S4zxGXNF4xTiqkg8qsEB9H160nJJDVEZjq=w300</thumbnail>
+<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR=yelloww]DISCOVERY CHANNEL[COLOR orange] Opción 2 [/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title></title>
+<link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
+</item>
+
+
+
+
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Canal + Liga Esperar[COLOR lime]Espera 10 segundos a que cargue*[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
@@ -39,7 +589,12 @@
 </regex>
 </item>
 
-
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]UFC [COLOR red]Network[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/ufc-network-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com/</referer>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 Sony[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -117,151 +672,7 @@
 </item>	
 
 
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
-            </item>               
-    
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
-            </item>
-	  
-<item>	
-<title>[COLOR white][COLOR blue]• [/COLOR]Fox SD juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-channel.html</page> 
-</regex>
-</item>	
 
-	    
-	    
-	    
-	    
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]SyFy[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]AMC[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]CineMax [COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://vercanalestv.com/tv/argentina/cinemax.html</sportsdevil>
-            <referer>http://vercanalestv.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]TNT[COLOR red]  SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt.gif</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Sony[COLOR red]  SD[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://www.televalltv.net/sony.html</sportsdevil>
-            <referer>http://www.televalltv.net/</referer>
-            <thumbnail>https://lh3.googleusercontent.com/-CsipL1Hzt9E/V3nfTWaSMWI/AAAAAAAABc4/JTXqQdTPZLAcNREvn5XHvRoCiSfYDNHuACLcB/h120/sony.png</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Universal Channel[COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://www.televalltv.net/universal.html</sportsdevil>
-            <referer>http://www.televalltv.net/</referer>
-            <thumbnail>https://4.bp.blogspot.com/-QE8LwSEyLBw/V2LCP4Pc72I/AAAAAAAABak/FOPfd1r_fy82280jN6uf2zWJc7sYdrFlQCLcB/s1600/universal-channel.png</thumbnail>
-            </item> 
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]AXN[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://www.televalltv.net/axn.html</sportsdevil>
-            <referer>http://www.televalltv.net/</referer>
-            <thumbnail></thumbnail>
-            </item>
-	    
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Life[COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://www.samistream.tv/foxlife.html</sportsdevil>
-            <referer>http://www.samistream.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-   
-	    
- 	    
-<item>
-            <title>[COLOR white][COLOR blue] [/COLOR]Telemundo 39[COLOR lime] HD [/COLOR]</title>
-            <sportsdevil>http://chiivass69.es.tl/TELE-1.htm</sportsdevil>
-            <referer>http://chiivass69.es.tl/</referer>
-            <thumbnail>https://3.bp.blogspot.com/-o_Ugo0R1m5U/VvizMfR9dmI/AAAAAAAABG0/gZ4V6ov_kbwnjpTmKdTcvghBJLtNnOX_Q/s1600/Telemundo.png</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Nick[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/nickelodeon-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif</thumbnail>
-            </item>
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]ToonCast[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://www.televalltv.net/tooncast.html</sportsdevil>
-            <referer>http://www.televalltv.net/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/tooncast.gif</thumbnail>
-            </item>
-            
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Disney Channel[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/disney-channel-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/disney-channel.gif</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Disney XD[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/disney-xd-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/disney-xd.gif</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Cartoon Network[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/cartoon-network-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail>
-            </item>
-<item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]History Channel[COLOR red]  Español[/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/history-latino-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/history-channel.gif</thumbnail>
-            </item>
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]Nat Geo Wild[COLOR red]  [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/natgeowill.html</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo-wild.gif</thumbnail>
-	    </item>
-
- 
-  
   <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport  [COLOR red] fs1 ingles[/COLOR]</title>
             <sportsdevil>http://ptvsports.info/fox_sports1hd.php</sportsdevil>
@@ -308,24 +719,62 @@
 <thumbnail>https://4.bp.blogspot.com/-kIBXbtr-2Mw/VvlRupwFZTI/AAAAAAAABME/RiwYlrcW9LQzfof0ZbWuxr-avyrzqJDjw/s1600/vs%2Bsport.png</thumbnail>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?</link>
 </item>
-  <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]UFC [COLOR red]Network[/COLOR]</title>
-            <sportsdevil>http://tvpor-internet.com/ufc-network-en-vivo.html</sportsdevil>
-            <referer>http://tvpor-internet.com/</referer>
-            <thumbnail></thumbnail>
-            </item>
-
-
+	
+    
 <item>
-<title>[COLOR=white]Estrella TV[/COLOR] [COLOR skyblue] *[/COLOR]</title>
-<link>http://104.223.36.232:1935/live/myStream/playlist.m3u8</link>
+<title>[COLOR=white]DW LATINO[/COLOR]</title>
+<link>rtmp://$doregex[get-m3u8]/$doregex[get-file]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>meta base="rtmp:\/\/(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
+<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
+</regex>
+<regex>
+<name>get-file</name>
+<expres>"high".*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
+<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
+</regex>
 </item>
 
 <item>
-<title>[COLOR=white]Miami TV[/COLOR]</title>
-<link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+<title>[COLOR=white]RT-ESPAÑOL (vera)[/COLOR]</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6027</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
+<item>
+<title>[COLOR=white]TELESUR (vera)[/COLOR]</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6028</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/683989009744457729/J5zsHEYn.jpg</thumbnail>
+</item
+	
 <item>
 <title>[COLOR=white]Univision Pacifico[/COLOR] </title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
@@ -338,13 +787,9 @@
 <referer>http://ustream.tv</referer>
 </regex>
 </item>
-<item>
-<title>[COLOR=white]CANAL DE LAS ESTRELLAS inest[/COLOR]</title>
-<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8</link>
-</item>
 
 <item>
-<title>[COLOR=white]Telemundo SD ustream[/COLOR] </title>
+<title>[COLOR=white]Telemundo SD ustream[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-url</name>
@@ -358,20 +803,14 @@
 <fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR=white]Telemundo HD[/COLOR] [COLOR=orange]Opción 3[/COLOR]</title>
-<link>http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 4[/COLOR] [COLOR=green]Sportsdevil[/COLOR]</title>
+<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 4[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <sportsdevil>http://m.chiivass69.es.tl/TELE-2.htm</sportsdevil>
 <referer>http://m.chiivass69.es.tl</referer>
 </item>
 
 <item>
-<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 5[/COLOR] [COLOR=green]Sportsdevil[/COLOR]</title>
+<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 5[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <sportsdevil>http://m.chiivass69.es.tl/TELE-3.htm</sportsdevil>
 <referer>http://m.chiivass69.es.tl</referer>
 </item>
@@ -404,437 +843,6 @@
 </item>
 
 
-
-<item>
-<title>[COLOR=yellow][B]DISCOVERY CHANNEL janjua[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/discovery-latino-en-vivo.html</page>
-</regex>
-<thumbnail>https://lh3.ggpht.com/u6vJ0KXtVCjzrzfLHqyumP1ueGoqcvDIp7S4zxGXNF4xTiqkg8qsEB9H160nJJDVEZjq=w300</thumbnail>
-<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=yelloww]DISCOVERY CHANNEL[COLOR orange] Opción 2 [/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
-</item>
-
-	    
-<item>
-<title>[COLOR=white]CANAL CLARO TV*[/COLOR] </title>
-<link>http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8</link> 
-</item>
-
-<item>
-<title>[COLOR=white]CLARO CINEMA *[/COLOR] </title>
-<link>http://jjoo2016ch04-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(04)/index.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR=white]TNT janjua[/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/tnt-latino-en-vivo.html</page> 
-</regex>
-<thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
-</item>
-    
-<item>
-<title>[COLOR=white]TNT[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
-<sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
-<referer>http://tvpor-internet.com</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
-<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white]HISTORY CHANNEL janjua[/COLOR] [COLOR orange] Opción 2 [/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/history-latino-en-vivo.html</page>
-</regex>
-</item>
-    
-<item>
-<title>[COLOR=white]DW LATINO[/COLOR]</title>
-<link>rtmp://$doregex[get-m3u8]/$doregex[get-file]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>meta base="rtmp:\/\/(.*?)"</expres>
-<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
-<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
-</regex>
-<regex>
-<name>get-file</name>
-<expres>"high".*src="(.*?)"</expres>
-<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
-<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
-</regex>
-</item>
-	
-
-<item>
-<title>[COLOR=white]RT-ESPAÑOL[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/6027</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white]TELESUR[/COLOR]</title>
-<link>$doregex[get-url]</link>
-<regex>
-<name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-ifr]</page>
-<referer>http://tv.vera.com.uy</referer>
-</regex>
-<regex>
-<name>get-ifr</name>
-<expres>'src', '(.*extras.*?)'</expres>
-<page>http://tv.vera.com.uy/canal/6028</page>
-<referer>http://tv.vera.com.uy</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pbs.twimg.com/profile_images/683989009744457729/J5zsHEYn.jpg</thumbnail>
-</item
-
-			
-			
-<item>
-<title>[COLOR=white][B]WARNER Juanja[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/warner-en-vivo.html</page>
-</regex>
-</item>
-       
-				 
-<item>
-<title>[COLOR=white]HBO bay[/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.publish247.xyz:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.247bay.tv/membedplayer/hboperu/2/750/420</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.247bay.tv</referer>
-</regex>
-<thumbnail>http://i1.cdnds.net/10/04/ustv_hbo_logo_0.jpg</thumbnail>
-</item>
-
-                         	
-<item>
-<title>[COLOR=white]FOX juanja[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-channel.html</page>
-</regex>
-</item>
-                                                
-<item>
-<title>[COLOR=white]FOX [/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
-<sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
-<referer>http://tvpor-internet.com</referer>
-<thumbnail>https://d3n8a8pro7vhmx.cloudfront.net/nalip/pages/445/attachments/original/1402066176/Fox_logo.png</thumbnail>
-</item>
-
-                        
-<item>
-<title>[COLOR=white]FX janjua[/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fx-en-vivo.html</page>
-</regex>
-</item>
-
-<item> 
-<title>[COLOR=white][B]FOX 1 bay[/B][/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.publish247.xyz:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.247bay.tv/membedplayer/fox1peru/2/750/420</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.247bay.tv</referer>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white]FOX ACTION janjua[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-action-en-vivo.html</page>
-</regex>
-</item>
-
- <item>
-<title>[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=green]Sportsdevil[/COLOR]</title>
-<sportsdevil>http://tvpor-internet.com/Cinemax-en-vivo.html</sportsdevil>
-<referer>http://tvpor-internet.com</referer>
-</item>
-
-
-<item>
-<title>[COLOR=white][B]CINEMAX janjua[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/Cinemax-en-vivo.html</page>
-</regex>
-<thumbnail>http://www.imctv.com/wp-content/uploads/2014/03/cinemax21.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white]SPACE zony[/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubzony.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.zony.tv</referer>
-</regex><regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/space-en-vivo.html</page>
-</regex>
-</item>
- 
-<item>
-<title>[COLOR=white]CARTOON NETWORK janjua[/COLOR] [COLOR orange] Opción 2[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/cartoon-network-en-vivo.html</page>
-</regex>
-</item>
-			
-<item>
-<title>[COLOR=white]DISNEY XD janjua[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/disney-xd-en-vivo.html</page>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white]DISNEY JUNIOR janjua[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/disney-junior-en-vivo.html</page>
-</regex>
-</item>
-                        
-	
-<item>
-<title>[COLOR=white][B]NICK janjua[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/nickelodeon-en-vivo.html</page>
-</regex>
-</item>			
-
-			
-<item>
-<title>[COLOR=white]NICK[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
-<sportsdevil>http://www.television-envivo.com/nickelodeon-en-vivo.html</sportsdevil>
-<referer>http://www.television-envivo.com</referer>
-</item>
 
 
 
