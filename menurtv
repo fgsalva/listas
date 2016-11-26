@@ -74,11 +74,67 @@
 </item>		
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]Canal fdf [COLOR lime]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal FDF [COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/fdf.php</referer>
 <thumbnail></thumbnail>
-</item>	
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Ten [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/ten.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Telecinco [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/telecinco.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Antena3 [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/antena-3.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/antena-3.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal LA sexta1 [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Nova [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/nova.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/nova.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Divinity[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/divinity.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal bemad[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/bemad.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/bemad.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Energy[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/energy.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/energy.php</referer>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]Canal AE[COLOR lime]**[/COLOR]</title>
@@ -86,6 +142,19 @@
 <referer>http://cinestrenostv.tv/canales/documentales/bio.php</referer>
 <thumbnail></thumbnail>
 </item>		
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Cine1[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/pelis/cine1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/pelis/cine1.php</referer>
+<thumbnail></thumbnail>
+</item>	
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Cine2[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/pelis/cine2.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/pelis/cine12.php</referer>
+<thumbnail></thumbnail>
+</item>	
 
 
 <item>
