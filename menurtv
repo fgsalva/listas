@@ -706,7 +706,6 @@ item>
 <referer>http://tvpor-internet.com</referer>
 </item>
 
-
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]U.f.c Network(opcion2)[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -737,6 +736,31 @@ item>
 </item>
 
 <item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Directo Goltv SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/goltv-en-directo-gratis-por-internet/</referer>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</sportsdevil>
+<referer>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</referer>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga2 canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</referer>
+</item>	
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinEspaña Multiliga2 canal1 deportes/multibein/canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</referer>
+</item>	
+
+
+<item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
@@ -754,6 +778,24 @@ item>
 <referer>http://tvpor-internet.com</referer>
 </item>	
 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Espn Argentina SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/Espn-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Espn2 Argentina SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/espn-2-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinSport SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/bein-sports-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
 
 
   <item>
