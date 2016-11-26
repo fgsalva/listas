@@ -95,13 +95,13 @@ nopitem>
             </item>  
             
             <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 114[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Movistar deportes1 Goltv 114[COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
             </item> 
             <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 115[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Movistar deportes2 Goltv 115[COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
@@ -121,13 +121,13 @@ nopitem>
             <thumbnail></thumbnail>
             </item>
 <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Goltv 119 [COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN CONECT 119 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
             </item>              
 <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Euroesport 120 [COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Euroesport1 120 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
@@ -159,6 +159,33 @@ nopitem>
             <thumbnail></thumbnail>
             </item>
 
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky1 hd 130 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=130&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=130&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky2 hd 131 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=131&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=131&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+ <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky3 hd 132 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=132&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=132&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+             <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky4 hd 133 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=133&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=133&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]sky5 hd 134 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=134&width=650&height=450&autostart=true</sportsdevil>
