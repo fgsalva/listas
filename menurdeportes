@@ -172,6 +172,8 @@ nopitem>
             <thumbnail></thumbnail>
             </item>
             
+           
+            
             <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2 Sport 137 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=137&width=650&height=450&autostart=true</sportsdevil>
@@ -185,38 +187,119 @@ nopitem>
             <referer>http://www.sunhd.info/channelsa.php?file=137&width=650&height=410&autostart=true</referer>
             <thumbnail></thumbnail>
             </item>
+            
+            
             <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2 Sport opcion2[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 1 Sport opcion2[COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/bt1.html</sportsdevil>
+            <referer>http://freehdsport.com/bt1.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+           
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2 Sport opcion2[COLOR yellow]freehdsport[/COLOR]</title>
             <sportsdevil>http://freehdsport.com/bt2.html</sportsdevil>
             <referer>http://freehdsport.com/bt2.html</referer>
             <thumbnail></thumbnail>
             </item>
             <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2 Sport opcion 2a[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2 Sport opcion 2a[COLOR yellow]bigcast[/COLOR]</title>
             <sportsdevil>http://www.bigcast.us/embedhd.php?v=bt2&amp;vw=650&amp;vh=390</sportsdevil>
             <referer>http://www.bigcast.us/embedhd.php?v=bt2&amp;vw=650&amp;vh=390</referer>
             <thumbnail></thumbnail>
             </item>
            
            <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 3 Sport opcion[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 3 Sport opcion[COLOR yellow]freehdsport[/COLOR]</title>
             <sportsdevil>http://freehdsport.com/bt3.html</sportsdevil>
             <referer>http://freehdsport.com/bt3.html</referer>
             <thumbnail></thumbnail>
             </item>
             
              <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 3 Sport opcion 2a[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 3 Sport opcion 2a[COLOR yellow]bigcast[/COLOR]</title>
             <sportsdevil>http://www.bigcast.us/embedhd.php?v=bt3&amp;vw=650&amp;vh=390</sportsdevil>
             <referer>http://www.bigcast.us/embedhd.php?v=bt3&amp;vw=650&amp;vh=390</referer>
             <thumbnail></thumbnail>
             </item>
             
-             
-     
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BTESPN  Sport opcion[COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/btsportespn.html</sportsdevil>
+            <referer>http://freehdsport.com/btsportespn.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+           
+           <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Premier Sport opcion[COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/premiersports.html</sportsdevil>
+            <referer>http://freehdsport.com/premiersports.html</referer>
+            <thumbnail></thumbnail>
+            </item>
             
             <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga? Sport opcion 2a[COLOR lime][/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]EuroSport 1 opcion[COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/euro1.html</sportsdevil>
+            <referer>http://freehdsport.com/euro1.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+             
+             <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]EuroSport 2 opcion[COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/euro2.html</sportsdevil>
+            <referer>http://freehdsport.com/euro2.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+             
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 1hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/bein1.html</sportsdevil>
+            <referer>http://freehdsport.com/bein1.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 2hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/bein2.html</sportsdevil>
+            <referer>http://freehdsport.com/bein2.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]ksy 1 hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/sss1.html</sportsdevil>
+            <referer>http://freehdsport.com/sss1.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]ksy 2 hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/skyyy2.html</sportsdevil>
+            <referer>http://freehdsport.com/skyyy2.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+             <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]ksy 3 hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/ss3.html</sportsdevil>
+            <referer>http://freehdsport.com/ss3.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]ksy 4 hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/ss4.html</sportsdevil>
+            <referer>http://freehdsport.com/ss4.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]ksy 5 hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
+            <sportsdevil>http://freehdsport.com/sss5.html</sportsdevil>
+            <referer>http://freehdsport.com/sss5.html</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga? Sport opcion 2a[COLOR yellow]freehdsport[/COLOR]</title>
             <sportsdevil>http://freehdsport.com/bein-sports-la-liga-live-stream.html</sportsdevil>
             <referer>http://freehdsport.com/bein-sports-la-liga-live-stream.html</referer>
             <thumbnail></thumbnail>
