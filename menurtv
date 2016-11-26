@@ -144,18 +144,11 @@
 </item>		
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Cine1[COLOR lime]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/pelis/cine1.php</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/pelis/cine1.php</referer>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Fox España[COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/fox.php</referer>
 <thumbnail></thumbnail>
-</item>	
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Cine2[COLOR lime]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/pelis/cine2.php</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/pelis/cine12.php</referer>
-<thumbnail></thumbnail>
-</item>	
-
+</item>		
 
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]Canal fox sport1 mexico[COLOR lime]**[/COLOR]</title>
@@ -319,7 +312,8 @@ item>
 </item>
 
 			
-    
+  
+ 
  <item>
  <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
  <sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
