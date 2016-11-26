@@ -149,7 +149,7 @@
             </item>       
 
 <item>
-<title>[COLOR=white]HBO bay[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]HBO bay[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -198,7 +198,7 @@
 </item>	
        
 <item> 
-<title>[COLOR=white][B]FOX 1 bay[/B][/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR] </title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]FOX 1 bay[/B][/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -215,7 +215,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]FOX ACTION janjua[/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]FOX ACTION janjua[/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -238,7 +238,7 @@
 
 	
 <item>
-<title>[COLOR=white]FX janjua[/COLOR] [COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]FX janjua[/COLOR] [COLOR yellow] Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -277,7 +277,7 @@
 			
 			
 <item>
-<title>[COLOR=white]SPACE zony[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]SPACE zony[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -306,14 +306,14 @@
 </item>
 			
 <item>
-<title>[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=green]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=green]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/Cinemax-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>
 
 
 <item>
-<title>[COLOR=white][B]CINEMAX janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]CINEMAX janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -345,7 +345,7 @@
 </item>
 			
 <item>
-<title>[COLOR=white]TNT [/COLOR][COLOR red]janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]TNT [/COLOR][COLOR red]janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -368,7 +368,7 @@
 </item>
     
 <item>
-<title>[COLOR=white]TNT[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]TNT[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/tnt-latino-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 <thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
@@ -378,7 +378,7 @@
 
 
 <item>
-<title>[COLOR=white][B]WARNER Juanja[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]WARNER Juanja[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -429,7 +429,7 @@
 	    
  	    
 <item>
-            <title>[COLOR white][COLOR blue] [/COLOR]Telemundo 39[COLOR lime] HD [/COLOR]</title>
+            <title>[COLOR blue]• [/COLOR][COLOR white][COLOR blue] [/COLOR]Telemundo 39[COLOR lime] HD [/COLOR]</title>
             <sportsdevil>http://chiivass69.es.tl/TELE-1.htm</sportsdevil>
             <referer>http://chiivass69.es.tl/</referer>
             <thumbnail>https://3.bp.blogspot.com/-o_Ugo0R1m5U/VvizMfR9dmI/AAAAAAAABG0/gZ4V6ov_kbwnjpTmKdTcvghBJLtNnOX_Q/s1600/Telemundo.png</thumbnail>
@@ -442,14 +442,14 @@
 </item>
 
 <item>
-<title>[COLOR=white]NICK[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]NICK[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://www.television-envivo.com/nickelodeon-en-vivo.html</sportsdevil>
 <referer>http://www.television-envivo.com</referer>
 </item>
 			
 				
 <item>
-<title>[COLOR=white][B]NICK janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]NICK janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -499,7 +499,7 @@
 			
 			
 <item>
-<title>[COLOR=white]DISNEY XD janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]DISNEY XD janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -521,7 +521,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]DISNEY JUNIOR janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]DISNEY JUNIOR janjua[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -551,7 +551,7 @@
 </item>
 			
 <item>
-<title>[COLOR=white]CARTOON NETWORK janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]CARTOON NETWORK janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -601,7 +601,7 @@
 			
 			
 <item>
-<title>[COLOR=white]HISTORY CHANNEL janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]HISTORY CHANNEL janjua[/COLOR] [COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -631,7 +631,7 @@
 
 
 <item>
-<title>[COLOR=yellow][B]DISCOVERY CHANNEL janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=yellow][B]DISCOVERY CHANNEL janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -655,7 +655,13 @@
 </item>
 
 <item>
-<title>[COLOR=yelloww]DISCOVERY CHANNEL[COLOR orange] Opción 2 [/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title></title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Discovery Latino[COLOR lime]Espera 10 segundos a que cargue*[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/discovery-latino-en-vivo.htm</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+</item>
+
+<item>
+<title>[COLOR blue]• [/COLOR][COLOR=yelloww]DISCOVERY CHANNEL[COLOR orange] Opción 2 [/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title></title>
 <link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
 </item>
 
@@ -703,26 +709,6 @@
 <referer>http://tvpor-internet.com/</referer>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 Sony[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubzony.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.zony.tv</referer>
-</regex><regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-sports-en-vivo.html</page>  
-</regex>
-</item>	
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
@@ -731,46 +717,9 @@
 </item>	
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport2 Arg Sony[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubzony.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.zony.tv/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.zony.tv</referer>
-</regex><regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-sports-2-en-vivo.html</page>  
-</regex>
-</item>	
-
-<item>	
-<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport3 Arg2 juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjuaplayer.com</referer>
-</regex>
-<regex>
-<name>canal</name>
-<expres>channel='(.*?)'</expres>
-<page>http://tvpor-internet.com/fox-sports-3-en-vivo.html</page> 
-</regex>
+<title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport2 Arg2 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-2-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
 </item>	
 
 <item>	
@@ -830,7 +779,7 @@
 	
     
 <item>
-<title>[COLOR=white]DW LATINO[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]DW LATINO[/COLOR]</title>
 <link>rtmp://$doregex[get-m3u8]/$doregex[get-file]</link>
 <regex>
 <name>get-m3u8</name>
@@ -847,7 +796,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]RT-ESPAÑOL (vera)[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]RT-ESPAÑOL (vera)[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -865,7 +814,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]TELESUR (vera)[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]TELESUR (vera)[/COLOR]</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -884,7 +833,7 @@
 </item
 	
 <item>
-<title>[COLOR=white]Univision Pacifico[/COLOR] </title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Univision Pacifico[/COLOR] </title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-url</name>
@@ -897,7 +846,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]Telemundo SD ustream[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Telemundo SD ustream[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-url</name>
@@ -912,19 +861,19 @@
 </item>
 
 <item>
-<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 4[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 4[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <sportsdevil>http://m.chiivass69.es.tl/TELE-2.htm</sportsdevil>
 <referer>http://m.chiivass69.es.tl</referer>
 </item>
 
 <item>
-<title>[COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 5[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Telemundo HQ[/COLOR] [COLOR=orange]Opción 5[/COLOR] [COLOR yellow] Epera a que cargue 10 Seg[/COLOR]</title>
 <sportsdevil>http://m.chiivass69.es.tl/TELE-3.htm</sportsdevil>
 <referer>http://m.chiivass69.es.tl</referer>
 </item>
 
 <item>
-<title>[COLOR=white]Telemundo Pacifico[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Telemundo Pacifico[/COLOR]</title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-url</name>
@@ -938,7 +887,7 @@
 
      
 <item>
-<title>[COLOR=white]Univision SD ustream[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white]Univision SD ustream[/COLOR]</title>
 <link>http://$doregex[get-url]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
 <name>get-url</name>
@@ -977,7 +926,7 @@ nopitem>
 <referer>http://vipracing.info</referer>
 </item>
 
-<item> 
+nopitem> 
 <title>[COLOR yellow]b.e.i.n 17 ES [/COLOR][COLOR green]F4M*[/COLOR]</title>	
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.hitech0iptv.com:8000/live/elf/elf/1121.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>	
@@ -987,12 +936,12 @@ nopitem>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-sport-1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
 </item>
-<item>
+nopitem>
 <title>[COLOR yellow]Bein ligaplus[/COLOR]</title>
 <link>http://latino-webtv.ml:8880/ligaplus/playlist.m3u8</link>
 </item>
 
-<item>
+nopitem>
 <title>[COLOR yellow]Bein Conect[/COLOR]</title>
 <link>http://latino-webtv.ml:8880/beinhd/playlist.m3u8</link>
 </item>
@@ -1021,483 +970,3 @@ nopitem>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url%3dhttp%253A%252F%252Fcinestrenostv.tv%252Fcanales%252Fdeportes%252Fbtsport2.php%26referer=http://cinestrenostv.tv/</link>
 <referer>http://cinestrenostv.tv/<referer>
 </item>
-
-
-<item> <title>[COLOR red]CMD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/770.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]AMERICA TELEVISION ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/771.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SUPER SPORT [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1031.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]LA RED HD [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1074.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MEGA HD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CHV HD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/447.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CANAL13 HD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/446.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TVN HD SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/15.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TVN ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/449.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MEGA ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/384.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CHV ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/425.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]13 CABLE ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/429.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]LA RED SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]cdf bacico [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://q.gs:80/14844761/chile-cdf-bacico?user=pawer-by-juan&pass=modo-seguro.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]cdf premiun [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://q.gs:80/14844761/chile-cdf-premiun?user=pawer-by-juan&pass=modo-seguro.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CANAL13 SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/761.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX CLASSICS mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/608.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TRAVEL & LIVING ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/812.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TNT SERIES ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/813.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]500 Dias con Ella [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/movie/mexico/mexico/936.mp4&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]13 Asesinos [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/movie/mexico/mexico/935.mp4&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MAX UP [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1034.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]maxprime [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1032.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MAX PRIME OESTE. [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1035.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MAX. [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1033.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TLC ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/814.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]NICK ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/815.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MAS CHIC ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/816.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]INVESTIGACION DISCOVERY ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/817.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISNEY XD ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/818.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISNEY JUNIOR ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/819.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISNEY CHANNEL ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/820.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CCTV ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/821.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISCOVERY KIDS ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/822.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISCOVERY H&H  ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/823.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISCOVERY CHANNEL SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/824.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CNN ESPAÑOL ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/825.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CARTOON NETWOORK ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/826.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]BOOMERANG ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/827.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FILMZONE SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/256.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]A&E SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/257.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MTV ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/769.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MTV HITS ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/768.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]frecuencia latina [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/762.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX LIFE mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/605.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX COMEDY mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/607.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-
-<item> 
-<title>[COLOR red]CANAL FOX mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/612.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-
-<item> 
-<title>[COLOR red]CANAL FOX mx2 [/COLOR][COLOR yellos]F4M*agent2[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/612.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 m Safari/537.36</link>
-</item>	
-
-<item> <title>[COLOR red]UFC mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/452.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/276.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN 2 ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/272.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MUNDO FOX SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/262.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FX SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX LIFE SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/261.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TVE ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/434.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TELEFE ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/432.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TELETRAK ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ZONA LATINA [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TBS ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/421.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CNN CHILE ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/400.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]WARNER BROSS ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/398.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]NATIONAL GEOGRAPHIC ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/407.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]AXN ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/399.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HISTORY SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]UNIVERSAL CHANNEL SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/255.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TNT SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/259.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]STUDIO UNIVERSAL SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/267.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SPACE SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/265.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SONY SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/269.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ANIMAL PLANET SR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/253.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CARACOL zR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/254.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]WINSPORT [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/351.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORTS 2 ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/694.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORTS CHILE ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/693.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO Signature mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO PLUS OESTE mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO OESTE mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/600.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO FAMILY mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/598.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO 2 mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORT MEXICO [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/603.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORT 3  mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/601.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORT 2 mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX MOVIES mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/604.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX FAMILY mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/606.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX CINEMA mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/609.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX ACTION mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/610.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX 1 ESTE mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/613.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO PLUS mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/594.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]REAL MADRID ES [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/294.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]AMAZING [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/355.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SONY BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]NATIONAL GEOGRAPHIC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/445.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FX BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/444.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DISCOVERY H&H BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DICOVERY TURBO BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ANIMAL PLANET BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/440.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]UNIVERSAL CHANNEL BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/293.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SPORTV 2 BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/292.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SPN BRASIL BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/281.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SPN BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/280.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]RECORD BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/291.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]PFC BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/288.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]PFC 5 BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/290.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]PFC 2 BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/289.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO ASIGNATURE BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/287.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]HBO 2 BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/286.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]GLOBO SP BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/285.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]GLOBO RBS BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/284.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]GLOBO NEW BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/283.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX SPORT 2 BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/282.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]BANDSPORT BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/279.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]BANDA NEW BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/278.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]AXN BR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/277.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MUSICA [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/356.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]VIRGIN RADIO [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/357.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MIAMI TV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]LANCELOT [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/133.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MEGAPIX [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/388.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TVE 24H [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/790.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TV3 [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/784.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TELET VENEZUELA [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/792.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TELEMUNDO 39 [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/785.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TELEMAX [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/787.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SMOTV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/774.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]RETRO TV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/794.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]PROYECTO 40 [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/786.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]NEOX [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/781.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MEGA ESP [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/776.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]LA SEXTA [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/778.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FOX 1 OESTE mx [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/611.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]EUROSPORT [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/772.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]EURONEWS [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/789.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DW LATINOAMERICA [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/791.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]DEPORTV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/775.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CNN INTERNACIONAL [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/777.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CDO PREMIUN ZR [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/773.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ATRESERIES [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/779.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ANTENA 3 [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/782.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ANIME TV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/795.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]360 TV [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/783.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Warner Channel EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]VH1 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/944.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]VH1 Classics EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/943.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Universal EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Universal Channel EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/945.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Unicable EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Tru TV EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/938.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Tooncast EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TNT Series EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/949.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TNT HD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/950.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TNT EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TLnovelas EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/952.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TVE Internacional EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/937.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TIIN EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/939.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Telehit EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/954.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Teleformula EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/955.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Space SD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/959.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]PXTV HD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/963.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Nick Jr EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/968.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Multimedios EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/969.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Milenio EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/972.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Cinecanal EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1014.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Bandamax EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1024.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Azteca Novelas EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1027.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TLC Discovery EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/953.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TCM EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/940.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]TBS EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/956.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]SyFy EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/957.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Studio Universal EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/958.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Space EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/960.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Sony EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/961.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Ritmoson EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/962.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Proyecto 40 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/964.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]NickToons EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/965.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Nickelodeon EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/966.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Nick2 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/967.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MTV Live HD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/941.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MTV hits EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/970.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]MTV EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/971.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Lifetime EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/973.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]iSat EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/974.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Investigation Discovery EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/975.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]History EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/976.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Golden Edge EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/977.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Golden EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/978.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FX SD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/979.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]FX EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/980.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox1 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/981.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Sports EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/983.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Sports 2 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/982.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox SD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/984.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Movies EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/985.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Life EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/986.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/990.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Classics EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/987.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Cinema EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/988.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Fox Action EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/989.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Foro TV EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/991.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Film Zone EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/992.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN Plus EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/994.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/997.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN 3 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/995.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]ESPN 2 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/996.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]E! EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/998.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Distrito Comedia EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/999.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Disney XD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1002.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Disney Junior EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1003.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Disney Channel EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1004.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery World EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1005.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Turbo EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1006.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Teather EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1000.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Science EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1007.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Kids EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1008.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Home & Health EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1009.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Civilization EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1010.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Discovery Channel EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1011.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]De Película HD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/993.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Comedy Central EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1001.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Cinemax EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1012.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Cinecanal HD EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]CBeebies EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1015.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Cartoon Network EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1016.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Canal Once EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1017.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Canal Gourmet EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1018.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Canal de las Estrellas EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1019.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Canal 5 EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1020.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Boomerang EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1021.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]BBC Entertainment EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1023.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Azteca Trece EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1025.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Azteca Siete EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1026.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Azteca Noticias EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/830.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]Animal Planet EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1028.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]AMC EC [/COLOR][COLOR green]F4M*[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1029.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-<item> <title>[COLOR red]A&E EC [/COLOR][COLOR green]F4M *[/COLOR]</title>	
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zialcobra.dyndns.org:8000/live/mexico/mexico/1030.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></item>	
-
-	    
