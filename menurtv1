@@ -108,8 +108,6 @@ http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
 http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT
 http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",VENUS
-http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico opc 3
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn
@@ -128,12 +126,6 @@ http://139.59.185.252:8081/rstm/FOX_SPORT1_USA_HD/playlist.m3u8
 http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT HD
 http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
-
-
-
-
-
-
 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Movies 
  http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
