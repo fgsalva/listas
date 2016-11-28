@@ -86,11 +86,11 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamericaaa
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Movies
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",1 FOX Movies
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Canal de las Estrell…
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",2 Canal de las Estrell…
 http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",GalaTV
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",3 GalaTV
 http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Univision TDN
 http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
