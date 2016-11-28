@@ -108,19 +108,24 @@ http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
 http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT
 http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico opc 3
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico opc 4
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport
+http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport2
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",fox sport3
 http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Exa tv
-http://159.203.34.7:8081/rstm/EXA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn2
+http://159.203.63.133:8081/rstm/Espn2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico oncetv
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
 http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX SPORTS 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX SPORTS 1 USA
 http://139.59.185.252:8081/rstm/FOX_SPORT1_USA_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",NBC UNIVERSO HD
 http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
@@ -133,7 +138,7 @@ http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
  http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",GalaTV 
  http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8 
- #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Univision 
+ #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Univision TDN
  TDN http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Disney XD 
  http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8 
@@ -149,15 +154,6 @@ http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
  http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT 
  http://159.203.63.115:8081/rstm/TNT/playlist.m3u8 
-
- #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico opc 3 
- http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
- #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn
- http://159.203.63.133:8081/rstm/Espn/playlist.m3u8 
- #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico 
- http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
- #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico opc 4 
- http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Exa tv
  http://159.203.34.7:8081/rstm/EXA/playlist.m3u8 
  #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
