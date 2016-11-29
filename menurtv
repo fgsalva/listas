@@ -907,30 +907,30 @@ item>
 </item>	
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga canal1 latelete SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</sportsdevil>
 <referer>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</referer>
 </item>	
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga2 canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLaLiga Multiliga2 canal1 lateleteSDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</sportsdevil>
 <referer>http://latelete.tv/opcion-2-canal-plus-liga-en-directo-gratis-por-internet/</referer>
 </item>	
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]BeinEspaña Multiliga2 canal1 deportes/multibein/canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinEspaña Multiliga2 canal1 lateleteSDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
 <referer>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</referer>
 </item>	
 
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]BeinLatino deportes/multibein/canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLatino Cinestreno SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/beinlatino.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/beinlatino.php</referer>
 </item>	
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]BeinLatino deportes/multibein/canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]BeinLatino LATELETE SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://latelete.tv/bein-n-sport-latino-en-vivo-online-gratis/</sportsdevil>
 <referer>http://latelete.tv/bein-n-sport-latino-en-vivo-online-gratis/</referer>
 </item>	
@@ -951,17 +951,6 @@ item>
 <referer>http://cinestrenostv.tv/canales/deportes/multibein/canal3.html</referer>
 </item>
 
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR]MultiBein canal4 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal4.html</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal4.html</referer>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR]MultiBein canal5 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal5.html</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal5.html</referer>
-</item>
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Multifutbol canal1 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
@@ -975,17 +964,7 @@ item>
 <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal2.html</referer>
 </item>
 
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR]Multifutbol canal3 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal3.html</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal3.html</referer>
-</item>
 
-<item>
-<title>[COLOR white][COLOR blue]• [/COLOR]Multifutbol canal4 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal4.html</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal4.html</referer>
-</item>
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox Sport Arg2 SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
