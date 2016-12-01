@@ -33,13 +33,14 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 Index 2
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Master*
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index1
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index2
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index4
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
@@ -54,16 +55,19 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2* amp
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA MASTER
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index 1*mmm
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index2 mmm
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.3
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index 1*
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index2 
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-p.m3u8??sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index4 b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index3 b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index1*b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index2 b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&amp;rebase=on
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO 500
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO nop
