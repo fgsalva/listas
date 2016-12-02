@@ -175,6 +175,7 @@ http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
@@ -185,6 +186,9 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 29  EL SALVADOR
+rtmp://cdns840stu1021.multistream.net/genteve.c29.svlive/_definst_/live-150
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua
