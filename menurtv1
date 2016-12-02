@@ -105,7 +105,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",galatv (Cancun)jeje
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV (Merida)
@@ -156,14 +155,12 @@ http://159.203.34.7:8081/rstm/EXA/playlist.m3u8
 http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Ritmoson
 http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",2 Canal de las Estrell…
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex Canal de las Estrell…
 http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",3 GalaTV
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex GalaTV
 http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mexico oncetv
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex oncetv
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
@@ -175,7 +172,6 @@ http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
 http://198.24.135.42:80/canal15/canal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
@@ -186,9 +182,6 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 29  EL SALVADOR
-rtmp://cdns840stu1021.multistream.net/genteve.c29.svlive/_definst_/live-150
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Canal 33 EL SALVADOR
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL 13  Nicaragua
@@ -203,14 +196,10 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 34 honduras
 http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
-rtmp://k3.usastreams.com:1935/canal42/canal42
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Telemax Mexico 
