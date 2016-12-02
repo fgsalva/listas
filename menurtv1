@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas
 http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27a
