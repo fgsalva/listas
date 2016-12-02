@@ -5,6 +5,8 @@ http://iphone-streaming.ustream.tv/uhls/22659539/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27
 http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=20109787&stream=1&connectionId=oldurl-bbb53762277a954fcd39d660afd76808a9052e5b&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Peliculas UNIVERSAL MOVIES
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
@@ -49,6 +51,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index4
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
 
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2*
@@ -62,17 +65,28 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2* amp
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index3 b
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index3 p
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA MASTER
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index4 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index3 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index1*b
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index2 b
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index3 b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA index4 b
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana Master
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 b
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 p
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO 500
@@ -91,8 +105,14 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", PO.KER. CENTRAL
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",galatv (Cancun)jeje
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV FORTOTV (Merida)
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", GALATV Trecevision (Meerida)
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
@@ -177,15 +197,13 @@ rtmp://216.224.177.132/live/sertv
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",rtv Hondura
 http://iphone-streaming.ustream.tv/uhls/18502457/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 3cuatro honduras
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 34 honduras
 http://iphone-streaming.ustream.tv/uhls/7521384/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", UNO COSTARICA
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", COLOSAL COSTARICA
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO COSTARICA
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", SMO. COSTARICA
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", 42 COSTARICA
 rtmp://k3.usastreams.com:1935/canal42/canal42
@@ -207,12 +225,11 @@ http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", A-ONE T-K  (Musica) (ferrer)
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA) (ferrer)
@@ -245,6 +262,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
+
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe (ferrer)
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia (ferrer)
@@ -262,6 +280,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL (ferrer)
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U (ferrer)
+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
@@ -287,6 +306,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 ,Tele Uno TV - Costa Rica (ferrer)
@@ -305,6 +325,4 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="nuevos tp",galatv (ferrer)jeje
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
