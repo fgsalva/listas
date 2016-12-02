@@ -138,6 +138,8 @@ http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="latweb",Discovery Channel
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18alSN%2FDEQ29Na9JjP5xre5zOTnC5dNGxzzNXQ3gujze5s12%2Bewhv48TaISEkRIOYjuXxh%2F5My%2BBw%3D%3D|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="latweb",Discovery Channel ferrer
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18alSN%2FDEQ29Na9JjP5xre5zOTnC5dNGxzzNXQ3gujze5s12%2Bewhv48TaISEkRIOYjuXxh%2F5My%2BBw%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="latweb",Investigation Discovery
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2FXnjKjH2lucJI7whIFv9OeePqJBbdJETq%2BiZO0SR1F64ho8nTKAPGBKjUtpK%2FK2UA8e1cvXOGfpw%3D%3D|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="latweb",National Geographic
