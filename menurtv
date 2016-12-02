@@ -1247,9 +1247,8 @@ nopitem>
 
 
 
-<item>
-<title>bolivia deportes regex Lives
-</title> 
+nopitem>
+<title>bolivia deportes regex Live</title> 
 <link>$doregex[get-url]</link> 
 
 <regex>
