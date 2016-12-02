@@ -14,6 +14,9 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamericaaa
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",BCONETC
@@ -22,6 +25,9 @@ http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18YRVoObmrIymHweBVWFx%2FYDDiRX
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1875DGJ4j%2BL3Cm8%2F8VcfmBRl46ZINwdjL%2Bk%2BhQfQW4kbqpb9Wg2hDSKTDEWpxQcst700XJLn82PPN4MjntxqjM1Nh0nEstAXFg%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Directv Sports !!
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2B2kqwScKn0yY8KSNl3EjraJHBZg19Um89Zm%2BjgVAk2pBHxODR11sNM1dJ1rihmiA4VJLBlm45V8A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 
