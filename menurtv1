@@ -27,6 +27,8 @@ http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1875DGJ4j%2BL3Cm8%2F8VcfmBRl46
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2B2kqwScKn0yY8KSNl3EjraJHBZg19Um89Zm%2BjgVAk2pBHxODR11sNM1dJ1rihmiA4VJLBlm45V8A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",hbo2
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bc4mD9JK3O4eT%2Bb7FAivr8BC96T%2FODCIlSuMyJamItq7tp5bfMOVgF4%2F5Q8UbxyUCZ7p%2BHjmrVaA%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
