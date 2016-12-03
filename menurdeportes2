@@ -16,7 +16,25 @@
             <sportsdevil>http://verdirectotv.com/tv/deportes/plusliga.html</sportsdevil>
             <referer>http://verdirectotv.com/tv/deportes/plusliga.html</referer>
             <thumbnail></thumbnail>
-</item>
+      </item>
+      
+      
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]gol verdirecto[COLOR yellow] 104884[/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/deportes/goltv.html</sportsdevil>
+            <referer>http://verdirectotv.com/tv/deportes/goltv.html</referer>
+            <thumbnail></thumbnail>
+      </item>
+      
+      http://verdirectotv.com/tv/deportes/goltv.html
+      <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Partidazo verdirecto[COLOR yellow] 104884[/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/deportes/partidazo1.html</sportsdevil>
+            <referer>http://verdirectotv.com/tv/deportes/partidazo1.html</referer>
+            <thumbnail></thumbnail>
+      </item>
+      
+      http://verdirectotv.com/tv/deportes/partidazo1.html
 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinLiga 111 [COLOR lime][/COLOR]</title>
