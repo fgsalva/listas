@@ -358,7 +358,15 @@ nopitem>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
-            </item>      
+            </item> 
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR] ES 142[COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=142&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=142&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Movistar  143[COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=143&width=650&height=450&autostart=true</sportsdevil>
@@ -436,6 +444,15 @@ nopitem>
             <referer>http://vipracing.us/channel/bt-1/frame</referer>
             <thumbnail></thumbnail>
             </item>   
+
+
+<item>
+            <title>[COLOR white][COLOR lime]zonasport me[/COLOR]CH 4 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://zonasports.me/channel.php?id=2</sportsdevil>
+            <referer>http://zonasports.me/channel.php?id=2</referer>
+            <thumbnail></thumbnail>
+            </item>             
+
 
 <item>
             <title>[COLOR white][COLOR lime]zonasport [/COLOR]CH 4 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
