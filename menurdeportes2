@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 <item>
-<title>[COLOR yellow]***********FERRERLIST******FAV***DEPORTES*2***[/COLOR]</title>
+<title>[COLOR yellow]***********FERRERLIST******FAV***DEPORTES*2*********************[/COLOR]</title>
 <link>http://0.0.0.0.0</link>
 </item>
 
@@ -61,7 +61,7 @@
             <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]LaLiga  multicanal opcion1[COLOR lime]*104884*[/COLOR]</title>
+<title>[COLOR white][COLOR white][COLOR blue]• [/COLOR]LaLiga  multicanal opcion1[COLOR lime]*104884*[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
 <thumbnail></thumbnail>
@@ -108,21 +108,21 @@
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]GOLTV  sport ARG[COLOR lime]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]GOLTV  sport ARG[COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/goltv.php</referer>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]Canal Caracoltv[COLOR lime]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Canal Caracoltv[COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/colombia/caracoltv.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/colombia/caracoltv.php</referer>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]TYC  sport ARG[COLOR lime]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]TYC  sport ARG[COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/tycsports.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/tycsports.php</referer>
 <thumbnail></thumbnail>
@@ -147,7 +147,7 @@
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]Canal fox sport1 mexico[COLOR lime]*105932*[/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Canal fox sport1 mexico[COLOR lime]*105932*[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports3.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/foxsports3.php</referer>
 <thumbnail></thumbnail>
