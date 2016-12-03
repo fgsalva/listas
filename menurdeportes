@@ -446,31 +446,18 @@ nopitem>
             </item>   
 
 
-<item>
-            <title>[COLOR white][COLOR lime]zonasport me [/COLOR]CH 2 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=2</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=2</referer>
-            <thumbnail></thumbnail>
-            </item>             
+            
 
-
-            <item>
-            <title>[COLOR white][COLOR lime]zonasport me [/COLOR]CH 5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=5</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=5</referer>
-            <thumbnail></thumbnail>
-            </item>         
 <item>
-            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] RIVOTV SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://www.tarjetarojatv.net/rivo-tv</sportsdevil>
-            <referer>http://www.tarjetarojatv.net/rivo-tv</referer>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] TEL ESTRELA  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://www.televisionestrella.com/p/inicio.html</sportsdevil>
+            <referer>http://www.televisionestrella.com/p/inicio.html</referer>
             <thumbnail></thumbnail>
             </item> 
-
-<item>
-            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch7 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://rivonet.co/ch7.html</sportsdevil>
-            <referer>http://rivonet.co/ch7.html</referer>
+            <item>
+            <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] TEL ESTRELA  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://red88.ucoz.es/clasico/CANALBARCA.html</sportsdevil>
+            <referer>http://red88.ucoz.es/clasico/CANALBARCA.html</referer>
             <thumbnail></thumbnail>
             </item> 
 
