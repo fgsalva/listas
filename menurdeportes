@@ -351,7 +351,21 @@ nopitem>
             <referer>http://freehdsport.com/bein-sports-la-liga-live-stream.html</referer>
             <thumbnail></thumbnail>
             </item>
-           
+            
+            <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN Ñ 106139[COLOR yellow]zombietv[/COLOR]</title>
+            <sportsdevil>http://www.zombietv.pw/channel.php?file=106139&width=665&height=420&autostart=true</sportsdevil>
+            <referer>http://www.zombietv.pw/channel.php?file=106139&width=665&height=420&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
+             <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN Ñ 104884[COLOR yellow]DINOSTREAM PROTEGIDO[/COLOR]</title>
+            <sportsdevil>http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+            </item>
+            
            
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinDirect 141[COLOR lime][/COLOR]</title>
