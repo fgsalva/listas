@@ -447,63 +447,19 @@ nopitem>
 
 
 <item>
-            <title>[COLOR white][COLOR lime]zonasport me[/COLOR]CH 4 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.me/channel.php?id=2</sportsdevil>
-            <referer>http://zonasports.me/channel.php?id=2</referer>
+            <title>[COLOR white][COLOR lime]zonasport me [/COLOR]CH 2 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <sportsdevil>http://zonasports.to/channel.php?id=2</sportsdevil>
+            <referer>http://zonasports.to/channel.php?id=2</referer>
             <thumbnail></thumbnail>
             </item>             
 
 
-<item>
-            <title>[COLOR white][COLOR lime]zonasport [/COLOR]CH 4 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=4</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=4</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR lime]zonasport [/COLOR]CH 8 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=8</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=8</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR yellow]zonasport [/COLOR]CH 1 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=4</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=4</referer>
-            <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR yellow]zonasport [/COLOR]CH 5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
+            <item>
+            <title>[COLOR white][COLOR lime]zonasport me [/COLOR]CH 5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
             <sportsdevil>http://zonasports.to/channel.php?id=5</sportsdevil>
             <referer>http://zonasports.to/channel.php?id=5</referer>
             <thumbnail></thumbnail>
-            </item>               
-<item>
-            <title>[COLOR white][COLOR yellow]zonasport [/COLOR]CH 9 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=9</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=9</referer>
-            <thumbnail></thumbnail>
-            </item> 
-
-<item>
-            <title>[COLOR white][COLOR green]zonasport [/COLOR]CH 2 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=2</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=2</referer>
-            <thumbnail></thumbnail>
-            </item> 
-<item>
-            <title>[COLOR white][COLOR green]zonasport [/COLOR]CH 6 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=6</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=6</referer>
-            <thumbnail></thumbnail>
-            </item> 
-<item>
-            <title>[COLOR white][COLOR green]zonasport [/COLOR]CH 10 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
-            <sportsdevil>http://zonasports.to/channel.php?id=10</sportsdevil>
-            <referer>http://zonasports.to/channel.php?id=10</referer>
-            <thumbnail></thumbnail>
-            </item> 
-            
+            </item>         
 <item>
             <title>[COLOR white][COLOR yellow]Rivosport [/COLOR] ch5 SPORTDEVIL  [COLOR lime]ZE[/COLOR]</title>
             <sportsdevil>http://rivonet.co/ch5.html</sportsdevil>
