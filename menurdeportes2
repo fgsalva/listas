@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>          
 <item>
-<title>[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] DEPORTE FAV[/COLOR]
+<title>[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] DEPORTE FAV[/COLOR]</title>
 <link>http://0.0.0.0.0</link>
 </item>
 
@@ -18,24 +18,13 @@
             <thumbnail></thumbnail>
       </item>
       
-      
-<item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]gol verdirecto[COLOR yellow] 104884[/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/deportes/goltv.html</sportsdevil>
-            <referer>http://verdirectotv.com/tv/deportes/goltv.html</referer>
-            <thumbnail></thumbnail>
-      </item>
-      
-      http://verdirectotv.com/tv/deportes/goltv.html
       <item>
-            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Partidazo verdirecto[COLOR yellow] 104884[/COLOR]</title>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]Partidazo verdirecto[COLOR yellow] 105743[/COLOR]</title>
             <sportsdevil>http://verdirectotv.com/tv/deportes/partidazo1.html</sportsdevil>
             <referer>http://verdirectotv.com/tv/deportes/partidazo1.html</referer>
             <thumbnail></thumbnail>
       </item>
-      
-      http://verdirectotv.com/tv/deportes/partidazo1.html
-
+     
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinLiga 111 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=450&autostart=true</sportsdevil>
