@@ -489,150 +489,19 @@ nopitem>
             </item>  
             http://rivx8.me.la/rivo3.html
 <item>
-<title>[COLOR magenta]ESPN USA REYTV-ESPNUSA[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
+<title>[COLOR magenta]bein 1hd fran[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/bein-sports-1-fr-live-stream</sportsdevil>
+<referer>http://cricfree.sx/bein-sports-1-fr-live-stream</referer>
 </item>
 <item>
-<title>[COLOR magenta]TSN 1 RETTV-TS1[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/tsn1.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-<item>
-<title>[COLOR magenta]TSN 2 REYTV-TSNX2[/COLOR]</title>
-<sportsdevil>http://cricfree.sx/update/tsn2.php</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
+<title>[COLOR magenta]laliga cifree47[/COLOR]</title>
+<sportsdevil>http://cricfree.sx/update/live9/stream47.php</sportsdevil>
+<referer>http://cricfree.sx/update/live9/stream47.php</referer>
 </item>
 
 <item>
-<title>[COLOR magenta]PREMIERE LIVE [/COLOR]</title>
-<sportsdevil>http://cricfree.sx/premier-sports-live-stream</sportsdevil>
-<referer>referer=http://yotv.co/</referer>
-</item>
-
-<item>
-<title>C1anal+  bt1 Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>C1anal+  bt2 Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>C1anal+  bt2-2 Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport2-2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/btsport2-2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-
-<item>
-<title>C1anal+  espn usa Live 24/7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]FS1 **[/COLOR]</title>
+<title>[COLOR blue]TATETI FS1 **[/COLOR]</title>
 <sportsdevil>http://americatvstream.blogspot.com/p/canal-1.html</sportsdevil>
-<referer>http://americatvstream.blogspot.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]FS1 **BLOG2[/COLOR]</title>
-<sportsdevil>http://americatvstream.blogspot.com/p/canal-2.html</sportsdevil>
-<referer>http://americatvstream.blogspot.com/</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
-<item>
-<title>[COLOR blue]FS1 **BLOG3[/COLOR]</title>
-<sportsdevil>http://americatvstream.blogspot.com/p/canal-3.html</sportsdevil>
 <referer>http://americatvstream.blogspot.com/</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
@@ -666,18 +535,12 @@ nopitem>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
-<item>
-<title>[COLOR blue]SETANTA **BLOG3[/COLOR]</title>
-<sportsdevil>http://streamking.cc/player?channel=setantasport</sportsdevil>
-<referer>http://streamking.cc/player?channel=setantasport</referer>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
-<fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR blue]PREMIER **BLOG3[/COLOR]</title>
-<sportsdevil>http://streamking.cc/player?channel=premiersport</sportsdevil>
-<referer>http://streamking.cc/player?channel=premiersport</referer>
+<sportsdevil>http://sportsvideoline3.pw/player?channel=premiersport</sportsdevil>
+<referer>http://sportsvideoline3.pw/player?channel=premiersport</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</thumbnail>
 <fanart>http://worldsoccertalk.com/wp-content/uploads/2016/04/copa-america-tv-schedule.jpg</fanart>
 </item>
