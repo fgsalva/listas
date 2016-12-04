@@ -12,17 +12,11 @@
 
 <item>
 <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ vip[/COLOR][COLOR yellow] tv[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.tv%26referer=http://vipracing.tv</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.tv/channel/bein-es1%26referer=http://vipracing.tv</link>
 <referer>http://vipracing.tv</referer>
 </item>
 
-<item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]Beine ñ roja[/COLOR][COLOR yellow] tv[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tarjetarojaonline.es/reproductor1/beinE.php?width=620&height=438%26referer=http://tarjetarojaonline.es/reproductor1/beinE.php?width=620&height=438</link>
-<referer>http://tarjetarojaonline.es/reproductor1/beinE.php?width=620&height=438</referer>
-</item>
 
-http://tarjetarojaonline.es/reproductor1/beinE.php?width=620&height=438
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga caufree9[COLOR yellow] freehdsport[/COLOR]</title>
             <sportsdevil>http://freehdsport.com/bein-sports-la-liga-live-stream.html</sportsdevil>
             <referer>http://freehdsport.com/bein-sports-la-liga-live-stream.html</referer>
