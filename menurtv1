@@ -335,18 +335,3 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",rivo sport 12
-rtmp://185.63.252.133:1935/live?token=/_definst_/ playpath=rivoeu122 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.rocktv.co/embedx.php?live=rivoeu122&vw=670&vh=420
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",TVrivo23 CASTAMP
-rtmp://50.7.28.114/live playpath=rivo23_1480399742_49a28ddde9ee9c4a swfUrl=http://p.castamp.com/cplayer.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=rivo23&tk=SkoG4MoP&vwidth=680&vheight=440
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",prueba
-rtmp://50.7.28.114/live playpath=zonasx3_1480880552_0c9ef7de379a7 swfUrl=http://p.castamp.com/cplayer.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=zonasx3&tk=yB31uCgR&vwidth=700&vheight=400
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Stream 1 ROCKY
-rtmp://31.220.2.149:1935/live?token=/_definst_/ playpath=rivoeu122 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.rocktv.co/embedx.php?live=rivoeu122&vw=670&vh=420
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",prueba en vivo
-rtmp://198.255.96.74/live playpath=zoniutaa4x_1480882754_a1481b84858fd swfUrl=http://p.castamp.com/cplayer.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=zoniutaa4x&tk=4sasFWBi&vwidth=700&vheight=400 User-Agent: Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
-
-
