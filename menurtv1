@@ -347,5 +347,5 @@ rtmp://31.220.2.149:1935/live?token=/_definst_/ playpath=rivoeu122 swfUrl=http:/
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",prueba en vivo
-rtmp://50.7.28.114/live playpath=zoniutaa4x_1480882754_a1481b84858fd swfUrl=http://p.castamp.com/cplayer.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=zoniutaa4x&tk=4sasFWBi&vwidth=700&vheight=400
+rtmp://198.255.96.74/live playpath=zoniutaa4x_1480882754_a1481b84858fd swfUrl=http://p.castamp.com/cplayer.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=zoniutaa4x&tk=4sasFWBi&vwidth=700&vheight=400
 
