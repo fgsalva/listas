@@ -16,17 +16,13 @@
 <referer>http://vipracing.tv</referer>
 </item>
 
-
 <item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 8 bein 1hd[/COLOR][COLOR yellow] prueba1[/COLOR]</title>
-<sportsdevil>http://bro.adca.st/stream.php?id=411&cache=4&width=650&height=380&stretching=uniform&p=1&c=0</sportsdevil>
-<referer>http://bro.adca.st/stream.php?id=411&cache=4&width=650&height=380&stretching=uniform&p=1&c=0</referer>
-</item>
-<item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 8 bein 1hd[/COLOR][COLOR yellow] prueba2[/COLOR]</title>
-<sportsdevil>http://zonasports.to/channel.php?id=8</sportsdevil>
+<title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ zona3[/COLOR][COLOR yellow] directo[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cdn.zonasports.me/stream-3.php%26referer=http://zonasports.to/channel.php?id=3</link>
 <referer>http://zonasports.to/channel.php?id=8</referer>
 </item>
+
+
 
 
 <item>
