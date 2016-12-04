@@ -15,8 +15,11 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.tv/channel/bein-es1%26referer=http://vipracing.tv</link>
 <referer>http://vipracing.tv</referer>
 </item>
-
-
+<item>
+<title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ vip opc2[/COLOR][COLOR yellow] info[/COLOR]</title>
+<sportsdevil>http://vipracing.info/channel/canal-2/frame</sportsdevil>
+<referer>http://vipracing.info</referer>
+</item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga caufree9[COLOR yellow] freehdsport[/COLOR]</title>
             <sportsdevil>http://freehdsport.com/bein-sports-la-liga-live-stream.html</sportsdevil>
             <referer>http://freehdsport.com/bein-sports-la-liga-live-stream.html</referer>
