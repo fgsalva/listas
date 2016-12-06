@@ -354,13 +354,13 @@ http://84.39.112.76/live/unykBrLmWNrG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 http://149.202.217.164/live/NwrQviqx7tT2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NTk6MjMgUE0maGFzaF92YWx1ZT1yQWx4Y05Nek9VYlpVQzNraUE5YzJRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live9 bt3
 http://84.39.112.76/live/uofm8NtnprtC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDEwOjA0OjAyIFBNJmhhc2hfdmFsdWU9R0VmN3NIaUNtWDl2ejMvZGRjb3puQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xNw==
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",directv dailydeportes.pw/no/stream11.html
-http://158.58.173.24/swfc/2856.m3u8?sf=NTc0NDlhZjY1ZmZmYw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",espn dailydeportes.pw/no/stream14.html
-http://89.163.224.105/swfc/2859.m3u8?sf=NTc0NDliNWNkNjY0Mw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",directv
+http://158.58.173.24/swfc/2856.m3u8?sf=NTc0NDlhZjY1ZmZmYw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 referrer=http://static.nowlive.pw/nowlive/player.js
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",espn 
+http://89.163.224.105/swfc/2859.m3u8?sf=NTc0NDliNWNkNjY0Mw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 referrer=http://static.nowlive.pw/nowlive/player.js
 
 
-#EXTINF:0, FS1  VLC
-#EXTVLCOPT:http-referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
-http://alq2.songsaudience.us/swf/4403.m3u8?sf=NTc3ZDUxNmVkZjkxMA==&token=CY7PCIU5N9IpTi4wZPAKww
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",directvzz
+http://158.58.173.24/swfc/2856.m3u8?sf=NTc0NDlhZjY1ZmZmYw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",espn zzz
+http://89.163.224.105/swfc/2859.m3u8?sf=NTc0NDliNWNkNjY0Mw==&token=7_OMpqJozcK-ro5FLmOHKQ |User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 referrer=http://cdn.allofme.site/jw/jwplayer.flash.swf
