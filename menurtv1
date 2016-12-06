@@ -25,6 +25,12 @@ http://iphone-streaming.ustream.tv/uhls/22738162/streams/live/iphone/playlist.m3
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live6
+http://84.39.112.76/live/uofm8NtnprtC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6Mjk6MzUgUE0maGFzaF92YWx1ZT1GcjdGYUMrQmlya1RBQ0FpUU1XazhnPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live1
+http://84.39.112.76/live/jAKIrZQaQluA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6MzU6MjAgUE0maGFzaF92YWx1ZT03Nlozb2tNbUVDR2xNL1VEdFpxTDVRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live3
+http://149.202.217.164/live/JwNYzXZv2dhj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NDA6MDggUE0maGFzaF92YWx1ZT1NVXRNTEVEZUsvMXliSjFIbzM2cHpBPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
