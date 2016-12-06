@@ -9,12 +9,6 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR yellow]BIOFOBIA[/COLOR]</title>
-<link>https://video-edge-c2b578.dfw02.hls.ttvnw.net/transcode-x2-6db2e0/amandachicaguapa_23856429200_559697330/chunked/index-live.m3u8?token=id=8051177410968914103,bid=23856429200,exp=1481128577,node=video-edge-c2b578.dfw02,nname=video-edge-c2b578.dfw02,proto=https,fmt=chunked&sig=d8f4e25795019fcfe8736019f24d126142d9c434</link>
-<referer>http://biophobia.tv/deportes/biophobiasd.php</referer>
-</item>
-
-<item>
 <title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
