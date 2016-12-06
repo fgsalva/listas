@@ -15,7 +15,12 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.tv/channel/bein-es1%26referer=http://vipracing.tv</link>
 <referer>http://vipracing.tv</referer>
 </item>
-
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga extremo[COLOR yellow] extremo[/COLOR]</title>
+            <sportsdevil>http://mgq.extremotv.net/extra-10</sportsdevil>
+            <referer>http://mgq.extremotv.net/extra-10</referer>
+            <thumbnail></thumbnail>
+</item>
 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga caufree9[COLOR yellow] freehdsport[/COLOR]</title>
