@@ -25,12 +25,6 @@ http://iphone-streaming.ustream.tv/uhls/22738162/streams/live/iphone/playlist.m3
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live6
-http://84.39.112.76/live/uofm8NtnprtC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6Mjk6MzUgUE0maGFzaF92YWx1ZT1GcjdGYUMrQmlya1RBQ0FpUU1XazhnPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live1
-http://84.39.112.76/live/jAKIrZQaQluA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6MzU6MjAgUE0maGFzaF92YWx1ZT03Nlozb2tNbUVDR2xNL1VEdFpxTDVRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live3
-http://149.202.217.164/live/JwNYzXZv2dhj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NDA6MDggUE0maGFzaF92YWx1ZT1NVXRNTEVEZUsvMXliSjFIbzM2cHpBPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
@@ -341,3 +335,22 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live1
+http://84.39.112.76/live/jAKIrZQaQluA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6MzU6MjAgUE0maGFzaF92YWx1ZT03Nlozb2tNbUVDR2xNL1VEdFpxTDVRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live2dif
+http://149.202.217.164/live/KGfA3xs67WWk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDEwOjAxOjM1IFBNJmhhc2hfdmFsdWU9RjVheUZLUHd4YWUvRWV6RDVoNHBZZz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xNw==
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live3
+http://149.202.217.164/live/JwNYzXZv2dhj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NDA6MDggUE0maGFzaF92YWx1ZT1NVXRNTEVEZUsvMXliSjFIbzM2cHpBPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live4
+http://84.39.112.76/live/KGfA3xs67WWk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NTM6MzQgUE0maGFzaF92YWx1ZT1OTmRiTlBRb3hzYkZybUdjc09XZ1JBPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live5
+http://84.39.112.76/live/ihX9PYfuMzm6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NTc6MTAgUE0maGFzaF92YWx1ZT1MdnYxYSs4ZkZ0TnJTbThhRHBSamd3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live6
+http://84.39.112.76/live/uofm8NtnprtC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6Mjk6MzUgUE0maGFzaF92YWx1ZT1GcjdGYUMrQmlya1RBQ0FpUU1XazhnPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live7
+http://84.39.112.76/live/unykBrLmWNrG/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NTg6MTYgUE0maGFzaF92YWx1ZT1nQm9tY2loVllyMFBUdXR6QXBlZGdRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live8
+http://149.202.217.164/live/NwrQviqx7tT2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDk6NTk6MjMgUE0maGFzaF92YWx1ZT1yQWx4Y05Nek9VYlpVQzNraUE5YzJRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",btsport live9 bt3
+http://84.39.112.76/live/uofm8NtnprtC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE2IDEwOjA0OjAyIFBNJmhhc2hfdmFsdWU9R0VmN3NIaUNtWDl2ejMvZGRjb3puQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xNw==
