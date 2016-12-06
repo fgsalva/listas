@@ -72,7 +72,12 @@
             <referer>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinDirect 141[COLOR lime]Evento[/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein 1hd Sport [COLOR yellow]freehdsport[/COLOR]</title>
