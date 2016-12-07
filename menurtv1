@@ -33,24 +33,9 @@ http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",BCONETC
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18YRVoObmrIymHweBVWFx%2FYDDiRXTBlCMYv3wp3%2FcWFTHjGma8bzx4i%2BwByUShXZZ940CzNWweT5A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPOR
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1875DGJ4j%2BL3Cm8%2F8VcfmBRl46ZINwdjL%2Bk%2BhQfQW4kbqpb9Wg2hDSKTDEWpxQcst700XJLn82PPN4MjntxqjM1Nh0nEstAXFg%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPOR
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bm2lMkz86PPebzTNK0HMLGVlrDwzTMTIrbApkmvUs3fBs0uaEcSjM%2BAt7Ft9YG1rE%2FUJ4zY%2F68tf8vhYlL1ln5EMmx1z%2FObA4%3D
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Directv Sports !!
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2B2kqwScKn0yY8KSNl3EjraJHBZg19Um89Zm%2BjgVAk2pBHxODR11sNM1dJ1rihmiA4VJLBlm45V8A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox anteeriior
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox nuevo
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F9iBWGaDK3mrVhcN%2Fzy0xtf198cEouDl%2FrD0GT7tQvjPbgMS4YC%2BwSKtsHvkSaP3XJHKt8sdXFew%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",hbo2
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bc4mD9JK3O4eT%2Bb7FAivr8BC96T%2FODCIlSuMyJamItq7tp5bfMOVgF4%2F5Q8UbxyUCZ7p%2BHjmrVaA%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 
@@ -182,171 +167,10 @@ http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex oncetv
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Azteca 13	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fz9NJC4sO3CeeWl78sHDhpai20ppntzDF77O2G4ealW4EY6BPDTSiDjbfsQ4s3bBjZd1oHsazE7Q%3D%3D	
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Azteca Noticias	
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Galavision 	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fd1c29SRtp6X%2B802QjTiP%2BxgWZQHHDMB%2BxzjHRhi6MJUeWoKK7aSPxMLaQUPrnnDR7puX6Rs%2F6Lg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Milenio Tv	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BbpFPKO8UMzjq1HctdEFqdOXpnsmEQRU9iSHWafte2Co4%2BYYUPIah8qKEE9fF8MWdqkT1rBpuW8A%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal De Las Estrellas Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fl6JJn%2Fc9mHd8IXug38Uj2IPKIFdwCntVn%2F3tENM%2BCErhgia3OrDIKfawM0upzRXbaZARY6OjjTQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Xh Gc Canal 5 Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19S1IoHA7uxJSBAhMQGmjcDCFWApSBdh3Pb0cz9BF9lg8K2Lne2STFJma3fOe06sHo8UBXgwEsdFQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Azteca 7 	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bn3EfRjmHIcK3M%2Fwf%2FieI30KO4q5cGbjhUQUVEZL0EIA1BP6aNSHu9ZFzeKP2t1wu61wS8e2QfvA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Galavision	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fd1c29SRtp6X%2B802QjTiP%2BxgWZQHHDMB%2BxzjHRhi6MJUeWoKK7aSPxMLaQUPrnnDR7puX6Rs%2F6Lg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", TeleFórmula	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FrkLny%2FVf1AIzauJwaWyL7hp5Rzm8PMnWyLunEuaffSSs0NXVrTWizYmDbByZzfeWqpc3cUpgSmA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Discovery Kids	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18zrEeWZiTybFeDNJAfwYVngOtYjrr8mqFL1njZjOd%2Bwg4%2FdUKr7DYLRF8318CWeSX9SxI%2FnhmBYA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Cbeebies	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19TrVB298Q2S2JcNrvRaPyKDFdrObIP%2F6EutCJtebLFqpsyppnLyq%2F6QUpcvqmXiaY6XDxibRoMlg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Jr. Norte	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18cb%2BWyF1kIaOdwl2xmVzn7tKegridU3kjKBUC4zbgXYSI38Dt8JARtqNFRwfTyLIeCRugsRpGpnA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Jr.	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FoK2GQpsPY1barsLcNtbxALVvx%2FYf80sCwJ5BXvaiUXfL0vzZ8I7oGWZBlS1B5gbpDOHnerUR%2FQA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Disney Multicountry	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FZvgNfxnm%2BDPythjb0INHYRnIcbg5LosEjmMGjDNINezPZu4SIhwYupkQO%2FlnTJ9tjYZZFakMFYw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", 
-Toons	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19GPmZRm1rtxvvu7NxP2PEDoC8i6G3%2Bsn4xIsZxOzz81Ij8MFIvyhJ%2BLnasqjDjn2BkuX5ZOZWa1g%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Nickelodeon Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FsJO9fw80C0nRB9B%2B%2FJgK0u6J%2FjcNSO7JfOVNkaT97x5WWsutEz44G%2F0kA7v4JmOR4BASL4fx%2BKw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Nickelodeon	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19Fc%2BLrDQAAUXefJaubQYMiQdV%2BqmEAI1lNWpGMz5O%2FnKjqFCscRxT0Wq0yrpkk8oXrQm1p%2BdGc7w%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Cartoon Network	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F3YjU4sYwYYAThIS%2Bx8ilRqMrwHTM9CzgkUxAKxT9a9tN5kjwCxERqudoG7xC7e%2Fr%2BD8d2r2vXuw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Disney Xd Multicountry	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18DzxTOYxV0sfPHuY2UwUM3kGd8FnEVO90gLK9UpGZQE6kopPqliWjW%2BebIRfQMs%2BxiazWCt68GmA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Boomerang Cartoon	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F2tB6SkGFxA%2BfHE%2Fbu5N%2FxE9d0u4r8OVoouSExj3mhBfBqfS4ullNOn4JvTJ4AnU4bzLDq4T7lPw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tiin	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F743Ct%2BSg1noA07PJ%2Bg64AtUc%2FYnuKn1uP3afCAcDZfSt4OUToqZDvDdMA90HWWC2lan%2Btwt8jAA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tooncast	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19Ls%2BNAwqhTH3JJrcDrp9QtSrhHvEov0iRGjCY5oa3rhwyzYn62tfoorN9S5OE7n0JplHPlOAeOBQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18FLinArKgkYmt40OGSNQPdJ7%2BhoDeWkA4fJBJDZd0D0znp433MepZ81FmfigWUqPH1ZUy5bVwtvg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Axn Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19zzDhXPUKBkPZmrM97Fmr7Ue8c2majR15j91GjoQtCQkkIbLjuXdlENjOjS1ozQ8LvrkXTBz7xgw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Sony Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19Y6MhWRKq9n6N9YJblxsViywxtjQL5kF4ByCca6dTe5f3ch6iVKddq5eb2FXNXCa9eQ4efShk54Q%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Warner	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18RqoSTVLVtO3GZ3ecjm0tkjTInCTJ2lim3dsGuRSWehzB7azYu0Bswrwcqfx0K4AnMx0JcnGt%2B3Q%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Universal Channel	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18Rlnc36YW9IWTLl71ute8Ff9LHdOunInqxsKkDdyIlepAuR55ghFREhTUpSAS6e1ZfGPDuOirXMA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fx Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BiikIkXgd4oVEZqy8DuJNzcZopR5%2BaQGqWY7g9yAtwzd5mK3NvRdlU%2F1MicXbS1VFQSbGXeeD2Bw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tru Tv	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bjzc2NNyPa%2FctMUG2lmY0zXi3c5THkEbjUI%2Fm%2FR9jJfXDiCppIikglLSZtekjkRaIA3CDoY2a2lQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Comedy Central Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BUEkYICULpAxst91FFzdj%2Bzavy7EQrnJi%2F0%2FfZ7L5D%2Fu%2BEe%2BwtJ2LjlzVo1fRAELLMLQa5H%2B3Rkg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Unicable	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX197VS4MayMqox3iHF4eGHoDeXPOim2IbVLokEsNPgEEF9Ld7yeK7JGmbc5NsOVLLpn9SnYIXb9iKw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18FLinArKgkYmt40OGSNQPdJ7%2BhoDeWkA4fJBJDZd0D0znp433MepZ81FmfigWUqPH1ZUy5bVwtvg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Bbce	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fbq4MZ0O3bx%2BHirdiK%2F0ckv8cNJKaYsZ2QwHjBL3BCp8kw6Lo%2FR7e3fR7eh0U7RzeXVmts1RuDxQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",E	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18AfGf6sRYQP2OEnDbmcLfp7ttbx420l0XCKA%2FrNgXOPvXECkPPHXBEa5i6hUMjkYXFrq713R%2BtYw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Universal Channel	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18Rlnc36YW9IWTLl71ute8Ff9LHdOunInqxsKkDdyIlepAuR55ghFREhTUpSAS6e1ZfGPDuOirXMA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Sy Fy	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX190soH1CXDG8kGNHUBfNeg4Bq19QjkFuota3sv3VR6r5vMR05tRw6dJ1cqPkkwbeP4%2FWFjHtmUmHQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fx Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18Hpw%2BNQKHXx0BYQ3V18KkIawg6AZ%2Fy00z3MNF9FSiUt1pay3c2kSOIrScxECsnPQmJAtE4PcLDDA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Life	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BWLraLxA7T6Yj7zBS3a%2BaTkzwdaz%2BLKfs4uvYXTv2aKukDRdYBVxLBMThtr%2FRS9wefMCpqv2xO2Q%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Distrito Comedia	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FzrmGiBIjdllF%2Fk29cz%2Ba5VS8btS6j08ympDQaEff8BxPPgUo7DSp%2BSC%2FVeJdhn2poIr1e8QIsog%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tbs Veryfunny Pan	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18dPr8olmc2JcU4X2j3hHZgouAVrupHjfXosQCAwijZ3xVq1wLDYkgzW9xduvgf4dV%2F98mqaWQiXg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tlnovelas	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18C%2BsWs6qM0ztA8nknOhmqfFSBiL0xAlJ1pkP6KK8G%2BkyWx30AjJpKl6KAXTnsteHidrHxMqtdcnw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Hbo Hd Este	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2FqvaT4%2BBHllCWEb7BPphu7VGWwyhQ5VDe1E3H8uhzBMt13TIGfkZHBvWxMbSQ%2Bg8MK9UX6XPUXhQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Hbo 2	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19ebdYEpXPBqDRy2Fe6lzuo%2F5TewUEmG6dIqPJJO2Fz%2BKiYFMrPlZ2bZztGmWAFLJaB%2BLs0aHyXBw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox 1 Este	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2ByX6WbmlxwyvcIOfOccDf3CM8Fvffi3%2FANEHeoY7iKpGVrMQ%2Bh3kfXbMFarUTQMK85Ow5OihBrgA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Action	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FaueqpnZ%2FllyL4nLg5lqU8kHh2g7UyF5h9oW3Rd9GMWgzxwyL8pDw6lMHE0gzM0suLeBGlE7Xbhw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Movies Hd 	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18P2b8LKjAPfqRV0mQvygNfhFH4vRD9FJXxSGJr1G%2BY9IkrDuEl%2BpTBYMVen2lE8XiE5HYHNt7ARw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Cinecanal Sd Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19xs5RrmYWpKUmgorvOCBpShOFt146lpva40tiJCUTy6ixkFMyIZybskt%2BD9ilej0qwWer5%2Fhfa1g%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tnt	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BhHSQFVy6Ce8PoslLwi%2FESwkDiem7%2FwZ%2FFPDmnj14kVaH02lzmuPpRU8PY3oEfHSAzD38dnAuCyg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Golden	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19Gpo6lYL31mxgqh7wt1Nu6OzQT6d7ZC3S%2BnF50BmMeAhSdwwIFLv3yuKYAtEBVuGio80vkXtn%2FBg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Golden Edge	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18lPgiu9v8NK4fxREPSyFr9Hb8pMid51mp%2Bra5nz8jgqdjGAI00sChe8JlfODNvPX099vidBHJiRQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Film Zone	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2B27YxCc3Sf%2Fu5Jbcr%2BR%2FN%2F2dozSg5omR6LVdAb7QYANYJlrS4xC4Qo%2BCLd59DjgOseBJnvYuPzEg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Amc	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX187mVZC0Aj%2FfsnqlgcXtQKoHNdXipYAysrsCcuWlWafFqZ3gfp7Mk4HUByTkbAhg9T1CfRTkbBStg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Space Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19OzuOxrxZEls%2BdKzcVaup90sol%2B%2BBtMzdEUsYkMxXWx3JhlOIDVszXl1icw%2FyXTM7vdxupT4qyQA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Cinemax	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BkPQ0DLlAog7vhYRKXhdyfeJhFatkZKkJUOY%2BGyM75UtIiLBv2EBxgqWzOE7LHZXZpNph%2BfxTnVA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Golden Edge	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BOkT9ETBJmK3Vz3rauv0sfzUu65YdjA7mTDPxJHsFweE0v%2FWQtYF8vwUsMIoMDRtvMfMNbIARr9g%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Amc	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX187mVZC0Aj%2FfsnqlgcXtQKoHNdXipYAysrsCcuWlWafFqZ3gfp7Mk4HUByTkbAhg9T1CfRTkbBStg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Studio Universal	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18ttPm%2FJ1X41umeD0e7InOf%2F3dXy44ffjDM7q%2FnrXo6lohgUJx1qXLj4r7qcC8S%2FFZeE7MMj45p%2FQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", I Sat	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2F0Q2mFHn2xRN07vn%2B1Y%2Fz6%2BSw0vfFLp7ZB02qEvlKamjOj4U2QTosDQJjkKC07ajaV74xFrLSL2A%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Tcm	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FC4iFvZ7EajygY9fDdLqg9%2F3gquYS0u%2BF5Dhuh9RkpuaoWzJU%2FlDNWQr69N2eajF%2B2kJl6VwZHBg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",A E Mundo	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2ByS8JO0%2FX4PBFHEECnUBKPbN7K3UN6WUMPL9FzNEyuLao4LbpS%2B8vVzusrwhbSVWRl7xUCSCyNoA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", HD Theater	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18yUZtJai%2BuW4s8pLTgrM4vq%2FxevZ4XnLbtRTzECnGn8pAjlJCE%2BMShCZ%2BqbxcHc8IE8qL8g%2FHozw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", History 	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FG%2FUEjWKPoR%2FyyfYx%2FVH7EVNWTa3SjRYPwXrKxA4%2F8KqNrowjnwq911OFrQkUnrkE%2FZLTYo6L%2FTA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Nat Geo Wild Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18jROQm90lkG70BeSVfq5fIkUQLBDfLgZZQTTFI8SlGovqnpma5Bh8arGF6GGysGgFz%2BzFOfH5uAQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Discovery Channel	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18Iu%2B4%2BmecXvlZ4SMxmnGoOc0ZxjRTgfCefxNTxzbUaoyfDbKhHJ%2FWjTrMzmwv%2FB2PB3WUYKxDbsQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Animal Planet	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19z8NC7l5DTibSYBL%2B%2F9DZ5jQ6%2FKK8N3TxxYBijBKY9ciemU7sNYmU3mKL5M%2Fqy5tAGDs0l74beFw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Discovery Home And Health	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18DhWtZXAx0spIs%2BNWN98FcrPXqVyoG5R9bi2obm0BVn3tf63yzYEL%2F4M4UDe1evTVwS3Jv4rFCVw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", National Geographic	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F4nokRA4oBPD7M7cL7supTqOrF0YTScgcz14N5aE2hTNRWaJJsyiKn0Qwd8i6xpKqt%2BhbKnEwkpw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Lifetime	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FD4R7Tn4x9XKXNst2OjNGHnslmZEmeg3kOU8tAUytnnYTT3Y6pW8m1wN2JP7Kwbfix1DpyPFn7Ng%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Discovery Id	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F4vLsJvJcyzsBfWQhUhyTLMRFreDE2ZetI66t0XnY1JGc1fZskSnC832EK1KkNAsnSrJbmuUGRQg%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Discovery Tlc	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FRI8ZP6dKBAFfwJbt8jYQIQocCuvbMEg5jtWRAs79CLbx13KRmkz%2BRsGtTp%2FU24YwpSXVoD5xhMQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", WOBI TV	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FWwZoLfugAOLP4UR%2Br%2BXjE3%2FtFfRnVR6x9nVVVn7so7Ob72FqnVLxJzq2w6cuF5Cm92SQ8M79c5w%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Mtv Live Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FdTqrB0AQUQIuvYeSx5%2BfaCR7YKDt12Qk25QQ9%2B8hLiz9xSJY9CdcSty%2B0fk375EsmHJiFhErv5g%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Telehit Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18rwihJhAPiLX0kEyYEpl1fhirKk64CtRiE0C%2Bmt66VEuS7KzdZ%2BOBNHQ4YBt7oaO7575xcVbs4BA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Vh1 Hd	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19zr13x9r0gf2qwmg3%2F1kfBkBt%2Fa9qZ19FHpOVHsdUBIpN8%2BINphnJLSClUKYIp2aYWxyPS9FY1zQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", M Tv	
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fc2dlKdCV0GnHOQHRIvU8y0TfzcSK8s20b5c630ZhI3LlDQgFcfozRGvtiNE6U0RAZqVFVHmmQQQ%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Espn 1	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19Q0qYE45RiqtjZci%2BjBsmJeW7B0GE6opDDZD5us%2BEm5Hnfzj4mVqs6RE8Uoxa52xKVb2rD4gQ1hWPRzCbPI%2FQy6cP77LfzBRs%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Espn 2	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2FqN9ywLnFhfxpFysn4heDnvANzHIHIFUFr83yHVdBtXWGIc4geFXBeLL2gMWzfPpA4P7iXpCdNXoMDWLcCVen4dKI5%2Fw0qTP0%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Espn 3	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18IjpYCElExoSgY4krfFjq%2Fq57PAFjJMDR12%2FODJqkFYWO5VjRU9yc8aSSAtzzB7PNRaPjYDIji%2BYCWJml2ErT3zlVR6KHOtgQ%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Fox Sports	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19f%2B6noFDVsSHzLE%2BD7RqhEQWXKuDrRTRp51cg7Exzv55ExxATTBfpAcmshJYYpeyOO66du%2BCiY2cnS5qnypI%2FvbkySCVaVuC0%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Fox Sports 2	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2BqzmIYTP5StsQ5JvJo3WriunzjLHslBU79CmJSyxZsAvtl3fLmDoQAdpBQ%2BK9QS24uEg8r1K4XPtqAgML4%2FJSXaxtj4X9mSE8%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Ufc Network Hd	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18AZ1iAcn2RjxCnbZ6hl473KlQqzq%2BpqcQcpUrqmMiTIz0Nf7nStiRnjJLjyhppwGr4mFJqoJo0PA%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal Rcn HD 2	
-http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19De%2BAmIRyVhMwJUEMGZL1JSJUxLVDY7V%2BmKFxgdMVLqi3FW5zchaXuniVRPi4Ck1lDt52Cm7oLdw%3D%3D	
+
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Ritmoson Latino RTMS	
 http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8	
