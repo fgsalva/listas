@@ -4,10 +4,8 @@
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",tvp
 http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27a
-http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal peliculas 27
-http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=20109787&stream=1&connectionId=oldurl-bbb53762277a954fcd39d660afd76808a9052e5b&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",canal bein
+mpd://b307f22d624c42d3d6931847c0415ee3.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Peliculas UNIVERSAL MOVIES
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 
