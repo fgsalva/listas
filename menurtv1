@@ -43,6 +43,8 @@ http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bm2lMkz86PPebzTNK0HMLGVlrDw
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2B2kqwScKn0yY8KSNl3EjraJHBZg19Um89Zm%2BjgVAk2pBHxODR11sNM1dJ1rihmiA4VJLBlm45V8A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox anteeriior
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox nuevo
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F9iBWGaDK3mrVhcN%2Fzy0xtf198cEouDl%2FrD0GT7tQvjPbgMS4YC%2BwSKtsHvkSaP3XJHKt8sdXFew%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 
