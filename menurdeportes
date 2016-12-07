@@ -9,6 +9,12 @@ nopitem>
 </item>
 
 <item>
+<title>[COLOR yellow]Bein tv1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8%26referer=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8</link>
+<referer>mpd://b307f22d624c42d3d6931847c0415ee3.m3u8</referer>
+</item>
+
+<item>
 <title>[COLOR yellow]Bein ñ vip[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
 <referer>http://vipracing.info</referer>
