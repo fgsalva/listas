@@ -9,30 +9,38 @@ nopitem>
 </item>
 
 <item>
-<title>[COLOR yellow]Bein tv1[/COLOR]</title>
+<title>[COLOR yellow]Bein tv1 ok[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8%26referer=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8</link>
 <referer>mpd://b307f22d624c42d3d6931847c0415ee3.m3u8</referer>
 </item>
 
 <item>
-<title>[COLOR yellow]Bein Laliga tv1[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8%26referer=mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8</link>
-<referer>mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8</referer>
-</item>
-<item>
-<title>[COLOR yellow]Bein tv1 1[/COLOR]</title>
+<title>[COLOR yellow]Bein tv1 1hd ok[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://093bace1b3ab30f0f81062517cbd041b.m3u8%26referer=mpd://093bace1b3ab30f0f81062517cbd041b.m3u8</link>
 <referer>mpd://093bace1b3ab30f0f81062517cbd041b.m3u8</referer>
 </item>
 
 <item>
-<title>[COLOR yellow]Bein tv1 usa[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://03a52790c4f8fac2f87b274087041b87.m3u8%26referer=mpd://03a52790c4f8fac2f87b274087041b87.m3u8</link>
-<referer>mpd://03a52790c4f8fac2f87b274087041b87.m3u8</referer>
+<title>[COLOR yellow]Barcatv tv1 1hd ok[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://51301e238855a098f2650290a71e3de0.m3u8%26referer=mpd://51301e238855a098f2650290a71e3de0.m3u8</link>
+<referer>mpd://51301e238855a098f2650290a71e3de0.m3u8</referer>
 </item>
 
-<item>
-<title>[COLOR yellow]plus futbol[/COLOR]</title>
+<npitem>
+<title>[COLOR yellow]Bein Laliga tv1 nop[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8%26referer=mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8</link>
+<referer>mpd://f4c4f1527dee66e5fefbda7f1763afb9.m3u8</referer>
+</item>
+
+mpd://51301e238855a098f2650290a71e3de0.m3u8
+<nopitem>
+<title>[COLOR yellow]Bein tv1 usa nop[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://03a52790c4f8fac2f87b274087041b87.m3u8%26referer=mpd://03a52790c4f8fac2f87b274087041b87.m3u8</link>
+<referer>mpd://03a52790c4f8fac2f87b274087041b87.m3u8</referer>                   
+</item>
+
+<nopitem>
+<title>[COLOR yellow]plus futbol nop[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://7d0bba092d8b7e333e672720d4a8e994.m3u8%26referer=mpd://7d0bba092d8b7e333e672720d4a8e994.m3u8</link>
 <referer>mpd://7d0bba092d8b7e333e672720d4a8e994.m3u8</referer>
 </item>
