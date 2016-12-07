@@ -37,10 +37,15 @@ http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w199593970
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18YRVoObmrIymHweBVWFx%2FYDDiRXTBlCMYv3wp3%2FcWFTHjGma8bzx4i%2BwByUShXZZ940CzNWweT5A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPOR
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1875DGJ4j%2BL3Cm8%2F8VcfmBRl46ZINwdjL%2Bk%2BhQfQW4kbqpb9Wg2hDSKTDEWpxQcst700XJLn82PPN4MjntxqjM1Nh0nEstAXFg%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES", B.E.I.N SPOR
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bm2lMkz86PPebzTNK0HMLGVlrDwzTMTIrbApkmvUs3fBs0uaEcSjM%2BAt7Ft9YG1rE%2FUJ4zY%2F68tf8vhYlL1ln5EMmx1z%2FObA4%3D
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",Directv Sports !!
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2B2kqwScKn0yY8KSNl3EjraJHBZg19Um89Zm%2BjgVAk2pBHxODR11sNM1dJ1rihmiA4VJLBlm45V8A%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19gA5bcW3DpWiqYQRSUd2dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox nuevo
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F9iBWGaDK3mrVhcN%2Fzy0xtf198cEouDl%2FrD0GT7tQvjPbgMS4YC%2BwSKtsHvkSaP3XJHKt8sdXFew%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",hbo2
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bc4mD9JK3O4eT%2Bb7FAivr8BC96T%2FODCIlSuMyJamItq7tp5bfMOVgF4%2F5Q8UbxyUCZ7p%2BHjmrVaA%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
@@ -203,7 +208,8 @@ http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18cb%2BWyF1kIaOdwl2xmVzn7tKegri
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FoK2GQpsPY1barsLcNtbxALVvx%2FYf80sCwJ5BXvaiUXfL0vzZ8I7oGWZBlS1B5gbpDOHnerUR%2FQA%3D%3D	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Disney Multicountry	
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FZvgNfxnm%2BDPythjb0INHYRnIcbg5LosEjmMGjDNINezPZu4SIhwYupkQO%2FlnTJ9tjYZZFakMFYw%3D%3D	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", NickToons	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", 
+Toons	
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19GPmZRm1rtxvvu7NxP2PEDoC8i6G3%2Bsn4xIsZxOzz81Ij8MFIvyhJ%2BLnasqjDjn2BkuX5ZOZWa1g%3D%3D	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Nickelodeon Hd	
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FsJO9fw80C0nRB9B%2B%2FJgK0u6J%2FjcNSO7JfOVNkaT97x5WWsutEz44G%2F0kA7v4JmOR4BASL4fx%2BKw%3D%3D	
