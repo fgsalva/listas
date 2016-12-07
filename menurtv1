@@ -7,8 +7,7 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Estrella TV
 http://104.223.36.232:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL DE LAS ESTRELLAS inest
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Telemundo SD ustream iphone
 http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Telemundo HD
@@ -33,7 +32,6 @@ http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
-dadjJxNop68SlDpNFaYBd2CY%2F0bZ97N%2BTr2wHfvdScrquup4%2FV7c0CMQ%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox nuevo
 http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F9iBWGaDK3mrVhcN%2Fzy0xtf198cEouDl%2FrD0GT7tQvjPbgMS4YC%2BwSKtsHvkSaP3XJHKt8sdXFew%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
@@ -166,8 +164,6 @@ http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
 http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex oncetv
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
-
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Azteca Noticias	
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 
@@ -184,16 +180,8 @@ http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
 http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal 4 Foro Tv	
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Univision	
-http://sjc-ucdn03.ustream.tv/dal09/dal09-uhs-live01/live/22781507/1480944843836/plain/uhs/1/chunk_1480949610_d7d44be175.flv	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Telemundo  	
-http://sjc-ucdn01.ustream.tv/dal09/dal09-uhs-live01/live/22690280/1480800477721/plain/uhs/1/chunk_1480805223_041a48c00e.flv	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Xeipn Canal 11	
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Proyecto 40	
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8	
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
