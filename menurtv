@@ -962,11 +962,6 @@ nopitem>
 </item>
 
 <item>
-<link>http://Ignoreme</link>
-<title>[COLOR blue]...[/COLOR][COLOR blue]sdevil[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvz</externallink>
-</item>
-<item>
 <title>BT1 (Spordevil Cinestreno**)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cinestrenostv.tv/canales/deportes/btsport1.php%26referer=http://cinestrenostv.tv/</link>
 <referer>http://cinestrenostv.tv/<referer>
@@ -1027,5 +1022,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
+</item>
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR blue]prueba coadeport...[/COLOR][COLOR blue]sdevil[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/deportes.xml</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR blue]...[/COLOR][COLOR blue]sdevil[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvz</externallink>
 </item>
  
