@@ -177,6 +177,24 @@ nopitemFuncionahalandotodoslostvonline>
 </item> 
 
 
+<item>
+<title>Cinestrenos.TV - PRUEBA2  REGEX</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Kannal: - [makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><a href="([^"]+)" title="([^"]+)" target="tv"><img src="([^"]+)"
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]Sport 365.live (zentv)[/COLOR]</title>
