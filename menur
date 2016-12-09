@@ -178,13 +178,13 @@ nopitemFuncionahalandotodoslostvonline>
 
 
 <item>
-<title>Cinestrenos.TV - PRUEBA2  REGEX</title>
+<title>Cinestrenos.TV - PRUEBA2  REGEX**</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>Kannal: - [makelist.param2]</title>
-<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<link>http://cinestrenostv.tv[makelist.param1]</link>
 <referer></referer>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
