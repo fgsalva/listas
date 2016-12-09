@@ -158,7 +158,7 @@ nopitemFuncionahalandotodoslostvonline>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<NOPitem>
 <title>Cinestrenos.TV - Todos Los Canales  REGEX</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -177,7 +177,7 @@ nopitemFuncionahalandotodoslostvonline>
 </item> 
 
 
-<item>
+<nopitem>
 <title>Cinestrenos.TV - PRUEBA2  REGEX**</title>
 <link>$doregex[makelist]</link>
 <regex>
