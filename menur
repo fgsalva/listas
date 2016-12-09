@@ -183,7 +183,7 @@ nopitemFuncionahalandotodoslostvonline>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>Kannal: - [makelist.param2]</title>
+<title>[makelist.param2]</title>
 <link>http://cinestrenostv.tv[makelist.param1]</link>
 <referer></referer>
 <thumbnail>[makelist.param3]</thumbnail>
