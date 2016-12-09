@@ -3,11 +3,10 @@
 <title>[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] DEPORTE FAV[/COLOR]</title>
 <link>http://0.0.0.0.0</link>
 </item>
+
 <item>
 <title>*[COLOR lime] Dinozap[/COLOR]</title>
-
 <link>$doregex[makelist]</link>
-
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -44,6 +43,150 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>ESPN 2 enVivo y Programas youtube</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param2]</title>
+                        <utube>[makelist.param1]</utube>
+                        <thumbnail></thumbnail>
+            ]]></listrepeat>
+            <expres><![CDATA["yt-lockup-title ".*?href="/watch\?v=(.*?)">([^\<]+)<]]></expres>
+            <page>https://www.youtube.com/channel/UCq7zkboycNJl8uFuwO9GGdw</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN 2 / Foxsports Mexico - Noticias youtube</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param2]</title>
+                        <utube>[makelist.param1]</utube>
+                        <thumbnail></thumbnail>
+            ]]></listrepeat>
+            <expres><![CDATA["yt-lockup-title ".*?href="/watch\?v=(.*?)">([^\<]+)<]]></expres>
+            <page>https://www.youtube.com/channel/UCyCc_ASOU7AaW5EQFfEUkuQ</page>
+             <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] AndresFutbol[/B][/COLOR]  [COLOR lightslategray]con Narraciones Sudamericanas  [/COLOR]</title>
+<link>$doregex[get-decode]</link>
+<regex>
+<name>get-decode</name>
+<expres>file: "(.*?)",</expres>
+<page>http://widestream.io/embed-67</page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
+<item>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]  </title>
+<link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
+
+<regex>
+<name>ip</name>
+<expres>edgeserverip = '(.*?)';</expres>
+<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.info</referer>
+</regex>
+
+<regex>
+<name>name</name>
+<expres>var name     = '(.*?)';</expres>
+<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.info</referer>
+</regex>
+
+<regex>
+<name>token</name>
+<expres>token=(.*?)";</expres>
+<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.info</referer>
+</regex>
+
+<item>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Bein ñ[/B][/COLOR]  [COLOR lightslategray] [/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.publish247.xyz:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.247bay.tv/membedplayer/$doregex[canal]/2/750/420</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.247bay.tv</referer>
+			</regex><regex>
+			<name>canal</name>
+			<expres>channel='(.*?)'</expres>
+			<page>http://vipracing.info/channel/bein-es1/frame</page>
+			</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray] Bein ñ o UnivisionDeportes [/COLOR] </title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_psn$doregex[get_channel]  swfUrl=http://vaughnlive.tv/psn$doregex[get_channel] pageUrl=http://vaughnlive.tv/psn$doregex[get_channel]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_channel</name>
+<expres>a href="/psn(.*?)"[\w\W\s]{0,22}browseTxt</expres>    
+<page>http://vaughnlive.tv/browse/espanol</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<thumbnail></thumbnail></item>
+
 
 
 <item>
