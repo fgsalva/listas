@@ -265,7 +265,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime][/COLOR] [COLOR yelloww][B]diskokosmiko Peliculas Navideñas[/B] [/COLOR][COLOR skyblue]Audio Latino[/COLOR] </title>
+<title> [COLOR lime][/COLOR][COLOR yelloww][B]Diskokosmiko Peliculas Navideñas[/B] [/COLOR][COLOR skyblue]Audio Latino[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
