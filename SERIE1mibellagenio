@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:0,40 y 20 Capítulo 1
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/07/3210020/160707_3210020_40_y_20_Capitulo_1_1468632945_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 2
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/14/3212560/160714_3212560_40_y_20_Capitulo_2_1468632968_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 3
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/14/3212880/160714_3212880_40_y_20_Capitulo_3_1469225321_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 4
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/14/3212882/160714_3212882_40_y_20_Capitulo_4_1469225424_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 5
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/21/3215406/160721_3215406_40_y_20_Capitulo_5_1469819131_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 6
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/21/3215408/160721_3215408_40_y_20_Capitulo_6_1469819364_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 7
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/27/3217399/160727_3217399_40_y_20_Capitulo_7_1470423476_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 8
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/07/27/3217402/160727_3217402_40_y_20_Capitulo_8_1470423327_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 9
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/08/03/3219850/160803_3219850_40_y_20_Capitulo_9_1471030405_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 10
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/08/03/3219851/160803_3219851_40_y_20_Capitulo_10_1471030841_2000.mp4
+#EXTINF:0,40 y 20 Capítulo 11
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/08/10/3222267/160810_3222267_40_y_20_Capitulo_11_1471638994_800.mp4
+#EXTINF:0,40 y 20 Capítulo 12
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/08/10/3222297/160810_3222297_40_y_20_Capitulo_12_1471639150_800.mp4
+#EXTINF:0,40 y 20 Capítulo 13
+#EXTGRP:40 y 20
+http://h.univision.com/media/1272/16/08/16/3224232/160816_3224232_40_y_20_Capitulo_13_1472242360_800.mp4
+
+
+
+
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/dd/0b/e3dd0b319852f429e8aed9e9402ec70d.jpg", Capitulo 1
 http://vk.com/video_ext.php?oid=185818961&id=166033421&hash=48449f266f3046ba
 
