@@ -48,7 +48,7 @@ nopitem>
 *********************************
 *********************************
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Estrenos [/B] [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Estrenos hdfulltv [/B] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -91,7 +91,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Recien Actualizadas[/B] [/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Recien Actualizadas hdfulltv[/B] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -245,20 +245,6 @@ nopitem>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculasvk</externallink>
     </item>
 
-<item>
-    <title>[COLOR yellow]Peliculas REcomendada Sol Rojo openload[/COLOR][COLOR red] ( en pruebas aun)[/COLOR]</title>
-    <link>https://openload.co/embed/hw-cEzpYrpE/SolRojoM1080p1971.mkv.mp4</link>
-      </item>
-    
-    <item>
-    <title>[COLOR yellow]Peliculas REcomendada Sol Rojo openload[/COLOR][COLOR red] ( en pruebas aun)[/COLOR]</title>
-    <link>https://openload.co/embed/EDM4vYZomcc</link>
-    </item>
-    <item>
-    <title>[COLOR yellow]Peliculas REcomendada Sol Rojo openload mode100[/COLOR][COLOR red] ( en pruebas aun)[/COLOR]</title>
-    <link>plugin://plugin.video.openloadmovies/?url=https://openload.co/embed/hw-cEzpYrpE/SolRojoM1080p1971.mkv.mp4&mode=100&</link>
-     </item>
-    
 ***********************
 <item>
 <title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • PELICULAS CANTINFLAS (LATINO)• </title>
