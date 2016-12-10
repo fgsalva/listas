@@ -4,18 +4,24 @@
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Peliculas UNIVERSAL MOVIES
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
+#EXTINF:0 type="stream" tvg-logo=“samplelogo.png” group-title="LUPE", UFC NETWORK OPC 1
+http://190.57.234.164/V0/6/1.m3u8
+#EXTINF:0 type="stream"tvg-logo=“samplelogo.png” group-title="LUPE" , UFC NETWORK OPC 2
+http://190.57.234.164/V0/6/2.m3u8
+#EXTINF:0 type="stream"tvg-logo=“samplelogo.png” group-title="LUPE" , UFC Network OPC 3
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:0 type="stream" tvg-logo=“samplelogo.png” group-title="LUPE", UFC Network OPC 4
+http://190.57.234.164/V3/6/2.m3u8
+#EXTINF:-1, tvg-logo=“samplelogo.png” group-title="LUPE"UFC Network HD UFC Network OPC 5
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:-1, tvg-logo=“samplelogo.png” group-title="LUPE" UFC Network SD UFC Network OPC 6
+http://190.57.234.164/V3/6/2.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Estrella TV
 http://104.223.36.232:1935/live/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Telemundo SD ustream iphone
 http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Telemundo HD
-http://iphone-streaming.ustream.tv/uhls/22736242/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Univision HD
 http://iphone-streaming.ustream.tv/uhls/22738162/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
 
