@@ -92,7 +92,7 @@
 </item>	
 
 <item>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]  </title>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR] vip beytv [COLOR lightslategray]  [/COLOR]  </title>
 <link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
 
 <regex>
@@ -117,7 +117,7 @@
 </regex>
 
 <item>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Bein ñ[/B][/COLOR]  [COLOR lightslategray] [/COLOR] </title>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Bein ñ[/B][/COLOR] vip [COLOR lightslategray] [/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -140,7 +140,7 @@
 
 
 <item>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray] Bein ñ o UnivisionDeportes [/COLOR] </title>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR] vaung [COLOR lightslategray] Bein ñ o UnivisionDeportes [/COLOR] </title>
 <link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_psn$doregex[get_channel]  swfUrl=http://vaughnlive.tv/psn$doregex[get_channel] pageUrl=http://vaughnlive.tv/psn$doregex[get_channel]  live=true</link>
 <regex>
 <name>get_ip</name>
@@ -186,6 +186,26 @@
 <thumbnail></thumbnail>
 </item>
 <thumbnail></thumbnail></item>
+
+
+<item>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Zonasport01[/B][/COLOR]  [COLOR lightslategray]247bay• La Liga • EPL [/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.publish247.xyz:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.247bay.tv/membedplayer/zonas1/2/750/420</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.247bay.tv</referer>
+			</regex>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
