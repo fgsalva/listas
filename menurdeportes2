@@ -661,8 +661,9 @@ nopitem>
 
 
 
+
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer a[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer a**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -672,7 +673,7 @@ nopitem>
 <referer>https://vk.com/videos185818961?section=uploaded</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><a href="(.*?)" onclick="if</expres>
+<expres>a href="(.*?)" onclick="if</expres>
 <page>https://vk.com/videos185818961?section=uploaded</page>
 <referer></referer>
 <cookieJar></cookieJar>
