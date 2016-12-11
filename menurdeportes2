@@ -634,9 +634,33 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
-<referer></referer>
+<referer>https://vk.com/videos185818961</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los picapiedras[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**ultim prueba**[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com/videos209882599?section=album_4&z=[makelist.param1]</link>
+<referer>https://vk.com/videos209882599?section=album_4</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href=[\w\W\s]{0,2}(.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_4</page>
+<referer>https://vk.com/videos185818961</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+class="video_item_title" href=[\w\W\s]{0,2}(.*?)"
+https://vk.com/videos209882599?section=album_4&z=video185818961_166244047
 
 
