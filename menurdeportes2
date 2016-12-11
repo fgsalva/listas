@@ -650,7 +650,7 @@ nopitem>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>picapiedras="(.*?)"	url="(.*?)";</expres>
+<expres>picapiedras:"(.*?)", url="(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <cookieJar></cookieJar>
