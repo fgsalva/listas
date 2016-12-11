@@ -675,8 +675,22 @@ nopitem>
 </item>
 
 
-elchapulin
 
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Mi bella Genio [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>mibellagenio:"(.*?)", url="(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
-https://vk.com/video185818961_166243794
