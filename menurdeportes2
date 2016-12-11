@@ -640,7 +640,7 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] pica prueba[/B] [/COLOR][COLOR lightblue][I]again 1*[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] pica prueba[/B] [/COLOR][COLOR lightblue][I]again 2*[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -650,7 +650,7 @@ nopitem>
 <referer>https://vk.com/videos209882599?section=album_4</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>a class="([^"]+)" href=[\w\W\s]{0,2}(.*?)" onmouseover</expres>
+<expres>class="video_item_title"[\w\W\s]{0,2}href=[\w\W\s]{0,2}(.*?)"</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
 <referer></referer>
 <cookieJar></cookieJar>
