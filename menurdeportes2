@@ -538,8 +538,6 @@ nopitem>
 </item>
 
 
-
-
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -557,4 +555,26 @@ nopitem>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link**[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos185818961</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
 
