@@ -640,17 +640,17 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] pica prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] pica prueba[/B] [/COLOR][COLOR lightblue][I]again 1*[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
+<link>https://vk.com/videos209882599?section=album_4&z=[makelist.param1]%2Fpl_209882599_4</link>
 <referer>https://vk.com/videos209882599?section=album_4</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
+<expres>a class="([^"]+)" href=[\w\W\s]{0,2}(.*?)" onmouseover</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
 <referer></referer>
 <cookieJar></cookieJar>
