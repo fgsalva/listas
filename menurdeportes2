@@ -622,7 +622,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los picapiedras[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link upload**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los picapiedras[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link *upload**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -634,7 +634,7 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
-<referer>https://vk.com/videos185818961</referer>
+<referer>https://vk.com/videos209882599?section=album_4</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -653,14 +653,9 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href=[\w\W\s]{0,2}(.*?)"</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
-<referer>https://vk.com/videos185818961</referer>
+<referer>https://vk.com/videos209882599?section=album_4</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
-
-
-
-class="video_item_title" href=[\w\W\s]{0,2}(.*?)"
-https://vk.com/videos209882599?section=album_4&z=video185818961_166244047
 
 
