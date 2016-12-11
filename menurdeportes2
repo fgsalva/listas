@@ -435,6 +435,12 @@
 <referer>http://cinestrenostv.tv/canales/deportes/tycsports.php</referer>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
+
+
  
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Direc TV [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
@@ -471,4 +477,42 @@ nopitem>
 <title>[COLOR white][COLOR blue]• [/COLOR]Espn2 Argentina SDevil[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/espn-2-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
+</item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]todos Los Canales adran[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,6}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)Online</expres>
+<page>http://latelete.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]modferrer[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><a href="(.*?)" title="(.*?)"><img src="(.*?)" alt="(.*?)"</expres>
+<page>http://latelete.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
