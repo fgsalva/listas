@@ -520,7 +520,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]mod ferrer es[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -528,9 +528,9 @@ nopitem>
 <title>[makelist.param2]</title>
 <sportsdevil>[makelist.param1]</sportsdevil>
 <referer>http://latelete.tv/</referer>
-<thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
+<thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>href="(.*?)" title="(.*?)"><img src="(.*?)"</expres>
+<expres>href="(.*?)" title="(.*?)"</expres>
 <page>http://latelete.tv/</page>
 <referer></referer>
 <cookieJar></cookieJar>
