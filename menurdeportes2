@@ -650,7 +650,7 @@ nopitem>
 <referer>serverferrer</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>picapiedras="(.*?)"  url="(.*?)";</expres>
+<expres>picapiedras="(.*?)"	url="(.*?)";</expres>
 <page>serverferrer</page>
 <referer>serverferrer</referer>
 <cookieJar></cookieJar>
