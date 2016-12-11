@@ -537,3 +537,24 @@ nopitem>
 </regex>
 </item>
 
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es****[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<sportsdevil>https://vk.com/[makelist.param1]</sportsdevil>
+<referer>https://vk.com/videos185818961</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
