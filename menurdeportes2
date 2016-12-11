@@ -648,25 +648,27 @@ nopitem>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>https://vk.com/videos209882599?section=album_4&z=[makelist.param1]</link>
-<referer>https://vk.com/videos209882599?section=album_4</referer>
+<referer>https://vk.com/</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>class="video_item_title" href=[\w\W\s]{0,2}(.*?)"</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
-<referer>https://vk.com/videos209882599?section=album_4</referer>
+<referer>https://vk.com/</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 
+
+
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer b**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod analisi1[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
+<link>[makelist.param1]</link>
 <referer>https://vk.com/</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
@@ -677,3 +679,39 @@ nopitem>
 </regex>
 </item>
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los picapiedras[/B] [/COLOR][COLOR lightblue][I]mod ferrer es analisis 2[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param1]</link>
+<referer>https://vk.com/</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href=[\w\W\s]{0,2}(.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_4</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es analisis 3[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>[makelist.param1]</link>
+<referer>https://vk.com/videos209882599?section=album_4</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos209882599?section=album_4</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
