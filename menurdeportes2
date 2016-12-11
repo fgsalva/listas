@@ -641,5 +641,21 @@ nopitem>
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] pica prueba[/B] [/COLOR][COLOR lightblue][I]solo 1again 2*[/I][/COLOR]</title>
-<link>https://vk.com/video185818961_166243794</link>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>picapiedras="(.*?)"  url="(.*?)";</expres>
+<page>serverferrer</page>
+<referer>serverferrer</referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
+
+</item>
+https://vk.com/video185818961_166243794
