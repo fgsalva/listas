@@ -492,7 +492,7 @@ nopitem>
 <referer>http://latelete.tv/</referer>
 <thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,6}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)Online</expres>
+<expres>href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,6}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
 <page>http://latelete.tv/</page>
 <referer></referer>
 <cookieJar></cookieJar>
@@ -500,7 +500,7 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]modferrer*[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]modferrer**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -510,9 +510,30 @@ nopitem>
 <referer>http://latelete.tv/</referer>
 <thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres>href="(.*?)" title="(.*?)"><img src="(.*?)" alt="(.*?)"</expres>
+<expres>href="([^"]+)"[\w\W\s]{0,2}title="([^"]+)"[\w\W\s]{0,6}src="([^"]+)"[\w\W\s]{0,2}alt="([^"]+)"</expres>
 <page>http://latelete.tv/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]mod ferrer es[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://latelete.tv/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href="(.*?)" title="(.*?)"><img src="(.*?)"</expres>
+<page>http://latelete.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
