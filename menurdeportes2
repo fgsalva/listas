@@ -735,13 +735,13 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721 [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721 tipo mobil [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1] [makelist.param3]</title>
-<link>https://vk.com[makelist.param2]</link>
+<link>https://m.vk.com[makelist.param2]</link>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
