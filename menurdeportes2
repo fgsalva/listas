@@ -694,3 +694,24 @@ nopitem>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>peliculas1:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+title:"
