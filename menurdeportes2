@@ -714,4 +714,22 @@ nopitem>
 </regex>
 </item>
 
-title:"
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]cinedoble[/B] [/COLOR][COLOR lightblue][I]opcin 2 upload**[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos275648338?section=uploaded</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos275648338?section=uploaded</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
