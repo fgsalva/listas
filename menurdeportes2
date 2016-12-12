@@ -751,3 +751,37 @@ nopitem>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>peliculas2:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<!---
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+Host: cs529211.vk.me
+User-Agent: Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Range: bytes=0-
+Referer: https://m.vk.com/video179017965_166362379
+DNT: 1
+Connection: keep-alive
+--!>
