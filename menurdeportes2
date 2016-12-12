@@ -702,7 +702,7 @@ nopitem>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
+<title>[makelist.param1] [makelist.param3]</title>
 <link>https://vk.com[makelist.param2]</link>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail></thumbnail>
