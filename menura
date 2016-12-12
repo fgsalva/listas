@@ -1,1 +1,344 @@
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR green]***********[/COLOR][COLOR blue]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR][COLOR green]******[/COLOR]</title>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv1</externallink>
+</item>
+<item>
+noplink>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR blue]NO TP[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv3</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red]Españoles[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv2</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Ferrer Online[/COLOR][COLOR lime] SportDevil yF4m [/COLOR][COLOR red]Lamejor!![/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Series[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurseries</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Caricaturas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurcaricaturas</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Telenovelas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtelenovelas</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Peliculas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
+</item>
+
+nopitem>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1 nop[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Deportes (Favoritos)[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes2</externallink>
+</item>
+
+
+<item>
+    <title>[COLOR yellow]UFC ANTERIORES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ufc</externallink>
+</item>
+
+Nopitem>
+ <title>[COLOR lime][/COLOR][COLOR yellow]Kareoke  playlistyou[/COLOR] [COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLnRnYMp86IGKx__wFRqS2cksdRn_uhwfS</page>
+ <referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
+ <cookieJar></cookieJar>
+
+ 
+ noPitem>
+ <title>[COLOR lime][/COLOR][COLOR yellow]BRUCE LEE [/COLOR][COLOR lime] si aparece en blanco abrelo nuevamente[/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PLnRnYMp86IGLOg8R97O31Zwq7F7CTEX_9</page>
+<referer>https://www.youtube.com/user/fgsalvaaa/playlists</referer>
+ <cookieJar></cookieJar>
+ 
+Nopitem>
+<title>[COLOR yellow][COLOR yellow]Exodus Movies [/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Specto Movies[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc> 
+sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/02/Specto-Fork-Addon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Specto TV Shows [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+<thumbnail>http://www.pixhoster.info/f/2016-08/8cb4ac7449b3ad8cd4cdf39a6153d4d5.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-09/5cba6618a6a9d21b1de0cec0523f5065.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]RojaDirecta [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
+
+NopLlama a una pagina antescineitem>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
+
+nopitemFuncionahalandotodoslostvonline>
+<title>[COLOR yellow]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil opcin 1 [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dLive%2bTV%26url%3dcustoms.cfg%26definedIn%3dmainMenu.cfg%26director%3dSportsDevil%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail></item>
+
+
+<item>
+<title>[COLOR pink]CinestrenoTV (Spanish) [/COLOR][COLOR lightslategray] Sportsdevil Perfect [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail>
+</item>
+
+<NOPitem>
+<title>Cinestrenos.TV - Todos Los Canales  REGEX</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Kannal: - [makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+
+<nopitem>
+<title>Cinestrenos.TV - PRUEBA2  REGEX**</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>http://cinestrenostv.tv[makelist.param1]</link>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><a href="([^"]+)" title="([^"]+)" target="tv"><img src="([^"]+)"
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+
+<item>
+<title>[COLOR yellow]Sport 365.live (zentv)[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
+ 
+
+]]></listrepeat>
+<expres><![CDATA[title=(.*?)&channel=(.*?)"]]></expres>
+<page>http://www.liveonlinetv247.info/sports-channels.php</page>
+
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+  
+<item>
+<title>[COLOR blue][B] TV 24/7 [/B][/COLOR] [COLOR green][B]vaughnlive**[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR khaki][B][makelist.param2][/B][/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_[makelist.param1]  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/[makelist.param1]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_[makelist.param1]?0.1.1.767_865-865-0.10672002471983433</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_[makelist.param1]?0.1.1.767_865-865-0.10672002471983433</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_[makelist.param1]?0.1.1.767_865-865-0.10672002471983433</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_channel</name>
+<expres>embedSWF\(\"(.*?)"</expres>    
+<page>http://vaughnlive.tv/[makelist.param1]</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+nopitem>
+<title>[COLOR yellow]AdryanList[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://adryanlist.info</externallink>
+<thumbnail><thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR greenyellow][COLOR green]TV Latino_we bLista Baja SD Indefinido Canales sin Geobloqueo[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR dodgerblue]BB[COLOR lightblue]FF[/COLOR]X[/COLOR]: [COLOR khaki][B][makelist.param1][/B][/COLOR]</title>
+<link>$doregex[finalURL]</link>
+<regex>
+<name>finalURL</name>
+<expres>$pyFunction: '$doregex[getURL]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf' if not '$doregex[getURL]'=='' else 'plugin://plugin.video.youtube/play/?video_id=CEGSitBJ7Gw'</expres>
+<page></page>
+</regex>
+<regex>
+<name>getURL</name>
+<expres>file.+?[",']([^"']*)</expres>
+<page>$doregex[get-canales]</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-canales</name>
+<expres>SRC.+?[",']([^"']*)</expres>
+<page>http://embed.latino-webtv.com/$doregex[get-embed].html</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-embed</name>
+<expres>$pyFunction: '$doregex[get-name]' if not '$doregex[get-name]'=='' else '$doregex[get-channel]' </expres>
+<page></page>
+</regex>
+<regex>
+<name>get-name</name>
+<expres>src=[",']http.*?embed\.latino-webtv\.com\/(.*?)\.html</expres>
+<page>http://latino-webtv.com/[makelist.param1]/</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-channel</name>
+<expres>channel.+?[",']([^"']*)</expres>
+<page>http://latino-webtv.com/[makelist.param1]/</page>
+<referer>http://latino-webtv.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres>a href=[",']([^<]*)/[",'].*?src=[",']([^<]*)[",']\W</expres>
+<page>http://latino-webtv.com/</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+nopitem>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]pruebas albumvk[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/miprueba</externallink>
+</item>
+
