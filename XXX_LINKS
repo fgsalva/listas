@@ -125,6 +125,24 @@ UTILIZADA PARA EX.VK
 data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<
 ONLINEhttp://www.rubular.com/
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas HOT  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres>peliculas7:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 
 
 
@@ -146,27 +164,9 @@ ONLINEhttp://www.rubular.com/
 </regex>
 </item>
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas H server1 base  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>[makelist.param2]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</referer>
-<thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas H server1 base  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas H server1 PUFFbase  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
