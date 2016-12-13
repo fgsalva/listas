@@ -166,7 +166,7 @@ ONLINEhttp://www.rubular.com/
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas H server1A base  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas H server1 base  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -176,7 +176,7 @@ ONLINEhttp://www.rubular.com/
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</referer>
 <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
-<expres>Match[^<]+1.(?=http|rtmp|rtsp|mms)(.*)[^<]+2.(?=http|rtmp|rtsp|mms)(.*)[^<]+3.(.*)<</expres>
+<expres>MACH[^<]+1.(?=http|rtmp|rtsp|mms)(.*)[^<]+2.(?=http|rtmp|rtsp|mms)(.*)[^<]+3.(.*)</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</page>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</referer>
 <cookieJar></cookieJar>
