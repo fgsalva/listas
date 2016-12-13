@@ -784,7 +784,7 @@ nopitem>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>peliculas5:"(.*?)", url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
+<expres>peliculas5:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <cookieJar></cookieJar>
