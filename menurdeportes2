@@ -793,7 +793,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todas)  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todas8)  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -803,7 +803,7 @@ nopitem>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail>[makelist.param2]</thumbnail>
 ]]></listrepeat>
-<expres>peliculas5:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
+<expres>peliculas8:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <cookieJar></cookieJar>
