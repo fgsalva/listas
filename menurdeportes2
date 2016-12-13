@@ -782,7 +782,7 @@ nopitem>
 <title>[makelist.param1] [makelist.param3]</title>
 <link>https://vk.com[makelist.param2]</link>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
-<thumbnail></thumbnail>
+<thumbnail>[makelist.param4]</thumbnail>
 ]]></listrepeat>
 <expres>peliculas5:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
