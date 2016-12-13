@@ -811,7 +811,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Qseries [/B] [/COLOR][COLOR lightblue]serverferrer vkwebfull[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Y Qseries [/B] [/COLOR][COLOR lightblue]serverferrer vkwebfull[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -822,8 +822,8 @@ nopitem>
 <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1</referer>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</page>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
