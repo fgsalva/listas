@@ -432,7 +432,7 @@
 </item>
 
 ******
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •LA TEORIA DEL BIG BANG LATINO   • </title>
 <link>$doregex[makelist]</link>
 
@@ -476,7 +476,7 @@
 segun ferrer
 
 ******
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •LA TEORIA DEL BIG BANG LATINO  ferrer • </title>
 <link>$doregex[makelist]</link>
 
@@ -519,7 +519,7 @@ segun ferrer
 segun ferrer
 class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 ***********
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR red]cuer[/COLOR][COLOR blue]dos[/COLOR] •THE WALKING DEAD LATINO (temp 1-5 ) • </title>
 <link>$doregex[makelist]</link>
 
@@ -810,7 +810,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>https://patrartarq.files.wordpress.com/2013/03/ma_sorciere_bien_aimee_1_01_vf_wt_poster.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Mi Bella Genio  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -996,7 +996,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <thumbnail>http://www.acervoclube.com/images/a_familia_addams_seriado_00.jpg</thumbnail>
 <fanart>http://www.tvdeguardia.com/wp-content/uploads/2014/09/La-Familia-Addams-Serie-original.jpg</fanart></item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Perdidos en el Espacio  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1217,7 +1217,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://2.bp.blogspot.com/-xPuBfjJ-GUs/UGxJLf8oUPI/AAAAAAAACt0/4t3LSujq-hk/s1600/1992-1999-Melrose-Place-Wallpaper-18.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • los Angeles de Charlie  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1248,7 +1248,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://www.culturamas.es/wp-content/uploads/2013/09/los-%C3%A1ngeles-de-charlie.jpg</fanart>
 </item> 
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Starsky y Hutch  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1317,7 +1317,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://blogs.diariovasco.com/series-gourmets/files/2014/04/landon.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Los Sopranos  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1348,7 +1348,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://elpalomitron.com/wp-content/uploads/2015/06/Los-soprano-personajes.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Sabrina Cosas de Brujas  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1381,7 +1381,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 
 
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Cosas de Casa  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1412,7 +1412,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://www.alfabetajuega.com/multimedia/imagenes/201501/97867.alfabetajuega-steve-urkel-280115.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • El Principe de Bell Air  • </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -1558,7 +1558,7 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart>http://the-lineup-new.openroadintegrat.netdna-cdn.com/app/uploads/2014/12/walker-texas-ranger-border.jpg</fanart>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR blue]Re[/COLOR][COLOR white]cuer[/COLOR][COLOR blue]dos[/COLOR] • Historias de la Cripta  • </title>
 <link>$doregex[makelist]</link>
 <regex>
