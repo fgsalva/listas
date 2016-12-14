@@ -1720,15 +1720,16 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 </item>
 
 
+
 <item>
-<title>Series Playlist ABC </title>
-<link>$doregex[makelist(A)]</link>
+<title>Series Playlist 123</title>
+<link>$doregex[makelist]</link>
 
 <regex>
-  <name>makelist(A)</name>
+  <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR skyblue][makelist(A).param2] - [makelist(A).param3][/COLOR]</title>
-        <link>$doregex[makelist(B)]</link>
+        <title>[COLOR skyblue][makelist.param2] - [makelist.param3][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
 		<thumbnail></thumbnail>
         ]]></listrepeat>
 <expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
@@ -1737,26 +1738,24 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 </regex>
 
 <regex>
-  <name>makelist(B)</name>
+  <name>makelist2</name>
   <listrepeat><![CDATA[
-        <title>[COLOR skyblue][makelist(B).param2][/COLOR]</title>
+        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
         <link>$doregex[makelist]</link>
-		<thumbnail>[makelist(B).param3]</thumbnail>
+		<thumbnail>[makelist2.param3]</thumbnail>
         ]]></listrepeat>
 <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
-<page>[makelist(A).param1]</page>
+<page>[makelist.param1]</page>
 <cookieJar></cookieJar>
 </regex>
-
-
 <regex>
-  <name>makelist(C)</name>
+  <name>makelist3</name>
   <listrepeat><![CDATA[
-        <title> [makelist(C).param3]</title>
+        <title> [makelist3.param3]</title>
         <link>$doregex[getUrl]</link>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx[makelist(B).param1]/list,1,15</page>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1774,13 +1773,14 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx[makelist(B).param1]/list,1,15</referer>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://pbs.twimg.com/profile_images/690948239319785472/d5o2t6qf.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS[/COLOR] </title>
 <link>$doregex[makelist2]</link>
