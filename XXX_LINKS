@@ -116,7 +116,10 @@ http://diskokosmiko.mx/gewro/adultos-17093/list,1,5
 ]]></listrepeat>
 <expres>peliculas3:"(.*?)", url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -138,7 +141,10 @@ ONLINEhttp://www.rubular.com/
 ]]></listrepeat>
 <expres>peliculas7:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -159,7 +165,10 @@ ONLINEhttp://www.rubular.com/
 ]]></listrepeat>
 <expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -178,7 +187,10 @@ ONLINEhttp://www.rubular.com/
 ]]></listrepeat>
 <expres>MACH[^<]+1.(?=http|rtmp|rtsp|mms)(.*)[^<]+2.(?=http|rtmp|rtsp|mms)(.*)[^<]+3.(.*)</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/server1a</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
