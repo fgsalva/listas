@@ -555,7 +555,10 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos185818961</page>
-<referer></referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -575,7 +578,10 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos185818961?section=uploaded</page>
-<referer></referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -596,7 +602,10 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos185818961</page>
-<referer></referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -616,7 +625,10 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos185818961?section=uploaded</page>
-<referer></referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -636,7 +648,10 @@ nopitem>
 ]]></listrepeat>
 <expres>a class="([^"]+)" href="([^"]+)" onmouseover</expres>
 <page>https://vk.com/videos209882599?section=album_4</page>
-<referer>https://vk.com/videos209882599?section=album_4</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -654,7 +669,10 @@ nopitem>
 ]]></listrepeat>
 <expres>picapiedras:"(.*?)", url="(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -671,7 +689,10 @@ nopitem>
 ]]></listrepeat>
 <expres>elchapulin:"(.*?)", url="(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -692,7 +713,10 @@ nopitem>
 ]]></listrepeat>
 <expres>mibellagenio:"(.*?)", url="(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -711,7 +735,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas1:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -731,7 +758,10 @@ nopitem>
 ]]></listrepeat>
 <expres>class="video_item_title" href="(.*?)"</expres>
 <page>https://vk.com/videos275648338?section=uploaded</page>
-<referer></referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -749,7 +779,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas2:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -767,7 +800,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas2:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -786,7 +822,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas5:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -805,7 +844,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas8:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -823,7 +865,10 @@ nopitem>
 ]]></listrepeat>
 <expres>peliculas3:"(.*?)", url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -842,7 +887,11 @@ nopitem>
 ]]></listrepeat>
 <expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</page>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</referer>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -851,6 +900,7 @@ nopitem>
 <connection>keep-alive</connection>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+
 Host: cs529211.vk.me
 User-Agent: Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
 Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
@@ -859,4 +909,24 @@ Range: bytes=0-
 Referer: https://m.vk.com/video179017965_166362379
 DNT: 1
 Connection: keep-alive
+
+<Host>vk.com<Host/>
+<Referer>https://vk.com/<Referer/>
+User-Agent Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
+Connection keep-alive
+
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+
+g
+de vaung
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+
+
+
 --!>
