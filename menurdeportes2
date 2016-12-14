@@ -793,13 +793,13 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todas88)  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todasparametro3)  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1] [makelist.param4]</title>
-<link>https://vk.com[makelist.param2]</link>
+<link>https://vk.com[makelist.param3]</link>
 <referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
 <thumbnail>[makelist.param2]</thumbnail>
 ]]></listrepeat>
