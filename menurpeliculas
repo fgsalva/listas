@@ -9,6 +9,8 @@ nopitem>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/PELICULASFERRER</externallink>
     </item>
+    
+      
       
     nopitem>
     <title>[COLOR yellow]Lista de Peliculas 2 LATINO [/COLOR]</title>
@@ -1078,3 +1080,10 @@ nopitem>
 	<referer>http://www.dailymotion.com/</referer>
 </regex>
 </item>
+
+
+    <item>
+    <title>[COLOR yellow]1000 dias [/COLOR]</title>
+    <link>http://copiapop.com/nivyed/peliculas-bdrip-dvdrip-latino-43992/10000-dias-dvdrip,408488.avi</link>
+    <externallink></externallink>
+    </item>
