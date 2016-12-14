@@ -1655,3 +1655,230 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 </item>
 
 
+
+
+<item>
+<title>Series Playlist </title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist3.param2] - [makelist3.param3][/COLOR]</title>
+        <link>$doregex[makelist2]</link>
+		<thumbnail></thumbnail>
+        ]]></listrepeat>
+<expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>[makelist3.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/690948239319785472/d5o2t6qf.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Series Playlist ABC </title>
+<link>$doregex[makelist(A)]</link>
+
+<regex>
+  <name>makelist(A)</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist(A).param2] - [makelist(A).param3][/COLOR]</title>
+        <link>$doregex[makelist(B)]</link>
+		<thumbnail></thumbnail>
+        ]]></listrepeat>
+<expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist(B)</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist(B).param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>[makelist(B).param3]</thumbnail>
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>[makelist(A).param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+  <name>makelist(C)</name>
+  <listrepeat><![CDATA[
+        <title> [makelist(C).param3]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx[makelist(B).param1]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist(B).param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/690948239319785472/d5o2t6qf.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>http://diskokosmiko.mx/naredo</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.jimcdn.com/app/cms/image/transf/none/path/s3ae2357e486f33db/image/i6cc2979a034e5ac2/version/1295779249/image.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS II[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+        ]]></listrepeat>
+<expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>http://diskokosmiko.mx/titotv</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx[makelist2.param1]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://k30.kn3.net/taringa/0/4/9/B/B/7/SoyDarkDamBanneD/8D7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
