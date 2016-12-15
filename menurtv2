@@ -111,6 +111,20 @@
 </item>
 
 <item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal tve1 ( LA 1) [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/tve1.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]Canal tve1 ( LA 2) [COLOR lime]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/tve2.php</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]Canal Divinity[COLOR lime]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/nacionales/divinity.php</referer>
@@ -204,6 +218,1690 @@
 <referer>http://cinestrenostv.tv/canales/deportes/goltv.php</referer>
 <thumbnail></thumbnail>
 </item>	
+
+
+
+
+<item>
+<title>                   [COLOR=yellow][COLOR=cyan] [B]TDT PLUS[/B][/COLOR][/COLOR]</title>
+<link>http://ignoremelink</link>
+<thumbnail>http://phonworld.net/wp-content/uploads/2015/05/tdt.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisión analógica - Televisión digital de España TDT [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]GRAN HERMANO VIP (24hrs)[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/gh650.html</sportsdevil>
+ <referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/549669570630668290/IcE8EeA-_400x400.jpeg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]GRAN HERMANO VIP (24hrs)[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('$doregex[get-m3u8]|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36&amp;Referer=http://www.dinostream.pw/jwplayer6/jwplayer.flash.swf')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+<agent>Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision/gh650.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+<agent>Mozilla/5.0 (X11 Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36</agent>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/549669570630668290/IcE8EeA-_400x400.jpeg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</item>
+
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]ANTENA 3 HD[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/eventos2geo/eventos2geo_1@329332/master.m3u8</link>
+<thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TAntena 3 es un canal privado de televisión español que se emite por TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ANTENA 3 HD[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on$$lsname=Antena Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8$$lsname=Antena Opcion 2</link>
+<link>http://comunidadiptv.org/online/estable/?sintonizador=A3HD$$lsname=Antena Opcion 3</link>
+<thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TAntena 3 es un canal privado de televisión español que se emite por TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ANTENA 3 SD[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on$$lsname=Antena Opcion 1</link>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8$$lsname=Antena Opcion 2</link>
+<thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TAntena 3 es un canal privado de televisión español que se emite por TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA SEXTA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La Sexta es una cadena española de ámbito estatal y en abierto que emite a través de la TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA SEXTA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La Sexta es una cadena española de ámbito estatal y en abierto que emite a través de la TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA SEXTA HD[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on$$lsname=La Sexta Opcion 1</link>
+<link>http://comunidadiptv.org/online/estable/?sintonizador=LaSextaHD$$lsname=La Sexta Opcion 2</link>
+<thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La Sexta es una cadena española de ámbito estatal y en abierto que emite a través de la TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TELECINCO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/telecinco.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Telecinco es un canal de televisión privado español, de ámbito nacional, operado por Mediaset España Comunicación,[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TELECINCO[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8$$lsname=TELECINCO Opcion 1</link>
+<link>http://apps4two.com/apps/tvonline/rm2access.php?o=telecinco$$lsname=TELECINCO Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Telecinco[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftelecinco55_ao7nqiq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=TELECINCO Opcion 3</link>
+<link>rtmp://31.220.0.187:1935/privatestream/ playpath=teleinco?keys=fEuwkWUvlwU0t7S6caErDA&keyt=1460648747 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=TELECINCO Opcion 4</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Telecinco es un canal de televisión privado español, de ámbito nacional, operado por Mediaset España Comunicación,[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TELECINCO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Telecinco es un canal de televisión privado español, de ámbito nacional, operado por Mediaset España Comunicación,[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TVE[/B] [COLOR=darkorange][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve24h.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://metrica6.es/wp-content/uploads/2013/10/22.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisión Española es la empresa que gestiona la televisión pública pionera de España. Comenzó sus emisiones regulares el 28 de octubre de 1956 y pertenece a la Corporación Radiotelevisión Española [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]24h[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?</link>
+<thumbnail>http://img.rtve.es/imagenes/canal-24-horas/1326299039400.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisión Española es la empresa que gestiona la televisión pública pionera de España. Comenzó sus emisiones regulares el 28 de octubre de 1956 y pertenece a la Corporación Radiotelevisión Española [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA CUATRO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/tv/nacionales2/cuatro.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://www.cuartoderecha.com/archivos/post_0070.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cuatro es un canal de televisión privado español, de ámbito estatal, operado por Mediaset España Comunicación[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA CUATRO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
+<link>rtmp://31.220.0.187:1935/privatestream/ playpath=cuatroa?keys=oln1EKE-hWifcle6h5BHBw&amp;keyt=1460649018 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Cuatro Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Cuatro[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcuatro_xrf2a3%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Cuatro Opcion 2</link>
+<thumbnail>http://www.cuartoderecha.com/archivos/post_0070.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cuatro es un canal de televisión privado español, de ámbito estatal, operado por Mediaset España Comunicación[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA CUATRO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA CUATRO</link>
+<thumbnail>http://www.cuartoderecha.com/archivos/post_0070.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cuatro es un canal de televisión privado español, de ámbito estatal, operado por Mediaset España Comunicación[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 1[/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://31.220.40.62/pull/ playpath=launotve?keys=luX2hnRlqDtgpci1G__Jbg&keyt=1471554899 swfUrl=http://leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=launotve&width=600&height=450$$lsname=La 1 Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]LA 1[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=La 1 Opcion 2</link>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8$$lsname=La 1 Opcion 3</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 1 es el primer canal de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 1[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/tve1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 1 es el primer canal de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 1[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link>
+<thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 2 es el segundo canal de televisión de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 2[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 2 es el segundo canal de televisión de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 2[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8$$lsname=La 2 Opcion 1</link>
+<link>http://www.iptvsaga.com/play/tv3/0018.m3u8$$lsname=La 2 Opcion 2</link>
+<thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 2 es el segundo canal de televisión de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA 2[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link>
+<thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]La 2 es el segundo canal de televisión de Televisión Española, grupo perteneciente a la corporación pública Radio Televisión Española[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DIVINITY[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/divinity.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Divinity es un canal de televisión privado español que pertenece al grupo Mediaset [/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DIVINITY HQ[/B] [COLOR=darkorange][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=eq8ptgyu33myv5z swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DIVINITY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Divinity es un canal de televisión privado español que pertenece al grupo Mediaset [/B]</info>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ENERGY[/B] [COLOR=darkorange][/COLOR]  [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/energy.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.formulatv.com/fotos/a/76000/76431/qzmxl0ms41paxqlnhw4fa557a8bc510_logo-energy.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Energy es un canal de televisión privado español, que pertenece al Grupo Mediaset España. Este canal emite en el múltiplex MPE4, al igual que Boing.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ENERGY[/B] [COLOR=darkorange][/COLOR] </title>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP ENERGY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://www.formulatv.com/fotos/a/76000/76431/qzmxl0ms41paxqlnhw4fa557a8bc510_logo-energy.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Energy es un canal de televisión privado español, que pertenece al Grupo Mediaset España. Este canal emite en el múltiplex MPE4, al igual que Boing.[/B]</info>
+</regex>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ENERGY[/B] [COLOR=darkorange][/COLOR]  [COLOR=green]Indefinido F4mTester Insistir[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link>
+<thumbnail>http://www.formulatv.com/fotos/a/76000/76431/qzmxl0ms41paxqlnhw4fa557a8bc510_logo-energy.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Energy es un canal de televisión privado español, que pertenece al Grupo Mediaset España. Este canal emite en el múltiplex MPE4, al igual que Boing.[/B]</info>
+</regex>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]BE MAD[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP BE MAD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_circular_500.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Be Mad TV es un canal de televisión privado español ubicado en Fuencarral (Madrid), perteneciente a Mediaset España Comunicación[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TEN[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/ten_azj987s/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2016/03/logo-ten-canal-tdt-secuoya.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TEN el nuevo canal de la TDT. Sintoniza Ten TV en el dial 10 de tu televisión. Descubre la televisión más auTÉNtica. ¡Entra y se auténtico![/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CALLE 13[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/calle13.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_%28Logo%29.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Calle 13 es un canal de televisión español privado, de pago, producido por Universal Studios Networks España[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CALLE 13[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP CALLE 13[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcalle13_aw3fo9w%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_%28Logo%29.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Calle 13 es un canal de televisión español privado, de pago, producido por Universal Studios Networks España[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]COSMO[/B] [COLOR=darkorange][/COLOR]</title>
+<sportsdevil>http://verplusonline.com/canales/cosmos.php</sportsdevil>
+<referer>http://verplusonline.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cosmopolitan TV España: videos, noticias, series, cine, moda, belleza, sexo, blogs, horóscopo, concursos y toda la programación de Cosmo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]COSMO[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/test/test/8240.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cosmopolitan TV España: videos, noticias, series, cine, moda, belleza, sexo, blogs, horóscopo, concursos y toda la programación de Cosmo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]COSMO[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP COSMO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcosmos_az4nm9g%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Cosmopolitan TV España: videos, noticias, series, cine, moda, belleza, sexo, blogs, horóscopo, concursos y toda la programación de Cosmo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ODISEA[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISEA</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logosfake/images/8/8d/Odisea.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]COCINA[/B] [COLOR=darkorange][/COLOR] </title>
+<link>rtmp://31.220.40.63/privatestream/ playpath=cocinach?keys=xhU0t9d1sEYHeBpF-j7IbQ&keyt=1462304203 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://amcnetworks.es/wp-content/uploads/2013/02/CANAL-COCINA.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Las mejores recetas y video recetas de cocina, cocineros y programas de televisión[/B]</info>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NOVA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/tv/nacionales2/nova.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Nova es un canal de televisión privado español, perteneciente a Atresmedia Corporación, que emite a través de la TDT [/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NOVA[/B] [COLOR=darkorange][/COLOR][COLOR=orange]Opción 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NOVA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnova2_acolsfq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8$$lsname=Opcion 2</link>
+<link>rtmp://31.220.0.187:1935/privatestream playpath=novach?keys=eDuyKK_2ktSh_bTyhg50qg&amp;keyt=1460125213 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Opcion 3</link>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Nova es un canal de televisión privado español, perteneciente a Atresmedia Corporación, que emite a través de la TDT [/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NOVA[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Nova es un canal de televisión privado español, perteneciente a Atresmedia Corporación, que emite a través de la TDT [/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]13 TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8</link>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/9/9c/13_TV_logo_2010.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]13 TV es una cadena de televisión de TDT en España. Su programación se basa en la difusión de los valores y credo de la Iglesia Católica, y se centra en contenidos para todos los miembros de la familia.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]MEGA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/mega.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal de televisión Mega de Antena 3 TV Toda la programación, series, películas. España, UE. GRUPO ANTENA 3[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]MEGA[/B] [COLOR=darkorange][/COLOR] [COLOR=orange]opcion 2[/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP MEGA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal de televisión Mega de Antena 3 TV Toda la programación, series, películas. España, UE. GRUPO ANTENA 3[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NEOX[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/neox.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.tdcan.es/web/imagenes/canales/neox.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Neox es un canal de televisión privado español, que emite a través de la TDT [/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NEOX[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NEOX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://www.tdcan.es/web/imagenes/canales/neox.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Neox es un canal de televisión privado español, que emite a través de la TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FDF TELECINCO[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/fdf.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Sus emisiones regulares comenzaron el 18 de febrero de 2008 bajo el nombre de FDF Telecinco, sustituyendo en su frecuencia a Telecinco Estrellas[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FDF TELECINCO[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://31.220.40.60:1935/privatestream playpath=fddf?keys=xp2SNaWkd_2WtfBvIfs-iQ&amp;keyt=1456855143 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FDF TELECINCO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Sus emisiones regulares comenzaron el 18 de febrero de 2008 bajo el nombre de FDF Telecinco, sustituyendo en su frecuencia a Telecinco Estrellas[/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]FDF TELECINCO[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF TELECINCO</link>
+<thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Sus emisiones regulares comenzaron el 18 de febrero de 2008 bajo el nombre de FDF Telecinco, sustituyendo en su frecuencia a Telecinco Estrellas[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]A3 SERIES [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]  </title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/atreseries.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Antena 3 es un canal privado de televisión español que se emite por TDT y en las plataformas de televisión de pago Movistar+, Vodafone TV y Orange TV. Está operado por Atresmedia Televisión, que forma parte de Atresmedia Corporación, junto a otras empresas como Atresmedia Radio[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]A3 SERIES [/B] [COLOR=darkorange][/COLOR]  </title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8$$lsname=Antena Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A3 SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Antena Opcion 2</link>
+<thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Antena 3 es un canal privado de televisión español que se emite por TDT y en las plataformas de televisión de pago Movistar+, Vodafone TV y Orange TV. Está operado por Atresmedia Televisión, que forma parte de Atresmedia Corporación, junto a otras empresas como Atresmedia Radio[/B]</info>
+</item>
+
+<item>
+<title>                   [COLOR=yellow][COLOR=cyan] [B]CANALES ESP POR WEBSITE[/B][/COLOR][/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://danserwwe.blogia.com/upload/20100914162611-digitalplus1.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisión analógica - Televisión digital de España TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CINESTRENO [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil Indefinido[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR dodgerblue]B[COLOR lightblue]F[/COLOR]X[/COLOR]: [COLOR khaki][B][makelist.param2][/B][/COLOR] [COLORmediumseagreen]( Sportsdevil )[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+<fanart>http://orig13.deviantart.net/eafb/f/2009/190/3/f/espanawallpaper_by_andresmac.jpg</fanart>
+]]></listrepeat>
+<expres>a href="(.)".title="(.?)".?src="(.?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-D2wDyA5kfuk/Vct0KUvBsDI/AAAAAAAACfA/pOTnl4yX8y8/s1600/tv%2Bspain.jpg</thumbnail>
+<fanart>https://www.firestickkodi.com/wp-content/uploads/2016/08/install-sports-devil-kodi-xbmc.png</fanart>
+</item>
+
+<item>
+<title>                   [COLOR=yellow][COLOR=cyan] [B]DIGITAL PLUS[/B][/COLOR][/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://danserwwe.blogia.com/upload/20100914162611-digitalplus1.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisión analógica - Televisión digital de España TDT [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]Canal #0[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]#0 (léase cero) es un canal de televisión español de pago, propiedad de Telefónica, que comenzó sus emisiones el 1 de febrero de 2016 en sustitución de M+. El canal tiene una temática generalista y emite en exclusiva en la plataforma Movistar+.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]Canal #0 HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Canal #0[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true$$lsname=Opcion 2</link>
+<thumbnail>https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]#0 (léase cero) es un canal de televisión español de pago, propiedad de Telefónica, que comenzó sus emisiones el 1 de febrero de 2016 en sustitución de M+. El canal tiene una temática generalista y emite en exclusiva en la plataforma Movistar+.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]Canal #0 HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal #0</link>
+<thumbnail>https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]#0 (léase cero) es un canal de televisión español de pago, propiedad de Telefónica, que comenzó sus emisiones el 1 de febrero de 2016 en sustitución de M+. El canal tiene una temática generalista y emite en exclusiva en la plataforma Movistar+.[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ACCION[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusaccion.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ es una plataforma de pago de televisión por satélite, que opera en España a través de los satélites Astra e Hispasat[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ACCION [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ACCION[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ es una plataforma de pago de televisión por satélite, que opera en España a través de los satélites Astra e Hispasat[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ACCION [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ncxGSWShRz5/NJCVhLk302p/2542.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ACCION</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ es una plataforma de pago de televisión por satélite, que opera en España a través de los satélites Astra e Hispasat[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ESTRENOS[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/plusestrenos.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Estenos es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ESTRENOS HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ESTRENOS[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplusestrenos_ahnxk7j%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Estenos es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ ESTRENOS HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ESTRENOS</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Estenos es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ DCINE[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/plusdcine.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ DCINE[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ DCINE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdcine_aw3g20p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ DCINE[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ DCINE</link>
+<thumbnail>http://tvyprogramas.bligoo.com.ve/media/users/25/1277192/images/public/389045/canal-plus-dcine-en-directo-online.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ CINE Ñ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/dcinen.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/MovitarCine%C3%91.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]PLUS DC Ñ es un canal de televisión español, su programación está basada en películas clásicas [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ CINE Ñ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/dcinen_15fp2m5/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link><thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/MovitarCine%C3%91.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]PLUS DC Ñ es un canal de televisión español, su programación está basada en películas clásicas [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]M+ XTRA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://biophobia.tv/movistarplus/canalplusxtra.php</sportsdevil>
+<referer>http://biophobia.tv</referer>
+<thumbnail>http://weareblackbox.tv/wp-content/uploads/2015/04/canal-xtra1.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Xtra comenzó sus emisiones en la plataforma de pago M+ el 15 de septiembre de 2010. Su programación se centra en la emisión de cine y programas independientes y exclusivos en España [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ XTRA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
+<link>rtmp://31.220.0.201:1935/privatestream playpath=plxtra?keys=8SEn6tdFTznwTry61IgA4w&amp;keyt=1460562440 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://weareblackbox.tv/wp-content/uploads/2015/04/canal-xtra1.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Xtra comenzó sus emisiones en la plataforma de pago M+ el 15 de septiembre de 2010. Su programación se centra en la emisión de cine y programas independientes y exclusivos en España [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ XTRA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ XTRA</link>
+<thumbnail>http://weareblackbox.tv/wp-content/uploads/2015/04/canal-xtra1.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Xtra comenzó sus emisiones en la plataforma de pago M+ el 15 de septiembre de 2010. Su programación se centra en la emisión de cine y programas independientes y exclusivos en España [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ COMEDIA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/pluscomedia.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Series es un canal de televisión español,Su programación está basada en las principales series de éxito en EE.UU [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ COMEDIA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ COMEDIA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Series es un canal de televisión español,Su programación está basada en las principales series de éxito en EE.UU [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ COMEDIA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ COMEDIA</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ Series es un canal de televisión español,Su programación está basada en las principales series de éxito en EE.UU [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white][B]M+ SERIES[/B][/COLOR][COLOR=darkorange][COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/MovistarSeries.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ SERIES [/B] [COLOR=darkorange][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseries_aw3d82v%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/MovistarSeries.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ SERIES [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ SERIES</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/MovistarSeries.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ SERIES XTRA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusseriesxtra.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/MovistarSeriesXtra.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ SERIES XTRA [/B] [COLOR=darkorange][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES XTRA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseriesxtra_axgtru5%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/MovistarSeriesXtra.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]M+ SERIES XTRA [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ SERIES XTRA</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/MovistarSeriesXtra.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]M+ DCine es un canal de televisión español de pago, propiedad de Telefónica. Su programación está basada en películas estrenadas recientemente [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]COMEDY CENTRAL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/comedycentral.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Comedy Central es un canal de televisión por cable estadounidense. Posteriormente, bajo este mismo nombre emiten canales en Reino Unido, Irlanda, España, Alemania y Latinoamérica [/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red] [COLOR=white] [B]COMEDY CENTRAL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/3714.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Comedy Central es un canal de televisión por cable estadounidense. Posteriormente, bajo este mismo nombre emiten canales en Reino Unido, Irlanda, España, Alemania y Latinoamérica [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]CRIMEN + INVESTIGACIÓN[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/fr443500/75019pa/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN INVESTIGACION</link>
+<thumbnail>http://verlatelegratis.com/wp-content/uploads/2015/08/ci.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Crimen + Investigación es el único canal de televisión dedicado a crímenes reales. Producido en España por The History Channel Iberia[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]PARAMOUNT CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.formulatv.com/fotos/a/76000/76431/90sggw8m5drensnhbr4fa55a611271e_logo-paramount-channel.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Paramount Pictures Corporation es una centenaria compañía productora y distribuidora de cine, con sede en Hollywood (California).[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]PARAMOUNT CHANNEL[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://195.55.74.206/paramount/live/stream.m3u8?GKID=4664f43a836a11e6b76e00163e914f69</link>
+<thumbnail>http://www.formulatv.com/fotos/a/76000/76431/90sggw8m5drensnhbr4fa55a611271e_logo-paramount-channel.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Paramount Pictures Corporation es una centenaria compañía productora y distribuidora de cine, con sede en Hollywood (California).[/B]</info>
+</item>http://live-hls.paramount.stream.flumotion.com/paramount/live-multi/main.m3u8
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]SUDANCE[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=sundance95','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>https://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525-275x223.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Sundance Channel es un canal de televisión privado español de pago, actualmente producido por AMC Networks International Iberia. [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]XTRM [/B] [COLOR=darkorange][/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/xtrm.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Extreme, también conocido como (XTRM) es un canal de televisión privado español de pago, actualmente producido por AMC Networks International Iberia[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HOLLYWOOD[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/holliwood.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vercanalestv.com/logos/hollywood.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Hollywood es un canal de televisión privado de pago, producido por AMC Networks International Iberia para España y Portugal.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HOLLYWOOD[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP HOLLYWOOD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>http://vercanalestv.com/logos/hollywood.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Hollywood es un canal de televisión privado de pago, producido por AMC Networks International Iberia para España y Portugal.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HOLLYWOOD[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test3/test3/1250.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link>
+<thumbnail>http://vercanalestv.com/logos/hollywood.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Hollywood es un canal de televisión privado de pago, producido por AMC Networks International Iberia para España y Portugal.[/B]</info>
+</item>
+
+
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]BUZZ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/buzz.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://www.ono.es/resources/images/ocioytv/Home/buzz_rojo-sabias-que-diciembre-2012.JPG</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Buzz es un canal de televisión privado español, de pago, producido por AMC Networks International Iberia. Su programación se centra en contenidos de terror [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]FOX[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Fox Broadcasting Company (FOX) es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FOX[/B] [COLOR=darkorange][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FOX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffox_alwk17k%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Fox Broadcasting Company (FOX) es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FOX[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Fox Broadcasting Company (FOX) es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 [/B]</info>
+</item>
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]FOX HQ[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>rtmp://31.220.2.57/privatestream/f00x?keys=XTv9sh1T2XHvBKMgAFs0IA&keyt=1448376268 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Fox Broadcasting Company (FOX) es la empresa que gestiona una cadena de televisión de los Estados Unidos que comenzó sus emisiones el 9 de octubre de 1986 [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]FOX LIFE[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/220px-Fox_life_it.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]FOX Life es un canal de televisión por cable y satélite del grupo FOX, inicialmente lanzado en 2002 en EE.UU. y luego en Europa, [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FOX LIFE HQ[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=o3m2hhbrqqux0ks swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FOX LIFE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffoxlive_au8xxzz%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/220px-Fox_life_it.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]FOX Life es un canal de televisión por cable y satélite del grupo FOX, inicialmente lanzado en 2002 en EE.UU. y luego en Europa, [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]FOX LIFE HQ[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/220px-Fox_life_it.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]FOX Life es un canal de televisión por cable y satélite del grupo FOX, inicialmente lanzado en 2002 en EE.UU. y luego en Europa, [/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]TNT[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tnt.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TNT (abreviatura de Turner Network Television) es un canal de televisión por cable y televisión satelital que transmite cine y series para el público adulto[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TNT[/B] [COLOR=darkorange][/COLOR] </title>
+<link>rtmp://www1.iguide.to/iguide playpath=nh4259fy0kikqbk swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TNT[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftnt_alwl3qm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TNT (abreviatura de Turner Network Television) es un canal de televisión por cable y televisión satelital que transmite cine y series para el público adulto[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TNT[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/2020/2020/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]TNT (abreviatura de Turner Network Television) es un canal de televisión por cable y televisión satelital que transmite cine y series para el público adulto[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TCM[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://www.telefivegb.com/ver-canal-tcm-online-gratis-y-en-vivo-por-internet/</sportsdevil>
+<referer>http://www.telefivegb.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/306px-TCM_logo_2009.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red] [COLOR=white] [B]TCM[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=32102&autoplay=true token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TCM[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftcm_an1qv7p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/306px-TCM_logo_2009.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TCM[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/306px-TCM_logo_2009.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]AMC[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.allresponsemedia.com/wp-content/uploads/2015/09/AMC-Logo-blog.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AMC[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP AMC[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
+<thumbnail>http://www.allresponsemedia.com/wp-content/uploads/2015/09/AMC-Logo-blog.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AMC[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/306px-TCM_logo_2009.svg.png</thumbnail>
+<thumbnail>http://www.allresponsemedia.com/wp-content/uploads/2015/09/AMC-Logo-blog.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AMC es un canal de televisión por cable estadounidense propiedad de AMC Networks. El canal transmite principalmente películas, junto con una cantidad de series[/B]</info>
+</item>
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]AXN[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision2/axn.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_5617_2_242599.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AXN [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP AXN[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faxn_alwla94%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_5617_2_242599.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AXN [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_5617_2_242599.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]AXN WHITE  [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://filmsubtitrat.net/wp-content/uploads/2014/11/AXN_White_Logo-520x293.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN WHITE, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AXN WHITE HQ [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link>
+<thumbnail>http://filmsubtitrat.net/wp-content/uploads/2014/11/AXN_White_Logo-520x293.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN WHITE, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]AXN WHITE HQ [/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=axnwh?keys=cxgesHSX0RL5EgQ_g-bVMQ&keyt=1462299702 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=axnwh&width=800&height=600</link>
+<link>http://stream.zetatv.cf/pw/axnwhite_aap5cqs/chunklist.m3u8</link>
+<thumbnail>http://filmsubtitrat.net/wp-content/uploads/2014/11/AXN_White_Logo-520x293.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]AXN WHITE, (abreviadamente como Action Xtreme Network) es un canal ... Su programación se compone de series, películas y programas de producción propia.[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]A&E HQ [/B] [COLOR=darkorange][/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12CC065F-B4A6-418A-438291C68B1633A0.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>A&E Network es un canal de cable y satélite con base en la ciudad de Nueva York. A&E son las siglas de Arts & Entertainment</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]A&E HQ [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A&E [/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 2</link>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12CC065F-B4A6-418A-438291C68B1633A0.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>A&E Network es un canal de cable y satélite con base en la ciudad de Nueva York. A&E son las siglas de Arts & Entertainment</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]A&E [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/3726.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12CC065F-B4A6-418A-438291C68B1633A0.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>A&E Network es un canal de cable y satélite con base en la ciudad de Nueva York. A&E son las siglas de Arts & Entertainment</info>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]SYFY HQ [/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://blog.photoframd.com/wp-content/uploads/2009/03/syfy-logo2.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Syfy es un canal temático internacional, dedicado mayoritariamente a la emisión de series y películas de ciencia ficción[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]SYFY [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+<link>http://stream.zetatv.cf/pw/syfy_aw3eq7m/chunklist.m3u8</link>
+<thumbnail>http://blog.photoframd.com/wp-content/uploads/2009/03/syfy-logo2.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Syfy es un canal temático internacional, dedicado mayoritariamente a la emisión de series y películas de ciencia ficción[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]SYFY [/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://opasnivirus.dynns.com:8000/live/hazim/hazim123/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link>
+<thumbnail>http://blog.photoframd.com/wp-content/uploads/2009/03/syfy-logo2.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Syfy es un canal temático internacional, dedicado mayoritariamente a la emisión de series y películas de ciencia ficción[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HISTORIA[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://verdirectotv.com/tv/documentales2/historia.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HISTORIA[/B] [COLOR=darkorange][/COLOR] [COLOR green]Opcion 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Historia[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fhistoria_9dm8skt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<link>rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/on$$lsname=Historia Opcion 2</link>
+<thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HISTORIA[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/3725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia</link>
+<thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HISTORIA[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido F4m Tester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link>
+<thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISCOVERY MAX[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/max.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/f2/Discovery_Max.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Discovery MAX es una cadena española de ámbito nacional y en abierto, que emite a través de la televisión terrestre. Esta cadena está operada por Discovery[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISCOVERY MAX[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DISCOVERY MAX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/f2/Discovery_Max.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Discovery MAX es una cadena española de ámbito nacional y en abierto, que emite a través de la televisión terrestre. Esta cadena está operada por Discovery[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISCOVERY CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverychannel.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.vectorsland.com/imgd/l22952-discovery-channel-eps-logo-29473.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Discovery MAX es una cadena española de ámbito nacional y en abierto, que emite a través de la televisión terrestre. Esta cadena está operada por Discovery[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISCOVERY CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>http://stream.zetatv.cf/pw/discoverydino_9dm3fgv/chunklist.m3u8</link>
+<link>rtmp://31.220.40.60/privatestream/ playpath=channeldisc?keys=hIuq333SBfXPQVilCJ2qgw&keyt=1462337589 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=channeldisc&width=800&height=600</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/f2/Discovery_Max.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Discovery MAX es una cadena española de ámbito nacional y en abierto, que emite a través de la televisión terrestre. Esta cadena está operada por Discovery[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NATIONAL GEOGRAPHIC[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/national.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>https://oriolmiro.files.wordpress.com/2008/11/national_geographic_logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]National Geographic Channel, también conocido abreviadamente y como marca registrada Nat Geo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NATIONAL GEOGRAPHIC HQ[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>http://stream.zetatv.cf/pw/national_alwka53/chunklist.m3u8</link>
+<link>rtmp://www1.iguide.to/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15</link>
+<thumbnail>https://oriolmiro.files.wordpress.com/2008/11/national_geographic_logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]National Geographic Channel, también conocido abreviadamente y como marca registrada Nat Geo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NAT GEO WILD HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+ <sportsdevil>http://09stream.com/canales/natgeowill.html</sportsdevil>
+<referer>http://09stream.com</referer>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]National Geographic Channel, también conocido abreviadamente y como marca registrada Nat Geo[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NAT GEO WILD HQ[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NAT GEO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnatgeowill_azu3urx%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Historia Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test3/test3/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Geo$$lsname=Historia Opcion 3</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]National Geographic Channel, también conocido abreviadamente y como marca registrada Nat Geo[/B]</info>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]VIAJAR [/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/3711.ts&amp;streamtype=TSDOWNLOADER&amp;name=&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/vjr.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Viajar es un canal de viajes lanzado el 1 de octubre de 1997 por Sogecable (hoy Prisa TV).1 Su programación incluye producciones nacionales e internacionales sobre viajes y turismo, además de espacios de producción propia.[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]IBERALIA[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>rtmp://31.220.40.60/privatestream/ playpath=iberalia65?keys=gz490nDBAqgC8FJ60ndyhQ&keyt;=1448248960 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://socassat.com/wp-content/uploads/2015/07/1medium.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Iberalia TV es un canal de televisión cuya programación va enfocada a la emisión de documentales relacionados con la caza y con la pesca[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/disneychannel.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://orig00.deviantart.net/9268/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Channel es un canal internacional de The Walt Disney Company. La programación del canal está destinada al público juvenil e infantil[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY CHANNEL[/B] [COLOR=darkorange][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/3712.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link>
+<thumbnail>http://orig00.deviantart.net/9268/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Channel es un canal internacional de The Walt Disney Company. La programación del canal está destinada al público juvenil e infantil[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2106.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link>
+<thumbnail>http://orig00.deviantart.net/9268/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Channel es un canal internacional de The Walt Disney Company. La programación del canal está destinada al público juvenil e infantil[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY CHANNEL[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=disneyy1','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>http://orig00.deviantart.net/9268/f/2011/239/2/0/disney_channel_logo_png_by_tutorialestppr-d47zjhc.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Channel es un canal internacional de The Walt Disney Company. La programación del canal está destinada al público juvenil e infantil[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]BOING[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/380.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/boing_circular_500.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Boing es un canal de televisión infantil que emite en digital y pertenece el 50% al grupo de canales de Time Warner mientras que el otro 50% pertenece en el caso de España a Mediaset España Comunicación[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]BABY TV[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=babyttv','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>http://abissnet.al/img/paketa/BabyTV.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Baby TV es la primera señal diseñada para bebés y niños de 3 años. Tiene como objetivo fomentar la interacción entre el bebé y sus padres[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CLAN[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>rtmp://31.220.0.13:1935/privatestream playpath=clanch?keys=n8Tu73B65dpZ12Jkf39-mA&amp;keyt=1460125329 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Clan es un canal de televisión infantil perteneciente a TVE que emite series y dibujos animados a través de la Televisión digital terrestr[/B]</info>
+</regex>
+</item>
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]NEOX KIDZ[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=neox2','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>http://www.audiovisual451.com/wp-content/uploads/Neox-Kidz.jpeg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Neox es un canal de televisión privado español, que emite a través de la TDT y en las plataformas de televisión de pago Movistar+, Vodafone TV y Orange TV y pertenece a Atresmedia Corporación[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY XD[/B] [COLOR=darkorange][COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link>
+<thumbnail>http://www.cartoonmag.it/wp-content/uploads/Disney-XD-logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney XD (leído Disney Ex Di) es una cadena de televisión de pago estadounidense, propiedad de The Walt Disney Company. Su programación está dirigida principalmente al público infantil y juvenil de entre 7 y 16 años[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY JUNIOR[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2106.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Junior es el nombre de la marca perteneciente a Disney Channel para la transmisión de programas orientados al público preescolar[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]DISNEY JUNIOR[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Disney Junior es el nombre de la marca perteneciente a Disney Channel para la transmisión de programas orientados al público preescolar[/B]</info>
+</regex>
+</item>
+
+
+item>
+<title>[COLOR=red] [COLOR=white] [B]PANDA[/B] [COLOR=darkorange][/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=panda15','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>https://genteytv.files.wordpress.com/2011/04/panda.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Panda es un canal de televisión español y portugués dedicado al público infantil y juvenil emitiendo sobre todo series de dibujos animados y películas.[/B]</info>
+</regex>
+</item>
+item>
+<title>[COLOR=red] [COLOR=white] [B]MTV ESPAÑA HQ[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/mtv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-MTV-Spain-logo.jpg</thumbnail>
+<fanart>http://wallfoy.com/wp-content/uploads/2014/01/Colorful-Music-Wallpapers-85.jpg</fanart>
+<info>MTV España es un canal de televisión temático de España, que ha sido de pago desde su nacimiento, que tuvo lugar el 10 de septiembre de 2000</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]MTV ESPAÑA HQ[/B] [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
+<link>rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-MTV-Spain-logo.jpg</thumbnail>
+<fanart>http://wallfoy.com/wp-content/uploads/2014/01/Colorful-Music-Wallpapers-85.jpg</fanart>
+<info>MTV España es un canal de televisión temático de España, que ha sido de pago desde su nacimiento, que tuvo lugar el 10 de septiembre de 2000</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]40 TV[/B] [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR orange]Esperar o Insistir si no Reproduce[/COLOR]</title>
+<link>$doregex[get-rtmp] swfUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#106;&#115;&#47;&#106;&#119;&#112;&#108;&#97;&#121;&#101;&#114;&#46;&#102;&#108;&#97;&#115;&#104;&#46;&#115;&#119;&#102; live=1 timeout=15 swfVfy=1 pageUrl=&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;&#112;&#108;&#97;&#121;&#101;&#114;&#63;streamname=tv4035','&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#105;&#118;&#97;&#116;&#101;&#115;&#116;&#114;&#101;&#97;&#109;&#46;&#116;&#118;&#47;')</expres>
+<page>#3b3f4s5x#</page>
+</regex>
+<thumbnail>http://www.prisaradio.com/uploads/imagenes/ficheros/capturas/201306/capturas-captura-video-es.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]40 TV es un canal de televisión español de pago, perteneciente a Prisa Radio. Este canal de televisión de temática musical[/B]</info>
+</regex>
+</item>
+
+<item>
+<title>                   [COLOR=yellow][COLOR=cyan] [B]REGIONALES[/B][/COLOR][/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canales TV Regionales de España [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ARAGON TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8</link>
+<thumbnail>http://prnoticias.com/images/stories/noticias/aragontvlogo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Aragón TV (antes Aragón Televisión) es la marca comercial de Televisión Autonómica de Aragón, S.A[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TELEMADRID[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://prnoticias.com/images/stories/noticias/aragontvlogo.jpg</thumbnail>
+<fanart>http://archivoimagenes.heraldo.es/uploads/imagenes/bajacalidad/2012/09/11/_telemadrid_da1cb4e8.jpg</fanart>
+<info>[B]Telemadrid es el primer canal de televisión autonómico de la Comunidad de Madrid y el quinto creado a nivel nacional, tras las televisiones autonómicas de País Vasco, Cataluña, Galicia y Andalucía[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]EITB Euskal Irrati Telebista[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8</link>
+<thumbnail>http://www.eitb.eus/multimedia/images/2013/10/09/1207968/eitb_logo_foto610x342_foto610x342.jpg</thumbnail>
+<fanart>http://archivoimagenes.heraldo.es/uploads/imagenes/bajacalidad/2012/09/11/_telemadrid_da1cb4e8.jpg</fanart>
+<info>[B]Euskal Irrati Telebista, es la Radio Televisión Vasca. Se trata de un ente público, de derecho privado, dependiente del Departamento de Cultura del Gobierno Vasco[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]IB3[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</link>
+<thumbnail>http://www.sportsdecanostra.com/wp-content/uploads/2012/08/357.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Televisió de les Illes Balears, SA (IB3 Televisió) es la empresa pública perteneciente al grupo Ens Públic de Radiotelevisió de les Illes Balears[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CANAL EXTREMADURA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110817170553/logopedia/images/archive/a/a9/20110817171118!Logo_canal_extremadura.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Canal Extremadura Televisión es el nombre comercial de la televisión autonómica de Extremadura. La Sociedad Pública de Televisión Extremeña, S.A.U[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ANDALUCIA TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+<thumbnail>https://rincondemaribel.files.wordpress.com/2011/09/andalucia_tv.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Andalucía Televisión, conocido hasta el 28 de febrero de 2015 como Canal Sur HD, es el primer canal de alta definición de Radio y Televisión de Andalucía[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]8TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
+<thumbnail>http://taylorhits.com/newsletter/Foto-Blog/8TV-Crister.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]8tv (anteriormente Td8 y City TV) es un canal de televisión autonómico privado de Cataluña, España. Está operado por Emissions Digitals de Catalunya[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TV3[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/650/0/logo-tv3-negro.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]El nombre TV3 puede hacer referencia a varios canales de televisión: TV3, televisión generalista de Cataluña (España)[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]324 Catalunya BARCELONA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8</link>
+<thumbnail>http://www.varador2000.com/wp-content/uploads/Canal-324.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TV3.BARCELONA[/B] [COLOR=darkorange][/COLOR][COLOR orange]Opción 2[/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</link>
+<thumbnail>http://www.iamtogether.com/assets/uploads/news/tv3.jpeg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TV3 CAT WEB[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/tv3-cat.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TV3 CAT TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/tv3-cat.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ESPORT 3BARCELONA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playlist.m3u8</link>
+<thumbnail>http://statics.ccma.cat/multimedia/jpg/3/8/1296840942783.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT DEPORTES[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LA XARXA BARCELONA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/14339579/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.laxarxa.com/assets/facebook-image.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CANAL PARLAMENTO[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8</link>
+<thumbnail>http://portal.ugt.org/politicainstitucional/canal_parlamento_tv_directo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CANAL 33 MADRID.[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://informacionporlaverdad.files.wordpress.com/2011/10/logo_canal_33_p.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]RTVE.es 24H[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8</link>
+<link>http://api.iptv.ink/pl.m3u8?ch=92978413</link>
+<thumbnail>http://3.bp.blogspot.com/-PPKO2xh9Eak/TcKg7ZvpaHI/AAAAAAAAAxM/XtcNltre7k4/s1600/tve_24h.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]8tv (anteriormente Td8 y City TV) es un canal de televisión autonómico privado de Cataluña, España. Está operado por Emissions Digitals de Catalunya[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]EURONEWS[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/02/euronewses.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]Euronews es un canal de televisión de Europa, producido por SOCEMIE (Société Opératrice de la Chaîne Européenne Multilingue d'Information Euronews)[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]NOVA 7[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/eventos6/eventos6_1@35271/index_2_av-p.m3u8</link>
+<thumbnail>http://img693.imageshack.us/img693/6236/nova76119.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]8tv (anteriormente Td8 y City TV) es un canal de televisión autonómico privado de Cataluña, España. Está operado por Emissions Digitals de Catalunya[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ONDALUZ 24 TV CADIZ[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.elitehd-audiovisuales.com/olsierra/livestream1/master.m3u8</link>
+<thumbnail>http://i2.wp.com/teleame.com/wp-content/uploads/2014/08/ondaluz-tv-logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ONDALUZ 54 TV CADIZ[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.elitehd-audiovisuales.com/olcadiz/livestream1/master.m3u8</link>
+<thumbnail>http://taylorhits.com/newsletter/Foto-Blog/8TV-Crister.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TG7 GRANADA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/index.m3u8</link>
+<thumbnail>http://adminweb.onlycable.net/img/Canale/small/TG7/TG7_.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CONDAVISIÓN HUELVA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000405870591/d609f900d99194ba7cc9404f32ea31e0_400x400.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]HUELVA TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8</link>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/08/HuelvaTV-Logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ONDAJAÉN[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8</link>
+<thumbnail>https://aficionadospracticosjaen.files.wordpress.com/2012/09/logo-onda-jaen.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]CANAL 45 JAÉN[/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://servers10.com/canal45tv/canal45tv</link>
+<thumbnail>http://www.canal45tv.com/image/logo.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]ESTENOTA TV.MALAGA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://37.187.108.127:554/esteponatv/radiostation.stream</link>
+<thumbnail>http://static-1.ivoox.com/canales/7Radio_Esteponag.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B][/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]RTV MARBELLA TV[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
+<thumbnail>http://www.losgatosdeluzvioleta.com/uploads/4/0/2/7/402785/3142448_orig.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]GALICIA.LA CORUÑA[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://media3.crtvg.es/live/tvge_2/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]TCS CASTELLÓN[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3184163417/74942b63c2f721967f35174f3355440f_400x400.jpeg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]LEVANTE Tv.[/B] [COLOR=darkorange][/COLOR]</title>
+<link>rtmp://teledifusion.tv/levantetvlive/levantetvlive</link>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/08/LevanteTV-Logo-300x300.jpg</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] [B]Cnet Televisión Canaria[/B] [COLOR=darkorange][/COLOR]</title>
+<link>http://streaming2.mad.idec.net:1935/rtvcnet/rtvcnet.drb.stream/playlist.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110806164652/logopedia/images/c/c5/Televisi%C3%B3n_Canaria_Net_logo.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]CANAL TDT[/B]</info>
+</item>
+
+
+
+
+
+
+
 
 
 
