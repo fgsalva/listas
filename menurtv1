@@ -123,45 +123,40 @@ http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",1 FOX Movies
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",1 FOX Movies ok
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Movies 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Movies ok
 http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Disney XD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Disney XD ok
 http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",HBO Family
-http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox Cinema
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox Cinema ok
 http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Family
-http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT ok
 http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT HD
-http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Univision TDN
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",U TDN ok
 http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport
-http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport2
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",fox sport3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",fox sport3 ok
 http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn ok
 http://159.203.63.133:8081/rstm/Espn/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn2 ok
 http://159.203.63.133:8081/rstm/Espn2/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
-http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX SPORTS 1 USA
-http://139.59.185.252:8081/rstm/FOX_SPORT1_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",NBC UNIVERSO HD
-http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Exa tv
-http://159.203.34.7:8081/rstm/EXA/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Telehit
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Ritmoson Latino RTMS o
+http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Telehit Hd RTMS	ok
+http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tnt RTM	ok
+http://159.203.63.115:8081/rstm/TNT/playlist.m3u8	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Cinema RTMS	ok
+http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal 4 Foro Tv	
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8	
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Telehit ok
 http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Ritmoson
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Ritmoson ok
 http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex Canal de las Estrell…
 http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
@@ -171,22 +166,31 @@ http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
 http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Azteca Noticias	
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Ritmoson Latino RTMS	
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Telehit Hd RTMS	
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tnt RTM	
-http://159.203.63.115:8081/rstm/TNT/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Cinema RTMS	
-http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Hbo Family RTMS	
-http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal 4 Foro Tv	
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Xeipn Canal 11	
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Hbo Family RTMS	
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8	
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Family nop
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",HBO Family
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport 
+http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport2
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT HD
+http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
+http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX SPORTS 1 USA
+http://139.59.185.252:8081/rstm/FOX_SPORT1_USA_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",NBC UNIVERSO HD
+http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Exa tv
+http://159.203.34.7:8081/rstm/EXA/playlist.m3u8 
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 9 La union
 http://198.24.135.42:80/canal9/canal9/playlist.m3u8
@@ -344,57 +348,5 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (Op2)
-http://premium.exabytetv.info/HLSST/258/258-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (Op2)
-http://premium.exabytetv.info/HLSST/2493/2493-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bbc-entertainment.gif" group-title="ENTRETENIMIENTO",BBC Entertainment (Op2)
-http://premium.exabytetv.info/HLSST/1407/1407-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Comedy Central" tvg-name="Comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central (Op2)
-http://premium.exabytetv.info/HLSST/1037/1037-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Discovery H&H (Op2)
-http://premium.exabytetv.info/HLSST/252/252-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="ENTRETENIMIENTO",Distrito Comedia (Op2)
-http://premium.exabytetv.info/HLSST/1491/1491-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e!-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! (Op2)
-http://premium.exabytetv.info/HLSST/427/427-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",Fox (Op2)
-http://premium.exabytetv.info/HLSST/3947/3947-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",Fox Life (Op2)
-http://premium.exabytetv.info/HLSST/425/425-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (Op2)
-http://premium.exabytetv.info/HLSST/431/431-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",Lifetime (Op2)
-http://premium.exabytetv.info/HLSST/423/423-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",Sony (Op2)
-http://premium.exabytetv.info/HLSST/2501/2501-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy (Op2)
-http://premium.exabytetv.info/HLSST/447/447-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS Very Funny (Op2)
-http://premium.exabytetv.info/HLSST/333/333-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/815.png" group-title="ENTRETENIMIENTO",Telemundo**
-http://premium.exabytetv.info/HLSST/10963/10963-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Telemundo Int" tvg-name="Telemundo Int" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3285.png" group-title="ENTRETENIMIENTO",Telemundo Internacional**
-http://premium.exabytetv.info/HLSST/9773/9773-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV TLC" tvg-name="TLC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="ENTRETENIMIENTO",TLC (Op2)
-http://premium.exabytetv.info/HLSST/327/327-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="ENTRETENIMIENTO",Tlnovelas (Op2)
-http://premium.exabytetv.info/HLSST/1461/1461-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TruTV (Op2)
-http://premium.exabytetv.info/HLSST/337/337-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Unicable" tvg-name="Unicable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="ENTRETENIMIENTO",Unicable (Op2)
-http://premium.exabytetv.info/HLSST/3804/3804-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/98.png" group-title="ENTRETENIMIENTO",Univisión**
-http://premium.exabytetv.info/HLSST/13216/13216-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/98.png" group-title="ENTRETENIMIENTO",Univisión HD** aca
-http://premium.exabytetv.info/HLSST/13493/13493-HQUPK-1011000100101111001110000111010-ExabyteTV.m3u8
-
-
-
 
 
