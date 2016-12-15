@@ -220,8 +220,9 @@
 </item>	
 
 
+
 <item>
-<title>[COLOR=red] [COLOR=white] LA SEXTA [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+<title>[COLOR=red]** [COLOR=white] LA SEXTA [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
@@ -243,7 +244,6 @@
 <thumbnail>http://metrica6.es/wp-content/uploads/2013/10/22.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLOR=red]** [COLOR=white] LA CUATRO [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
@@ -596,34 +596,33 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] ANTENA 3 HD [COLOR=darkorange][/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on$$lsname=Antena Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] ANTENA 3 HD [COLOR=darkorange][/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8$$lsname=Antena Opcion 2</link>
+<link>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8</link>
 <thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] ANTENA 3 HD [COLOR=darkorange][/COLOR]</title>
-<link>http://comunidadiptv.org/online/estable/?sintonizador=A3HD$$lsname=Antena Opcion 3</link>
+<link>http://comunidadiptv.org/online/estable/?sintonizador=A3HD</link>
 <thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] ANTENA 3 SD [COLOR=darkorange][/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on$$lsname=Antena Opcion 1</link>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8$$lsname=Antena Opcion 2</link>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] ANTENA 3 SD [COLOR=darkorange][/COLOR]</title>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8$$lsname=Antena Opcion 2</link>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u</link>
 <thumbnail>http://departments.icmab.es/ssc/images/stories/RESEARCH_LINES/gerard_tobias/antena%203%20logo.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -637,39 +636,39 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA SEXTA HD [COLOR=darkorange][/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on$$lsname=La Sexta Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA SEXTA HD [COLOR=darkorange][/COLOR]</title>
-<link>http://comunidadiptv.org/online/estable/?sintonizador=LaSextaHD$$lsname=La Sexta Opcion 2</link>
+<link>http://comunidadiptv.org/online/estable/?sintonizador=LaSextaHD</link>
 <thumbnail>http://virutasf1.com/wp-content/uploads/2013/11/LaSexta.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] TELECINCO [COLOR=darkorange][/COLOR]</title>
-<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8$$lsname=TELECINCO Opcion 1</link>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] TELECINCO [COLOR=darkorange][/COLOR]</title>
-<link>http://apps4two.com/apps/tvonline/rm2access.php?o=telecinco$$lsname=TELECINCO Opcion 2</link>
+<link>http://apps4two.com/apps/tvonline/rm2access.php?o=telecinco</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] TELECINCO [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Telecinco[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftelecinco55_ao7nqiq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=TELECINCO Opcion 3</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Telecinco[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftelecinco55_ao7nqiq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] TELECINCO [COLOR=darkorange][/COLOR]</title>
-<link>rtmp://31.220.0.187:1935/privatestream/ playpath=teleinco?keys=fEuwkWUvlwU0t7S6caErDA&keyt=1460648747 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=TELECINCO Opcion 4</link>
+<link>rtmp://31.220.0.187:1935/privatestream/ playpath=teleinco?keys=fEuwkWUvlwU0t7S6caErDA&keyt=1460648747 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -690,14 +689,14 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA CUATRO [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>rtmp://31.220.0.187:1935/privatestream/ playpath=cuatroa?keys=oln1EKE-hWifcle6h5BHBw&amp;keyt=1460649018 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Cuatro Opcion 1</link>
+<link>rtmp://31.220.0.187:1935/privatestream/ playpath=cuatroa?keys=oln1EKE-hWifcle6h5BHBw&amp;keyt=1460649018 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
 <thumbnail>http://www.cuartoderecha.com/archivos/post_0070.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA CUATRO [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Cuatro[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcuatro_xrf2a3%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Cuatro Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Cuatro[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcuatro_xrf2a3%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://www.cuartoderecha.com/archivos/post_0070.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -711,41 +710,20 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA 1 [COLOR=darkorange][/COLOR]</title>
-<link>rtmp://31.220.40.62/pull/ playpath=launotve?keys=luX2hnRlqDtgpci1G__Jbg&keyt=1471554899 swfUrl=http://leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=launotve&width=600&height=450$$lsname=La 1 Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]LA 1[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png</thumbnail>
-<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=red] [COLOR=white] LA 1 [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]LA 1[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftve1_b0bqgib%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=La 1 Opcion 2</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png</thumbnail>
-<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=red] [COLOR=white] LA 1 [COLOR=darkorange][/COLOR]</title>
-<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8$$lsname=La 1 Opcion 3</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png</thumbnail>
-<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=red] [COLOR=white] LA 1 [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido F4mTester[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testa/testa/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link>
-<thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] LA 2 [COLOR=darkorange][/COLOR]</title>
-<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8$$lsname=La 2 Opcion 1</link>
+<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] LA 2 [COLOR=darkorange][/COLOR]</title>
-<link>http://www.iptvsaga.com/play/tv3/0018.m3u8$$lsname=La 2 Opcion 2</link>
+<link>http://www.iptvsaga.com/play/tv3/0018.m3u8</link>
 <thumbnail>http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -759,16 +737,24 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] DIVINITY HQ [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=eq8ptgyu33myv5z swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DIVINITY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=eq8ptgyu33myv5z swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
 </item>
 
 <item>
+<title>[COLOR=red] [COLOR=white] DIVINITY HQ [COLOR=darkorange][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DIVINITY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdiniiiii_9fil4ag%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
 <title>[COLOR=red] [COLOR=white] ENERGY [COLOR=darkorange][/COLOR] </title>
-<link>http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8$$lsname=Opcion 1</link>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8</link>
 <thumbnail>http://www.formulatv.com/fotos/a/76000/76431/qzmxl0ms41paxqlnhw4fa557a8bc510_logo-energy.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -776,7 +762,7 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] ENERGY [COLOR=darkorange][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP ENERGY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP ENERGY[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fenergy_azhls60%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://www.formulatv.com/fotos/a/76000/76431/qzmxl0ms41paxqlnhw4fa557a8bc510_logo-energy.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -792,7 +778,7 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] BE MAD [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP BE MAD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP BE MAD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fbemad_azhj93f%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/be_mad_circular_500.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -805,7 +791,7 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] CALLE 13 [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP CALLE 13[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcalle13_aw3fo9w%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP CALLE 13[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcalle13_aw3fo9w%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_%28Logo%29.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -813,7 +799,7 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] CALLE 13 [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_%28Logo%29.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -829,7 +815,7 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] COSMO [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP COSMO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcosmos_az4nm9g%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP COSMO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcosmos_az4nm9g%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -853,7 +839,7 @@
  
 <item>
 <title>[COLOR=red] [COLOR=white] NOVA [COLOR=darkorange][/COLOR][COLOR=orange]Opción 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NOVA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnova2_acolsfq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NOVA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnova2_acolsfq%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -861,14 +847,14 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] NOVA [COLOR=darkorange][/COLOR][COLOR=orange]Opción 2[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8$$lsname=Opcion 2</link>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
 <thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] NOVA [COLOR=darkorange][/COLOR][COLOR=orange]Opción 2[/COLOR]</title>
-<link>rtmp://31.220.0.187:1935/privatestream playpath=novach?keys=eDuyKK_2ktSh_bTyhg50qg&amp;keyt=1460125213 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Opcion 3</link>
+<link>rtmp://31.220.0.187:1935/privatestream playpath=novach?keys=eDuyKK_2ktSh_bTyhg50qg&amp;keyt=1460125213 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
 <thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/nova.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -900,42 +886,42 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] MEGA [COLOR=darkorange][/COLOR] [COLOR=orange]opcion 2[/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on$$lsname=Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] MEGA [COLOR=darkorange][/COLOR] [COLOR=orange]opcion 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP MEGA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP MEGA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fmegatdt_9o35160%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] NEOX [COLOR=darkorange][/COLOR]</title>
-<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on$$lsname=Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.tdcan.es/web/imagenes/canales/neox.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] NEOX [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NEOX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NEOX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fneox_alwkw2n%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://www.tdcan.es/web/imagenes/canales/neox.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FDF TELECINCO [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://31.220.40.60:1935/privatestream playpath=fddf?keys=xp2SNaWkd_2WtfBvIfs-iQ&amp;keyt=1456855143 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/$$lsname=Opcion 1</link>
+<link>rtmp://31.220.40.60:1935/privatestream playpath=fddf?keys=xp2SNaWkd_2WtfBvIfs-iQ&amp;keyt=1456855143 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/</link>
 <thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FDF TELECINCO [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FDF TELECINCO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FDF TELECINCO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffdfhd_xrewtt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -950,28 +936,28 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] A3 SERIES  [COLOR=darkorange][/COLOR]  </title>
-<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8$$lsname=Antena Opcion 1</link>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] A3 SERIES  [COLOR=darkorange][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A3 SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Antena Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A3 SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2FA3Series_11zwyox%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] Canal #0 HQ [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Canal #0[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Canal #0[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplus0_b0xk990%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] Canal #0 HQ [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true</link>
 <thumbnail>https://pbs.twimg.com/profile_images/681420332322918400/-CD4VuPl.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -985,13 +971,13 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ ACCION  [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ACCION[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ACCION[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faccion_aqtvoax%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 <item>
 <title>[COLOR=red] [COLOR=white] M+ ACCION  [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1005,14 +991,14 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ ESTRENOS HQ [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ ESTRENOS HQ [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ESTRENOS[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplusestrenos_ahnxk7j%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ ESTRENOS[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fplusestrenos_ahnxk7j%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1026,14 +1012,14 @@
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ DCINE [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ DCINE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdcine_aw3g20p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ DCINE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdcine_aw3g20p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F53.0.2785.116 m%2520Safari%252F537.36</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ DCINE [COLOR=darkorange][/COLOR] [COLOR=green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1075,14 +1061,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ COMEDIA [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ COMEDIA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ COMEDIA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fcomedia_b0dqg8y%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ COMEDIA [COLOR=darkorange][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1096,14 +1082,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ SERIES  [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/MovistarSeries.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ SERIES  [COLOR=darkorange][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseries_aw3d82v%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseries_aw3d82v%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/MovistarSeries.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1117,14 +1103,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ SERIES XTRA  [COLOR=darkorange][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES XTRA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseriesxtra_axgtru5%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP M+ SERIES XTRA[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fseriesxtra_axgtru5%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/MovistarSeriesXtra.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] M+ SERIES XTRA  [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/MovistarSeriesXtra.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1159,14 +1145,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] HOLLYWOOD [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15</link>
 <thumbnail>http://vercanalestv.com/logos/hollywood.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] HOLLYWOOD [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP HOLLYWOOD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP HOLLYWOOD[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fholliwood_bawwczi%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://vercanalestv.com/logos/hollywood.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1180,14 +1166,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FOX [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FOX [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1208,14 +1194,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FOX LIFE HQ [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=o3m2hhbrqqux0ks swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=o3m2hhbrqqux0ks swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/220px-Fox_life_it.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] FOX LIFE HQ [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FOX LIFE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffoxlive_au8xxzz%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP FOX LIFE[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ffoxlive_au8xxzz%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/220px-Fox_life_it.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1229,14 +1215,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] TNT [COLOR=darkorange][/COLOR] </title>
-<link>rtmp://www1.iguide.to/iguide playpath=nh4259fy0kikqbk swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 1</link>
+<link>rtmp://www1.iguide.to/iguide playpath=nh4259fy0kikqbk swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] TNT [COLOR=darkorange][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TNT[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftnt_alwl3qm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TNT[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftnt_alwl3qm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1258,8 +1244,8 @@ item>
 
 <item> 
 <title>[COLOR=red] [COLOR=white] TCM [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=32102&autoplay=true token=#ed%h0#w18623jsda6523lDGD$$lsname=Opcion 1</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TCM[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftcm_an1qv7p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=32102&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP TCM[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Ftcm_an1qv7p%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/306px-TCM_logo_2009.svg.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1295,7 +1281,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] AXN  [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP AXN[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faxn_alwla94%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP AXN[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Faxn_alwla94%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_5617_2_242599.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -1335,7 +1321,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] A&E HQ  [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A&E [/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526$$lsname=Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP A&E [/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Famc_aw3dyqm%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526</link>
 <thumbnail>http://images.bwwstatic.com/tvnetworklogos/12CC065F-B4A6-418A-438291C68B1633A0.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -1343,7 +1329,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] A&E HQ  [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=a94301d9dma2hc8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15</link>
 <thumbnail>http://images.bwwstatic.com/tvnetworklogos/12CC065F-B4A6-418A-438291C68B1633A0.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -1379,14 +1365,14 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] HISTORIA [COLOR=darkorange][/COLOR] [COLOR green]Opcion 2[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Historia[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fhistoria_9dm8skt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP Historia[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fhistoria_9dm8skt%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on</link>
 <thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] HISTORIA [COLOR=darkorange][/COLOR] [COLOR green]Opcion 2[/COLOR]</title>
-<link>rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/on$$lsname=Historia Opcion 2</link>
+<link>rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/on</link>
 <thumbnail>http://www.examiner.com/images/blog/EXID22755/images/history-Logo-sm.jpg</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1409,7 +1395,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] DISCOVERY MAX [COLOR=darkorange][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DISCOVERY MAX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP DISCOVERY MAX[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fdismax_9c7n25t%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/f2/Discovery_Max.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </item>
@@ -1446,7 +1432,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] NAT GEO WILD HQ [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NAT GEO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnatgeowill_azu3urx%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on$$lsname=Historia Opcion 1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP NAT GEO[/COLOR]&amp;url=http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me%2Flive%2Fnatgeowill_azu3urx%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526on</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -1454,7 +1440,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] NAT GEO WILD HQ [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15$$lsname=Historia Opcion 2</link>
+<link>rtmp://www1.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1 timeout=15</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
@@ -1462,7 +1448,7 @@ item>
 
 <item>
 <title>[COLOR=red] [COLOR=white] NAT GEO WILD HQ [COLOR=darkorange][/COLOR] [COLOR green]Indefinido[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test3/test3/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Geo$$lsname=Historia Opcion 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test3/test3/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Geo</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
 <fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
 </regex>
