@@ -226,6 +226,75 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/gh17.png</thumbnail>
 </item> 
+
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]bein[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]beinlaliga[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]gol[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]liga2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]partidazo[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]futbol[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]deportes[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]deportes2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes2.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]golf[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/golf.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]motogp[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/motogp.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]f1[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/f1.png</thumbnail>
+</item> 
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]tve1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
@@ -424,6 +493,9 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/dark.jpg</thumbnail>
 </item> 
+
+
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]13tv[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/13tv.php</sportsdevil>
@@ -544,6 +616,90 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/animalplanet.png</thumbnail>
 </item> 
+
+
+
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]plus0[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]estrenos[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/estrenos.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]accion[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/accion.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]dcine[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/dcine.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]dcinen[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-español.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/dcinen.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]comedia[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/comedia.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]series[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/series.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]seriesxtra[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/seriesxtra.png</thumbnail>
+</item> 
+
+
+
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]toros[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/toros.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]realmadrid[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/realmadrid.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]barcatv[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/barcatv.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] ** [/COLOR]sevillafctv[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/sevillafctv.png</thumbnail>
+</item> 
+
+
+
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]cocina[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
@@ -658,60 +814,7 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/cine.png</thumbnail>
 </item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]a24[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/a24.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/a24.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]americatv[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/americatv.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/americatv.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]telefe[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/telefe.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/telefe.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]eltrece[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/eltrece.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/eltrece.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]magazine[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/magazine.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/magazine.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]nueve[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/nueve.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/nueve.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]tvpublica[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/lasiete.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/tvpublica.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]tn[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/tn.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/tn.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]ghpanama.jpg[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/panama/gh.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/ghpanama.jpg</thumbnail>
-</item> 
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]tvn[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/panama/tvn.php</sportsdevil>
@@ -730,144 +833,45 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/caracoltv.png</thumbnail>
 </item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]universal[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/universal.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/universal.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]hboplus[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/hboplus.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/hboplus.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]hbolatino[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/hbolatino.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/hbolatino.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]hbo2[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/hbolatino2.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/hbo2.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]cinemax[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/cinemax.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/cinemax.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]mundofox[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/mundofox.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/mundofox.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]c5n[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/cn5.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/c5n.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]warnerchannel[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/warnerchannel.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/warnerchannel.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]space[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/space.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/space.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]fx[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/fx.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/fx.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]azteca7[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/mexico/azteca7.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/azteca7.png</thumbnail>
-</item> 
+
+
+<!-- 
+
+-->
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]azteca13[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/mexico/azteca13.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/azteca13.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]1/imagenes_unic[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/mexico/canal-de-las-estrellas.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://coo3.tuvotacion.com:81/imagenes_unicas/mejor-canal-de-mxico-398481.jpg</thumbnail>
-</item> 
+</item>
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]cmd[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/cmd.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/cmd.png</thumbnail>
 </item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]amc[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/amc.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/amc.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]axn[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/axn.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/axn.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]fox[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/fox.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/fox.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]tnt[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/tnt.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/tnt.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]discoverychanne[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/discovery.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/discoverychannel.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]history[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/argentina/historia.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/history.png</thumbnail>
-</item> 
-<item>
+
+
+<nopitem>
 <title>[COLOR white][COLOR blue] ** [/COLOR]rusxxx.gif[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/xxx/russian.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/rusxxx.gif</thumbnail>
 </item> 
-<item>
+<nopitem>
 <title>[COLOR white][COLOR blue] ** [/COLOR]redlight[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/xxx/redlight.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/redlight.png</thumbnail>
 </item> 
-<item>
+<nopitem>
 <title>[COLOR white][COLOR blue] ** [/COLOR]hot[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/xxx/hot.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/hot.png</thumbnail>
 </item> 
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]sky1ger[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/sky1ger.php</sportsdevil>
@@ -953,12 +957,14 @@
 <thumbnail>http://cinestrenostv.tv/img/sky5.png</thumbnail>
 </item> 
 
+
 <nopitem>
 <title>[COLOR white][COLOR blue] ** [/COLOR]playboy[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/xxx/playboy.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/playboy.png</thumbnail>
 </item> 
+
 <nopitem>
 <title>[COLOR white][COLOR blue] ** [/COLOR]hustlertv[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/hustlertv.php</sportsdevil>
@@ -978,36 +984,8 @@
 <thumbnail>http://cinestrenostv.tv/img/venus.png</thumbnail>
 </item> 
 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]plus0[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]toros[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/toros.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]realmadrid[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/realmadrid.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]barcatv[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/barcatv.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]sevillafctv[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/sevillafctv.png</thumbnail>
-</item> 
+
+
 <item>
 <title>[COLOR white][COLOR blue] ** [/COLOR]teledeporte[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil>
@@ -1086,114 +1064,10 @@
 <referer>http://cinestrenostv.tv</referer>
 <thumbnail>http://cinestrenostv.tv/img/boxnation.png</thumbnail>
 </item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]bein[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]beinlaliga[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]gol[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]liga2[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]partidazo[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]futbol[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]deportes[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]deportes2[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/deportes2.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]golf[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/golf.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]motogp[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/motogp.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]f1[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/f1.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]estrenos[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/estrenos.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]accion[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/accion.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]dcine[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/dcine.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]dcinen[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-español.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/dcinen.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]comedia[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/comedia.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]series[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/series.png</thumbnail>
-</item> 
-<item>
-<title>[COLOR white][COLOR blue] ** [/COLOR]seriesxtra[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>http://cinestrenostv.tv/img/seriesxtra.png</thumbnail>
-</item> 
+
+
+
+
 
 <item>
 <title>[COLOR=red]** [COLOR=white] LA SEXTA [COLOR=darkorange][/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
