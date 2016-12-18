@@ -810,7 +810,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas españolvk 721  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas español (vk) 721  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas5[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -831,29 +831,10 @@ nopitem>
 </item>
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todasparametro3)  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1] [makelist.param4]</title>
-<link>https://vk.com[makelist.param3]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
-<thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres>peliculas8:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 <PORNitem>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721ad  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721ad  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas3[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -873,9 +854,29 @@ nopitem>
 </regex>
 </item>
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todasparametro3)  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas8[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param4]</title>
+<link>https://vk.com[makelist.param3]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres>peliculas8:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Y Qseries [/B] [/COLOR][COLOR lightblue]serverferrer vkwebfull[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Qseries [/B] [/COLOR][COLOR lightblue]vkwebfull serverferrerqserie[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
