@@ -483,8 +483,8 @@ nopitem>
 
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]todos Los Canales adran[/I][/COLOR]</title>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]todos Los Canales Adran 1cuareta1[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -501,8 +501,8 @@ nopitem>
 </regex>
 </item>
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]modferrer**[/I][/COLOR]</title>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]modferrer*90*[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -522,7 +522,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]mod ferrer es****[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] LaTelete[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**178**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -540,124 +540,8 @@ nopitem>
 </item>
 
 
-
-
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link**[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
-<referer>https://vk.com/videos185818961</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
-<page>https://vk.com/videos185818961</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link upload**[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
-<referer>https://vk.com/videos185818961?section=uploaded</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
-<page>https://vk.com/videos185818961?section=uploaded</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link**[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
-<referer>https://vk.com/videos185818961</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
-<page>https://vk.com/videos185818961</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link upload**[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
-<referer>https://vk.com/videos185818961?section=uploaded</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
-<page>https://vk.com/videos185818961?section=uploaded</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los picapiedras[/B] [/COLOR][COLOR lightblue][I]veamos[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>https://vk.com[makelist.param2]</link>
-<referer>https://vk.com/videos209882599?section=album_4</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>a class="([^"]+)" href="([^"]+)" onmouseover</expres>
-<page>https://vk.com/videos209882599?section=album_4</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -677,7 +561,7 @@ nopitem>
 </regex>
 </item>
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]El Chapulin Colorado [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]El Chapulin Colorado [/B] [/COLOR][COLOR lightblue]serverferrer elchapulin[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -722,52 +606,9 @@ nopitem>
 </item>
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1] [makelist.param3]</title>
-<link>https://vk.com[makelist.param2]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>peliculas1:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]cinedoble[/B] [/COLOR][COLOR lightblue][I]opcin 2 upload**[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>https://vk.com[makelist.param1]</link>
-<referer>https://vk.com/videos275648338?section=uploaded</referer>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>class="video_item_title" href="(.*?)"</expres>
-<page>https://vk.com/videos275648338?section=uploaded</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721 tipo mobil [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Cinedoble (vk) 721 tipo mobil [/B] [/COLOR][COLOR lightblue]serverferrer peliculas2[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -788,7 +629,7 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721  [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas CineDoble (vK) 721  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas2[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -931,3 +772,150 @@ de vaung
 
 
 --!>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine [/B] [/COLOR][COLOR lightblue]serverferrer Peliculas1 solo muestra las primeras[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>peliculas1:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]CineDoble [/B] [/COLOR][COLOR lightblue][I]opcionn 2 upload** solomuestra lasrpimeras[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos275648338?section=uploaded</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos275648338?section=uploaded</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link**solo muestra las primeras[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos185818961</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] vk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link upload**solo muestra las primeras[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos185818961?section=uploaded</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961?section=uploaded</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] que seriesvk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link** solo muestra lasprimeras[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos185818961</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<nopitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] que seriesvk1 prueba[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**7link upload** solo muestras la primeras[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param1]</link>
+<referer>https://vk.com/videos185818961?section=uploaded</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>class="video_item_title" href="(.*?)"</expres>
+<page>https://vk.com/videos185818961?section=uploaded</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
