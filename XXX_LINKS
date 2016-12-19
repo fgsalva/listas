@@ -228,18 +228,18 @@ ONLINEhttp://www.rubular.com/
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]brazzer [/B] [/COLOR][COLOR lightblue]vkwebfull serverferrerbrazzer[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]brazzer [/B] [/COLOR][COLOR lightblue]vkwebfull serverferrerbrazzers1[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>[makelist.param2]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbrazzers</referer>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbrazzers1</referer>
 <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbrazzers</page>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbrazzer1</page>
 <referer>https://vk.com/</referer>
 <connection>keep-alive</connection>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
