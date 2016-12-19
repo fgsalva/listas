@@ -203,3 +203,24 @@ ONLINEhttp://www.rubular.com/
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series5</externallink>
 </item>
 
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Como en el Cine [/B] [/COLOR][COLOR lightblue]vkwebfull serverferrercomoenelcine[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrercomoenelcine</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
