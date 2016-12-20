@@ -738,7 +738,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]TV PELIS (VK) [/B] [/COLOR][COLOR lightblue]serverferrertvpelis[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]TV PELIS (VK rmdaniel) [/B] [/COLOR][COLOR lightblue]serverferrertvpelis[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -780,7 +780,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS NEWDIVX (VK) [/B] [/COLOR][COLOR lightblue]serverferrernewdivix[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS24 NEWDIVX (VK) [/B] [/COLOR][COLOR lightblue]serverferrernewdivix[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -798,6 +798,28 @@ nopitem>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 <cookieJar></cookieJar>
 </regex>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS DACOR DACOR (VK) [/B] [/COLOR][COLOR lightblue]serverferrerdacor[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerdacor</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerdacor</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
 
 
 
