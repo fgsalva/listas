@@ -1,1 +1,270 @@
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>picapiedras:"(.*?)", url="(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]El Chapulin Colorado [/B] [/COLOR][COLOR lightblue]serverferrer elchapulin[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>elchapulin:"(.*?)", url="(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Mi bella Genio [/B] [/COLOR][COLOR lightblue]serverferrer[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>mibellagenio:"(.*?)", url="(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Cinedoble (vk) 721 tipo mobil [/B] [/COLOR][COLOR lightblue]serverferrer peliculas2[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://m.vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>peliculas2:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas CineDoble (vK) 721  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas2[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>peliculas2:"(.*?)", url="(.*?)";title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas español (vk) 721  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas5[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres>peliculas5:"(.*?)"; url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<PORNitem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]peliculas Doblecine 721ad  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas3[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param3]</title>
+<link>https://vk.com[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres>peliculas3:"(.*?)", url="(.*?)"; title:"(.*?)"; img:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Que Series (todasparametro3)  [/B] [/COLOR][COLOR lightblue]serverferrer peliculas8[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param4]</title>
+<link>https://vk.com[makelist.param3]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</referer>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres>peliculas8:"(.*?)"; img:"(.*?)"; url="(.*?)"; title:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Qseries [/B] [/COLOR][COLOR lightblue]vkwebfull serverferrerqserie[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerqseries</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]TV PELIS (VK rmdaniel) [/B] [/COLOR][COLOR lightblue]serverferrertvpelis[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrertvpelis</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrertvpelis</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS BULITOS (VK) [/B] [/COLOR][COLOR lightblue]serverferrerbulitos[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbulito</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerbulito</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS24 NEWDIVX (VK) [/B] [/COLOR][COLOR lightblue]serverferrernewdivix[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrernewdivix</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrernewdivix</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS DACOR DACOR castellano (VK) [/B] [/COLOR][COLOR lightblue]serverferrerdacor[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerdacor</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerdacor</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PELIS MITEVE LATINO (VK) [/B] [/COLOR][COLOR lightblue]serverferrermiteve[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrermiteve</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>data-thumb="(.*?)"[\w\W\s]{0,7}href="(.*?)"[\w\W\s]{0,282}this[\w\W\s]{0,1905}>(.*?)<</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrermiteve</page>
+<referer>https://vk.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+
+
+
+
+
+
