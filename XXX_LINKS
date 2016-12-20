@@ -358,3 +358,217 @@ ONLINEhttp://www.rubular.com/
 </regex>
 </item>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>cap 1 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qymvtbzqedem-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-qymvtbzqedem-640x360.html</page>
+<referer>http://streamin.to/qymvtbzqedem</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-qymvtbzqedem-640x360.html</page>
+<referer>http://streamin.to/qymvtbzqedem</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-qymvtbzqedem-640x360.html</page>
+<referer>http://streamin.to/qymvtbzqedem</referer>
+</regex>
+</item>
+
+
+<item>
+<title>cap 2 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qc2c3jdduugz-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-qc2c3jdduugz-640x360.html</page>
+<referer>http://streamin.to/qc2c3jdduugz</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-qc2c3jdduugz-640x360.html</page>
+<referer>http://streamin.to/qc2c3jdduugz</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-qc2c3jdduugz-640x360.html</page>
+<referer>http://streamin.to/qc2c3jdduugz</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 3 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-x6yl6z274et9-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-x6yl6z274et9-640x360.html</page>
+<referer>http://streamin.to/x6yl6z274et9</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-x6yl6z274et9-640x360.html</page>
+<referer>http://streamin.to/x6yl6z274et9</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-x6yl6z274et9-640x360.html</page>
+<referer>http://streamin.to/x6yl6z274et9</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 4 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bkpfodxdwmd7-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-bkpfodxdwmd7-640x360.html</page>
+<referer>http://streamin.to/bkpfodxdwmd7</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-bkpfodxdwmd7-640x360.html</page>
+<referer>http://streamin.to/bkpfodxdwmd7</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-bkpfodxdwmd7-640x360.html</page>
+<referer>http://streamin.to/bkpfodxdwmd7</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 5 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1281mlm971qx-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-1281mlm971qx-640x360.html</page>
+<referer>http://streamin.to/1281mlm971qx</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-1281mlm971qx-640x360.html</page>
+<referer>http://streamin.to/1281mlm971qx</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-1281mlm971qx-640x360.html</page>
+<referer>http://streamin.to/1281mlm971qx</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 6 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-xg9fk93gi452-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-xg9fk93gi452-640x360.html</page>
+<referer>http://streamin.to/xg9fk93gi452</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-xg9fk93gi452-640x360.html</page>
+<referer>http://streamin.to/xg9fk93gi452</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-xg9fk93gi452-640x360.html</page>
+<referer>http://streamin.to/xg9fk93gi452</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 7 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pzkczhzsq2wq-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-pzkczhzsq2wq-640x360.html</page>
+<referer>http://streamin.to/pzkczhzsq2wq</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-pzkczhzsq2wq-640x360.html</page>
+<referer>http://streamin.to/pzkczhzsq2wq</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-pzkczhzsq2wq-640x360.html</page>
+<referer>http://streamin.to/pzkczhzsq2wq</referer>
+</regex>
+</item>
+
+<item>
+<title>cap 8 </title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-txmf7yge93v1-640x360.html</link>
+<thumbnail>http://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail><fanart>http://empireonline.media/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/57869a31823490d062667985/netflix%20stranger%20things%20poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-txmf7yge93v1-640x360.html</page>
+<referer>http://streamin.to/txmf7yge93v1</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-txmf7yge93v1-640x360.html</page>
+<referer>http://streamin.to/txmf7yge93v1</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-txmf7yge93v1-640x360.html</page>
+<referer>http://streamin.to/txmf7yge93v1</referer>
+</regex>
+</item>
+
