@@ -283,7 +283,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR greenyellow][COLOR green]TV Latino_web opcin1[/COLOR]</title>
+<title>[COLOR blue][B]TV[/B] [/COLOR][COLOR skyblue]LatinoWeb Opcion1[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -376,12 +376,12 @@ nopitem>
 
 
 <item>
-<title>COLOR deepskyblue][B]Canales Latinos[/B] [/COLOR][COLOR lightslategray]TV BAY Sudamerica[/COLOR]</title>
+<title>[COLOR deepskyblue][B]Canales Latinos[/B] [/COLOR][COLOR lightslategray]TV BAY Sudamerica[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist.param1] [/COLOR][COLOR lightslategray] *******[makelist.param4][/COLOR]</title>
+<title>[COLOR deepskyblue][makelist.param1] [/COLOR][COLOR lightspink] -[makelist.param4][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
