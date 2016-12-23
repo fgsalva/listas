@@ -8,18 +8,14 @@ http://latino-webtv.ml/series/simpsons.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Gravity Falls 24/7 HD
 http://latino-webtv.ml/series/gravityfalls.mp4
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Movies 24/7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CANAL PELICULAS 24/7 VITATO
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal Once
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Fox Sport 3
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Espn
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Panamericana
 rtmp://cdnp5.iblups.com/ptv/ app=ptv/ playpath=ptv swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315 live=1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",LlanoTV Colombia
@@ -133,11 +129,6 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&a
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO nop
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA 1
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200a
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
@@ -217,6 +208,13 @@ http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
 http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport2
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Canal Once
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Fox Sport 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Espn
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT HD
 http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
@@ -294,9 +292,9 @@ http://190.57.234.164/V0/6/2.m3u8
 http://190.57.234.164/V3/6/1.m3u8
 #EXTINF:0 type="stream" tvg-logo=“samplelogo.png” group-title="LUPE", UFC Network OPC 4
 http://190.57.234.164/V3/6/2.m3u8
-#EXTINF:-1, tvg-logo=“samplelogo.png” group-title="LUPE",UFC Network HD UFC Network OPC 5
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",UFC Network HD UFC Network OPC 5
 http://190.57.234.164/V3/6/1.m3u8
-#EXTINF:-1, tvg-logo=“samplelogo.png” group-title="LUPE",, UFC Network SD UFC Network OPC 6
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE", UFC Network SD UFC Network OPC 6
 http://190.57.234.164/V3/6/2.m3u8
 
 
