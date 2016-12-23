@@ -376,7 +376,7 @@ nopitem>
 
 
 <item>
-<title>[COLOR deepskyblue][B]Canales Latinos[/B] [/COLOR][COLOR lightslategray]TV BAY Sudamerica[/COLOR]</title>
+<title>[COLOR deepskyblue][B]TV[/B] [/COLOR][COLOR lightslategray]TV BAY-SONY Sudamerica[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
