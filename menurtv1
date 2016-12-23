@@ -7,8 +7,7 @@ http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 http://latino-webtv.ml/series/simpsons.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Gravity Falls 24/7 HD
 http://latino-webtv.ml/series/gravityfalls.mp4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Game Of Thrones 24/7 HD
-http://latino-webtv.ml/series/gameofthrones.mp4
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Movies 24/7
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
@@ -65,14 +64,13 @@ http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Fox nuevo.
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BDIyO19zsBAdrvsciDHYq1bkpoC4vTAklme4EH2fixmlj2ihU4EB9GFpu28sOyb7ssst4r1vRhHA%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",TNT.
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX18fOoNyeO4HEjJ2%2BXRwPO7A%2FNkCsRZO5a4eMmXmB9NtW8dRNKmx7IO6anBjS35SOqhgjmqDA0238A%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Space
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Space.
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19g2GnomyzoR5yx4kJNXY6CEmrSZBCICskwR7DssJVbG%2FAx5jRBqsPbYrF%2BkB7Wz2d8TtwnfKHjBA%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Space agent mozila
-http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19g2GnomyzoR5yx4kJNXY6CEmrSZBCICskwR7DssJVbG%2FAx5jRBqsPbYrF%2BkB7Wz2d8TtwnfKHjBA%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
