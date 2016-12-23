@@ -376,12 +376,12 @@ nopitem>
 
 
 <item>
-<title>[COLOR deepskyblue][B]TV[/B] [/COLOR][COLOR lightslategray]TV BAY-SONY Sudamerica[/COLOR]</title>
+<title>[COLOR deepskyblue][B]TV[/B] [/COLOR][COLOR lightslategray] Bay-Sony Sudamerica[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist.param1] [/COLOR][COLOR lightspink] -[makelist.param4][/COLOR]</title>
+<title>[COLOR deepskyblue][makelist.param1] [/COLOR][COLOR pink] -[makelist.param4][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
