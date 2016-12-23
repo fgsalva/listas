@@ -228,8 +228,14 @@ nopitem>
 </item>
 ***********************
 
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]PELICULAS FERRER VK [/COLOR][COLOR red]Prueba Sayda!!![/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/vksinagente</externallink>
+</item>
 
-  <item>
+*********************
+  <nopitem>
 <title>[COLOR skyblue][B]Copiapop nivyed[/B][/COLOR] [COLOR lightslategray]  Peliculas Audio Latino  [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
