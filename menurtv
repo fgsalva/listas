@@ -1025,6 +1025,573 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+ 
+<item><title>[COLOR lightblue]la Red Chile[/COLOR]</title>
+<link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf</link>
+</item>
+
+<item>
+<title>Los Simpsons 24/7 HD</title>
+<link>http://latino-webtv.ml/series/simpsons.mp4</link>
+</item>
+<item>
+<title>Gravity Falls 24/7 HD</title>
+<link>http://latino-webtv.ml/series/gravityfalls.mp4</link>
+</item>
+<title>Game Of Thrones 24/7 HD</title>
+<link>http://latino-webtv.ml/series/gameofthrones.mp4</link>
+</item>
+<item>  
+<title>Movies 24/7</title>
+<link>http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8</link>
+</item>
+<item>
+<title>Canal Once</title>
+<link>http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8</link>
+</item>
+<item>  
+<title>Fox Sport 3</title>
+<link>http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8</link>
+</item>
+<item>
+<title>Espn</title>
+<link>http://159.203.63.133:8081/rstm/Espn/playlist.m3u8</link>
+</item>
+
+<item>
+<title>Panamericana</title>
+<link>rtmp://cdnp5.iblups.com/ptv/ app=ptv/ playpath=ptv swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315 live=1</link>
+</item>
+
+<item>
+<title>LlanoTV Colombia</title>
+<link>http://stream2.livestreamingservices.com:1935/llanotv/llanotv/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR lightblue]Multimedios [/COLOR]</title>
+<link>http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8</link>
+</item>
+<item>
+<title>[COLOR lightblue]Multimedios +[/COLOR]</title>
+<link>http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8</link>
+</item>
+
+
+<item>
+<title>[COLOR blue]TVeo Miami[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8</link>
+</item> 
+
+
+<item>
+<title>[COLOR lightblue]Telemundo x7[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix7/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR lightblue]Telemundo x1[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix1/master.m3u8</link>
+</item>
+<item>
+<title>[COLOR lightblue]Univision - Pacifico Ustream[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8</link>
+</item> 
+<item>
+<title>[COLOR lightblue]Univision x1p[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix1/playlist.m3u8</link>
+</item>
+<item>
+<title>[COLOR lightblue]Univision x1m[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/anahix1/master.m3u8</link>
+</item>
+ 
+<item>
+<title>TRT World (INGLES)</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+</item>
+
+<item>
+<title>Euronews en EspaÃ±ol</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
+</item>
+
+	 
+<item>
+<title>Foro TV </title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8</link>
+</item>
+
+<item> 
+<title>Canal 44</title> 
+<link>http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8?DVR</link>	
+</item> 
+
+
+<item>
+<title>[COLOR deepskyblue]Discovery [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/discovery-latino-en-vivo.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif</thumbnail></item>
+
+<item>
+<title>[COLOR deepskyblue]SPACE [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/space-en-vivo.html</page>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/space-hd.gif</thumbnail></item>
+
+<item>
+<title>[COLOR deepskyblue]Warner [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>w.zony.tv</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/warner-en-vivo.html</page>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/warner-hd.gif</thumbnail>
+</item>
+
+ <item>
+<title>[COLOR deepskyblue]TNT [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/tnt-latino-en-vivo.html</page>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif</thumbnail></item>
+
+<item>
+<title>[COLOR deepskyblue]Disney Channel [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/disney-channel-en-vivo.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/disney-channel.gif</thumbnail></item>
+ 
+<item>
+<title>[COLOR deepskyblue]Cartoon Network [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/cartoon-network-en-vivo.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail></item>
+
+<item>
+<title>[COLOR deepskyblue]nick [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/nickelodeon-en-vivo.html</page>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/nick-hd.gif</thumbnail></item>
+
+
+<item>
+<title>[COLOR deepskyblue]Disney XD [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/disney-xd-en-vivo.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/disney-xd.gif</thumbnail></item>
+
+
+
+
+
+<item>
+<title>[COLOR deepskyblue]Disney Jr [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/disney-junior-en-vivo.html</page>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/disney-jr.gif</thumbnail></item>
+
+<item>
+<title>[COLOR deepskyblue]MTV [COLOR skyblue][tvpor-internet][/COLOR][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/mtv-latino-en-vivo.html</page>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/mtv.gif</thumbnail></item>
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lightblue]Multimedios Rx[/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>"hls":"(.*?m3u8)"</expres>
+<page>http://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR lightblue]RedBull TV[/COLOR]</title>
+<link>$doregex[get-m3u8]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>"stream_url":"(.*?)"</expres>
+<page>http://www.redbull.tv/tv</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+ 
+<item>
+<title>[COLOR lightblue]Telemundo V[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_telemundo48  swfUrl=http://vaughnlive.tv/telemundo48$doregex[get_channel] pageUrl=http://vaughnlive.tv/telemundo48  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_telemundo48?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_telemundo48?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_telemundo48?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lightblue]America TV[/COLOR]</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/5730046/events/2966225/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>http://new.livestream.com/accounts/5730046/events/2966225/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lightblue]TeleFormula[/COLOR]</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;Referer=http://livestream.com/accounts/17105295/events/4719192/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<regex>
+<name>url</name>
+<expres>smil","m3u8_url":"(.*)","secure_m3u8_url</expres>
+<page>http://new.livestream.com/accounts/17105295/events/4719192/player?width=960&amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lightblue]unimas28[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_unimas$doregex[get_channel]  swfUrl=http://vaughnlive.tv/unimas$doregex[get_channel] pageUrl=http://vaughnlive.tv/unimas$doregex[get_channel]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_unimas$doregex[get_channel]?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_unimas$doregex[get_channel]?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_unimas$doregex[get_channel]?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_channel</name>
+<expres>a href="/unimas(.*?)"[\w\W\s]{0,22}browseTxt</expres>    
+<page>http://vaughnlive.tv/browse/espanol</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lightblue]estrella TV V[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_telemundo48  swfUrl=http://vaughnlive.tv/estrellatv$doregex[get_channel] pageUrl=http://vaughnlive.tv/estrellatv  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_estrellatv?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_estrellatv?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/mnt-live_estrellatv?0.1.1.773_112-112-0.33082803664729</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item><title>RT en Español</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6027</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar></regex>
+</item>
+
+
+<item>
+<title>Telesur </title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6028</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>Canal DW</title>
+<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8</link>
+<regex>
+<name>get-url</name><expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6019</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar></regex>
+</item>
+	
+<item><title>[COLOR deepskyblue]Miami TV[/COLOR]</title>
+<link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+</item>
+
+
+
+
+
 <item>
 <link>http://Ignoreme</link>
 <title>[COLOR blue]prueba coadeport...[/COLOR][COLOR blue]sdevil[/COLOR]</title>
@@ -1036,3 +1603,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtvz</externallink>
 </item>
  
+
