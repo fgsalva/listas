@@ -216,7 +216,7 @@ nopitemFuncionahalandotodoslostvonline>
  
   
 <item>
-<title>[COLOR blue][B] TV 24/7 [/B][/COLOR] [COLOR green][B]vaughnlive**[/B][/COLOR]</title>
+<title>[COLOR blue][B]TV 24/7 [/B][/COLOR] [COLOR green][B]vaughnlive**[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
