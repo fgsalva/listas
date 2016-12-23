@@ -69,7 +69,10 @@ http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w199593970
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BDIyO19zsBAdrvsciDHYq1bkpoC4vTAklme4EH2fixmlj2ihU4EB9GFpu28sOyb7ssst4r1vRhHA%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",TNT.
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX18fOoNyeO4HEjJ2%2BXRwPO7A%2FNkCsRZO5a4eMmXmB9NtW8dRNKmx7IO6anBjS35SOqhgjmqDA0238A%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Space
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19g2GnomyzoR5yx4kJNXY6CEmrSZBCICskwR7DssJVbG%2FAx5jRBqsPbYrF%2BkB7Wz2d8TtwnfKHjBA%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Space agent mozila
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19g2GnomyzoR5yx4kJNXY6CEmrSZBCICskwR7DssJVbG%2FAx5jRBqsPbYrF%2BkB7Wz2d8TtwnfKHjBA%3D%3D|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
@@ -90,7 +93,6 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index4
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LA sexta ESPAÑA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
