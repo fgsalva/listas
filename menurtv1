@@ -71,20 +71,6 @@ http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BDIyO19zsBAdrvsciDHY
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX18fOoNyeO4HEjJ2%2BXRwPO7A%2FNkCsRZO5a4eMmXmB9NtW8dRNKmx7IO6anBjS35SOqhgjmqDA0238A%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 
 
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg",TNT Series PRUEBA
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18WeZqQkjubtiWg2opRF%2BdYWdUVL2ATw1vsHFXK0tJMRkana9a%2BoOJ5WbXOx5ad2lbfuxH0UJcU2Q%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/33wsh0i.jpg",FX HD
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19ReKZFONGSTHeqxDxdA8mHJTDgPWh8v8CF64FdAYU6qHMx%2BJAUZV9zwDRVbaYf8CUEbkjMpYHKgg%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="http://i60.tinypic.com/ws4gmb.jpg",Sony
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18hkkLqPzBtQ1gkfWJohK4RKM0fhJDeyTHuutycFS1qGF0elnEz3TmLjzMktg5AFVjxmmWUvk5zMg%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/j0vajn.jpg",Warner Channel
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18qJlbql5EV35OE15Fh25oPNCscEkV1u%2BH5Rx8oPK9r7ZcXEc6muyFRL2OvSe0pRpQZmjfNp88h%2Bw%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/ibgsc0.jpg",AMC HD
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bk909XF6FidJtqVD9VnpaPEXkOIeimayoPnnhJEPAamOPjCx0pr5mO6ZtcMzfpJ0%2F2wgE3e7OfeQ%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg",Cinemax
-http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BPqf0I8wcEjTBW9EpyEJraESa%2BhRUM5UoRKB8di7XTFRpmK248NZ3qL1ffD83fCiHHTE9cHQRs%2FA%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 
