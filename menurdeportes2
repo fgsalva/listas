@@ -867,7 +867,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**inteto3**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**intento3a**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -877,12 +877,13 @@ nopitem>
 <referer>http://verplusonline.com/</referer>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres>href="(.*?)" target="" title="(.*?)"><img src="(.*?)" width ="</expres>
+<expres>href="(.*?)"[\w\W\s]{0,11}title="(.*?)"><img src="(.*?)" width ="</expres>
 <page>http://verplusonline.com/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
 
 href="(.*?)"[\w\W\s]{0,11}title="(.*?)"><img src="(.*?)" width ="
 <a href="(.*?)" target="" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"
