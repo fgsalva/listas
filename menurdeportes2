@@ -867,7 +867,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**mmm**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**mmmxx**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -875,7 +875,7 @@ nopitem>
 <title>[makelist.param2]</title>
 <sportsdevil>[makelist.param1]</sportsdevil>
 <referer>http://verplusonline.com/</referer>
-<thumbnail>[makelist.param3]</thumbnail>
+<thumbnail></thumbnail>
 ]]></listrepeat>
 <expres>href="(.*?)" target="" title="(.*?)"><img src="(.*?)"</expres>
 <page>http://verplusonline.com/</page>
