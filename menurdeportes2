@@ -215,6 +215,12 @@
       </item>
       
       <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]MOVISTAR GOLF106142 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106142&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106142&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+      
+      <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]GOLTV 106146 [COLOR lime][/COLOR]</title>
 	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106146&width=650&height=400&autostart=true</sportsdevil>
             <referer>http://www.playerhd1.pw/channel.php?file=106146&width=650&height=400&autostart=true</referer>
@@ -223,6 +229,13 @@
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]TDP 106147 [COLOR lime][/COLOR]</title>
 	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106147&width=650&height=400&autostart=true</sportsdevil>
             <referer>http://www.playerhd1.pw/channel.php?file=106147&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]TDP 106148 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106148&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106148&width=650&height=400&autostart=true</referer>
             <thumbnail></thumbnail>
 	    </item>
 <item>
@@ -299,7 +312,7 @@
             <thumbnail></thumbnail>
 	    </item>
 	    
-	<item>
+	<NOPitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]PLABOY 106165[COLOR lime][/COLOR]</title>
 	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106165&width=650&height=400&autostart=true</sportsdevil>
             <referer>http://www.playerhd1.pw/channel.php?file=106165&width=650&height=400&autostart=true</referer>
@@ -312,14 +325,14 @@
             <thumbnail></thumbnail>
 	    </item>
 	    
-	  <item>
+	  <NOPitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]PENHOUSE 106171[COLOR lime][/COLOR]</title>
 	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106171&width=650&height=400&autostart=true</sportsdevil>
             <referer>http://www.playerhd1.pw/channel.php?file=106171&width=650&height=400&autostart=true</referer>
             <thumbnail></thumbnail>
 	    </item>
 	    
-	    <item>
+	    <NOPitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]PLABOY2 106172[COLOR lime][/COLOR]</title>
 	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106172&width=650&height=400&autostart=true</sportsdevil>
             <referer>http://www.playerhd1.pw/channel.php?file=106172&width=650&height=400&autostart=true</referer>
@@ -376,6 +389,68 @@
             <referer>http://www.playerhd1.pw/channel.php?file=106220&width=650&height=400&autostart=true</referer>
             <thumbnail></thumbnail>
 	    </item>
+	    
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]MOVISTAR DEPORTE2 106228[COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106228&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106228&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]MOVISTAR #0 106229[COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106229&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106229&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN 1HD 106230[COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106230&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106230&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	     <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]CANAL +FRANCE 106231 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106231&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106231&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]SKY1 106232 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106232&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106232&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 1 106233 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106233&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106233&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	    <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BT 2  106234 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106234&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106234&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	      <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]BOXNATION  106235 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106235&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106235&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	     <item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]MOVISTAR ESTRENOS  106244 [COLOR lime][/COLOR]</title>
+	    <sportsdevil>http://www.playerhd1.pw/channel.php?file=106235&width=650&height=400&autostart=true</sportsdevil>
+            <referer>http://www.playerhd1.pw/channel.php?file=106235&width=650&height=400&autostart=true</referer>
+            <thumbnail></thumbnail>
+	    </item>
+	    
+	    
 	    
 	
 	    
