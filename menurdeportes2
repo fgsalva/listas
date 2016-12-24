@@ -847,6 +847,24 @@ nopitem>
 </regex>
 </item>
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Telefiveg[/B] [/COLOR][COLOR lightblue][I]mod ferrer es****[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<sportsdevil>[makelist.param4]</sportsdevil>
+<referer>http://telefivegb.com/</referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>src="(.*?)" class="(.*?)" alt="" title="(.*?)"[\w\W\s]{0,15}href="(.*?)"</expres>
+<page>http://telefivegb.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
