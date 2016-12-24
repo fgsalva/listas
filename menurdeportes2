@@ -867,7 +867,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**72**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**mmm**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -877,13 +877,15 @@ nopitem>
 <referer>http://verplusonline.com/</referer>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres><a href="(.*?)" target="" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+<expres>href="(.*?)" target="" title="(.*?)"><img src="(.*?)"</expres>
 <page>http://verplusonline.com/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
+
+<a href="(.*?)" target="" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
