@@ -867,7 +867,7 @@ nopitem>
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**intento3a**[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]verplus[/B] [/COLOR][COLOR lightblue][I]mod ferrer ultimi[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -885,8 +885,7 @@ nopitem>
 </item>
 
 
-href="(.*?)"[\w\W\s]{0,11}title="(.*?)"><img src="(.*?)" width ="
-<a href="(.*?)" target="" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"
+
 
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
