@@ -848,7 +848,7 @@ nopitem>
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Telefiveg[/B] [/COLOR][COLOR lightblue][I]mod ferrer es****[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Telefiveg[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**72**[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -856,7 +856,7 @@ nopitem>
 <title>[makelist.param3]</title>
 <sportsdevil>[makelist.param4]</sportsdevil>
 <referer>http://telefivegb.com/</referer>
-<thumbnail></thumbnail>
+<thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres>src="(.*?)" class="(.*?)" alt="" title="(.*?)"[\w\W\s]{0,15}href="(.*?)"</expres>
 <page>http://telefivegb.com/</page>
