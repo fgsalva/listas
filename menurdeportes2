@@ -867,6 +867,25 @@ nopitem>
 
 
 <item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]VerplusOnline[/B] [/COLOR][COLOR lightblue][I]mod ferrer es**72**[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://verplusonline.com/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><a href="(.*?)" target="" title="(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+<page>http://verplusonline.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Los Picapiedras [/B] [/COLOR][COLOR lightblue]serverferrer picapiedras[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
