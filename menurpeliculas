@@ -334,7 +334,7 @@ nopitem>
 		<thumbnail></thumbnail>
         ]]></listrepeat>
 <expres>Server:"(.*?)" src="(.*?)"</expres>
-<page>SERVERFERRER</page>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <cookieJar></cookieJar>
 </regex>
 
