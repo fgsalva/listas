@@ -312,7 +312,7 @@ nopitem>
 
 *****************
 <item>
-<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • navideñas¿¿¿¿• </title>
+<title>[COLOR blue]Re[/COLOR][COLOR yellow]cuer[/COLOR][COLOR blue]dos[/COLOR] • navideñad2• </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
