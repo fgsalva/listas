@@ -23,6 +23,10 @@ http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2Bpsdbe95u8XPJbVoBEro
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2Fh2mL8L%2FIRiZ5%2BV59wi1wDvaRrQ9QWVrRd%2F2FLX1dCcOE%2Bk6eBQZO0RTLyB%2FgPsFRBciLyKldjNw%3D%3D
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",SPACE
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19W3OesQydp%2BoejF0aIP9KDry341kHbZpK5%2F6mLj%2FXBNmsRCYMIKqy4YllpbHUlnFqen1c4acJYjw%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Nat wild
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2F1XS0y%2FYr72cUA770RaBnuJr55VK3OV9h0eKJ7ry4MNcfQvF6S0VsRWVXvQAZArArMgT8jHBVJZg%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Discovery
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2FNdnbi46n%2BHu7UDVrLm2lymgNN7KkWgIdEY2LZBA4%2B5MpLIRXRgcJSZtU3H5xuFI0%2Bx0Fc8DBR5g%3D%3D
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf
