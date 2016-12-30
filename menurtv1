@@ -8,8 +8,22 @@ http://latino-webtv.ml/series/simpsons.mp4
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Gravity Falls 24/7 HD
 http://latino-webtv.ml/series/gravityfalls.mp4
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CANAL PELICULAS 24/7 VITATO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",PELICULAS 24/7 VITATO
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",SERIES 24/7 VITATO
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",WARNER
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX181IHjlPa5kXYvWoJ5VwlCKREFVE1IxDMuvtnxbkc693olmYKldgsysIcD1A0v%2Ftpyyb6X34l2zZA%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FOX
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2F3eojtqwLu14oblGO5e9WXgcE%2Bm2w6bCS0gQawKSjButLnzhSc219qOrSWrbKB1neYPLYIbKtCqg%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CINECANAL
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2Bpsdbe95u8XPJbVoBErofdWxVFlPP8IpC%2FKRf09s6b0YgkWCwB1JTjAmMe5Z1CR7CZq%2BCUYgrLAw%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",NICK
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2Fh2mL8L%2FIRiZ5%2BV59wi1wDvaRrQ9QWVrRd%2F2FLX1dCcOE%2Bk6eBQZO0RTLyB%2FgPsFRBciLyKldjNw%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",SPACE
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19W3OesQydp%2BoejF0aIP9KDry341kHbZpK5%2F6mLj%2FXBNmsRCYMIKqy4YllpbHUlnFqen1c4acJYjw%3D%3D
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf
 
