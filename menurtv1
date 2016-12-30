@@ -12,8 +12,6 @@ http://latino-webtv.ml/series/gravityfalls.mp4
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Panamericana
 rtmp://cdnp5.iblups.com/ptv/ app=ptv/ playpath=ptv swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315 live=1
@@ -300,81 +298,7 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",1 FOX Movies ok
-http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Movies ok
-http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Disney XD ok
-http://159.203.63.115:8081/rstm/DisneyXD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox Cinema ok
-http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT ok
-http://159.203.63.115:8081/rstm/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",U TDN ok
-http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",fox sport3 ok
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn ok
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Espn2 ok
-http://159.203.63.133:8081/rstm/Espn2/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Ritmoson Latino RTMS o
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb", Telehit Hd RTMS	ok
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Tnt RTM	ok
-http://159.203.63.115:8081/rstm/TNT/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Fox Cinema RTMS	ok
-http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Canal 4 Foro Tv	
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8	
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Telehit ok
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Ritmoson ok
-http://159.203.63.115:8081/rstm/Ritmoson/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex Canal de las Estrell…
-http://159.203.63.115:8081/rstm/Estrellas/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex GalaTV
-http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Mex oncetv
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Azteca Noticias	
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Xeipn Canal 11	
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="Latweb",Hbo Family RTMS	
-http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8	
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX Family nop
-http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",HBO Family
-http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport 
-http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Fox sport2
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Canal Once
-http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Fox Sport 3
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="RTSM",Espn
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",TNT HD
-http://139.59.185.252:8081/rstm/TNT_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",MLB NETWORK
-http://139.59.185.252:8081/rstm/MLB_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",FOX SPORTS 1 USA
-http://139.59.185.252:8081/rstm/FOX_SPORT1_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",NBC UNIVERSO HD
-http://139.59.185.252:8081/rstm/NBC_UNIVERSO_USA_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="RTSM",Exa tv
-http://159.203.34.7:8081/rstm/EXA/playlist.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 
