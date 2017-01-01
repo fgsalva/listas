@@ -28,8 +28,29 @@ http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2F1XS0y%2FYr72cUA770R
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Discovery
 http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2FNdnbi46n%2BHu7UDVrLm2lymgNN7KkWgIdEY2LZBA4%2B5MpLIRXRgcJSZtU3H5xuFI0%2Bx0Fc8DBR5g%3D%3D
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",La Red Chile
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.4.3/jwplayer.flash.swf
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Boomeran
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2FvGBSpibdptq%2FmKvtnKqGclCAeDJzMmP91JIEpkX7abDHIu2Xnir55nprnFP7jF0ngq6lD6GeBLg%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",NicKtoons
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX195LUxx7uhxIw0EsDvgRPT5ZWcNoyiZP5qr6L9qXIImaAWz1woI%2BVpzFJf81WMnf7yG4d8Msrg5kA%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Tooncast
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19fIhRYOsf6ojTkfADOF8SMoHKmTs7CByd3ME0SHAmoBl1RmYgEOS1099KpbU7dksaldgnQK6TTJQ%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Trutv
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2FM0xJjxzf6gz22rHiwbjfElyza5pcHuCRzOhDpsiuq8IuuX9Fr12GGo7PAATEVLJLEchb8qtEfWg%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Animal planet
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BIUuSf%2F3GgmQ8m2fazJ52crhE4sZyUSS%2BE8prZJ40v12R8TOY0ovunM6ge4zJ3FSCI%2BUQbcqot3g%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Id
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX19XKtA0QfMLILDrMOVRXAybBq%2BH%2BOSgeBU8PwO0%2FGo29Xs3hy3e25MN0kjRjCceHkq1rKjFdbRNuA%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Cinemax
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BoihJqTwzOGAEzRwEFhBk1yNeySavmB3SyJj%2BY9C32yVnVjf6hwZokjiUt9lZvu8yxV2J%2FZHYU%2FQ%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Tnt
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2B8NWztuH9YFmdRWxmG3nqXVXXuWil832PgQToVu0zvrrPJGdbMMaR2QsR77tNx1V4fb1gXeE0%2Fxg%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",axn
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BY28Io0gj1bfmSsaQSvgxe6FpvORRFSOh0PL%2F2OnW1DolxeduKf0neAVL%2FN2PZyNgWf3TQ3c219A%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Golden
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX1%2BnxR54YBfUkJry4hveGcbwxLvbfj9wYzurXXZpErje4%2BSyI6WQqiu30L4MbvjRTFubhdeVLqToaw%3D%3D
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Syfy
+http://stream.latino-webtv.com/index.m3u8?token=U2FsdGVkX18cjtocp1mY1lqs7jTCw6ADejSVx%2FFMnXa36Z1hEwziaoCXuNmdSTrKPE54An5do9e%2FpL4PgvN2rw%3D%3D
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Panamericana
 rtmp://cdnp5.iblups.com/ptv/ app=ptv/ playpath=ptv swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315 live=1
