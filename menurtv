@@ -58,14 +58,20 @@
  <thumbnail></thumbnail>
  </item>
 	  
-	   <item>
+<item>
  <title>[COLOR white][COLOR blue]• [/COLOR]Discovery [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
  <sportsdevil>http://www.sintelevisor.com/tv/discovery.html</sportsdevil>
  <referer>http://www.sintelevisor.com/tv/</referer>
  <thumbnail></thumbnail>
  </item>
 	  
-	  
+<item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]SPACE [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+ <sportsdevil>http://www.sintelevisor.com/tv/play/pelis.php</sportsdevil>
+ <referer>http://www.sintelevisor.com/tv/</referer>
+ <thumbnail></thumbnail>
+ </item>
+
 	  
 <item>	
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox SD juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
