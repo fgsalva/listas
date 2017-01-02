@@ -42,6 +42,30 @@
  <referer>http://tvpor-internet.com/</referer>
  <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
  </item>
+ 
+ 
+ <item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+ <sportsdevil>http://www.sintelevisor.com/tv/fox.html</sportsdevil>
+ <referer>http://www.sintelevisor.com/tv/</referer>
+ <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
+ </item>
+ 
+ <item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Hbo [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+ <sportsdevil>http://www.sintelevisor.com/tv/hbb.html</sportsdevil>
+ <referer>http://www.sintelevisor.com/tv/</referer>
+ <thumbnail></thumbnail>
+ </item>
+	  
+	   <item>
+ <title>[COLOR white][COLOR blue]• [/COLOR]Discovery [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+ <sportsdevil>http://www.sintelevisor.com/tv/discovery.html</sportsdevil>
+ <referer>http://www.sintelevisor.com/tv/</referer>
+ <thumbnail></thumbnail>
+ </item>
+	  
+	  
 	  
 <item>	
 <title>[COLOR white][COLOR blue]• [/COLOR]Fox SD juanja[COLOR lime] Espera 10 segundos a que cargue[/COLOR]</title>
@@ -64,6 +88,9 @@
 <page>http://tvpor-internet.com/fox-channel.html</page> 
 </regex>
 </item>	
+       
+       
+
        
 <item> 
 <title>[COLOR blue]• [/COLOR][COLOR=white][B]FOX 1 bay[/B][/COLOR][COLOR yellow] Espera 10 segundos a que cargue[/COLOR] </title>
