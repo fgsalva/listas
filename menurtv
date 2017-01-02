@@ -129,22 +129,9 @@
 
 	    
 	    
-	    
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]SyFy[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
- <item>
-            <title>[COLOR white][COLOR blue]• [/COLOR]AMC[COLOR red] [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
-            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
+
 			
-			
-<item>
+<nopitem>
 <title>[COLOR blue]• [/COLOR][COLOR=white]SPACE zony[/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -166,15 +153,35 @@
 </item>
 
 
+
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR]CineMax [COLOR red]  [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://vercanalestv.com/tv/argentina/cinemax.html</sportsdevil>
-<referer>http://vercanalestv.com/</referer>
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]SPACE[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/space-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
 </item>
-			
+
 <item>
-<title>[COLOR blue]• [/COLOR][COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=green]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]NATGEO[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://www.malosolandia.com/2012/07/natgeo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+<item>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]DISCOVERY[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/discovery-latino-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+
+<item>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]UFC[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/ufc-network-en-vivo.html</sportsdevil>
+<referer>http://tvpor-internet.com</referer>
+</item>
+
+
+<item>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]CINEMAX[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/Cinemax-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>
