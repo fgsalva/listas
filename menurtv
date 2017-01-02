@@ -46,21 +46,21 @@
  
  <item>
  <title>[COLOR white][COLOR blue]• [/COLOR]Fox [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
- <sportsdevil>http://www.sintelevisor.com/tv/fox.html</sportsdevil>
+ <sportsdevil>http://www.sintelevisor.com/tv/play/fox.php</sportsdevil>
  <referer>http://www.sintelevisor.com/tv/</referer>
  <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
  </item>
  
  <item>
  <title>[COLOR white][COLOR blue]• [/COLOR]Hbo [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
- <sportsdevil>http://www.sintelevisor.com/tv/hbb.html</sportsdevil>
+ <sportsdevil>http://www.sintelevisor.com/tv/play/hbo.php</sportsdevil>
  <referer>http://www.sintelevisor.com/tv/</referer>
  <thumbnail></thumbnail>
  </item>
 	  
 <item>
  <title>[COLOR white][COLOR blue]• [/COLOR]Discovery [COLOR red] SD [/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
- <sportsdevil>http://www.sintelevisor.com/tv/discovery.html</sportsdevil>
+ <sportsdevil>http://www.sintelevisor.com/tv/play/discovery.php</sportsdevil>
  <referer>http://www.sintelevisor.com/tv/</referer>
  <thumbnail></thumbnail>
  </item>
@@ -205,7 +205,6 @@
 <referer>http://tvpor-internet.com</referer>
 </item>
 
-
 <item>
 <title>[COLOR blue]• [/COLOR][COLOR=white][B]UFC[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
 <sportsdevil>http://tvpor-internet.com/ufc-network-en-vivo.html</sportsdevil>
@@ -213,11 +212,7 @@
 </item>
 
 
-<item>
-<title>[COLOR blue]• [/COLOR][COLOR=white][B]CINEMAX[/B][/COLOR][COLOR blue]Sportsdevil[/COLOR][COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
-<sportsdevil>http://tvpor-internet.com/Cinemax-en-vivo.html</sportsdevil>
-<referer>http://tvpor-internet.com</referer>
-</item>
+
 
 
 <item>
