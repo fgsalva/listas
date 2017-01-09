@@ -6,8 +6,6 @@
 
 
 
-
-
 <item>
             <title>[COLOR white][COLOR blue]• [/COLOR]HBO  [COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
             <sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
@@ -1643,10 +1641,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR blue]prueba coadeport...[/COLOR][COLOR blue]sdevil[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/deportes.xml</externallink>
+<title>[COLOR blue]*[/COLOR][COLOR yellow]*M3U[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv1b</externallink>
 </item>
 <item>
 <link>http://Ignoreme</link>
