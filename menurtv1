@@ -134,52 +134,12 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS" TATETI
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",Fox profile2
+http://stream.latino-webtv.com:8880/televall/CANAL251/PROFILE02.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif",Sony profile2
+http://stream.latino-webtv.com:8880/televall/CANAL252/PROFILE02.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
 
 
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif",Canal 2 HD
-http://stream.latino-webtv.com:8880/televall/CANAL102/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/foro-tv-hd.gif",Foro TV HD
-http://stream.latino-webtv.com:8880/televall/CANAL104/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-5-hd.gif",Canal 5 HD
-http://stream.latino-webtv.com:8880/televall/CANAL105/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif",Azteca 7 HD
-http://stream.latino-webtv.com:8880/televall/CANAL107/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif",Gala TV HD
-http://stream.latino-webtv.com:8880/televall/CANAL109/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Once TV" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/once-tv.gif",Once TV
-http://stream.latino-webtv.com:8880/televall/CANAL111/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="El trece HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-trece-hd.gif",El trece HD
-http://stream.latino-webtv.com:8880/televall/CANAL113/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Proyecto 40 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif",Proyecto 40 HD
-http://stream.latino-webtv.com:8880/televall/CANAL140/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif",TeleFórmula
-http://stream.latino-webtv.com:8880/televall/CANAL161/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/multimedios-monterrey.gif",Multimedios Monterrey
-http://stream.latino-webtv.com:8880/televall/CANAL167/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif",Fox HD
-http://stream.latino-webtv.com:8880/televall/CANAL201/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif",Sony HD
-http://stream.latino-webtv.com:8880/televall/CANAL203/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/warner-hd.gif",Warner HD
-http://stream.latino-webtv.com:8880/televall/CANAL205/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/universal-hd.gif",Universal HD
-http://stream.latino-webtv.com:8880/televall/CANAL207/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif",FX HD
-http://stream.latino-webtv.com:8880/televall/CANAL209/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae-hd.gif",A&E HD
-http://stream.latino-webtv.com:8880/televall/CANAL211/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/axn-hd.gif",AXN HD
-http://stream.latino-webtv.com:8880/televall/CANAL213/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv-hd.gif",TruTV HD
-http://stream.latino-webtv.com:8880/televall/CANAL215/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/comedy-central-hd.gif",Comedy Central HD
-http://stream.latino-webtv.com:8880/televall/CANAL217/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable-hd.gif",Unicable HD
-http://stream.latino-webtv.com:8880/televall/CANAL218/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Más chic" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/mas-chic.gif",Más chic
-http://stream.latino-webtv.com:8880/televall/CANAL221/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Az Corazón" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif",Az Corazón
-http://stream.latino-webtv.com:8880/televall/CANAL250/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
 #EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",Fox
 http://stream.latino-webtv.com:8880/televall/CANAL251/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
 #EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif",Sony
