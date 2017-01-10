@@ -13,6 +13,8 @@ http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",unimas
+http://iphone-streaming.ustream.tv/uhls/22737466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telemundo x7
 http://stream.ssh101.com:1935/live/anahix7/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Univision - Pacifico Ustream
@@ -20,8 +22,18 @@ http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TRT World (INGLES)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports
+http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports2
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESPN
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",EuroNews
@@ -35,8 +47,6 @@ http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",Cinematvplay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
-
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",NEGRO SportsHD 1 STREAM3 *Ferrerlist
 http://jjoo2016ch01-hlsfix.clarovideo.com/content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(03)/index.m3u8
 
@@ -104,6 +114,9 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", w.i.n s.port yt2 SD
@@ -118,7 +131,8 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS" TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
@@ -172,6 +186,9 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/index_2_av-p.m3u8
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Canal 3 HD
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",canal4 MX
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",Foro TV 
@@ -285,4 +302,24 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES DISCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES H2 USA
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES HUNTING CHANNEL
+http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES MUSIC
+http://fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES MODERN DANCE
+http://fluvod1.giniko.com/all-moderndance/all-moderndance/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES ANIMAL CHANNEL
+http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES :MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
