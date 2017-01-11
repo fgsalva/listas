@@ -46,15 +46,25 @@
 
 
 <item>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] AndresFutbol[/B][/COLOR]  [COLOR lightslategray]con Narraciones Sudamericanas  [/COLOR]</title>
+<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] AndresFutbol**[/B][/COLOR]  [COLOR lightslategray]con Narraciones Sudamericanas  [/COLOR]</title>
 <link>$doregex[get-decode]</link>
 <regex>
 <name>get-decode</name>
-<expres>file: "(.*?)",</expres>
+<expres>file:"(.*?)",</expres>
 <page>http://widestream.io/embed-67</page>
 </regex>
 <thumbnail></thumbnail>
 </item>	
+
+<item>
+<title>m3u wide</title>
+<link>http://cdn.widestream.io:8081/wideedge/cg0x0f2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE3IDE6NTU6MTQgQU0maGFzaF92YWx1ZT1rQWhBL3Rsa2FGc0hQUC9jNlpmR0ZBPT0mdmFsaWRtaW51dGVzPTIw</link>
+</item>	
+
+<item><title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]Biophobia01 [/COLOR][COLOR lightslategray][I] m3u8 [/I][/COLOR]</title>
+<link>http://cdn7.shurs.xyz:8081/live/biophobia/chunks.m3u8?nimblesessionid=925085&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE3IDE6MzM6MDkgQU0maGFzaF92YWx1ZT12dEtQbXpqd1hFajByOWUyeWcrTW93PT0mdmFsaWRtaW51dGVzPTEw</link>
+</item>
+
 
 <item>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR] vip beytv [COLOR lightslategray]  [/COLOR]  </title>
@@ -104,7 +114,7 @@
 </item>
 
 
-<item>
+<nopitem>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR] vaung [COLOR lightslategray] Bein ñ o UnivisionDeportes [/COLOR] </title>
 <link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_psn$doregex[get_channel]  swfUrl=http://vaughnlive.tv/psn$doregex[get_channel] pageUrl=http://vaughnlive.tv/psn$doregex[get_channel]  live=true</link>
 <regex>
@@ -152,6 +162,59 @@
 </item>
 <thumbnail></thumbnail></item>
 
+*****
+<item>
+<title>[B][COLOR yellow]Multicanal[/COLOR][COLOR lightblue] PSN[/B][/COLOR]  [COLOR lightslategray] Bein ñ o UnivisionDeportes [/COLOR] </title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_psn$doregex[get_channel]  swfUrl=http://vaughnlive.tv/psn$doregex[get_channel] pageUrl=http://vaughnlive.tv/psn$doregex[get_channel]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/soon_depricated_Q2_2017-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon_depricated_Q2_2017-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon_depricated_Q2_2017-live_psn$doregex[get_channel]?0.1.1.765_551-551-0.3609892260283232</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_channel</name>
+<expres>a href="/psn(.*?)"[\w\W\s]{0,22}browseTxt</expres>    
+<page>http://vaughnlive.tv/browse/espanol</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
 
 <item>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Zonasport01[/B][/COLOR]  [COLOR lightslategray]247bay• La Liga • EPL [/COLOR] </title>
@@ -168,6 +231,93 @@
 			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 			<referer>http://www.247bay.tv</referer>
 			</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR yellow]Multicanal[/COLOR][COLOR lightblue] VIP02[/B][/COLOR]  [COLOR gray]    [/COLOR] [COLOR lightslategray] bein ñ [/COLOR] </title>
+<link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
+
+<regex>
+<name>ip</name>
+<expres>edgeserverip = '(.*?)';</expres>
+<page>http://castfree.me/embed.php?a=218&amp;id=218&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+
+<regex>
+<name>name</name>
+<expres>var name     = '(.*?)';</expres>
+<page>http://castfree.me/embed.php?a=218&amp;id=218&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+
+<regex>
+<name>token</name>
+<expres>token=(.*?)";</expres>
+<page>http://castfree.me/embed.php?a=218&amp;id=218&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+<thumbnail></thumbnail></item>
+
+
+<item>
+<title>[B][COLOR yellow]Multicanal[/COLOR][COLOR lightblue] VIP03[/B][/COLOR]  [COLOR gray]  La Liga  [/COLOR] [COLOR lightslategray] bein ñ [/COLOR] </title>
+<link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
+
+<regex>
+<name>ip</name>
+<expres>edgeserverip = '(.*?)';</expres>
+<page>http://castfree.me/embed.php?a=96&amp;id=96&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+
+<regex>
+<name>name</name>
+<expres>var name     = '(.*?)';</expres>
+<page>http://castfree.me/embed.php?a=96&amp;id=96&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+
+<regex>
+<name>token</name>
+<expres>token=(.*?)";</expres>
+<page>http://castfree.me/embed.php?a=96&amp;id=96&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
+<referer>http://vipracing.tv</referer>
+</regex>
+<thumbnail></thumbnail></item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]tiki01 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal1.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item><title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]tiki02 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal2.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]Biophobia02 [/COLOR][COLOR lightslategray][I] sata [/I][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://biophobia.tv/multis/sata.php</page>
+</regex>
 <thumbnail></thumbnail>
 </item>
 
