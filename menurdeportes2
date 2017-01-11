@@ -56,14 +56,6 @@
 <thumbnail></thumbnail>
 </item>	
 
-<item>
-<title>m3u wide</title>
-<link>http://cdn.widestream.io:8081/wideedge/cg0x0f2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE3IDE6NTU6MTQgQU0maGFzaF92YWx1ZT1rQWhBL3Rsa2FGc0hQUC9jNlpmR0ZBPT0mdmFsaWRtaW51dGVzPTIw</link>
-</item>	
-
-<item><title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]Biophobia01 [/COLOR][COLOR lightslategray][I] m3u8 [/I][/COLOR]</title>
-<link>http://cdn7.shurs.xyz:8081/live/biophobia/chunks.m3u8?nimblesessionid=925085&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE3IDE6MzM6MDkgQU0maGFzaF92YWx1ZT12dEtQbXpqd1hFajByOWUyeWcrTW93PT0mdmFsaWRtaW51dGVzPTEw</link>
-</item>
 
 
 <item>
@@ -216,7 +208,7 @@
 
 
 
-<item>
+<nopitem>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Zonasport01[/B][/COLOR]  [COLOR lightslategray]247bay• La Liga • EPL [/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
