@@ -335,7 +335,8 @@
             <referer>http://freehdsport.com/bein-sports-la-liga-live-stream.html</referer>
             <thumbnail></thumbnail>
 </item>
-<item>
+
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN Ñ rivo 106139[COLOR yellow] zombietv[/COLOR]</title>
             <sportsdevil>http://www.zombietv.pw/channel.php?file=106139&width=665&height=420&autostart=true</sportsdevil>
             <referer>http://rivx8.me.la/rivo3.html</referer>
@@ -393,7 +394,57 @@
             <referer>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Deportes1 114 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Deportes2 115 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
 
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Formula1 116 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Moto GP 117 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Eurosport 120 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+<item>
+ 	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Eurosport2 121 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=121&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=121&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+
+<item>
+ 	<title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN 1HD 122 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
+<item>
+ 	<title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN 2HD 123 [COLOR lime][/COLOR]</title>
+            <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</sportsdevil>
+            <referer>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</referer>
+            <thumbnail></thumbnail>
+</item> 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN CONECT 119 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
