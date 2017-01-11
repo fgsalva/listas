@@ -491,5 +491,5 @@ http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",mega animes
-rtmp://198.255.17.66:1935/live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq app=live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq playpath=live_mega_animes  swfUrl=http://vaughnlive.tv/4451818440/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_animes  live=true 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",mega animes*
+rtmp://198.255.17.66:1935/live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq app=live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq playpath=live_mega_animes  swfUrl=http://vaughnlive.tv/4451818440/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_animes  live=true keep-alive Mozilla/5.0 Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
