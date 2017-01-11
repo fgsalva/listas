@@ -84,7 +84,17 @@
  <thumbnail></thumbnail>
  </item>
 
+<item>
+<title>azteca 7 sonytv</title>
+<sportsdevil>http://tv-envivo.net/azteca-7-en-vivo-por-internet.html</sportsdevil>
+<referer>http://tv-envivo.net/azteca-7-en-vivo-por-internet.html</referer>
+</item>
 
+<item>
+<title>Canal 5 mx sonytv </title>
+<sportsdevil>http://tv-envivo.net/canal-5-en-vivo-por-internet.html</sportsdevil>
+<referer>http://tv-envivo.net/canal-5-en-vivo-por-internet.html</referer>
+</item>
 
 	  
 <item>	
@@ -363,6 +373,12 @@
 <sportsdevil>http://www.television-envivo.com/nickelodeon-en-vivo.html</sportsdevil>
 <referer>http://www.television-envivo.com</referer>
 </item>
+
+<item>
+<title>Nickelodeon sintelevisor</title>
+<sportsdevil>http://www.sintelevisor.com/tv/canal/nickelodeon.php</sportsdevil>
+<referer>http://www.sintelevisor.com/tv/canal/nickelodeon.php</referer>
+</item>
 			
 				
 <item>
@@ -596,6 +612,13 @@
 <sportsdevil>http://tvpor-internet.com/directv-sports-en-vivo.html</sportsdevil>
 <referer>http://tvpor-internet.com</referer>
 </item>
+
+<item>
+<title>Directv sonytv</title>
+<sportsdevil>http://tv-envivo.net/directv-en-vivo-por-internet.html</sportsdevil>
+<referer>http://tv-envivo.net/directv-en-vivo-por-internet.html</referer>
+</item>
+
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]U.f.c Network(opcion2)[COLOR lime]Espera 10 segundos a que cargue[/COLOR]</title>
