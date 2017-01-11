@@ -716,25 +716,6 @@ nopitem>
 </item>
 
 
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]verplus[/B] [/COLOR][COLOR lightblue][I]mod ferrer ultimi[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<sportsdevil>[makelist.param1]</sportsdevil>
-<referer>http://verplusonline.com/</referer>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,11}title="(.*?)"><img src="(.*?)" width ="</expres>
-<page>http://verplusonline.com/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
 
 
 <item>
