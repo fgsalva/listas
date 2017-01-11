@@ -45,7 +45,7 @@
 </item>
 
 
-<item>
+<nopitem>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] AndresFutbol**[/B][/COLOR]  [COLOR lightslategray]con Narraciones Sudamericanas  [/COLOR]</title>
 <link>$doregex[get-decode]</link>
 <regex>
@@ -58,7 +58,7 @@
 
 
 
-<item>
+<nopitem>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR] vip beytv [COLOR lightslategray]  [/COLOR]  </title>
 <link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
 
@@ -83,7 +83,7 @@
 <referer>http://vipracing.info</referer>
 </regex>
 
-<item>
+<nopitem>
 <title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Bein ñ[/B][/COLOR] vip [COLOR lightslategray] [/COLOR] </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
