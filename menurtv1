@@ -550,9 +550,9 @@ https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%28
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba chunk
-http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0&amp;Accept-text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&amp;Accept-Language=es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3&amp;Accept=Encoding-gzip, deflate&amp;Referer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&ampCookie-__cfduid=de0ebaf2d824846c4ac4a7931e5d01d1f1480016114&amp;DNT=1&amp;Connection=keep-alive
+http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 Referer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf Connection=keep-alive
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba playlist kds
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0&amp;Accept-text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&amp;Accept-Language=es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3&amp;Accept=Encoding-gzip, deflate&amp;Referer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&ampCookie-__cfduid=de0ebaf2d824846c4ac4a7931e5d01d1f1480016114&amp;DNT=1&amp;Connection=keep-alive
+http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.2; rv:50.0) Gecko/20100101 Firefox/50.0 Referer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf Connection=keep-alive
 
 
 
