@@ -196,172 +196,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",Fox
-http://stream.latino-webtv.com:8880/televall/CANAL251/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/sony.gif",Sony
-http://stream.latino-webtv.com:8880/televall/CANAL252/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif",BBC Entertainment
-http://stream.latino-webtv.com:8880/televall/CANAL253/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif",E! Entertainment Television
-http://stream.latino-webtv.com:8880/televall/CANAL255/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif",Universal Channel
-http://stream.latino-webtv.com:8880/televall/CANAL256/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="SyFy" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/syfy.gif",SyFy
-http://stream.latino-webtv.com:8880/televall/CANAL257/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx.gif",FX
-http://stream.latino-webtv.com:8880/televall/CANAL258/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif",Investigación Discovery
-http://stream.latino-webtv.com:8880/televall/CANAL263/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif",TNT Series
-http://stream.latino-webtv.com:8880/televall/CANAL266/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/el-gourmet.gif",El Gourmet
-http://stream.latino-webtv.com:8880/televall/CANAL268/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Glitz" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/glitz.gif",Glitz
-http://stream.latino-webtv.com:8880/televall/CANAL270/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif",Fox Life
-http://stream.latino-webtv.com:8880/televall/CANAL271/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/distrito-comedia.gif",Distrito Comedia
-http://stream.latino-webtv.com:8880/televall/CANAL272/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/comediy-central.gif",Comedy Central
-http://stream.latino-webtv.com:8880/televall/CANAL217/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif",TBS
-http://stream.latino-webtv.com:8880/televall/CANAL273/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif",Tlnovelas
-http://stream.latino-webtv.com:8880/televall/CANAL275/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif",Az Mundo
-http://stream.latino-webtv.com:8880/televall/CANAL276/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif",Discovery Kids
-http://stream.latino-webtv.com:8880/televall/CANAL303/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="CBeebies" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif",CBeebies
-http://stream.latino-webtv.com:8880/televall/CANAL305/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/disney-jr.gif",Disney Jr
-http://stream.latino-webtv.com:8880/televall/CANAL308/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/nick-jr.gif",Nick Jr
-http://stream.latino-webtv.com:8880/televall/CANAL310/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/disney-channel.gif",Disney Channel
-http://stream.latino-webtv.com:8880/televall/CANAL312/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nicktoons.gif",Nicktoons
-http://stream.latino-webtv.com:8880/televall/CANAL314/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nick-hd.gif",Nick HD
-http://stream.latino-webtv.com:8880/televall/CANAL315/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nickelodeon-nick.gif",Nickelodeon (Nick)
-http://stream.latino-webtv.com:8880/televall/CANAL317/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/cartoon-network.gif",Cartoon Network
-http://stream.latino-webtv.com:8880/televall/CANAL320/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/disney-xd.gif",Disney XD
-http://stream.latino-webtv.com:8880/televall/CANAL322/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/boomerang.gif",Boomerang
-http://stream.latino-webtv.com:8880/televall/CANAL324/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tiin.gif",TIIN
-http://stream.latino-webtv.com:8880/televall/CANAL325/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif",Tooncast
-http://stream.latino-webtv.com:8880/televall/CANAL328/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif",Discovery Theater HD
-http://stream.latino-webtv.com:8880/televall/CANAL351/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="History HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/history-hd.gif",History HD
-http://stream.latino-webtv.com:8880/televall/CANAL353/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/natgeo-wild-hd.gif",NatGeo Wild HD
-http://stream.latino-webtv.com:8880/televall/CANAL355/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif",Discovery World HD
-http://stream.latino-webtv.com:8880/televall/CANAL356/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-channel.gif",Discovery Channel
-http://stream.latino-webtv.com:8880/televall/CANAL371/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/animal-planet.gif",Animal Planet
-http://stream.latino-webtv.com:8880/televall/CANAL373/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/home-and-health.gif",Home and Health
-http://stream.latino-webtv.com:8880/televall/CANAL374/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif",NatGeo
-http://stream.latino-webtv.com:8880/televall/CANAL377/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/lifetime.gif",Lifetime
-http://stream.latino-webtv.com:8880/televall/CANAL379/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-science.gif",Discovery Science
-http://stream.latino-webtv.com:8880/televall/CANAL381/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-civilization.gif",Discovery Civilization
-http://stream.latino-webtv.com:8880/televall/CANAL382/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-turbo.gif",Discovery Turbo
-http://stream.latino-webtv.com:8880/televall/CANAL383/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif",TLC
-http://stream.latino-webtv.com:8880/televall/CANAL386/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-1-hd.gif",Fox 1 HD
-http://stream.latino-webtv.com:8880/televall/CANAL415/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-action-hd.gif",Fox Action HD
-http://stream.latino-webtv.com:8880/televall/CANAL416/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif",Fox Movies HD
-http://stream.latino-webtv.com:8880/televall/CANAL417/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif",Fox Cinéma
-http://stream.latino-webtv.com:8880/televall/CANAL421/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif",Fox Classics
-http://stream.latino-webtv.com:8880/televall/CANAL424/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif",Cinecanal HD
-http://stream.latino-webtv.com:8880/televall/CANAL430/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Golden HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-hd.gif",Golden HD
-http://stream.latino-webtv.com:8880/televall/CANAL436/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-hd.gif",TNT HD
-http://stream.latino-webtv.com:8880/televall/CANAL436/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="The Film Zone HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/the-film-zone-hd.gif",The Film Zone HD
-http://stream.latino-webtv.com:8880/televall/CANAL440/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="De Película HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/de-pelicula-hd.gif",De Película HD
-http://stream.latino-webtv.com:8880/televall/CANAL442/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/amc-hd.gif",AMC HD
-http://stream.latino-webtv.com:8880/televall/CANAL444/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/space-hd.gif",Space HD
-http://stream.latino-webtv.com:8880/televall/CANAL445/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-w.gif",Cinemax (W)
-http://stream.latino-webtv.com:8880/televall/CANAL481/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt.gif",TNT
-http://stream.latino-webtv.com:8880/televall/CANAL482/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif",Golden Edge
-http://stream.latino-webtv.com:8880/televall/CANAL484/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="De Película" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/de-pelicula.gif",De Película
-http://stream.latino-webtv.com:8880/televall/CANAL489/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/amc.gif",AMC
-http://stream.latino-webtv.com:8880/televall/CANAL490/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/space.gif",Space
-http://stream.latino-webtv.com:8880/televall/CANAL491/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif",Studio Universal
-http://stream.latino-webtv.com:8880/televall/CANAL492/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/i.sat.gif",I.Sat
-http://stream.latino-webtv.com:8880/televall/CANAL495/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif",TCM
-http://stream.latino-webtv.com:8880/televall/CANAL496/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/espn-.gif",ESPN +
-http://stream.latino-webtv.com:8880/televall/CANAL516/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3.gif",ESPN 3
-http://stream.latino-webtv.com:8880/televall/CANAL520/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-hd.gif",Fox Sports HD
-http://stream.latino-webtv.com:8880/televall/CANAL522/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-2-hd.gif",Fox Sports 2 HD
-http://stream.latino-webtv.com:8880/televall/CANAL527/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Formula 1" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-2-hd.gif",Formula 1
-http://stream.latino-webtv.com:8880/televall/CANAL511/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn.gif",ESPN
-http://stream.latino-webtv.com:8880/televall/CANAL558/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-2.gif",ESPN 2
-http://stream.latino-webtv.com:8880/televall/CANAL561/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif",Fox Sports
-http://stream.latino-webtv.com:8880/televall/CANAL563/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/aym-sports.gif",AyM Sports
-http://stream.latino-webtv.com:8880/televall/CANAL576/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TVE" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tve.gif",TVE
-http://stream.latino-webtv.com:8880/televall/CANAL651/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/mtv-live-hd.gif",MTV Live HD
-http://stream.latino-webtv.com:8880/televall/CANAL701/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Telehit HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/telehit-hd.gif",Telehit HD
-http://stream.latino-webtv.com:8880/televall/CANAL702/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/vh1-hd.gif",VH1 HD
-http://stream.latino-webtv.com:8880/televall/CANAL703/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif",Az Clic
-http://stream.latino-webtv.com:8880/televall/CANAL725/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/mtv.gif",MTV
-http://stream.latino-webtv.com:8880/televall/CANAL726/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ritmoson-latino.gif",Ritmoson Latino
-http://stream.latino-webtv.com:8880/televall/CANAL731/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
 rtmp://198.24.135.42:80/canal10/canal10
@@ -586,27 +420,6 @@ https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT VOETBAL
-http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT GOLF
-http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",FOX SPORTS EDL3
-http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 1 SERBIA
-http://1.442244.info/ser_arena_sport_1/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 2 SERBIA
-http://1.442244.info/ser_arena_sport_2/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 3 SERBIA
-http://1.442244.info/ser_arena_sport_3/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 2
-http://1.442244.info/cro_sport_klub_2/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 3
-http://1.442244.info/cro_sport_klub_3/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 1 HD
-http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 2 HD
-http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 1 ser
 http://1.442244.info/ser_arena_sport_1/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 2 ser
@@ -667,10 +480,13 @@ http://1.442244.info/tur_a_spor/index.m3u8
 http://1.442244.info/tur_ntv_spor/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",TRT SPOR
 http://1.442244.info/tur_trt_spor/index.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 1 HD
 http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 2 HD
 http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
+
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",DIEMA SPORT
 http://1.442244.info/bg_diema_sport/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",DIEMA SPORT 2
@@ -699,6 +515,7 @@ http://1.442244.info/sp_bein_laliga/index.m3u8
 http://1.442244.info/sp_real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",M GOLF
 http://1.442244.info/sp_m_golf/index.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT VOETBAL
 http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT GOLF
@@ -706,9 +523,6 @@ http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",FOX SPORTS EDL3
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
 https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
-https://openload.co/embed/x38sqHjj3KM/
