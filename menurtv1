@@ -585,121 +585,446 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 
 
-#EXTINF:-1,ZIGGO SPORT VOETBAL
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT VOETBAL
 http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT GOLF
 http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
-#EXTINF:-1,FOX SPORTS EDL3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",FOX SPORTS EDL3
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
-#EXTINF:-1,ARENA SPORT 1 SERBIA
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 1 SERBIA
 http://1.442244.info/ser_arena_sport_1/index.m3u8
-#EXTINF:-1,ARENA SPORT 2 SERBIA
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 2 SERBIA
 http://1.442244.info/ser_arena_sport_2/index.m3u8
-#EXTINF:-1,ARENA SPORT 3 SERBIA
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 3 SERBIA
 http://1.442244.info/ser_arena_sport_3/index.m3u8
-#EXTINF:-1,SPORT KLUB 2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 2
 http://1.442244.info/cro_sport_klub_2/index.m3u8
-#EXTINF:-1,SPORT KLUB 3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 3
 http://1.442244.info/cro_sport_klub_3/index.m3u8
-#EXTINF:-1,MTV SPORT 1 HD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 1 HD
 http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
-#EXTINF:-1,MTV SPORT 2 HD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 2 HD
 http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
-#EXTINF:-1,ARENA SPORT 1 ser
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 1 ser
 http://1.442244.info/ser_arena_sport_1/index.m3u8
-#EXTINF:-1,ARENA SPORT 2 ser
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 2 ser
 http://1.442244.info/ser_arena_sport_2/index.m3u8
-#EXTINF:-1,ARENA SPORT 3 ser
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 3 ser
 http://1.442244.info/ser_arena_sport_3/index.m3u8
-#EXTINF:-1,ARENA SPORT 4 ser
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 4 ser
 http://1.442244.info/ser_arena_sport_4/index.m3u8
-#EXTINF:-1,ARENA SPORT 5 ser
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 5 ser
 http://1.442244.info/ser_arena_sport_5/index.m3u8
-#EXTINF:-1,ARENA SPORT 1 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 1 cro
 http://1.442244.info/cro_arena_sport_1/index.m3u8
-#EXTINF:-1,ARENA SPORT 2 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 2 cro
 http://1.442244.info/cro_arena_sport_2/index.m3u8
-#EXTINF:-1,ARENA SPORT 3 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 3 cro
 http://1.442244.info/cro_arena_sport_3/index.m3u8
-#EXTINF:-1,ARENA SPORT 4 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 4 cro
 http://1.442244.info/cro_arena_sport_4/index.m3u8
-#EXTINF:-1,ARENA SPORT 5 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ARENA SPORT 5 cro
 http://1.442244.info/cro_arena_sport_5/index.m3u8
-#EXTINF:-1,SPORT KLUB start
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB start
 http://1.442244.info/cro_sport_klub_start/index.m3u8
-#EXTINF:-1,SPORT KLUB 1 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 1 cro
 http://1.442244.info/cro_sport_klub_1/index.m3u8
-#EXTINF:-1,SPORT KLUB 2 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 2 cro
 http://1.442244.info/cro_sport_klub_2/index.m3u8
-#EXTINF:-1,SPORT KLUB 3 cro
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT KLUB 3 cro
 http://1.442244.info/cro_sport_klub_3/index.m3u8
-#EXTINF:-1,SKY SPORTS 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 1
 http://1.442244.info/uk_sky_sports_1/index.m3u8
-#EXTINF:-1,SKY SPORTS 2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 2
 http://1.442244.info/uk_sky_sports_2/index.m3u8
-#EXTINF:-1,SKY SPORTS 3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 3
 http://1.442244.info/uk_sky_sports_3/index.m3u8
-#EXTINF:-1,SKY SPORTS 4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 4
 http://1.442244.info/uk_sky_sports_4/index.m3u8
-#EXTINF:-1,SKY SPORTS 5
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 5
 http://1.442244.info/uk_sky_sports_5/index.m3u8
-#EXTINF:-1,SKY SPORTS F1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS F1
 http://1.442244.info/uk_sky_sports_f1/index.m3u8
-#EXTINF:-1,PREMIER SPORTS 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",PREMIER SPORTS 
 http://1.442244.info/uk_premier_sport/index.m3u
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ESPN
 http://1.442244.info/uk_espn/index.m3u8
-#EXTINF:-1,SKY SPORTS 1 DE 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 1 DE 
 http://1.442244.info/de_sky_sport_1/index.m3u8
-#EXTINF:-1,SKY SPORTS 2 DE 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 2 DE 
 http://1.442244.info/de_sky_sport_2/index.m3u8
-#EXTINF:-1,SKY Bundesliga 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY Bundesliga 1
 http://1.442244.info/de_sky_bundesliga_1/index.m3u8
-#EXTINF:-1,RAI SPORT 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RAI SPORT 1
 http://1.442244.info/it_rai_sport_1/index.m3u8
-#EXTINF:-1,RAI SPORT 2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RAI SPORT 2
 http://1.442244.info/it_rai_sport_2/index.m3u8
-#EXTINF:-1,A SPOR
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",A SPOR
 http://1.442244.info/tur_a_spor/index.m3u8
-#EXTINF:-1,NTV SPOR
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",NTV SPOR
 http://1.442244.info/tur_ntv_spor/index.m3u8
-#EXTINF:-1,TRT SPOR
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",TRT SPOR
 http://1.442244.info/tur_trt_spor/index.m3u8
-#EXTINF:-1,MTV SPORT 1 HD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 1 HD
 http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
-#EXTINF:-1,MTV SPORT 2 HD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",MTV SPORT 2 HD
 http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
-#EXTINF:-1,DIEMA SPORT
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",DIEMA SPORT
 http://1.442244.info/bg_diema_sport/index.m3u8
-#EXTINF:-1,DIEMA SPORT 2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",DIEMA SPORT 2
 http://1.442244.info/bg_diema_sport_2/index.m3u8
-#EXTINF:-1,NOVA SPORT
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",NOVA SPORT
 http://1.442244.info/bg_nova_sport/index.m3u8
-#EXTINF:-1,SPORT PLUS
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SPORT PLUS
 http://1.442244.info/bg_sport_plus_hd/index.m3u8
-#EXTINF:-1,EUROSPORT BG
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",EUROSPORT BG
 http://1.442244.info/bg_eurosport/index.m3u8
-#EXTINF:-1,EUROSPORT 2 BG
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",EUROSPORT 2 BG
 http://1.442244.info/bg_eurosport_2/index.m3u8
-#EXTINF:-1,LA 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",LA 1
 http://1.442244.info/sp_la_1/index.m3u8
-#EXTINF:-1,LA 2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",LA 2
 http://1.442244.info/sp_la_2/index.m3u8
-#EXTINF:-1,M FOTBOL
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",M FOTBOL
 http://1.442244.info/sp_m_fotbol/index.m3u8
-#EXTINF:-1,M DEPORTES 1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",M DEPORTES 1
 http://1.442244.info/sp_m_dep_1/index.m3u8
-#EXTINF:-1,BEIN LA LIGA BAR
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",BEIN LA LIGA BAR
 http://1.442244.info/sp_laligatv_bar/index.m3u8
-#EXTINF:-1,BEIN LA LIGA
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",BEIN LA LIGA
 http://1.442244.info/sp_bein_laliga/index.m3u8
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",REAL MADRID TV
 http://1.442244.info/sp_real_madrid_tv/index.m3u8
-#EXTINF:-1,M GOLF
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",M GOLF
 http://1.442244.info/sp_m_golf/index.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT VOETBAL
 http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",ZIGGO SPORT GOLF
 http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
-#EXTINF:-1,FOX SPORTS EDL3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",FOX SPORTS EDL3
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/3.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/4.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 5
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/5.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports F1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/6.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/7.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports Mix
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2074.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ESPN
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/8.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/9.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/10.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport Europe
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/11.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT SPORT 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/119.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: British Eurosport
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/12.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: British Eurosport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/13.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Premier Sports
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/14.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Racing UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/15.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Setanta Ireland
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/16.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Chelsea
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/17.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MUTV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/18.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BoxNation
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/19.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Liverpool
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/20.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: RealMadrid
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/21.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/22.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/23.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/24.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/25.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports 5 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/26.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports News HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/27.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Sports F1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/28.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/29.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/30.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BT Sport europe HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/31.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Eurosport 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1926.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Eurosport 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1913.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: FIGHTBOX HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1941.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: At The Races UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/32.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Motor TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/86.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Select
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/33.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Scifi and horror
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/34.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Premiere +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/35.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Premiere
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/36.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky ShowCase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/37.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Greats
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/38.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Family
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/39.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/40.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Action
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/41.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Thriller
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/42.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Comedy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/43.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Atlantic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/44.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Atlantic +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/123.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Movies ShowCase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/100.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/45.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky One HD +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1942.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Two HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/46.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Arts +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/47.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: TCM
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/58.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Challenge
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1924.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Horror Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/122.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: True Movies
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/55.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: True Movies 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/56.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sony Movie Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1937.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sony Movie Channel +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1944.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sony Movie +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2071.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MOVIES24
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1909.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Comedy Central
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/54.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Comedy Central Extra
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1917.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: RTEjr
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1903.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: RTE 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/72.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: RTE 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/73.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Universal
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1889.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: History +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/124.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Film 4 UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/52.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Movies 4 Men
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/87.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Fox
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/90.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Dmax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/79.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: E!
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1900.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: SyFy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/51.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Syfy +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/121.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Dave
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/53.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Spike
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1902.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1899.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Tru TV UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1927.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: CBS Action
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1896.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: CBS Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1895.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: CBS Reality
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1894.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Tiny Pop
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/120.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Utv
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1932.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: UTV Ireland
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1901.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Flava
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2072.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BET
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1951.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC Entertainment
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1893.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/59.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/60.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/61.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/62.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: BBC News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/63.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV Encore
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/64.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV BE
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/65.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/66.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV One SD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/67.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/68.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/69.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/70.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: ITV 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/71.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Yesterday
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/57.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: More4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/75.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Living
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/76.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Living +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1943.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: REAL Lives
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1907.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Alibi
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/84.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Comedy Central +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1934.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: TV3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/48.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Home
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/77.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Gold
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/78.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Channel5
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/80.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Channel 5 USA
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/81.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Channel 5Star
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/82.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Channel4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/83.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Pick TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/85.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: 3E
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1888.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: TV3 IE
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1887.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: E4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/88.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Watch
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/49.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Vintage TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1949.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Quest
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1898.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Five
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1897.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: The Box
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1948.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: CITV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1933.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Lifetime
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1925.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: iConcerts HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1947.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Nautical HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1945.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: REALLY
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1908.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: The Vault
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1906.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Eden
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1905.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Magic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1910.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Cartoon Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/89.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Cartoon Network +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2073.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Nicktoons
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/91.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Nickelodeon Jr
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/92.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Nickelodeon
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/93.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Baby Tv
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/94.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Boomerang
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/95.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: NickJr Too
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1916.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Sky Disney
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/96.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Disney Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/97.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Disney Channel +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/125.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: DISNEY JUNIOR
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/98.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Disney Junior +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/127.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Disney XD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/99.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Disney XD +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/126.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Viva
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1928.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: Vh1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/115.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/116.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV Music
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/117.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV Hits
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/118.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV Live HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1923.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1922.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="UK",UK: MTV Base
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1921.ts
