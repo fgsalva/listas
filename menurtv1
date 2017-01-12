@@ -44,8 +44,6 @@ http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8
 http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports3
 http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESPN
-http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
@@ -146,8 +144,18 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS" TATETI
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", TATETI
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",canal 102
+http://stream.latino-webtv.com:8880/televall/CANAL102/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",canal 103
+http://stream.latino-webtv.com:8880/televall/CANAL103/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",canal 105
+http://stream.latino-webtv.com:8880/televall/CANAL105/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",canal 107
+http://stream.latino-webtv.com:8880/televall/CANAL107/PROFILE03.m3u8|User-Agent=iPad&Referer=http://tv.televalltv.net/jwplayer.flash.swf
 
 
 #EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif",Fox
@@ -504,5 +512,3 @@ http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",mega animes*
-rtmp://198.255.17.66:1935/live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq app=live?AnaQybRAOcr0TdHq7KWRbZo8Y7mIlQRq playpath=live_mega_animes  swfUrl=http://vaughnlive.tv/4451818440/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_animes  live=true keep-alive Mozilla/5.0 Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
