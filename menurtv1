@@ -45,8 +45,6 @@ http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports3
 http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 
-
-
 #EXTINF:0 group-title="Canales Deportivos", tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/BeIN_SPORTS_logo.png",Bein Sports 
 http://1.442244.info/sp_bein_laliga/index.m3u8
 #EXTINF:0 group-title="Canales Deportivos", tvg-logo="https://www.ono.es/resources/images/imagen_bein_liga.png",Bein Sports La Liga
@@ -68,8 +66,11 @@ http://1.442244.info/uk_sky_sports_4/index.m3u8
 http://1.442244.info/uk_sky_sports_f1/index.m3u8
 #EXTINF:0 group-title="Canales Deportivos",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Premier_Sports_logo.png/200px-Premier_Sports_logo.png",PREMIER SPORT
 http://1.442244.info/uk_premier_sport/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos",tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png", Pac 12 Washington
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:0 group-title="Canales Deportivos",tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%204.png",SKY Bundesliga 1
+http://1.442244.info/de_sky_bundesliga_1/index.m3u8
+#EXTINF:0 group-title="Canales Deportivos", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/espn.png",ESPN Uk
+http://1.442244.info/uk_espn/index.m3u8
+
 
 #EXTINF:0 group-title="Canales Deportivos", tvg-logo="http://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_4628.png",Fox Sports 3
 http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
@@ -158,12 +159,20 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&a
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO nop
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA 1
+http://1.442244.info/sp_la_1/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA 2
+http://1.442244.info/sp_la_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200a
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",REAL MADRID TV
+http://1.442244.info/sp_real_madrid_tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC 300
@@ -568,7 +577,6 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
 #EXTINF:0 group-title="Canales Deportivos", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/eusports.png", EuroSports
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-
 #EXTINF:0 group-title="Canales Infantiles" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png",Tateti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
@@ -576,3 +584,123 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 #EXTINF:0 group-title="Noticias", tvg-logo="http://abdavega.playlatinohd.com/logos/noticias/milenio.png",  Milenio TV
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
+
+
+#EXTINF:-1,ZIGGO SPORT VOETBAL
+http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
+#EXTINF:-1,FOX SPORTS EDL3
+http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 SERBIA
+http://1.442244.info/ser_arena_sport_1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SERBIA
+http://1.442244.info/ser_arena_sport_2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SERBIA
+http://1.442244.info/ser_arena_sport_3/index.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://1.442244.info/cro_sport_klub_2/index.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://1.442244.info/cro_sport_klub_3/index.m3u8
+#EXTINF:-1,MTV SPORT 1 HD
+http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
+#EXTINF:-1,MTV SPORT 2 HD
+http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 ser
+http://1.442244.info/ser_arena_sport_1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 ser
+http://1.442244.info/ser_arena_sport_2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 ser
+http://1.442244.info/ser_arena_sport_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 ser
+http://1.442244.info/ser_arena_sport_4/index.m3u8
+#EXTINF:-1,ARENA SPORT 5 ser
+http://1.442244.info/ser_arena_sport_5/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 cro
+http://1.442244.info/cro_arena_sport_1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 cro
+http://1.442244.info/cro_arena_sport_2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 cro
+http://1.442244.info/cro_arena_sport_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 cro
+http://1.442244.info/cro_arena_sport_4/index.m3u8
+#EXTINF:-1,ARENA SPORT 5 cro
+http://1.442244.info/cro_arena_sport_5/index.m3u8
+#EXTINF:-1,SPORT KLUB start
+http://1.442244.info/cro_sport_klub_start/index.m3u8
+#EXTINF:-1,SPORT KLUB 1 cro
+http://1.442244.info/cro_sport_klub_1/index.m3u8
+#EXTINF:-1,SPORT KLUB 2 cro
+http://1.442244.info/cro_sport_klub_2/index.m3u8
+#EXTINF:-1,SPORT KLUB 3 cro
+http://1.442244.info/cro_sport_klub_3/index.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://1.442244.info/uk_sky_sports_1/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://1.442244.info/uk_sky_sports_2/index.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://1.442244.info/uk_sky_sports_3/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://1.442244.info/uk_sky_sports_4/index.m3u8
+#EXTINF:-1,SKY SPORTS 5
+http://1.442244.info/uk_sky_sports_5/index.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://1.442244.info/uk_sky_sports_f1/index.m3u8
+#EXTINF:-1,PREMIER SPORTS 
+http://1.442244.info/uk_premier_sport/index.m3u
+#EXTINF:-1,ESPN
+http://1.442244.info/uk_espn/index.m3u8
+#EXTINF:-1,SKY SPORTS 1 DE 
+http://1.442244.info/de_sky_sport_1/index.m3u8
+#EXTINF:-1,SKY SPORTS 2 DE 
+http://1.442244.info/de_sky_sport_2/index.m3u8
+#EXTINF:-1,SKY Bundesliga 1
+http://1.442244.info/de_sky_bundesliga_1/index.m3u8
+#EXTINF:-1,RAI SPORT 1
+http://1.442244.info/it_rai_sport_1/index.m3u8
+#EXTINF:-1,RAI SPORT 2
+http://1.442244.info/it_rai_sport_2/index.m3u8
+#EXTINF:-1,A SPOR
+http://1.442244.info/tur_a_spor/index.m3u8
+#EXTINF:-1,NTV SPOR
+http://1.442244.info/tur_ntv_spor/index.m3u8
+#EXTINF:-1,TRT SPOR
+http://1.442244.info/tur_trt_spor/index.m3u8
+#EXTINF:-1,MTV SPORT 1 HD
+http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
+#EXTINF:-1,MTV SPORT 2 HD
+http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
+#EXTINF:-1,DIEMA SPORT
+http://1.442244.info/bg_diema_sport/index.m3u8
+#EXTINF:-1,DIEMA SPORT 2
+http://1.442244.info/bg_diema_sport_2/index.m3u8
+#EXTINF:-1,NOVA SPORT
+http://1.442244.info/bg_nova_sport/index.m3u8
+#EXTINF:-1,SPORT PLUS
+http://1.442244.info/bg_sport_plus_hd/index.m3u8
+#EXTINF:-1,EUROSPORT BG
+http://1.442244.info/bg_eurosport/index.m3u8
+#EXTINF:-1,EUROSPORT 2 BG
+http://1.442244.info/bg_eurosport_2/index.m3u8
+#EXTINF:-1,LA 1
+http://1.442244.info/sp_la_1/index.m3u8
+#EXTINF:-1,LA 2
+http://1.442244.info/sp_la_2/index.m3u8
+#EXTINF:-1,M FOTBOL
+http://1.442244.info/sp_m_fotbol/index.m3u8
+#EXTINF:-1,M DEPORTES 1
+http://1.442244.info/sp_m_dep_1/index.m3u8
+#EXTINF:-1,BEIN LA LIGA BAR
+http://1.442244.info/sp_laligatv_bar/index.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://1.442244.info/sp_bein_laliga/index.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://1.442244.info/sp_real_madrid_tv/index.m3u8
+#EXTINF:-1,M GOLF
+http://1.442244.info/sp_m_golf/index.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL
+http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
+#EXTINF:-1,FOX SPORTS EDL3
+http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
