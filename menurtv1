@@ -707,4 +707,8 @@ http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
+https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
+https://openload.co/embed/x38sqHjj3KM/
