@@ -508,16 +508,17 @@
 <referer>http://verliga.net/tv/verliga.html</referer>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>VERLIGA3</title>
-<sportsdevil>http://www.verliga.net/verliga-3.htmlsportsdevil>
+<sportsdevil>http://www.verliga.net/verliga-3.html</sportsdevil>
 <referer>http://www.verliga.net/verliga-3.html</referer>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VERLIGA5</title>
-<sportsdevil>http://www.verliga.net/verliga-5.htmlsportsdevil>
+<sportsdevil>http://www.verliga.net/verliga-5.html</sportsdevil>
 <referer>http://www.verliga.net/verliga-5.html</referer>
 <thumbnail></thumbnail>
 </item>
