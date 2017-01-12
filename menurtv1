@@ -11,7 +11,7 @@ http://latino-webtv.ml/series/gravityfalls.mp4
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",unimas
 http://iphone-streaming.ustream.tv/uhls/22737466/streams/live/iphone/playlist.m3u8
