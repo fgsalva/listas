@@ -22,18 +22,19 @@ http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TRT World (INGLES)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HOY tikitaka canal 1 proxy
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-042cd211ce1455a25fd8a248a2d8dfe89519fa64&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HO tikitaka Canal 1 iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 iPhone
 http://iphone-streaming.ustream.tv/uhls/22898255/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HOtikitaka canal 2 proxy
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911267&stream=1&connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HO tikitaka Canal 2 iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 iPhone
 http://iphone-streaming.ustream.tv/uhls/22911267/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HO tikitaka canal 3 proxy
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911976&stream=1&connectionId=oldurl-0ff070f35874cfdd6cde69a546830c32e55e1c9a&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",EL PARTIDO DE HO tikitaka Canal 3 iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3 iPhone
 http://iphone-streaming.ustream.tv/uhls/22911976/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka canal 1 proxy
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-042cd211ce1455a25fd8a248a2d8dfe89519fa64&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka canal 2 proxy
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911267&stream=1&connectionId=oldurl-1874ef03b4171abb630c89ad6acc6be4e7660d40&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka canal 3 proxy
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911976&stream=1&connectionId=oldurl-0ff070f35874cfdd6cde69a546830c32e55e1c9a&group=iphone
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
