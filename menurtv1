@@ -30,6 +30,8 @@ http://iphone-streaming.ustream.tv/uhls/22911267/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22911976/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 iPhone
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",M Deportes1 Iphone
+http://iphone-streaming.ustream.tv/uhls/22922561/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka canal 1 proxy
 http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22898255&stream=1&connectionId=oldurl-042cd211ce1455a25fd8a248a2d8dfe89519fa64&group=iphone
@@ -39,6 +41,8 @@ http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersi
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22911976&stream=1&connectionId=oldurl-0ff070f35874cfdd6cde69a546830c32e55e1c9a&group=iphone
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Proxy
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1&connectionId=oldurl-dd153247d5f41567849a20d88aadb27f780823ec&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",M Deportes1 proxy
+http://uhs-akamai.ustream.tv/sjc/fra02-uhs-beta02/live/22922561/1484322736619/plain/improved/1/chunk_312_2ee6b347aa.ts
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
