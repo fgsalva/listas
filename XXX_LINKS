@@ -436,17 +436,17 @@ ONLINEhttp://www.rubular.com/
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]BRAZZ   [/B] [/COLOR][COLOR lightblue]pagina1[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]BRAZZ   [/B] [/COLOR][COLOR lightblue]pagina1*[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>brazz **[makelist.param2]</title>
+<title>[makelist.param2]</title>
 <link>[makelist.param1]</link>
 <referer>http://brazzers-24.com/latest-updates/</referer>
 <thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres><a href="(.*?)" title="(.*?)">[\w\W\s]{0,17}<img src="(.*?)"</expres>
+<expres>href="(.*?)" title="(.*?)">[\w\W\s]{0,17}<img src="(.*?)"</expres>
 <page>http://brazzers-24.com/latest-updates/</page>
 <referer>http://brazzers-24.com/latest-updates/</referer>
 <connection>keep-alive</connection>
