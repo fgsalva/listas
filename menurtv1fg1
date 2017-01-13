@@ -332,13 +332,27 @@ http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",abc news
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CBSN (source #01)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CBSN (source #02)
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CNBC (source #01)
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",DISCOVERY CHANNEL (source #01)
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",TVCINE 1 (source #01)
+http://198.255.76.34:8080/tvcine1/index.m3u8 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",TVCINE 2 (source #02)
+http://85.1.247.100:9000/play/a00t
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",TVCINE 3 (source #01)
+http://198.255.76.34:8080/tvcine3/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",TVCINE 3 (source #02)
+http://85.1.247.100:9000/play/a00r
 #EXTINF:0 group-title="Mundo y Cultura", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/175px-Deutsche_Welle_symbol_2012.svg.png", DW Latinoam�rica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:0 group-title="Mundo y Cultura", tvg-logo="http://alan-young.com/images/nasatv.png", Nasa TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0 group-title="Mundo y Cultura", tvg-logo="http://alan-young.com/images/nasatv.png",Space Station Live
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 
 
@@ -464,30 +478,19 @@ http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
 http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 
 
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/BeIN_SPORTS_logo.png",Bein Sports 
-http://1.442244.info/sp_bein_laliga/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="https://www.ono.es/resources/images/imagen_bein_liga.png",Bein Sports La Liga
-http://1.442244.info/sp_laligatv_bar/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",Movistar Deportes 1
-http://1.442244.info/sp_m_dep_1/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/05/MovistarFutbol.png/revision/latest?cb=20160818152152",Movistar Futbol
-http://1.442244.info/sp_m_fotbol/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%201.png",SKY SPORTS 1. 
-http://1.442244.info/uk_sky_sports_1/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%202.png",SKY SPORTS 2.
-http://1.442244.info/uk_sky_sports_2/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%203.png",SKY SPORTS 3.
-http://1.442244.info/uk_sky_sports_3/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%204.png",SKY SPORTS 4.
-http://1.442244.info/uk_sky_sports_4/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-f1.png",SKY SPORTS F1.
-http://1.442244.info/uk_sky_sports_f1/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Premier_Sports_logo.png/200px-Premier_Sports_logo.png",PREMIER SPORT.
-http://1.442244.info/uk_premier_sport/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="http://www.kabelmax.tv/files/logopack/Italy/sky%20sport%204.png",SKY Bundesliga 1.
-http://1.442244.info/de_sky_bundesliga_1/index.m3u8
-#EXTINF:0 group-title="Canales Deportivos", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/espn.png",ESPN Uk.
-http://1.442244.info/uk_espn/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",BENFICA TV (source #01)
+http://198.255.76.34:8080/benfica1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",SPORTING TV (source #01)
+http://213.188.51.185:9981/play/a009
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",SPORTV BR (source #01)
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",SPORTV BR (source #02)
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",SPORT TV 1 (source #02)
+http://198.255.76.34:8080/sporttv1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="SPORT",SPORT TV 2 (source #02)
+http://198.255.76.34:8080/sporttv2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
 https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
