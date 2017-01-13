@@ -549,88 +549,25 @@ http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
 https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba chunk***
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk" prueba site chunk
+#EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba playlist kds***
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk" prueba site playlist
+#EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.sitenow.me/live/ligarincon_a539aod/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk" prueba site kds playlist
+#EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk" prueba site kds playlist
+#EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
 
-#EXTM3U
-#EXTINF:0,Nat Wild
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/wild_aza5rz7/chunklist.m3u8
-#EXTINF:0,TNT
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8
-#EXTINF:0,FOX Life
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/foxlife_bicz47o/chunklist.m3u8
-#EXTINF:0,FOX
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/fox_alwk17k/chunklist.m3u8
-#EXTINF:0,Calle 13
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8
-#EXTINF:0,AXN White
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/axnwhite_bicz8yn/chunklist.m3u8
-#EXTINF:0,AXN
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/axn_alwla94/playlist.m3u8
-#EXTINF:0,MTV Espaсa
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/mtv_bijdrwm/chunklist.m3u8
-#EXTINF:0,Movistar Series xtra
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/seriesxtra_bicykxa/chunklist.m3u8
-#EXTINF:0,Movistar Series
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/series_aw3d82v/chunklist.m3u8
-#EXTINF:0,COSMO
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/cosmo_15fp4zr/chunklist.m3u8
-#EXTINF:0,Divinity
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8
-#EXTINF:0,FDF HD
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
-#EXTINF:0,Energy
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/energy_azhls60/chunklist.m3u8
-#EXTINF:0,Nova
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/nova2_acolsfq/chunklist.m3u8
-#EXTINF:0,Neox
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/neox_alwkw2n/chunklist.m3u8
-#EXTINF:0,A3Series
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/A3Series_11zwyox/chunklist.m3u8
-#EXTINF:0,#0
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/plus0_b0xk990/chunklist.m3u8
-#EXTINF:0,Telecinco
-#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8
