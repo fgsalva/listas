@@ -549,24 +549,24 @@ http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
 https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba site chunk
+
+#EXTINF:0, prueba site chunk
 #EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba site playlist
+#EXTINF:0,, prueba site playlist
 #EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.sitenow.me/live/ligarincon_a539aod/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba site kds playlist
+##EXTINF:0,, prueba site kds playlist
 #EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="prueba chunk", prueba site kds playlist
+#EXTINF:0,, prueba site kds playlist
 #EXTVLCOPT:http-referrer=http://www.dinostream.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
