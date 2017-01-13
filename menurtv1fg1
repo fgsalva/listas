@@ -282,99 +282,64 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 9 arg 
 http://live-edge01.telecentro.net.ar:1935/live/26hd-360/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales T-K (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv T-K (musica) (ferrer)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo T-K (COLOMBIA) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE T-K (COLOMBIA) (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA T-K (COLOMBIA) (ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTREST-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD T-K (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3 T-K (Españ) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Kiss tv  (musica) (ferrer)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecaribe Multi(ferrer)
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Colombia Multi(ferrer)
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telecafe hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Señal Institucional (ferrer)
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELEANTIOQUIA HD hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Telemedellin hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CosmoVision hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL CAPITAL Mult(ferrer)
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U (ferrer)
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL U hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TV AGRO hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Cable Noticias hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", El Tiempo hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV Manizales hls(ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV CARIBE hls(ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", UNE TV ARMENIA hls(ferrer)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TRENDY MUSICA hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANAL ANTIESTRES hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", CANTINAZO hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", LIFEDESING hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", MIMUSICA HD hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", TELE VIDA  (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3  (Españ) (ferrer)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV - Costa Rica (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", SMO TV  Costa Rica (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 ,Tele Uno TV - Costa Rica (ferrer)
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", XPERTS 33 TV - Costa Rica (ferrer)
-rtmp://k3.usastreams.com:1935/tv33/tv33
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV CR (ferrer)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", HBTV Costa Rica (ferrer)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", TV SUR CR CANAL9 (ferrer)
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION (ferrer)
-http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", azteca hondu  (ferrer)
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina (ferrer)
