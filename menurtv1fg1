@@ -46,15 +46,17 @@ http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersi
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal four Proxy 22925579
 http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925579&stream=1&connectionId=oldurl-2e242b0f0964475e5fb0f198d207cdbe6079a633&group=iphone
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Proxy antes
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  *.?
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1connectionId=oldurl-(*.?)&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  *.?
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1connectionId=oldurl-(.*?)&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  *.?
+http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1connectionId=oldurl-(*.*)&group=iphone
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Proxy nueva
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1&connectionId=oldurl-bf87dd4ba4adf38d2e23bb07574fd2bb2fc219ba&group=iphone
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",M Deportes1 proxy
 http://uhs-akamai.ustream.tv/sjc/fra02-uhs-beta02/live/22922561/1484322736619/plain/improved/1/chunk_312_2ee6b347aa.ts
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",memmmm
-http://cdn.widestream.io:8081/wideedge/yel2yuz/chunks.m3u8?nimblesessionid=2361177&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDE3IDY6MDM6MzcgUE0maGFzaF92YWx1ZT0rdUd1U2FVT1VGVFhTaHVDdklTU01BPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
