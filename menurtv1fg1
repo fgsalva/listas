@@ -29,6 +29,8 @@ http://iphone-streaming.ustream.tv/uhls/22925592/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22925588/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3 iPhone
 http://iphone-streaming.ustream.tv/uhls/22924405/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal four iPhone
+http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 iPhone
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
@@ -41,11 +43,15 @@ http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersi
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925588&stream=1&connectionId=oldurl-fd9403b6a39d719b51fceacf1a5176cf5170538d&group=iphone
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal 3 Proxy 22924405
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22924405&stream=1&connectionId=oldurl-32341f80d30866340a08c89e85c5dd7e5be12acd&group=iphone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal four Proxy 22925579
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925579&stream=1&connectionId=oldurl-2e242b0f0964475e5fb0f198d207cdbe6079a633&group=iphone
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Proxy
 http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1&connectionId=oldurl-dd153247d5f41567849a20d88aadb27f780823ec&group=iphone
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",M Deportes1 proxy
 http://uhs-akamai.ustream.tv/sjc/fra02-uhs-beta02/live/22922561/1484322736619/plain/improved/1/chunk_312_2ee6b347aa.ts
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",mediazon 12
+http://q4.thegamingforce.tech/swf/4611.m3u8?sf=NTc4MzkwNjUyYjQ0OQ==&token=WiaGod5hbksdY_MbbBCepg
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
