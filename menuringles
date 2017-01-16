@@ -385,11 +385,9 @@ http://nuestrahuella.com/videos/ingles/zarzuela La Revoltosa_El Felipe y la Mari
 
 
 
-
-
-#EXTINF:-1 tvg-logo=“https://i.ytimg.com/vi/XNjuuapueRw/hqdefault.jpg” group-title="inglestemasespecificos",Inglés Americano - Diálogos (Saludos y Despedidas)uuuuuuuuuu
+#EXTINF:-1 tvg-logo=“https://i.ytimg.com/vi/XNjuuapueRw/hqdefault.jpg?” group-title="inglestemasespecificos",Inglés Americano - Diálogos (Saludos y Despedidas)uuuuuuuuuu
 plugin://plugin.video.youtube/play/?video_id=XNjuuapueRw
-#EXTINF:-1 tvg-logo=“https://i.ytimg.com/vi/CXBR6mgTQro/hqdefault.jpg” group-title="inglestemasespecificos",Inglés Americano - Lección 11 - Números del 0 al 19uuuuuu
+#EXTINF:-1 tvg-logo=“https://i.ytimg.com/vi/CXBR6mgTQro/hqdefault.jpg?” group-title="inglestemasespecificos",Inglés Americano - Lección 11 - Números del 0 al 19uuuuuu
 plugin://plugin.video.youtube/play/?video_id=CXBR6mgTQro
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="inglestemasespecificos",Inglés Americano - Lección 12 - Números del 20 al 99uuuuuuuu
 plugin://plugin.video.youtube/play/?video_id=UyoAVrq6pyo
