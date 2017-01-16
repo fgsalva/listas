@@ -49,6 +49,12 @@ noplink>http://Ignoreme</link>
 <title>[COLOR yellow]Peliculas[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
 </item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Documentales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdocumentales</externallink>
+</item>
 <item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
