@@ -1,0 +1,1104 @@
+
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head1 p_head_l3" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/feed" aria-label="Home" accesskey="1"><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Search" aria-label="Search" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><a id="top_notify_btn" class="top_nav_btn" href="#" onmouseover="TopNotifier.preload()" onmousedown="return (checkKeyboardEvent(event) ? false : TopNotifier.show(event));" onclick="return (checkEvent(event) ? true : (checkKeyboardEvent(event) ? TopNotifier.show(event) : false));" aria-haspopup="true" accesskey="2">
+  <span class="blind_label">Notifications</span>
+  <div class="top_nav_btn_icon"></div>
+  <div id="top_notify_count" class="top_notify_count"></div>
+</a><span id="top_audio_layer_place"></span><a id="top_audio" href="#" class="top_nav_btn _top_nav_audio_btn"  onmouseover="prepareAudioLayer()" onmousedown="return (checkKeyboardEvent(event) ? false : showAudioLayer(event, this))" onclick="return (checkKeyboardEvent(event) ? showAudioLayer(event, this) : false);" aria-label="Audio player" aria-haspopup="true" accesskey="3">
+  <span class="blind_label">Audio player</span>
+  <div class="top_nav_btn_icon"></div>
+</a></div>
+  <div class="head_nav_item fl_r"><a id="top_profile_link" class="top_nav_link top_profile_link" href="/pgrillo" onclick="return (checkKeyboardEvent(event) ? TopMenu.clicked : checkEvent)(event);" aria-label="Profile settings" aria-haspopup="true" accesskey="4">
+  <span class="blind_label">Profile settings</span>
+  <div class="top_profile_name">Pepe</div><img class="top_profile_img" src="https://pp.vk.me/c626828/v626828599/161fd/qPJ2aPFAV5M.jpg" alt="Pepe" /><div class="top_profile_arrow"></div>
+</a><div id="top_profile_menu" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;">
+  <a class="top_profile_mrow" id="top_myprofile_link" href="/pgrillo" onclick="return TopMenu.select(this, event);" style="">My profile</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_edit_link" href="/edit" onclick="return TopMenu.select(this, event);" style="">Edit</a>
+  <a class="top_profile_mrow" id="top_settings_link" href="/settings" onclick="return TopMenu.select(this, event);" style="">Settings</a>
+  <a class="top_profile_mrow" id="top_support_link" href="/support?act=home" onclick="return TopMenu.select(this, event);">Help</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_logout_link" href="https://login.vk.com/?act=logout&hash=941813d11e873937ae&reason=tn&_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.AudioPlayer && AudioPlayer.clearAllCacheKeys(); window.Notifier && Notifier.lcSend('logged_off'); location.href = this.href; return cancelEvent(event); }">Log out</a>
+</div></div>
+  <div class="head_nav_item_player"><div class="top_audio_player" id="top_audio_player">
+  <button class="top_audio_player_btn top_audio_player_prev" accesskey="j"><div class="blind_label">Previous track</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_play" accesskey="k"><div class="blind_label _top_audio_player_play_blind_label">Previous track</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_next" accesskey="l"><div class="blind_label">Next track</div><div class="top_audio_player_btn_icon"></div></button>
+  <div class="top_audio_player_title_wrap"><div class="top_audio_player_title"></div></div>
+</div></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="fl_l " style="">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <ol>
+  <li id="l_pr" class=""><a href="/pgrillo" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">My Profile</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_nwsf" class=""><a href="/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">News</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_msg" class=""><a href="/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Messages</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fr" class=""><a href="/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <object type="internal/link"><a href="/friends?section=requests" onclick="nav.link && nav.link('/friends?section=requests', event); cancelEvent(event);" class="left_count_wrap fl_r left_count_wrap_hovered"><span class="inl_bl left_count">6</span></a></object>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Friends</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_gr" class=""><a href="/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Communities</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li style="display: none" id="l_ph" class=""><a href="/albums209882599" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Photos</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li style="display: none" id="l_aud" class=""><a href="/audios209882599" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Audios</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_vid" class=""><a href="/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Videos</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ap" class=""><a href="/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Games</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><div class="more_div l_main"></div><li id="l_mk" class=""><a href="/market" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Market (beta)</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fav" class=""><a href="/fave" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Bookmarks</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li>
+</ol>
+<div id="left_blocks"></div><div id="ads_left" class="ads_left_empty"></div><div class="left_menu_nav_wrap"><a class="left_menu_nav" href="/blog">Blog</a> <a class="left_menu_nav" href="/dev">Developers</a> <a class="left_menu_nav" href="/about">About</a> <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this, event, {autopos: true, dy: 6});" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons"  tabindex="0" aria-label="Actions" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Actions</span><a class="left_menu_nav left_menu_more" id="left_menu_more">More</a></div>
+  <div class="ui_actions_menu _ui_menu" ><a class="ui_actions_menu_item" href="/terms">Terms</a><a class="ui_actions_menu_item" onclick="showBox('lang.php', {act: 'lang_dialog'}, {params: {bodyStyle: 'padding: 0'}, noreload: true})" tabindex="0" role="link">Language: english</a></div>
+</div></div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content">
+<div class="page_block" id="video_main_block">
+  <div id="video_block_header"><h2 class="page_block_h2">
+<div class="page_block_header clear_fix">
+  <div class="page_block_header_extra_left _header_extra_left"></div>
+  <div class="page_block_header_extra _header_extra"></div>
+  <div class="page_block_header_inner _header_inner"><a class="ui_crumb" href="/id311318970" onclick="return nav.go(this, event, {back: true});">Fernando Antonio-Alvarez</a><div class="ui_crumb_sep"></div><div class="ui_crumb">Videos</div></div>
+</div>
+</h2><div class="ui_search_new ui_search ui_search_field_empty video_search_input ui_search_btn_large _wrap">
+  <div class="ui_search_input_block">
+    <button class="ui_search_button_search _ui_search_button_search"></button>
+    <div class="ui_search_input_inner">
+      <div class="ui_search_progress"></div>
+      <div class="ui_search_controls">
+        <button class="ui_search_params_button _ui_search_params_button ui_search_button_control" onclick="uiSearch.toggleParameters(this, event)" onmouseover="showTooltip(this, {appendParentCls: '_audio_layout', black: true, text: 'Search parameters', shift: [6, 2, 0]})"></button>
+        <button class="ui_search_reset_button ui_search_button_control" onclick="return uiSearch.reset(this, false, event);" onmouseover="showTooltip(this, {appendParentCls: '_audio_layout', black: true, text: 'Reset search', shift: [6, 2, 0]})"></button>
+      </div>
+      <div class="ui_search_suggester_shadow _ui_search_suggester_shadow"></div>
+      <input type="text" class="ui_search_field _field" id="video_search_input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"  placeholder="Video search" />
+    </div>
+  </div>
+  <div class="ui_search_sugg_list _ui_search_sugg_list"></div>
+  <div class="ui_search_filters_pane" style="display: none;">
+    <div class="ui_search_filters"></div>
+  </div>
+</div></div>
+<div class="video_block_layout">
+  <div id="video_layout_search" style="display: none"><div class="video_empty_placeholder no_rows" id="video_empty_placeholder_search" style=""></div><div class="video_subtab_pane ge_video_pane video_subtab_pane_search_albums" id="video_subtab_pane_search_albums" style="">
+  <div class="video_subtitle"><span class="_video_subtitle_counter"></span> </div><div class="video_items_list _video_search_albums_list" id="video_search_albums_list"></div><div id="ui_search_albums_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_search_albums_load_more " onclick="Video.showMore('search_albums', this)" style="" data-type="search_albums">
+  Show more
+</div>
+</div><div class="video_subtab_pane ge_video_pane video_subtab_pane_search_videos" id="video_subtab_pane_search_videos" style="">
+  <div class="video_subtitle"><span class="_video_subtitle_counter"></span> </div><div class="video_items_list  _video_search_videos_list" id="video_search_videos_list"></div><div id="ui_search_videos_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_search_videos_load_more " onclick="Video.showMore('search_videos', this)" style="" data-type="search_videos">
+  Show more
+</div>
+</div><div class="video_subtab_pane ge_video_pane video_subtab_pane_search_promo_albums" id="video_subtab_pane_search_promo_albums" style="">
+  <div class="video_subtitle"><span class="_video_subtitle_counter"></span> </div><div class="video_items_list _video_search_promo_albums_list" id="video_search_promo_albums_list"></div><div id="ui_search_promo_albums_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_search_promo_albums_load_more " onclick="Video.showMore('search_promo_albums', this)" style="" data-type="search_promo_albums">
+  Show more
+</div>
+</div><div class="video_subtab_pane ge_video_pane video_subtab_pane_search_global_videos" id="video_subtab_pane_search_global_videos" style="">
+  <div class="video_subtitle"><span class="_video_subtitle_counter"></span> </div><div class="video_items_list  _video_search_global_videos_list" id="video_search_global_videos_list"></div><div id="ui_search_global_videos_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_search_global_videos_load_more " onclick="Video.showMore('search_global_videos', this)" style="" data-type="search_global_videos">
+  Show more
+</div>
+</div></div>
+  <div id="video_layout_contents">
+    <div id="video_content_all"><h2 class="page_block_h2 ">
+  <ul class="ui_tabs clear_fix video_default_tabs _video_default_tabs"onmouseover="uiTabs.tryInit(this)" >
+    <li id="video_tab_all">
+  <a href="/videos311318970" class="ui_tab ui_tab_sel" onclick="return uiTabs.goTab(this, event, 0);">
+    Added<span class="ui_tab_count" dir="auto">508</span>
+  </a>
+</li><li id="video_tab_uploaded">
+  <a href="/videos311318970?section=uploaded" class="ui_tab" onclick="return uiTabs.goTab(this, event, 0);">
+    Uploaded<span class="ui_tab_count" dir="auto"></span>
+  </a>
+</li><li id="video_tab_albums">
+  <a href="/videos311318970?section=albums" class="ui_tab" onclick="return uiTabs.goTab(this, event, 0);">
+    Albums<span class="ui_tab_count" dir="auto">5</span>
+  </a>
+</li>
+    <div class="ui_tabs_slider _ui_tabs_slider"></div>
+  </ul>
+</h2><div class="video_tab_actions_wrap "><div class="_video_sort_dd_wrap video_sort_dd_wrap" id="video_sort_dd_wrap">
+  <div id="video_sort_progress" style="display: none"></div>
+  <div class="video_sort_dd" id="video_sort_dd"></div>
+</div></div><div class="video_subtab_pane ge_video_pane video_subtab_pane_all" id="video_subtab_pane_all" style="">
+  <div class="video_items_list  _video_all_list" id="video_all_list"><div  class="video_item _video_item ge_video_item_163478518_161982699 video_can_add " id="video_item_163478518_161982699" data-flags="256" data-id="163478518_161982699" data-add-hash="b8ce0537af97fd5c17" data-thumb="https://pp.vk.me/c506605/u97482389/video/l_f5ed2c12.jpg">
+  <a href="/video163478518_161982699" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_161982699'); return Video.show(event, '163478518_161982699', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c506605/u97482389/video/l_f5ed2c12.jpg" style="background-image: url('https://pp.vk.me/c506605/u97482389/video/l_f5ed2c12.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:38:47</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 161982699)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 161982699, 'b8ce0537af97fd5c17')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 161982699, 'b8ce0537af97fd5c17')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 161982699, 'b8ce0537af97fd5c17')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_161982699', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_161982699" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_161982699', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Nicky, La Aprendiz De Bruja (1989)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">11 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_161989669 video_can_add " id="video_item_163478518_161989669" data-flags="256" data-id="163478518_161989669" data-add-hash="6fa00e6e27f04c3d00" data-thumb="https://pp.vk.me/c13229/u98221859/video/l_f5b32c22.jpg">
+  <a href="/video163478518_161989669" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_161989669'); return Video.show(event, '163478518_161989669', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c13229/u98221859/video/l_f5b32c22.jpg" style="background-image: url('https://pp.vk.me/c13229/u98221859/video/l_f5b32c22.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:25:53</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 161989669)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 161989669, '6fa00e6e27f04c3d00')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 161989669, '6fa00e6e27f04c3d00')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 161989669, '6fa00e6e27f04c3d00')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_161989669', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_161989669" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_161989669', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">buza caperuza 2(2008)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">5 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_161995820 video_can_add " id="video_item_163478518_161995820" data-flags="256" data-id="163478518_161995820" data-add-hash="bba5d0ae3952f29564" data-thumb="https://pp.vk.me/c12508/u95855298/video/l_3fd53c1e.jpg">
+  <a href="/video163478518_161995820" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_161995820'); return Video.show(event, '163478518_161995820', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c12508/u95855298/video/l_3fd53c1e.jpg" style="background-image: url('https://pp.vk.me/c12508/u95855298/video/l_3fd53c1e.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:23:16</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 161995820)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 161995820, 'bba5d0ae3952f29564')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 161995820, 'bba5d0ae3952f29564')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 161995820, 'bba5d0ae3952f29564')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_161995820', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_161995820" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_161995820', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El h&#233;roe de todos(2006)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">42 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162089081 video_can_add " id="video_item_163478518_162089081" data-flags="256" data-id="163478518_162089081" data-add-hash="d6f6c4728fc075c206" data-thumb="https://pp.vk.me/c509614/u101726978/video/l_e9f34f42.jpg">
+  <a href="/video163478518_162089081" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162089081'); return Video.show(event, '163478518_162089081', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c509614/u101726978/video/l_e9f34f42.jpg" style="background-image: url('https://pp.vk.me/c509614/u101726978/video/l_e9f34f42.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">21:33</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162089081)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162089081, 'd6f6c4728fc075c206')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162089081, 'd6f6c4728fc075c206')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162089081, 'd6f6c4728fc075c206')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162089081', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162089081" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162089081', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Lanny y Wayne: patrulla de aterrizaje (2009)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">68 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162089215 video_can_add " id="video_item_163478518_162089215" data-flags="256" data-id="163478518_162089215" data-add-hash="e4b570ffdae3ed6a27" data-thumb="https://pp.vk.me/c510322/u161413874/video/l_c7be0c73.jpg">
+  <a href="/video163478518_162089215" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162089215'); return Video.show(event, '163478518_162089215', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c510322/u161413874/video/l_c7be0c73.jpg" style="background-image: url('https://pp.vk.me/c510322/u161413874/video/l_c7be0c73.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:30:20</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162089215)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162089215, 'e4b570ffdae3ed6a27')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162089215, 'e4b570ffdae3ed6a27')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162089215, 'e4b570ffdae3ed6a27')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162089215', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162089215" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162089215', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El retorno de los Yamakasi, los hijos del viento (2004)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">54 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162089491 video_can_add video_hd " id="video_item_163478518_162089491" data-flags="16640" data-id="163478518_162089491" data-add-hash="a6ef75192d93df184a" data-thumb="https://pp.vk.me/c507611/u101726978/video/l_9d7b9f51.jpg">
+  <a href="/video163478518_162089491" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162089491'); return Video.show(event, '163478518_162089491', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c507611/u101726978/video/l_9d7b9f51.jpg" style="background-image: url('https://pp.vk.me/c507611/u101726978/video/l_9d7b9f51.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">52:12</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162089491)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162089491, 'a6ef75192d93df184a')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162089491, 'a6ef75192d93df184a')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162089491, 'a6ef75192d93df184a')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162089491', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162089491" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162089491', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">EL REY DE LA NOCHE</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">4 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162103061 video_can_add " id="video_item_163478518_162103061" data-flags="256" data-id="163478518_162103061" data-add-hash="61c1a2a42fce7510b3" data-thumb="https://pp.vk.me/c13398/u101726978/video/l_4376a662.jpg">
+  <a href="/video163478518_162103061" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162103061'); return Video.show(event, '163478518_162103061', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c13398/u101726978/video/l_4376a662.jpg" style="background-image: url('https://pp.vk.me/c13398/u101726978/video/l_4376a662.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:23:03</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162103061)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162103061, '61c1a2a42fce7510b3')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162103061, '61c1a2a42fce7510b3')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162103061, '61c1a2a42fce7510b3')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162103061', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162103061" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162103061', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">suricatos</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">3 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162142699 video_can_add " id="video_item_163478518_162142699" data-flags="256" data-id="163478518_162142699" data-add-hash="41bfe90cdda875b021" data-thumb="https://pp.vk.me/c12667/u95855298/video/l_b98d10d8.jpg">
+  <a href="/video163478518_162142699" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162142699'); return Video.show(event, '163478518_162142699', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c12667/u95855298/video/l_b98d10d8.jpg" style="background-image: url('https://pp.vk.me/c12667/u95855298/video/l_b98d10d8.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:25:48</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162142699)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162142699, '41bfe90cdda875b021')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162142699, '41bfe90cdda875b021')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162142699, '41bfe90cdda875b021')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162142699', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162142699" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162142699', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El reino de los chiflados (2007)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">62 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162162759 video_can_add " id="video_item_163478518_162162759" data-flags="256" data-id="163478518_162162759" data-add-hash="3a828de93bd1644d15" data-thumb="https://pp.vk.me/c505619/u164367197/video/l_da28b6b3.jpg">
+  <a href="/video163478518_162162759" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162162759'); return Video.show(event, '163478518_162162759', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c505619/u164367197/video/l_da28b6b3.jpg" style="background-image: url('https://pp.vk.me/c505619/u164367197/video/l_da28b6b3.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:32:46</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162162759)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162162759, '3a828de93bd1644d15')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162162759, '3a828de93bd1644d15')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162162759, '3a828de93bd1644d15')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162162759', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162162759" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162162759', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Anacondas: la cacer&#237;a de la orqu&#237;dea sangrienta (Anaconda 2) (2004)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">2 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_163478518_162184543 video_can_add " id="video_item_163478518_162184543" data-flags="256" data-id="163478518_162184543" data-add-hash="bd8fe728c2624ed3d2" data-thumb="https://pp.vk.me/c505621/u124843763/video/l_8d361595.jpg">
+  <a href="/video163478518_162184543" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '163478518_162184543'); return Video.show(event, '163478518_162184543', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c505621/u124843763/video/l_8d361595.jpg" style="background-image: url('https://pp.vk.me/c505621/u124843763/video/l_8d361595.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:30:07</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 163478518, 162184543)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 163478518, 162184543, 'bd8fe728c2624ed3d2')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 163478518, 162184543, 'bd8fe728c2624ed3d2')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 163478518, 162184543, 'bd8fe728c2624ed3d2')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '163478518_162184543', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video163478518_162184543" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '163478518_162184543', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El peque&#241;o ilusionista (2010)</a>
+    <div class="video_item_author"><a href="/id163478518" class="mem_link">Javi Amador</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">29 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_229040950_167784232 video_can_add " id="video_item_229040950_167784232" data-flags="256" data-id="229040950_167784232" data-add-hash="ac96d0843a867e466b" data-thumb="https://pp.vk.me/c13238/u84332283/video/l_b0ec4c55.jpg">
+  <a href="/video229040950_167784232" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '229040950_167784232'); return Video.show(event, '229040950_167784232', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c13238/u84332283/video/l_b0ec4c55.jpg" style="background-image: url('https://pp.vk.me/c13238/u84332283/video/l_b0ec4c55.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:58:20</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 229040950, 167784232)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 229040950, 167784232, 'ac96d0843a867e466b')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 229040950, 167784232, 'ac96d0843a867e466b')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 229040950, 167784232, 'ac96d0843a867e466b')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '229040950_167784232', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video229040950_167784232" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '229040950_167784232', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">A Prueba De Fuego</a>
+    <div class="video_item_author"><a href="/id229040950" class="mem_link">Santiago Guerrero</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">6 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_258375638_169065568 video_can_add video_hd " id="video_item_258375638_169065568" data-flags="16640" data-id="258375638_169065568" data-add-hash="190389a5b69f80856d" data-thumb="https://pp.vk.me/c543401/u258375638/video/l_df18d444.jpg">
+  <a href="/video258375638_169065568" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '258375638_169065568'); return Video.show(event, '258375638_169065568', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c543401/u258375638/video/l_df18d444.jpg" style="background-image: url('https://pp.vk.me/c543401/u258375638/video/l_df18d444.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:29:53</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 258375638, 169065568)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 258375638, 169065568, '190389a5b69f80856d')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 258375638, 169065568, '190389a5b69f80856d')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 258375638, 169065568, '190389a5b69f80856d')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '258375638_169065568', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video258375638_169065568" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '258375638_169065568', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">h4mbvrgu3s4s.sipeliculas.com</a>
+    <div class="video_item_author"><a href="/id258375638" class="mem_link">Sipeliculas Com</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">89 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">four months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_315616753_171340389 video_can_add video_hd " id="video_item_315616753_171340389" data-flags="16640" data-id="315616753_171340389" data-add-hash="703c637b5a30be859a" data-thumb="https://pp.vk.me/c627628/v627628753/d347/NI7M4jVaL1Q.jpg">
+  <a href="/video315616753_171340389" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '315616753_171340389'); return Video.show(event, '315616753_171340389', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c627628/v627628753/d347/NI7M4jVaL1Q.jpg" style="background-image: url('https://pp.vk.me/c627628/v627628753/d347/NI7M4jVaL1Q.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:56:15</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 315616753, 171340389)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 315616753, 171340389, '703c637b5a30be859a')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 315616753, 171340389, '703c637b5a30be859a')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 315616753, 171340389, '703c637b5a30be859a')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '315616753_171340389', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video315616753_171340389" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '315616753_171340389', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Sp44rkle-HD-C44ST</a>
+    <div class="video_item_author"><a href="/id315616753" class="mem_link">Desi Postre</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">9 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_169267578 video_can_add " id="video_item_254394100_169267578" data-flags="256" data-id="254394100_169267578" data-add-hash="2f64bec5d3d340ba66" data-thumb="https://pp.vk.me/c12821/u88351057/video/l_569c3cec.jpg">
+  <a href="/video254394100_169267578" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_169267578'); return Video.show(event, '254394100_169267578', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c12821/u88351057/video/l_569c3cec.jpg" style="background-image: url('https://pp.vk.me/c12821/u88351057/video/l_569c3cec.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:40:18</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 169267578)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 169267578, '2f64bec5d3d340ba66')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 169267578, '2f64bec5d3d340ba66')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 169267578, '2f64bec5d3d340ba66')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_169267578', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_169267578" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_169267578', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El Codigo (2009)» Latino</a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">3 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_169267589 video_can_add " id="video_item_254394100_169267589" data-flags="256" data-id="254394100_169267589" data-add-hash="1faa6f5991bbcb835a" data-thumb="https://pp.vk.me/c514121/u207968750/video/l_63a54ee8.jpg">
+  <a href="/video254394100_169267589" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_169267589'); return Video.show(event, '254394100_169267589', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c514121/u207968750/video/l_63a54ee8.jpg" style="background-image: url('https://pp.vk.me/c514121/u207968750/video/l_63a54ee8.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:29:02</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 169267589)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 169267589, '1faa6f5991bbcb835a')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 169267589, '1faa6f5991bbcb835a')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 169267589, '1faa6f5991bbcb835a')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_169267589', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_169267589" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_169267589', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Las Aventuras de Lucas (2006)» Latino</a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">13 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_169267807 video_can_add video_hd " id="video_item_254394100_169267807" data-flags="16640" data-id="254394100_169267807" data-add-hash="b838187ee533b63636" data-thumb="https://pp.vk.me/c529211/u200010752/video/l_0d025860.jpg">
+  <a href="/video254394100_169267807" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_169267807'); return Video.show(event, '254394100_169267807', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c529211/u200010752/video/l_0d025860.jpg" style="background-image: url('https://pp.vk.me/c529211/u200010752/video/l_0d025860.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:52:15</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 169267807)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 169267807, 'b838187ee533b63636')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 169267807, 'b838187ee533b63636')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 169267807, 'b838187ee533b63636')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_169267807', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_169267807" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_169267807', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Distrito 9 (2009)» Latino</a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">1 view</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_169465013 video_can_add " id="video_item_254394100_169465013" data-flags="256" data-id="254394100_169465013" data-add-hash="4eb8dd209c6486dd6c" data-thumb="https://pp.vk.me/c513316/u227344567/video/l_93ab7455.jpg">
+  <a href="/video254394100_169465013" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_169465013'); return Video.show(event, '254394100_169465013', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c513316/u227344567/video/l_93ab7455.jpg" style="background-image: url('https://pp.vk.me/c513316/u227344567/video/l_93ab7455.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:46:24</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 169465013)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 169465013, '4eb8dd209c6486dd6c')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 169465013, '4eb8dd209c6486dd6c')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 169465013, '4eb8dd209c6486dd6c')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_169465013', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_169465013" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_169465013', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">milagro en la calle 8 latino</a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">1 view</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_170451381 video_can_add " id="video_item_254394100_170451381" data-flags="256" data-id="254394100_170451381" data-add-hash="81324a57ea473429c4" data-thumb="https://pp.vk.me/c533507/u236021174/video/l_6ef811c8.jpg">
+  <a href="/video254394100_170451381" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_170451381'); return Video.show(event, '254394100_170451381', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c533507/u236021174/video/l_6ef811c8.jpg" style="background-image: url('https://pp.vk.me/c533507/u236021174/video/l_6ef811c8.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:36:31</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 170451381)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 170451381, '81324a57ea473429c4')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 170451381, '81324a57ea473429c4')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 170451381, '81324a57ea473429c4')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_170451381', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_170451381" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_170451381', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">la ni&#241;a y el zorro </a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">751 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_254394100_169150590 video_can_add " id="video_item_254394100_169150590" data-flags="256" data-id="254394100_169150590" data-add-hash="e1c233a8a7eb1533c6" data-thumb="https://pp.vk.me/c541307/u248550873/video/l_954c2205.jpg">
+  <a href="/video254394100_169150590" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '254394100_169150590'); return Video.show(event, '254394100_169150590', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c541307/u248550873/video/l_954c2205.jpg" style="background-image: url('https://pp.vk.me/c541307/u248550873/video/l_954c2205.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:40:55</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 254394100, 169150590)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 254394100, 169150590, 'e1c233a8a7eb1533c6')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 254394100, 169150590, 'e1c233a8a7eb1533c6')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 254394100, 169150590, 'e1c233a8a7eb1533c6')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '254394100_169150590', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video254394100_169150590" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '254394100_169150590', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">17 Otra vez Latino</a>
+    <div class="video_item_author"><a href="/idjudetsi" class="mem_link">Judetsi Carmona</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">487 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_171261504_162919058 video_can_add " id="video_item_171261504_162919058" data-flags="256" data-id="171261504_162919058" data-add-hash="1834e50e8e9a5bbe1d" data-thumb="https://pp.vk.me/c514208/u171261504/video/l_cc4213f9.jpg">
+  <a href="/video171261504_162919058" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '171261504_162919058'); return Video.show(event, '171261504_162919058', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c514208/u171261504/video/l_cc4213f9.jpg" style="background-image: url('https://pp.vk.me/c514208/u171261504/video/l_cc4213f9.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">21:24</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 171261504, 162919058)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 171261504, 162919058, '1834e50e8e9a5bbe1d')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 171261504, 162919058, '1834e50e8e9a5bbe1d')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 171261504, 162919058, '1834e50e8e9a5bbe1d')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '171261504_162919058', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video171261504_162919058" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '171261504_162919058', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">YU GI OH 5DS 1</a>
+    <div class="video_item_author"><a href="/id171261504" class="mem_link">Masculino Cruz</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">32 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_187255146_169086590 video_can_add " id="video_item_187255146_169086590" data-flags="256" data-id="187255146_169086590" data-add-hash="62ba45f6f3b96e1e4c" data-thumb="https://pp.vk.me/c540409/u236021174/video/l_0abb82bd.jpg">
+  <a href="/video187255146_169086590" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '187255146_169086590'); return Video.show(event, '187255146_169086590', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c540409/u236021174/video/l_0abb82bd.jpg" style="background-image: url('https://pp.vk.me/c540409/u236021174/video/l_0abb82bd.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">39:54</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 187255146, 169086590)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 187255146, 169086590, '62ba45f6f3b96e1e4c')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 187255146, 169086590, '62ba45f6f3b96e1e4c')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 187255146, 169086590, '62ba45f6f3b96e1e4c')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '187255146_169086590', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video187255146_169086590" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '187255146_169086590', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Dinosaurs Alive&#33; (2007)» Latino</a>
+    <div class="video_item_author"><a href="/rmdaniel" class="mem_link">Daniel Rodriguez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">11 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_169481679 video_can_add video_hd " id="video_item_255261431_169481679" data-flags="16640" data-id="255261431_169481679" data-add-hash="90f445236526a0f111" data-thumb="https://pp.vk.me/c13212/u70712020/video/l_bb9a547a.jpg">
+  <a href="/video255261431_169481679" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_169481679'); return Video.show(event, '255261431_169481679', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c13212/u70712020/video/l_bb9a547a.jpg" style="background-image: url('https://pp.vk.me/c13212/u70712020/video/l_bb9a547a.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:39:40</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 169481679)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 169481679, '90f445236526a0f111')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 169481679, '90f445236526a0f111')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 169481679, '90f445236526a0f111')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_169481679', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_169481679" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_169481679', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);"> Kung Fu Sion - LATINO</a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">3 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_169500564 video_can_add " id="video_item_255261431_169500564" data-flags="256" data-id="255261431_169500564" data-add-hash="7cab52b27b7c5f85aa" data-thumb="https://pp.vk.me/c526307/u149623387/video/l_9bd6691f.jpg">
+  <a href="/video255261431_169500564" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_169500564'); return Video.show(event, '255261431_169500564', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c526307/u149623387/video/l_9bd6691f.jpg" style="background-image: url('https://pp.vk.me/c526307/u149623387/video/l_9bd6691f.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:29:00</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 169500564)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 169500564, '7cab52b27b7c5f85aa')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 169500564, '7cab52b27b7c5f85aa')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 169500564, '7cab52b27b7c5f85aa')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_169500564', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_169500564" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_169500564', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Dragones Gemelos - Latino </a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">4 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_170018463 video_can_add video_hd " id="video_item_255261431_170018463" data-flags="16640" data-id="255261431_170018463" data-add-hash="ff893ab829b4ee19da" data-thumb="https://pp.vk.me/c526218/u215618964/video/l_194e4a5c.jpg">
+  <a href="/video255261431_170018463" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_170018463'); return Video.show(event, '255261431_170018463', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c526218/u215618964/video/l_194e4a5c.jpg" style="background-image: url('https://pp.vk.me/c526218/u215618964/video/l_194e4a5c.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">40:59</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 170018463)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 170018463, 'ff893ab829b4ee19da')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 170018463, 'ff893ab829b4ee19da')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 170018463, 'ff893ab829b4ee19da')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_170018463', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_170018463" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_170018463', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Sea Rex - Latino 720</a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">8 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_170079892 video_can_add video_hd " id="video_item_255261431_170079892" data-flags="16640" data-id="255261431_170079892" data-add-hash="1039c6578a73c6e389" data-thumb="https://pp.vk.me/c534312/u236021174/video/l_7cec38d4.jpg">
+  <a href="/video255261431_170079892" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_170079892'); return Video.show(event, '255261431_170079892', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c534312/u236021174/video/l_7cec38d4.jpg" style="background-image: url('https://pp.vk.me/c534312/u236021174/video/l_7cec38d4.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">37:52</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 170079892)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 170079892, '1039c6578a73c6e389')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 170079892, '1039c6578a73c6e389')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 170079892, '1039c6578a73c6e389')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_170079892', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_170079892" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_170079892', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Tiburones Leyenda Del Mar (1996)» Latino</a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">1 view</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_169349693 video_can_add video_hd " id="video_item_255261431_169349693" data-flags="16640" data-id="255261431_169349693" data-add-hash="5b7666f6e52e1a25f3" data-thumb="https://pp.vk.me/c13469/u70712020/video/l_7233af8c.jpg">
+  <a href="/video255261431_169349693" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_169349693'); return Video.show(event, '255261431_169349693', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c13469/u70712020/video/l_7233af8c.jpg" style="background-image: url('https://pp.vk.me/c13469/u70712020/video/l_7233af8c.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:24:11</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 169349693)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 169349693, '5b7666f6e52e1a25f3')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 169349693, '5b7666f6e52e1a25f3')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 169349693, '5b7666f6e52e1a25f3')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_169349693', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_169349693" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_169349693', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">Gnomeo Y Julieta</a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">1 view</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_251968964_168313574 video_can_add " id="video_item_251968964_168313574" data-flags="256" data-id="251968964_168313574" data-add-hash="bb95c9c930ca903fa9" data-thumb="https://pp.vk.me/c541306/u251968964/video/l_3c0ec6e6.jpg">
+  <a href="/video251968964_168313574" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '251968964_168313574'); return Video.show(event, '251968964_168313574', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c541306/u251968964/video/l_3c0ec6e6.jpg" style="background-image: url('https://pp.vk.me/c541306/u251968964/video/l_3c0ec6e6.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:44:05</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 251968964, 168313574)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 251968964, 168313574, 'bb95c9c930ca903fa9')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 251968964, 168313574, 'bb95c9c930ca903fa9')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 251968964, 168313574, 'bb95c9c930ca903fa9')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '251968964_168313574', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video251968964_168313574" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '251968964_168313574', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">qu1s13r4s3rgr4nd3</a>
+    <div class="video_item_author"><a href="/jedgacia" class="mem_link">JEd Garcia</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">62 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_255261431_168809245 video_can_add video_hd " id="video_item_255261431_168809245" data-flags="16640" data-id="255261431_168809245" data-add-hash="a55564ae83703f0e67" data-thumb="https://pp.vk.me/c540302/u243040978/video/l_dc0f749a.jpg">
+  <a href="/video255261431_168809245" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '255261431_168809245'); return Video.show(event, '255261431_168809245', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c540302/u243040978/video/l_dc0f749a.jpg" style="background-image: url('https://pp.vk.me/c540302/u243040978/video/l_dc0f749a.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:31:01</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 255261431, 168809245)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 255261431, 168809245, 'a55564ae83703f0e67')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 255261431, 168809245, 'a55564ae83703f0e67')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 255261431, 168809245, 'a55564ae83703f0e67')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '255261431_168809245', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video255261431_168809245" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '255261431_168809245', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">El alucinante mundo de Norman (Latino)</a>
+    <div class="video_item_author"><a href="/id255261431" class="mem_link">Oscar L&#243;pez</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">200 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_316318176_171403478 video_can_add video_hd " id="video_item_316318176_171403478" data-flags="16640" data-id="316318176_171403478" data-add-hash="ee8918b84447622038" data-thumb="https://pp.vk.me/c627316/v627316176/fdc8/En58QpVTGIA.jpg">
+  <a href="/video316318176_171403478" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '316318176_171403478'); return Video.show(event, '316318176_171403478', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c627316/v627316176/fdc8/En58QpVTGIA.jpg" style="background-image: url('https://pp.vk.me/c627316/v627316176/fdc8/En58QpVTGIA.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:28:05</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 316318176, 171403478)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 316318176, 171403478, 'ee8918b84447622038')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 316318176, 171403478, 'ee8918b84447622038')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 316318176, 171403478, 'ee8918b84447622038')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '316318176_171403478', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video316318176_171403478" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '316318176_171403478', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">t0rn4d0sm0rt4l3s.CineDobleHD</a>
+    <div class="video_item_author"><a href="/id316318176" class="mem_link">Cine Triple</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">165 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div><div  class="video_item _video_item ge_video_item_251968964_168423607 video_can_add " id="video_item_251968964_168423607" data-flags="256" data-id="251968964_168423607" data-add-hash="c17b7650cad26fff0f" data-thumb="https://pp.vk.me/c541206/u251968964/video/l_482794fc.jpg">
+  <a href="/video251968964_168423607" onclick="if (cur.cancelClick) return (cur.cancelClick = false); if (cur.chooseVideoMedia) return cur.chooseVideoMedia(this, '251968964_168423607'); return Video.show(event, '251968964_168423607', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">
+    <div class="video_item_thumb_wrap">
+      <div class="video_item_thumb _video_item_thumb crisp_image" data-thumb="https://pp.vk.me/c541206/u251968964/video/l_482794fc.jpg" style="background-image: url('https://pp.vk.me/c541206/u251968964/video/l_482794fc.jpg')">
+        <div class="video_wm"></div>
+        <div class="video_item_private"></div>
+        <div class="video_thumb_duration">1:45:44</div>
+        <div class="video_thumb_actions">
+             <div id="edit" onclick="return Video.onVideoEdit(event, this, 251968964, 168423607)" onmouseover="Video.toggleTooltip(this, 'Edit video');"><div class="icon"></div></div><!--
+          --><div id="move" onclick="return Video.onVideoMove(event, this, 251968964, 168423607, 'c17b7650cad26fff0f')" onmouseover="Video.toggleTooltip(this, 'Add to album');"><div class="icon"></div></div><!--
+          --><div id="delete" onclick="return Video.onVideoDelete(event, this, 251968964, 168423607, 'c17b7650cad26fff0f')" onmouseover="Video.toggleTooltip(this, 'Delete');"><div class="icon"></div></div><!--
+          --><div id="add" class="ge_add" onclick="return Video.onVideoAdd(event, this, 251968964, 168423607, 'c17b7650cad26fff0f')" onmouseover="Video.toggleAddTooltip(this, 'Add to My Videos', 'Remove from added');"><div class="icon icon_added"></div><div class="icon icon_add"></div></div>
+        </div>
+        <div class="video_thumb_play"></div>
+        <div class="media_check_btn_wrap" onclick="return cur.chooseVideoMedia(this, '251968964_168423607', true)"><div class="media_check_btn"></div></div>
+      </div>
+    </div>
+  </a>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/video251968964_168423607" onmouseover="Video.onItemEnter(this)" onclick="if(cur.cancelClick) return(cur.cancelClick = false); return Video.show(event, '251968964_168423607', {autoplay: 1, queue: 0, listId: '', playlistId: ''}, this);">007D2</a>
+    <div class="video_item_author"><a href="/jedgacia" class="mem_link">JEd Garcia</a></div>
+    <div class="video_item_add_info">
+      <span class="video_item_views">74 views</span><span class="video_item_date_info"><span class="divider"></span><span class="video_item_updated">five months ago</span></span>
+    </div>
+  </div>
+</div></div><div id="ui_all_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_all_load_more video_load_more_btn" onclick="Video.showMore('all', this)" style="" data-type="all">
+  Show more
+</div>
+</div><div class="video_subtab_pane ge_video_pane video_subtab_pane_uploaded" id="video_subtab_pane_uploaded" style="display: none">
+  <div class="video_items_list  _video_uploaded_list" id="video_uploaded_list"></div>
+</div><div class="video_subtab_pane ge_video_pane video_subtab_pane_albums" id="video_subtab_pane_albums" style="display: none">
+  <div class="video_items_list _video_albums_list" id="video_albums_list"><div class="video_playlist_item  video_playlist_item_playable" id="video_playlist_item_7" data-id="7">
+  <div class="video_playlist_item_thumb_wrap">
+    <div class="video_playlist_item_thumb crisp_image" style="background-image: url('https://pp.vk.me/c633521/v633521931/22af2/SkQmd2y9pJc.jpg')">
+      <a class="video_playlist_item_a" href="/videos311318970?section=album_7" onclick="if (cur.cancelClick) return (cur.cancelClick = false); window.Video && Video._saveHistoryAction(311318970, 7); return nav.go(this, event);"></a>
+      <div class="video_playlist_item_counter" onclick="return window.Video && '318555931_456239084' && '311318970' && Video.show(event, '318555931_456239084', {autoplay: 1, queue: 0, listId: '', playlistId: '311318970_7'}, this);">
+        <div class="video_playlist_item_counter_back" style="background-image: url('https://pp.vk.me/c633521/v633521931/22af2/SkQmd2y9pJc.jpg')"></div>
+        <div class="video_playlist_item_counter_text">
+          <span class="video_playlist_item_counter_num">12</span>video
+        </div>
+        <div class="video_playlist_item_play"></div>
+      </div>
+      <div class="video_item_private"></div>
+      <div class="video_drag_over_placeholder"><div>Add to album</div></div>
+    </div>
+  </div>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/videos311318970?section=album_7">Divine Gate</a>
+    <div class="video_item_updated">updated four months ago</div>
+  </div>
+</div><div class="video_playlist_item  video_playlist_item_playable" id="video_playlist_item_6" data-id="6">
+  <div class="video_playlist_item_thumb_wrap">
+    <div class="video_playlist_item_thumb crisp_image" style="background-image: url('https://pp.vk.me/c525123/u210939212/video/l_f8fc0210.jpg')">
+      <a class="video_playlist_item_a" href="/videos311318970?section=album_6" onclick="if (cur.cancelClick) return (cur.cancelClick = false); window.Video && Video._saveHistoryAction(311318970, 6); return nav.go(this, event);"></a>
+      <div class="video_playlist_item_counter" onclick="return window.Video && '210939212_167434673' && '311318970' && Video.show(event, '210939212_167434673', {autoplay: 1, queue: 0, listId: '', playlistId: '311318970_6'}, this);">
+        <div class="video_playlist_item_counter_back" style="background-image: url('https://pp.vk.me/c525123/u210939212/video/l_f8fc0210.jpg')"></div>
+        <div class="video_playlist_item_counter_text">
+          <span class="video_playlist_item_counter_num">12</span>video
+        </div>
+        <div class="video_playlist_item_play"></div>
+      </div>
+      <div class="video_item_private"></div>
+      <div class="video_drag_over_placeholder"><div>Add to album</div></div>
+    </div>
+  </div>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/videos311318970?section=album_6">X men Anime</a>
+    <div class="video_item_updated">updated 6 months ago</div>
+  </div>
+</div><div class="video_playlist_item  video_playlist_item_playable" id="video_playlist_item_5" data-id="5">
+  <div class="video_playlist_item_thumb_wrap">
+    <div class="video_playlist_item_thumb crisp_image" style="background-image: url('https://pp.vk.me/c623716/v623716468/3eafd/8lgI2LWtWjs.jpg')">
+      <a class="video_playlist_item_a" href="/videos311318970?section=album_5" onclick="if (cur.cancelClick) return (cur.cancelClick = false); window.Video && Video._saveHistoryAction(311318970, 5); return nav.go(this, event);"></a>
+      <div class="video_playlist_item_counter" onclick="return window.Video && '259934468_171181124' && '311318970' && Video.show(event, '259934468_171181124', {autoplay: 1, queue: 0, listId: '', playlistId: '311318970_5'}, this);">
+        <div class="video_playlist_item_counter_back" style="background-image: url('https://pp.vk.me/c623716/v623716468/3eafd/8lgI2LWtWjs.jpg')"></div>
+        <div class="video_playlist_item_counter_text">
+          <span class="video_playlist_item_counter_num">12</span>video
+        </div>
+        <div class="video_playlist_item_play"></div>
+      </div>
+      <div class="video_item_private"></div>
+      <div class="video_drag_over_placeholder"><div>Add to album</div></div>
+    </div>
+  </div>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/videos311318970?section=album_5">Bailando con vampiros[Castellano]</a>
+    <div class="video_item_updated">updated 6 months ago</div>
+  </div>
+</div><div class="video_playlist_item  video_playlist_item_playable" id="video_playlist_item_4" data-id="4">
+  <div class="video_playlist_item_thumb_wrap">
+    <div class="video_playlist_item_thumb crisp_image" style="background-image: url('https://pp.vk.me/c513112/u156909607/video/l_bc970c12.jpg')">
+      <a class="video_playlist_item_a" href="/videos311318970?section=album_4" onclick="if (cur.cancelClick) return (cur.cancelClick = false); window.Video && Video._saveHistoryAction(311318970, 4); return nav.go(this, event);"></a>
+      <div class="video_playlist_item_counter" onclick="return window.Video && '156909607_162710692' && '311318970' && Video.show(event, '156909607_162710692', {autoplay: 1, queue: 0, listId: '', playlistId: '311318970_4'}, this);">
+        <div class="video_playlist_item_counter_back" style="background-image: url('https://pp.vk.me/c513112/u156909607/video/l_bc970c12.jpg')"></div>
+        <div class="video_playlist_item_counter_text">
+          <span class="video_playlist_item_counter_num">26</span>video
+        </div>
+        <div class="video_playlist_item_play"></div>
+      </div>
+      <div class="video_item_private"></div>
+      <div class="video_drag_over_placeholder"><div>Add to album</div></div>
+    </div>
+  </div>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/videos311318970?section=album_4">Zoids: Fuzors 2004</a>
+    <div class="video_item_updated">updated 6 months ago</div>
+  </div>
+</div><div class="video_playlist_item  video_playlist_item_playable" id="video_playlist_item_3" data-id="3">
+  <div class="video_playlist_item_thumb_wrap">
+    <div class="video_playlist_item_thumb crisp_image" style="background-image: url('https://pp.vk.me/c533504/u172240419/video/l_6b7ef4f4.jpg')">
+      <a class="video_playlist_item_a" href="/videos311318970?section=album_3" onclick="if (cur.cancelClick) return (cur.cancelClick = false); window.Video && Video._saveHistoryAction(311318970, 3); return nav.go(this, event);"></a>
+      <div class="video_playlist_item_counter" onclick="return window.Video && '172240419_164024721' && '311318970' && Video.show(event, '172240419_164024721', {autoplay: 1, queue: 0, listId: '', playlistId: '311318970_3'}, this);">
+        <div class="video_playlist_item_counter_back" style="background-image: url('https://pp.vk.me/c533504/u172240419/video/l_6b7ef4f4.jpg')"></div>
+        <div class="video_playlist_item_counter_text">
+          <span class="video_playlist_item_counter_num">26</span>video
+        </div>
+        <div class="video_playlist_item_play"></div>
+      </div>
+      <div class="video_item_private"></div>
+      <div class="video_drag_over_placeholder"><div>Add to album</div></div>
+    </div>
+  </div>
+  <div class="video_item_info">
+    <a class="video_item_title" href="/videos311318970?section=album_3">Zoids_Zero 1999 - 2000</a>
+    <div class="video_item_updated">updated 6 months ago</div>
+  </div>
+</div></div>
+</div><div class="video_empty_placeholder no_rows" id="video_empty_placeholder_main" style="display: none"></div></div>
+  </div>
+</div>
+</div>
+<div id="videocat_other_blocks">
