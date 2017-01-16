@@ -1,16 +1,23 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv1</externallink>
+</item>
+
 
 <item>
 <link>http://Ignoreme</link>
 <title>[COLOR yellow]ingles basico [/COLOR][COLOR red](kids)[/COLOR]</title>
-<externalink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menuringles0</externalink>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menuringles0</externallink>
 <thumbnail>http://www.aprenderinglesrapidoyfacil.com/wp-content/uploads/2012/12/curso-de-ingle%CC%81s-ba%CC%81sico.png</thumbnail>
 </item>
 
 <item>
 <link>http://Ignoreme</link>
 <title>[COLOR red]Tema Especificos [/COLOR][COLOR red]ponerlo tipo thunails[/COLOR]</title>
-<externalink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menuringles1temasespecificos</externalink>
-<thumbnail>http://www.aprenderinglesrapidoyfacil.com/wp-content/uploads/2012/12/curso-de-ingle%CC%81s-ba%CC%81sico.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menuringles1temasespecificos</externallink>
+<thumbnail>https://yt3.ggpht.com/-3kHP3UujrUU/AAAAAAAAAAI/AAAAAAAAAAA/c5T89qly6Fk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
