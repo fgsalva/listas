@@ -12,10 +12,14 @@
     
     
     <item>
-    <title>[COLOR yellow]prueba openload ***[/COLOR]</title>
-    <link>plugin://plugin.video.openloadmovies/?url=http://openloadmovies.net/movies/the-wizard-of-gore-1970&amp;mode=100</link>
+    <title>[COLOR yellow]prueba openload ***2[/COLOR]</title>
+    <link>plugin://plugin.video.openloadmovies/?http%3A%2F%2Fopenloadmovies.net%2Fmovies%2Fmiss-sharon-jones-2015%2F&mode=100</link>
     </item>
   
+   <item>
+    <title>[COLOR yellow]prueba openload ***3[/COLOR]</title>
+    <link>plugin://plugin.video.openloadmovies/?url=http%3A%2F%2Fopenloadmovies.net%2Fmovies%2Fmiss-sharon-jones-2015%2F&mode=100&name=%5BB%5D%5BCOLOR+white%5DMiss+Sharon+Jones%21+%282015%29%5B%2FCOLOR%5D%5B%2FB%5D&iconimage=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300_and_h450_bestv2%2F9j6oUvxYX3cQbnzpyziFlF86xkz.jpg&fanart=C%3A%5CUsers%5CLic.Ferrer%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.openloadmovies%5Cfanart.jpg&description=</link>
+    </item>
   
   
 nopitem>
