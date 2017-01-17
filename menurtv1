@@ -218,3 +218,159 @@ http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 1 DE 
 http://1.442244.info/de_sky_sport_1/index.m3u8
+
+
+#EXTINF:-1,beIN Sport 1
+http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,beIN Sport 2
+http://mcdn-play-759.5centscdn.net/hd2bein2/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,beIN Sport 3
+http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,beIN Sport 4
+http://mcdn-play-759.5centscdn.net/hd4bein4/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,beIN Sport 5
+http://mcdn-play-759.5centscdn.net/hd5bein5/live.stream/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,beIN Sport 6
+rtmp://live.iptv-planet.com:1936/live1/b6?user=5162&pass=ee4c
+#EXTINF:-1,beIN Sport 7
+rtmp://live.iptv-planet.com:1936/live1/b7?user=5162&pass=ee4c
+#EXTINF:-1,beIN Sport 8
+rtmp://live.iptv-planet.com:1936/live1/b8?user=5162&pass=ee4c
+#EXTINF:-1,beIN Sport 9
+rtmp://live.iptv-planet.com:1936/live1/b9?user=5162&pass=ee4c
+#EXTINF:-1,beIN Sport 10
+rtmp://live.iptv-planet.com:1936/live1/b10?user=5162&pass=ee4c
+
+
+
+#EXTINF:-1,beIN Sport 1 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1-hq
+#EXTINF:-1,beIN Sport 2 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2-hq
+#EXTINF:-1,beIN Sport 3 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3-hq
+#EXTINF:-1,beIN Sport 4 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein4-hq
+#EXTINF:-1,beIN Sport 5 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein5-hq
+#EXTINF:-1,beIN Sport fr1 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1fr-hq
+#EXTINF:-1,beIN Sport fr2 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2fr-hq
+#EXTINF:-1,Sky Sport 1
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports1-hq
+#EXTINF:-1,Sky Sport 2
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports2-hq
+#EXTINF:-1,Sky Sport 3
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports3-hq
+#EXTINF:-1,Sky Sport 4
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports4-hq
+#EXTINF:-1,Sky Sport 5
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports5-hq
+
+
+
+
+ 
+#EXTINF:-1,MinbarElHoriya (Bein Sport)
+http://vstream2.hadara.ps:1935/hrHD1_e/hr1/chunklist_w732374626.m3u8
+#EXTINF:-1,Salam Sport(beIN Sport)
+http://htv.mada.ps:8888/salamtv/salamtv/index.m3u8
+#EXTINF:-1,KolNas(beIN Sport)
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+#EXTINF:-1,ATN Afghan
+http://atn.ercdn.net/atn.m3u8
+#EXTINF:-1,Irib Varzesh
+http://s3.telewebion.com:1935/devices/varzesh-1000k.stream/playlist.m3u8
+#EXTINF:-1,Irib Varzesh
+http://cdn1.live.irib.ir:1935/tv/smil:varzesh/playlist.m3u8
+#EXTINF:-1,Irib Varzesh
+http://s3.telewebion.com:1935/devices/varzesh-100k.stream/playlist.m3u8
+#EXTINF:-1,Varzesh Sport
+http://63.237.48.9/ios/VARZESH_TV/VARZESH_TV.m3u8?v=1599780909
+ 
+ 
+ 
+#EXTINF:-1,Sport Ajyal MADA
+http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
+#EXTINF:-1,MADA AJYAL
+http://htv.mada.ps:8888/ajyal/livestreamm/index.m3u8
+
+#EXTINF:-1,Alfajer (Bein Sport)(1)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/chunklist_w2096566955.m3u8
+#EXTINF:-1,Al Fajer (Bein Sport)(2)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
+#EXTINF:-1,Alfajer 2 (Bein Sport)(3)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/playlist.m3u8
+#EXTINF:-1,Alfajer 2 (Bein sport)(4)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/gmswf.m3u8?v=1418040163 
+#EXTINF:-1,Alfajer 3 (Bein Sport)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv3/playlist.m3u8
+#EXTINF:-1,Alfajer 4 (Bein Sport)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv4/playlist.m3u8
+#EXTINF:-1,Nawras (Bein Sport)
+http://vstream2.hadara.ps:1935/hrHD1_e/hr3/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1,KolNas (Bein Sport)
+http://w2.mada.ps:1935/kolalnas/c1/playlist.m3u8
+#EXTINF:-1,beIN Sport 3
+http://185.152.64.75:8000//live/4adasdasdajgsjda/21ase4asda23s1d5e/34.ts
+#EXTINF:-1,SUPERSPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1,bein sport 4
+http://81.230.200.187:1967/live/Kodi/XBMC/260.m3u8
+#EXTINF:-1,Bein sport 6
+http://81.230.200.187:1967/live/mustafa/mustafa1/258.m3u8
+#EXTINF:-1,bein sport 3
+http://149.202.207.8:8080/sAlakHHarR00sibhensp-3/Strm/index.m3u8
+#EXTINF:-1,Football euro
+http://uefaliveshow-lh.akamaihd.net/i/20150827_1@64648/index_2000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Arena Sport 1
+http://1.442244.info/cro_arena_sport_1/index.m3u8
+#EXTINF:-1,Arena Sport 2
+http://1.442244.info/cro_arena_sport_2/index.m3u8
+#EXTINF:-1,Arena Sport 3
+http://1.442244.info/cro_arena_sport_3/index.m3u8
+#EXTINF:-1,Arena Sport 4
+http://1.442244.info/cro_arena_sport_4/index.m3u8
+#EXTINF:-1,Arena Sport 5
+http://1.442244.info/cro_arena_sport_5/index.m3u8
+
+#EXTINF:-1,Euro Sport 1
+http://83.218.223.86/live/_definst_/smil:Eurosport.smil/playlist.m3u8
+#EXTINF:-1,Euro Sport 2
+http://83.218.223.86/live/_definst_/smil:Eurosport_2.smil/playlist.m3u8
+#EXTINF:-1,Irib Varzesh
+http://s3.telewebion.com:1935/devices/varzesh-500k.stream/playlist.m3u8
+#EXTINF:-1,Idman
+http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
+#EXTINF:-1,Idman
+http://85.132.59.163:8080/play/a00y
+#EXTINF:-1,AZTV
+http://fqhls-f.akamaihd.net/i/aztv_1@321938/master.m3u8
+#EXTINF:-1,football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,NTV
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+#EXTINF:-1,Al Fajer rtmp
+rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv
+#EXTINF:-1,Premier leaugue
+rtmp://151.80.20.37:1936/live/fblive
+
+#EXTINF:-1,Abu dhabi Sport 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu dhabi Sport 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu dhabi Sport 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu dhabi Sport 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Abu dhabi Sport 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5 
+#EXTINF:-1,Abu dhabi Sport 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
