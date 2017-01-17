@@ -220,15 +220,15 @@ http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 http://1.442244.info/de_sky_sport_1/index.m3u8
 
 
-#EXTINF:-1,beIN Sport 1
+#EXTINF:-1,beIN Sport 1 arabe
 http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,beIN Sport 2
+#EXTINF:-1,beIN Sport 2 arabe
 http://mcdn-play-759.5centscdn.net/hd2bein2/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,beIN Sport 3
+#EXTINF:-1,beIN Sport 3 arabe
 http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,beIN Sport 4
+#EXTINF:-1,beIN Sport 4 arabe
 http://mcdn-play-759.5centscdn.net/hd4bein4/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,beIN Sport 5
+#EXTINF:-1,beIN Sport 5 arabe
 http://mcdn-play-759.5centscdn.net/hd5bein5/live.stream/tracks-v1a1/index.m3u8
 
 
@@ -289,6 +289,24 @@ http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=beoutadsports2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=beoutadsports2
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=beoutadsports2
+
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",Sporttv1 eng
+http://198.255.76.34:8080/sporttv1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",Sporttv2 eng
+http://198.255.76.34:8080/sporttv2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",Sporttv2 eng
+http://198.255.76.34:8080/sporttv3/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",Sporttv4 eng
+http://198.255.76.34:8080/sporttv4/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",bein1hd
+http://mcdn-play-759.5centscdn.net/hd1bein1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",bein2hd
+http://mcdn-play-759.5centscdn.net/hd2bein1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="kadero",bein3hd
+http://mcdn-play-759.5centscdn.net/hd3bein3/live.stream/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport3
