@@ -270,3 +270,120 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5 
 #EXTINF:-1,Abu dhabi Sport 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport1 360p
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=beoutadsports1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?v=beoutadsports1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=beoutadsports1
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport2 360p
+http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=beoutadsports2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=beoutadsports2
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=beoutadsports2
+
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport3
+http://adtv.ercdn.net/adsport3/adsport3.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport3 360p
+http://adtv.ercdn.net/adsport3/adsport3_360p.m3u8?v=beoutadsports3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport3
+http://adtv.ercdn.net/adsport3/adsport3_480p.m3u8?v=beoutadsports3
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport3
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8?v=beoutadsports3
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport4
+http://adtv.ercdn.net/adsport4/adsport4.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport4 360p
+http://adtv.ercdn.net/adsport4/adsport4_360p.m3u8?v=beoutadsports4
+http://adtv.ercdn.net/adsport4/adsport4_480p.m3u8?v=beoutadsports4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport4
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8?v=beoutadsports4
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport5
+http://adtv.ercdn.net/adsport5/adsport5.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport5 360p
+http://adtv.ercdn.net/adsport5/adsport5_360p.m3u8?v=beoutadsports5
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport5
+http://adtv.ercdn.net/adsport5/adsport5_480p.m3u8?v=beoutadsports5
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport5
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8?v=beoutadsports5
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport5
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport6
+http://adtv.ercdn.net/adsport6/adsport6.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport6 360p
+http://adtv.ercdn.net/adsport6/adsport6_360p.m3u8?v=beoutadsports6
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport6
+http://adtv.ercdn.net/adsport6/adsport6_480p.m3u8?v=beoutadsports6
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport6
+http://adtv.ercdn.net/adsport6/adsport6_720p.m3u8?v=beoutadsports6
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport7
+http://adtv.ercdn.net/adsport7/adsport7.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport7 360p
+http://adtv.ercdn.net/adsport7/adsport7_360p.m3u8?v=beoutadsports7
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport7
+http://adtv.ercdn.net/adsport7/adsport7_480p.m3u8?v=beoutadsports7
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssport7
+http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8?v=beoutadsports7
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssportextra
+http://adtv.ercdn.net/adsportextra/adsportextra.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssportextra 360p
+http://adtv.ercdn.net/adsportextra/adsportextra_360p.m3u8?v=boutadextra
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssportextra
+http://adtv.ercdn.net/adsportextra/adsportextra_360p.m3u8?v=boutadextra
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",adssportextra
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8?v=boutadextra
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 1
+http://teledunet.tv:8888/bein_sport_1.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 2
+http://teledunet.tv:8888/bein_sport_2.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 2
+http://teledunet.tv:8888/bein_sport_2.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 3
+http://teledunet.tv:8888/bein_sport_3.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 5
+http://teledunet.tv:8888/bein_sport_5.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 5
+http://teledunet.tv:8888/bein_sport_5.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS 5
+http://teledunet.tv:8888/bein_sport_5.m3u8?idu=roivampire_79042578300
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/927?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/928?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/929?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/930?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/931?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/932?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/933?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/934?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/935?token=beOUTOfficiel-SPORTS1
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS c
+rtmp://149.202.206.50:1935/myapp/936?token=beOUTOfficiel-SPORTS1
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS F1
+http://teledunet.tv:8888/bein_sports_1_hd_fr.m3u8?idu=roivampire_79042578300
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="adsport",BeinS F2
+http://teledunet.tv:8888/bein_sports_2_hd_fr.m3u8?idu=roivampire_79042578300
+
+
