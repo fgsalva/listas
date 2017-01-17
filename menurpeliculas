@@ -4,13 +4,21 @@
 <link>http://Ignoreme</link>
 <title>[COLOR green]**********************[/COLOR][COLOR blue]F E R R E R [/COLOR][COLOR red]L I S T[/COLOR] PELICULAS[COLOR green]**********************[/COLOR]</title>
 </item>
+
+<item>
+    <title>[COLOR yellow]prueba openload [/COLOR]</title>
+    <link>plugin://plugin.video.openloadmovies/?url=http://openloadmovies.net/movies/the-wizard-of-gore-1970/&amp;mode=100&amp;name=[B][COLOR+white]The+Wizard+of+Gore+(1970)[/COLOR]</link>
+    </item>
+    
 nopitem>
     <title>[COLOR yellow]Lista de Peliculas Ferrer 0 [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/PELICULASFERRER</externallink>
     </item>
     
-      
+    
+    plugin://plugin.video.openloadmovies/?url=http://openloadmovies.net/movies/the-wizard-of-gore-1970/&amp;mode=100&amp;name=[B][COLOR+white]The+Wizard+of+Gore+(1970)[/COLOR]
+
       
     nopitem>
     <title>[COLOR yellow]Lista de Peliculas 2 LATINO [/COLOR]</title>
