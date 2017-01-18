@@ -136,14 +136,14 @@
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR] [COLOR skyblue][B]PELICULAS FERRER VK [/B] [/COLOR]vkvideos311318970 [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR] [COLOR yellow][B]PELICULAS FERRER VK [/B] [/COLOR]311318970 [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>[makelist.param2]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrerv2</referer>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer2</referer>
 <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres>1.(?=http)(.*)[\w\W\s]{0,1}2.(?=http)(.*)[\w\W\s]{0,1}3.(.*)</expres>
