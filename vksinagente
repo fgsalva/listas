@@ -135,7 +135,7 @@
 </regex>
 </item>
 
-<item>
+<FUNCIONA SIN ESPACIOitem>
 <title> [COLOR lime]•[/COLOR] [COLOR yellow][B]PELICULAS FERRER VK [/B] [/COLOR]311318970 [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -156,7 +156,7 @@
 </regex>
 </item>
 
-
+CON ESPACIO ENTRE 
 <item>
 <title> [COLOR lime]•[/COLOR] [COLOR yellow][B]PELICULAS FERRER VK [/B] [/COLOR]311318970** [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
