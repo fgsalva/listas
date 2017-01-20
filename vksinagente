@@ -135,6 +135,10 @@
 </regex>
 </item>
 
+
+
+
+
 <FUNCIONA SIN ESPACIOitem>
 <title> [COLOR lime]•[/COLOR] [COLOR yellow][B]PELICULAS FERRER VK [/B] [/COLOR]311318970 [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -179,6 +183,36 @@ CON ESPACIO ENTRE  y con punto
 </item>
 
 
+CON ESPACIO ENTRE y sin punto
+<item>
+<title> [COLOR lime]•[/COLOR] [COLOR green][B]PELICULAS FERRER VK [/B] [/COLOR]311318970*sin punto* [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>[makelist.param2]</link>
+<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer2</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>1[\w\W\s]{0,1}(?=http)(.*)[\w\W\s]{0,1}2[\w\W\s]{0,1}(?=http)(.*)[\w\W\s]{0,1}3[\w\W\s]{0,1}(.*)</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer2</page>
+<referer>https://vk.com/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
 CON ESPACIO ENTRE  y con punto
 <item>
 <title> [COLOR lime]•[/COLOR] [COLOR blue][B]PELICULAS FERRER VK [/B] [/COLOR]videos-58230834 [COLOR lightblue]serverferrer3[I][/I][/COLOR]</title>
@@ -202,27 +236,6 @@ CON ESPACIO ENTRE  y con punto
 </item>
 
 
-CON ESPACIO ENTRE y sin punto
-<item>
-<title> [COLOR lime]•[/COLOR] [COLOR yellow][B]PELICULAS FERRER VK [/B] [/COLOR]311318970*sin punto* [COLOR lightblue]opcion serverferrer2 videos311318970[I][/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>[makelist.param2]</link>
-<referer>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer2</referer>
-<thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres>1[\w\W\s]{0,1}(?=http)(.*)[\w\W\s]{0,1}2[\w\W\s]{0,1}(?=http)(.*)[\w\W\s]{0,1}3[\w\W\s]{0,1}(.*)</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer2</page>
-<referer>https://vk.com/</referer>
-<connection>keep-alive</connection>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 serverferrerconsolidado CON ESPACIO ENTRE y sin punto
 <item>
