@@ -2545,7 +2545,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://pics.filmaffinity.com/the_sopranos_tv_series-356875926-large.jpg</thumbnail>
 		<fanart>http://elpalomitron.com/wp-content/uploads/2015/06/Los-soprano-personajes.jpg</fanart>
@@ -2576,7 +2576,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://pics.filmaffinity.com/family_matters_tv_series-795292648-large.jpg</thumbnail>
 		<fanart>http://www.alfabetajuega.com/multimedia/imagenes/201501/97867.alfabetajuega-steve-urkel-280115.jpg</fanart>
@@ -2607,7 +2607,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://3.bp.blogspot.com/--8ZbTBgVZoY/UIx3QFNIQCI/AAAAAAAAKh0/dqiryyHt9Ro/s400/1163629-gf.jpg</thumbnail>
 		<fanart>http://www.alfabetajuega.com/multimedia/imagenes/201508/118828.alfabetajuega-el-principe-de-bel-air-180815.jpg</fanart>
@@ -2638,7 +2638,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://3.bp.blogspot.com/-9cYxMCD7M9k/T-YLMDlmQ6I/AAAAAAAAMZw/aOv2VQzchsI/s400/18123_12_951.jpg</thumbnail>
 		<fanart>http://www.losreplicantes.com/images/articulos/0000/14/4.jpg</fanart>
@@ -2669,7 +2669,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://es.web.img3.acsta.net/pictures/15/06/11/10/26/578661.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/xnEaawUxaos/hqdefault.jpg</fanart>
@@ -2700,7 +2700,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://pics.filmaffinity.com/e_r_tv_series-570742193-large.jpg</thumbnail>
 		<fanart>http://2.bp.blogspot.com/-IwdrTCmXViQ/VBuFZJW1GuI/AAAAAAAABhs/8pEKFW58gz8/s1600/Wallpaper-er-32359697-1280-720.jpg</fanart>
@@ -2731,7 +2731,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://4.bp.blogspot.com/-2ovg2H_C9zk/UmLGs8LNM-I/AAAAAAAA0nU/Z8ZSVcPouXg/s1600/dinosaurs+01.jpg</thumbnail>
 		<fanart>http://k30.kn3.net/taringa/3/9/2/A/6/3/antoni16z16/693.jpg</fanart>
@@ -3029,7 +3029,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51MsTuBHcUL._AC_UL320_SR246,320_.jpg</thumbnail>
 		<fanart>http://img.rtve.es/v/3428281?w=1180&preview=1451472038289.jpg</fanart>
@@ -3060,7 +3060,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://goo.gl/KOIg47</thumbnail>
 		<fanart>https://cinemania-cdn.s3.amazonaws.com/img/conts/609692f_xfiles.jpg</fanart>
@@ -3091,7 +3091,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.cineol.net/galeria/carteles/bigtmp_316serie.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/betG20xBcKI/hqdefault.jpg</fanart>
@@ -3122,7 +3122,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://www.seriestop.com/images/images_dvd/la_dimension_desconocida_3.jpg</thumbnail>
 		<fanart>http://www.ladimensiondesconocidaa.com/wp-content/uploads/2015/06/La-dimension-desconocida-capitulos.jpg</fanart>
@@ -3191,7 +3191,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://http-s.ws/ysk/img/data/a576515e93c6bfd5e66cf44f0ca9140f-size-145x205-a.jpg</thumbnail>
 		<fanart>http://1.bp.blogspot.com/-NCwOF_H9zv8/U9TMyqXzs_I/AAAAAAAAAF4/t057c4E3tac/s1600/hombres+de+paco+logo.png</fanart>
@@ -3260,7 +3260,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] •  [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://cloud10.todocoleccion.online/album-completo/tc/2009/07/02/14023745.jpg</thumbnail>
 		<fanart>http://laguiatv.abc.es/Media/201505/21/calzaslargas--644x362.jpg</fanart>
@@ -3291,7 +3291,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [COLOR yellow] [makelist.param2]</title>
+        <title>[COLOR blue]Re[/COLOR][COLOR white]cur[/COLOR][COLOR blue]dos[/COLOR] • [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>http://seriesadicto.com/img/series/mi-bella-genio.jpg</thumbnail>
 		<fanart>http://goo.gl/74KT5d</fanart>
