@@ -7,9 +7,6 @@
 
 
 
-
-
-
 <item>
 <link>http://Ignoreme</link>
 <title>[COLOR red]                                                   [/COLOR][COLOR red][/COLOR]</title>
@@ -45,13 +42,13 @@
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menur</externallink>
 </item><item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]                                      ENTRAR[/COLOR][COLOR red][/COLOR]</title>
+<title>[COLOR red]                                                ENTRAR[/COLOR][COLOR red][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menura</externallink>
 </item>
 <!----------------------
 
 <item>
-<title>[COLOR red]                                         ENTRAR [/COLOR][COLOR green] *Publico*[/COLOR]</title>
+<title>[COLOR red]                                             ENTRAR [/COLOR][COLOR green] *Publico*[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
