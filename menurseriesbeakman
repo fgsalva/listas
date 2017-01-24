@@ -1,40 +1,6 @@
 
 #EXTM3U
-#EXTINF:0,[B][COLOR blue]BEAKMAN[COLOR orangered]  [/COLOR][/B] 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",25 Reflexion, Beakmania y Madame Curie (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/25 Reflexion, Beakmania y Madame Curie (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",26 La rueda y buscando respuestas (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/26 La rueda y buscando respuestas (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",27 Submarinos y digestion (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/27 Submarinos y digestion (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",28 Corazon y helicopteros (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/28 Corazon y helicopteros (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",29 La luna y los ascensores (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/29 La luna y los ascensores (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",30 Las baterias y los globos (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/30 Las baterias y los globos (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",31 Murcielagos y energia (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/31 Murcielagos y energia (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",32 Tuneles y trenes (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/32 Tuneles y trenes (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",33 Cielo y Henry Ford (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/33 Cielo y Henry Ford (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",34 Piano e ilusiones (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/34 Piano e ilusiones (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",35 Revisiones medicas y petroleo (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/35 Revisiones medicas y petroleo (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",36 Relampagos y los huesos (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/36 Relampagos y los huesos (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",37 Video juegos y los dientes (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/37 Video juegos y los dientes (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",38 Benjamin franklin y reaccion quimica (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/38 Benjamin franklin y reaccion quimica (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",39 Las hormigas y colisiones (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/39 Las hormigas y colisiones (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",40 El dolor y cometas (360p_30fps_H264-96kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/40 El dolor y cometas (360p_30fps_H264-96kbit_AAC).mp4	
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",T1 20 Microndas, Beakmania, Aranas (720p_30fps_H264-192kbit_AAC).mp4
-http://nuestrahuella.com/videos/beakman/T1 20 Microndas, Beakmania, Aranas (720p_30fps_H264-192kbit_AAC).mp4	
+#EXTINF:0,[B][COLOR blue]BEAKMAN[COLOR oranged]  [/COLOR][/B] 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",capitulo-3.mp4
 http://nuestrahuella.com/videos/beakman/capitulo-3.mp4	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",capitulo-4.mp4
@@ -57,4 +23,37 @@ http://nuestrahuella.com/videos/beakman/capitulo11.mp4
 http://nuestrahuella.com/videos/beakman/capitulo12.mp4	
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",capitulo2.mp4
 http://nuestrahuella.com/videos/beakman/capitulo2.mp4	
-	
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",25 Reflexion, Beakmania y Madame Curie (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/25%20Reflexion,%20Beakmania%20y%20Madame%20Curie%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",26 La rueda y buscando respuestas (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/26%20La%20rueda%20y%20buscando%20respuestas%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",27 Submarinos y digestion (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/27%20Submarinos%20y%20digestion%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",28 Corazon y helicopteros (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/28%20Corazon%20y%20helicopteros%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",29 La luna y los ascensores (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/29%20La%20luna%20y%20los%20ascensores%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",30 Las baterias y los globos (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/30%20Las%20baterias%20y%20los%20globos%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",31 Murcielagos y energia (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/31%20Murcielagos%20y%20energia%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",32 Tuneles y trenes (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/32%20Tuneles%20y%20trenes%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",33 Cielo y Henry Ford (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/33%20Cielo%20y%20Henry%20Ford%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",34 Piano e ilusiones (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/34%20Piano%20e%20ilusiones%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",35 Revisiones medicas y petroleo (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/35%20Revisiones%20medicas%20y%20petroleo%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",36 Relampagos y los huesos (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/36%20Relampagos%20y%20los%20huesos%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",37 Video juegos y los dientes (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/37%20Video%20juegos%20y%20los%20dientes%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",38 Benjamin franklin y reaccion quimica (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/38%20Benjamin%20franklin%20y%20reaccion%20quimica%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",39 Las hormigas y colisiones (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/39%20Las%20hormigas%20y%20colisiones%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",40 El dolor y cometas (360p_30fps_H264-96kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/40%20El%20dolor%20y%20cometas%20(360p_30fps_H264-96kbit_AAC).mp4
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="beakman",T1 20 Microndas, Beakmania, Aranas (720p_30fps_H264-192kbit_AAC).mp4
+http://nuestrahuella.com/videos/beakman/T1%2020%20Microndas,%20Beakmania,%20Aranas%20(720p_30fps_H264-192kbit_AAC).mp4
