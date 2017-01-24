@@ -52,7 +52,7 @@ nopitem>
 </item>
 *********************************
 *********************************
-<item>
+<nopitem>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Estrenos hdfulltv [/B] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
@@ -95,7 +95,7 @@ nopitem>
 </item>
 
 
-<item>
+<nopitem>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Recien Actualizadas hdfulltv[/B] [/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
@@ -137,7 +137,7 @@ nopitem>
 </regex>
 </item>
 
-<item>
+<nopitem>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Estrenos[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
@@ -179,7 +179,7 @@ nopitem>
 </item>
 
 
-<item>
+<nopitem>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
 <link>$doregex[makelist3]</link>
 
