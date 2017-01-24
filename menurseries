@@ -12,7 +12,7 @@
     <title>[COLOR yellow]El mundo de Beakman[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurseriesbeakman</externallink>
-            <thumbnail>http://vignette1.wikia.nocookie.net/doblaje/images/1/1c/BeakmansWorld.jpg/revision/latest?cb=20091227035746&path-prefix=es</thumbnail>
+            <thumbnail>http://deckerix.com/imagenes/blog/el_mundo_de_beakman.jpg</thumbnail>
 	<fanart>http://site.lacosacine.com/img/tv/310b6a_el_mundo_de_beakman.jpg</fanart>
 </item> 
 
@@ -53,7 +53,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param3]</title>
 <link>$doregex[getUrl]</link>
-<thumbnail>http://www.elmulticine.com/imagenes/carteles/2/i-carli-poster-b.jpg</thumbnail>
+<thumbnail>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</thumbnail>
 <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
@@ -79,7 +79,7 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.elmulticine.com/imagenes/carteles/2/i-carli-poster-b.jpg</thumbnail>
+<thumbnail>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</thumbnail>
 <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
 </item>
 
