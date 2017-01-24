@@ -1857,20 +1857,19 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 </item>
 
 
-
 <item>
-<title>Series Playlist 123</title>
-<link>$doregex[makelist]</link>
+<title>Series Playlist ModFerrer </title>
+<link>$doregex[makelist3]</link>
 
 <regex>
-  <name>makelist</name>
+  <name>makelist3</name>
   <listrepeat><![CDATA[
-        <title>[COLOR skyblue][makelist.param2] - [makelist.param3][/COLOR]</title>
+        <title>[COLOR skyblue][makelist3.param2] - [makelist3.param3][/COLOR]</title>
         <link>$doregex[makelist2]</link>
 		<thumbnail></thumbnail>
         ]]></listrepeat>
 <expres>playlist:"(.*?)" name:"(.*?)" info:"(.*?)";</expres>
-<page>http://adryanlist.org/adryan/kozm.txt</page>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -1882,13 +1881,15 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 		<thumbnail>[makelist2.param3]</thumbnail>
         ]]></listrepeat>
 <expres>class="name" href="(.*?)">(.*?)<[\w\W\s]{0,160}src="(.*?)"</expres>
-<page>[makelist.param1]</page>
+<page>[makelist3.param1]</page>
 <cookieJar></cookieJar>
 </regex>
+
+
 <regex>
-  <name>makelist3</name>
+  <name>makelist</name>
   <listrepeat><![CDATA[
-        <title> [makelist3.param3]</title>
+        <title> [makelist.param3]</title>
         <link>$doregex[getUrl]</link>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
@@ -1918,8 +1919,12 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
 <fanart></fanart>
 </item>
 
+
+
+
+
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS[/COLOR] </title>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]Series[/B] [/COLOR][COLOR skyblue]CLASICAS Naredo[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 <regex>
   <name>makelist2</name>
