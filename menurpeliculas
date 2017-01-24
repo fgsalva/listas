@@ -239,7 +239,6 @@ nopitem>
 </item>
 
 
-
 *********************
   <nopitem>
 <title>[COLOR skyblue][B]Copiapop nivyed[/B][/COLOR] [COLOR lightslategray]  Peliculas Audio Latino  [/COLOR] </title>
@@ -280,7 +279,7 @@ nopitem>
 
 *****************
 <item>
-<title>[COLOR lime]TAQUILLERRAS </title>
+<title>[COLOR lime]Peliculas (TAQUILLERRAS) [/COLOR]</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -295,7 +294,7 @@ nopitem>
 </regex>
 
 <item>
-<title>[COLOR lime]TAQUILLERRAS Mod</title>
+<title>[COLOR lime]Pelicula (TAQUILLERRAS) Mod</title>
 <link>$doregex[makelist3]</link>
 
 <regex>
@@ -308,10 +307,6 @@ nopitem>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <cookieJar></cookieJar>
 </regex>
-
-
-
-
 
 *****************
 <item>
