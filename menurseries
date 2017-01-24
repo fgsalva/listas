@@ -46,7 +46,7 @@
 ********
 
 <item>
-<title>[COLOR yellow]] • Icarly•[/COLOR </title>
+<title>[COLOR yellow]]Icarly (mod)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
