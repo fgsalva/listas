@@ -7218,8 +7218,29 @@ Server:"Navideñas Ferrer" src="http://diskokosmiko.mx/trivianita/peliculas-navi
 Server:"Latinas Ferrer (el grinch)" src="http://diskokosmiko.mx/shipwreck/peliculas-varias-en-ingles-y-latino-20697/list,1,4";
 Server:"V Latinas Ferrer" src="http://diskokosmiko.mx/sorprenent/peliculas-actuales-43528/list,1,7";
 
-
 Serverseriedrakeyjhos:"Temporada 1" src="http://diskokosmiko.mx/seri5/drake-y-josh1-29237/list,1,7";
 Serverseriedrakeyjhos:"Temporada 2" src="http://diskokosmiko.mx/seri5/drake-y-josh2-29236/list,1,7";
 Serverseriedrakeyjhos:"Temporada 3" src="http://diskokosmiko.mx/seri5/drake-y-josh3-29235/list,1,7";
 Serverseriedrakeyjhos:"Temporada 4" src="http://diskokosmiko.mx/seri5/drake-y-josh4-29234/list,1,7";
+
+
+playlist:"http://diskokosmiko.mx/naredo" name:"Series" info:"Retro";
+playlist:"http://diskokosmiko.mx/titotv" name:"Tito TV" info:" ";
+playlist:"http://diskokosmiko.mx/trivianita" name:"Trivianita" info:" ";
+playlist:"http://diskokosmiko.mx/seri5" name:"Series 5" info:" ";
+playlist:"http://diskokosmiko.mx/monnet" name:"Series Latinas" info:"El Chema  y mas";
+playlist:"http://diskokosmiko.mx/FLAYSINA" name:"Flaysina" info:"Novelas y mas";
+playlist:"http://diskokosmiko.mx/SeriesHD" name:"Series HD" info:"series en Dual audio y mas";
+playlist:"http://diskokosmiko.mx/Nightwing" name:"Nightwing" info:" Pelis y Series";
+playlist:"http://diskokosmiko.mx/IngArturo" name:"IngAr" info:" 230 peliculas en Audio Latino";
+playlist:"http://diskokosmiko.mx/marcos20" name:"M20" info:"Top Series";
+playlist:"http://diskokosmiko.mx/Elnegro17" name:"Negro" info:"The Walking Dead, Juego de tronos";
+playlist:"http://diskokosmiko.mx/chicho306" name:"Series y Peliculas CH" info:"";
+playlist:"http://diskokosmiko.mx/Cuspide" name:"CuspidePlaylist" info:"";
+playlist:"http://diskokosmiko.mx/pupurb" name:"MegaTaquilla" info:"";
+playlist:"http://diskokosmiko.mx/ermejor" name:"Vip Peliculas" info:"";
+playlist:"http://diskokosmiko.mx/frankiepentangelli" name:"Cine EspaÃ±ol" info:"";
+playlist:"http://diskokosmiko.mx/hector-jaime-lopez" name:"Series I" info:" mas Series";
+playlist:"http://diskokosmiko.mx/joshito" name:"Series II" info:" El SeÃ±or de los cielos entre otras";
+playlist:"http://diskokosmiko.mx/elibertol" name:"Peliculas Aleatorias I" info:" Dejate Sorprender";
+playlist:"http://diskokosmiko.mx/maxxcn" name:"Peliculas Aleatorias II" info:" Dejate Sorprender";
