@@ -130,24 +130,6 @@ http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO nop
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-b.m3u8
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",Telecinco
-http://cdn2.elitegol.xyz:8081/verdirectotv/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",La Cuatro
-http://cdn2.elitegol.xyz:8081/verdirectotv/2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",Divinity
-http://cdn2.elitegol.xyz:8081/verdirectotv/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",Divinity
-http://cdn4.elitegol.xyz:8081/verdirectotv/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",antena 3
-http://cdn2.elitegol.xyz:8081/verdirectotv/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",La sexta
-http://cdn2.elitegol.xyz:8081/verdirectotv/6/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="verdirecto",antena3 series
-http://cdn2.elitegol.xyz:8081/verdirectotv/7/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200a
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
