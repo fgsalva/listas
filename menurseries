@@ -93,8 +93,8 @@
         <listrepeat><![CDATA[
             <title>[B][COLOR yellow]Capitulo [makelist.param0][/COLOR][/B]</title>
             <link>$doregex[getUrl]</link>
-            <thumbnail>http://www.elmulticine.com/imagenes/carteles/2/i-carli-poster-b.jpg</thumbnail>
-            <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
+            <thumbnail>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</thumbnail>
+             <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
         ]]></listrepeat>
         <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
         <page>http://diskokosmiko.mx/seri5/1-4rly-t3mp-1-34081</page>
@@ -119,9 +119,10 @@
                 <connection>keep-alive</connection>
                 <cookieJar></cookieJar>
                 </regex>
-         <thumbnail>http://www.elmulticine.com/imagenes/carteles/2/i-carli-poster-b.jpg</thumbnail>
-            <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
-                </item>
+                <thumbnail>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</thumbnail>
+                <fanart>http://www.24horas.cl/incoming/article1848235.ece/ALTERNATES/w620h350/icarly.JPG</fanart>
+		</item>
+
 *************************************
 <item>
 <title> [COLOR lime]Drake y Jhos[/COLOR][COLOR skyblue] MODFERRER[/COLOR] </title>
