@@ -27,7 +27,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/22925592/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone
 http://iphone-streaming.ustream.tv/uhls/22925588/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone
 http://iphone-streaming.ustream.tv/uhls/22924405/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone
@@ -37,16 +36,6 @@ http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal 1 proxy 22925592
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925592&stream=1&connectionId=oldurl-42d2cb09a5e071b18a2cd07ef9afba6e6a2ea74c&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal 2 proxy 22925588
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925588&stream=1&connectionId=oldurl-fd9403b6a39d719b51fceacf1a5176cf5170538d&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal 3 Proxy 22924405
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22924405&stream=1&connectionId=oldurl-32341f80d30866340a08c89e85c5dd7e5be12acd&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",tiki canal four Proxy 22925579
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22925579&stream=1&connectionId=oldurl-2e242b0f0964475e5fb0f198d207cdbe6079a633&group=iphone
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Proxy nueva
-http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22913005&stream=1&connectionId=oldurl-bf87dd4ba4adf38d2e23bb07574fd2bb2fc219ba&group=iphone
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
@@ -63,14 +52,6 @@ http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 
-
-
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png",Fox Sports Argentina
-http://streannlive-lh.akamaihd.net/i/dep01_1@187557/index_1000_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1484262472~acl=%2f*~data=hdntl~hmac=8328f7be833f8d61747eb42f07facbd0db96034375b51522b5ab9b7eff21ae47
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/espn.png",ESPN Argentina
-http://streannlive-lh.akamaihd.net/i/Peru_1@340826/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1484261065~acl=%2f*~data=hdntl~hmac=c850c196fdb973d9b63e2b31e67fb528c5b59f77f28d416886d08c6cfb429316
-#EXTINF:0 group-title="Canales Deportivos1",tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",Box Nation
-http://149.202.207.8:8080/sAlakHHarR00sibxoo-nan/Strm/index.m3u8
 #EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/realmadrid.png",Real Madrid TV. 
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
