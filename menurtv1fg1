@@ -36,7 +36,6 @@ http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
