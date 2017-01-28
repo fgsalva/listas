@@ -15,9 +15,9 @@ http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",SHIDURLE  24/7 
-http://www.shidurlive.com/stream/4e6a4d324d545a6c4e6a4532597a59314e7a4d334d4463794e6a55325a4459354e7a55325a444d30/7ac110cf3ef0 Referer=http://shidurlive.com/embed/canalespremium4
+http://www.shidurlive.com/stream/4e6a4d324d545a6c4e6a4532597a59314e7a4d334d4463794e6a55325a4459354e7a55325a444d30/7ac110cf3ef0 Referer=http://cdn.shidurlive.com/player.swf
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",SHIDURLE  24/7 *
-http://www.shidurlive.com/stream/4e6a4d324d545a6c4e6a4532597a59314e7a4d334d4463794e6a55325a4459354e7a55325a444d30/7ac110cf3ef0 
+http://www.shidurlive.com/stream/4e6a4d324d545a6c4e6a4532597a59314e7a4d334d4463794e6a55325a4459354e7a55325a444d30/7ac110cf3ef0 Referer http://cdn.shidurlive.com/player.swf
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
