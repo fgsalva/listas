@@ -13,7 +13,8 @@ http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSICA  24/7 NUEVO
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS" DICOMAX
+http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/dismax_9c7n25t/chunklist.m3u8?st=XkyCsrgYD_dsRCsEsoXBew&e=1485723535
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",unimas
