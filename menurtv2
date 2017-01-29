@@ -12,7 +12,7 @@
 <referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex> 
 ]]></listrepeat>
 <expres>espana:"(.*?)" name:"(.*?)";</expres>
-<page>http://adryanlist.org/adryan/kozm.txt</page>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
