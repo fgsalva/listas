@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Canales España[/B] [/COLOR][COLOR lightblue][I]OPCION 1[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/ver/[makelist.param1].php</page>
+<referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex> 
+]]></listrepeat>
+<expres>espana:"(.*?)" name:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
-
-
 <item><title>[COLOR deepskyblue]La Cuatro[/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/2.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
 <item><title>[COLOR deepskyblue]Telecinco[/COLOR]</title>
