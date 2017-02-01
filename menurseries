@@ -260,7 +260,7 @@
   <listrepeat><![CDATA[
         <title>[COLOR skyblue][makelist2.param1][/COLOR]</title>
         <link>$doregex[makelist]</link>
-		<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/186114/p186114_b_v8_aa.jpg</thumbnail>
+		<thumbnail>http://dragonballtv.com/wp-content/uploads/2011/10/saga-saiyajin.jpg</thumbnail>
         ]]></listrepeat>
 <expres>Serverseriedragonball:"(.*?)" src="(.*?)"</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
@@ -296,7 +296,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/186114/p186114_b_v8_aa.jpg</thumbnail>
+<thumbnail>http://dragonballtv.com/wp-content/uploads/2011/10/saga-saiyajin.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/imagenes/SagaSaiyajin.jpg</fanart>
 </item>
 
 **********
