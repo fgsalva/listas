@@ -178,6 +178,15 @@
 </item>
 
 
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]tiki01 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal1.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 <item><title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]tiki02 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
@@ -189,9 +198,6 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-
-
-
 
 
 
