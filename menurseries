@@ -2432,6 +2432,12 @@ class="name"[\w\W\s]{0,10}<a href="(.*?)" data-action-before="preview">(.*)<
     <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series6</externallink>
 </item>
 
+<item>
+    <title>[COLOR yellow]series3 [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/series3</externallink>
+</item>
+
 
 
 
