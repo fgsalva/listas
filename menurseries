@@ -357,7 +357,7 @@
   <listrepeat><![CDATA[
         <title>[COLOR skyblue][makelist2.param1][/COLOR]</title>
         <link>$doregex[makelist]</link>
-	<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/6b/d6/94/6bd6941ec753dc25d5c5194c7a8c2456.jpg</thumbnail>
+	<thumbnail>http://www.seriesonline.net/cdn/series/5cb038193111abd9b1621cc8162f70f1.jpg</thumbnail>
         ]]></listrepeat>
 <expres>Serverseriebigbang:"(.*?)" src="(.*?)"</expres>
 <page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
@@ -393,8 +393,9 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/6b/d6/94/6bd6941ec753dc25d5c5194c7a8c2456.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/736x/6b/d6/94/6bd6941ec753dc25d5c5194c7a8c2456.jpg</fanart></item>
+<thumbnail>http://www.seriesonline.net/cdn/series/5cb038193111abd9b1621cc8162f70f1.jpg</thumbnail>
+<fanart>http://www.seriesonline.net/cdn/series/5cb038193111abd9b1621cc8162f70f1.jpg</fanart>
+</item>
 **********
 **********
 <item>
