@@ -42,27 +42,29 @@
 </item>
 
 *************************************
+********
 
 <item>
-<title>Los Munsters </title>
+<title>El chavo del ocho</title>
 <link>$doregex[makelist]</link>
+
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61B%2BhinzAIL._AC_UL320_SR234,320_.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/09/b7/dd/09b7ddebf9d283cec0fd300ffda42fc4.jpg</fanart>
-]]></listrepeat>
+		<thumbnail>http://seriesblanco.com/files/uploads/2159.jpg</thumbnail>
+        <fanart>http://www.oronoticias.com.mx/Noticia/29/img/chavo-30112014-103930.jpg</fanart>
+        ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Thehouse/los-munsters-46286/list,1,7</page>
+<page>http://diskokosmiko.mx/jamesplo4/el-chav0-23362/list,1,11</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection>
 <accept>*/*</accept>
@@ -73,14 +75,55 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/Thehouse/los-munsters-46286/list,1,7</referer>
+<referer>http://diskokosmiko.mx/jamesplo4/el-chav0-23362/list,1,11</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61B%2BhinzAIL._AC_UL320_SR234,320_.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/09/b7/dd/09b7ddebf9d283cec0fd300ffda42fc4.jpg</fanart>
+<thumbnail>http://seriesblanco.com/files/uploads/2159.jpg</thumbnail>
+<fanart>http://www.oronoticias.com.mx/Noticia/29/img/chavo-30112014-103930.jpg</fanart>
 </item>
 
+
+<item>
+<title>Lo mejor de Chespirito y el chavo</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.dmtinc.cl/imagenes/5qOX8.jpg</thumbnail>
+        <fanart>http://cde.americatv.com.pe/ima/0/0/0/4/1/41560.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/titotv/el-chavo-lo-mejor-de-chespirito-2804/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/titotv/el-chavo-lo-mejor-de-chespirito-2804/list,1,8</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.dmtinc.cl/imagenes/5qOX8.jpg</thumbnail>
+        <fanart>http://cde.americatv.com.pe/ima/0/0/0/4/1/41560.jpg</fanart>
+</item>
+
+********
 ********
 
 <item>
