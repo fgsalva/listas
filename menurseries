@@ -170,9 +170,93 @@
 </regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/186114/p186114_b_v8_aa.jpg</thumbnail>
 </item>
+**********
+**********
+
+<item>
+<title>Sabrina la Bruja adolecente 1 temporada</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://2.bp.blogspot.com/-z00E9y1QMKg/UUYrCFHcytI/AAAAAAAAAKY/JSkvH0-qxY8/s1600/sabrina.jpg</thumbnail>
+        <fanart>http://cdn7.larepublica.pe/sites/default/files/styles/img_620/public/imagen/2016/03/21/hola-Noticia-750252.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/d3gge/sabrita1-45746/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/d3gge/sabrita1-45746/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-z00E9y1QMKg/UUYrCFHcytI/AAAAAAAAAKY/JSkvH0-qxY8/s1600/sabrina.jpg</thumbnail>
+        <fanart>http://cdn7.larepublica.pe/sites/default/files/styles/img_620/public/imagen/2016/03/21/hola-Noticia-750252.jpg</fanart>
+</item>
 
 
 
+
+<item>
+<title>Sabrina la Bruja adolecente 2 temporada</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://3.bp.blogspot.com/-s6LiDdfh8AY/VaXI_c1RBrI/AAAAAAAAAP4/m74zPnzLHX4/s320/sabrina2.jpeg</thumbnail>
+        <fanart>http://i58.tinypic.com/2ufrtsi.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/d3gge/sabritas2-45768/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/d3gge/sabritas2-45768/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-s6LiDdfh8AY/VaXI_c1RBrI/AAAAAAAAAP4/m74zPnzLHX4/s320/sabrina2.jpeg</thumbnail>
+ <fanart>http://i58.tinypic.com/2ufrtsi.jpg</fanart>
+</item>
+
+
+
+**********
 ********
 <item>
 <title>[COLOR blue]Recuerdos[/COLOR] [COLOR yellow]•JUEGO DE TRONOS OPCION 2• [/COLOR]</title>
