@@ -614,19 +614,20 @@
 
 **********
 **********
+
 <item>
-<title>Aprendiendo a vivir 1 temporada</title>
+<title>Vikingos 1 temporada  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.series21.com/thumbs/series_180x270_85/340.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+        <thumbnail>http://intlportal2.s3.foxfilm.com/intlportal2/dev-temp/es-ES/__55ffc337304a7.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0007-34120/list,1,1</page>
+<page>http://diskokosmiko.mx/seri5/vikingos-28575/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -644,68 +645,28 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0007-34120/list,1,1</referer>
+<referer>http://diskokosmiko.mx/seri5/vikingos-28575/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.series21.com/thumbs/series_180x270_85/340.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>Aprendiendo a vivir 2 temporada</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://1.bp.blogspot.com/-IFblpTm6rOw/VpMWMWy7yhI/AAAAAAAADIE/UB5A-WyaLPo/s320/0.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0008-34122/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0008-34122/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-IFblpTm6rOw/VpMWMWy7yhI/AAAAAAAADIE/UB5A-WyaLPo/s320/0.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+<thumbnail>http://intlportal2.s3.foxfilm.com/intlportal2/dev-temp/es-ES/__55ffc337304a7.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 </item>
 
 
 <item>
-<title>Aprendiendo a vivir 3 temporada</title>
+<title>Vikingos 2 temporada  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://1.bp.blogspot.com/-6-QyHnhtxnQ/Vq64xAbKNuI/AAAAAAAADNw/0TpgCDutpNo/s1600/0.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+        <thumbnail>http://peliculasrajoy.com/wp-content/uploads/2015/05/vikingos-temporada-3.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0009-34126/list,1,1</page>
+<page>http://diskokosmiko.mx/pecoso84/0176-45356/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -723,107 +684,30 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0009-34126/list,1,1</referer>
+<referer>http://diskokosmiko.mx/pecoso84/0176-45356/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://1.bp.blogspot.com/-6-QyHnhtxnQ/Vq64xAbKNuI/AAAAAAAADNw/0TpgCDutpNo/s1600/0.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-</item>
-
-
-<item>
-<title>Aprendiendo a vivir 4 temporada</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://1.bp.blogspot.com/-LIuO-ixoDAE/VeMXtnFNHTI/AAAAAAAACq0/G0iCAkwHPSU/s320/0003.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0010-34127/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0010-34127/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-LIuO-ixoDAE/VeMXtnFNHTI/AAAAAAAACq0/G0iCAkwHPSU/s320/0003.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-</item>
-
-
-<item>
-<title>Aprendiendo a vivir 5 temporada</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://1.bp.blogspot.com/-4H9APsbKKVk/VlZ4gUaSoRI/AAAAAAAAC3M/VLvVI7oYwPQ/s320/BMW-4.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0011-34235/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0011-34235/list,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-4H9APsbKKVk/VlZ4gUaSoRI/AAAAAAAAC3M/VLvVI7oYwPQ/s320/BMW-4.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+<thumbnail>http://elfinalde.com/wp-content/uploads/2016/02/w1SiyVcFQIB1YbeKfT7KBnVMItO-683x1024.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 </item>
 
 
 
+
 <item>
-<title>Aprendiendo a vivir 6 temporada</title>
+<title>Vikingos 3 temporada  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://2.bp.blogspot.com/-qjHa8FQPKFg/T_fLnAXSxxI/AAAAAAAAAVQ/kwjDSmXg144/s1600/boymeetsworld6yq7.png</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+        <thumbnail>http://peliculasrajoy.com/wp-content/uploads/2015/05/vikingos-temporada-3.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0012-34245/list,1,1</page>
+<page>http://diskokosmiko.mx/pecoso84/0177-45368/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -841,28 +725,27 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0012-34245/list,1,1</referer>
+<referer>http://diskokosmiko.mx/pecoso84/0177-45368/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://2.bp.blogspot.com/-qjHa8FQPKFg/T_fLnAXSxxI/AAAAAAAAAVQ/kwjDSmXg144/s1600/boymeetsworld6yq7.png</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+<thumbnail>http://elfinalde.com/wp-content/uploads/2016/02/w1SiyVcFQIB1YbeKfT7KBnVMItO-683x1024.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 </item>
 
-
 <item>
-<title>Aprendiendo a vivir 7 temporada</title>
+<title>Vikingos 4 temporada  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://2.bp.blogspot.com/-CvEpCBjgYwg/VtZWKtyGRmI/AAAAAAAADW0/ncB_jGkTKWM/s320/0.jpg</thumbnail>
-		<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+        <thumbnail>http://static.hellofriki.com/wp-content/uploads/2015/12/vikings-temporada-4-poster.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/pecoso84/0013-34246/list,1,1</page>
+<page>http://diskokosmiko.mx/pecoso84/0178-45369/list,1,1</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -880,12 +763,12 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/pecoso84/0013-34246/list,1,1</referer>
+<referer>http://diskokosmiko.mx/pecoso84/0178-45369/list,1,1</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://2.bp.blogspot.com/-CvEpCBjgYwg/VtZWKtyGRmI/AAAAAAAADW0/ncB_jGkTKWM/s320/0.jpg</thumbnail>
-<fanart>http://www.f-covers.com/cover/boy-meets-world-facebook-cover-timeline-banner-for-fb.jpg</fanart>
+<thumbnail>http://static.hellofriki.com/wp-content/uploads/2015/12/vikings-temporada-4-poster.jpg</thumbnail>
+<fanart>http://solopormega.com/wp-content/uploads/2015/07/vikings-720p.jpg</fanart>
 </item>
 
 **********
