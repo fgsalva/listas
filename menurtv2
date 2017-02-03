@@ -177,58 +177,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]barcatv  telefig[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://telefivegb.com/canales/deporte/barcatv/</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/barcatv/</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]goltv  telefig[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://telefivegb.com/canales/deporte/goltv/</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/goltv/</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]111  09stream.com/[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://09stream.com/canales/deportes/plus-partidazo.php</sportsdevil>
-<referer>http://09stream.com/canales/deportes/plus-partidazo.php</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]113  09stream.com/canales/[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://www.playerhd1.pw/channel.php?file=113&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://www.playerhd1.pw/channel.php?file=113&width=650&height=400&autostart=true</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]111  09stream.com/canales/[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]113  09stream.com/canales/[COLOR yellow]**.[/COLOR]</title>
-<sportsdevil>http://www.playerhd1.pw/channel.php?file=113&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://09stream.com/canales/</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]111  09stream.com/canales/[COLOR yellow]**.[/COLOR]</title>
-<sportsdevil>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://09stream.com/canales/</referer>
-<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
-</item>
 
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
