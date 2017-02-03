@@ -45,14 +45,14 @@
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 112 cinestreno2[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 141 cinestreno2[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal2.html</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal2.html</referer>
 <thumbnail></thumbnail>
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER*[/COLOR]plusfutbol 112 cinestreno2a[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER*[/COLOR]plusfutbol 141 cinestreno2a[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/multifutbol1.html</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/multifutbol1.html</referer>
 <thumbnail></thumbnail>
@@ -60,32 +60,55 @@
 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 112 90stream2[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 141 90stream2[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://09stream.com/canales/multifutbol1.html</sportsdevil>
 <referer>http://09stream.com/canales/multifutbol1.html</referer>
 <thumbnail></thumbnail>
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 112 cinestreno3[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 142 cinestreno3[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal3.html</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/deportes/multifutbol/canal3.html</referer>
 <thumbnail></thumbnail>
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 112 cinestreno3a[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 142 cinestreno3a[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/envivo/multifutbol2.html</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/multifutbol2.html</referer>
 <thumbnail></thumbnail>
 </item> 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 112 90stream2[COLOR yellow]**[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]plusfutbol 142 90stream2[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://09stream.com/canales/multifutbol2.html</sportsdevil>
 <referer>http://09stream.com/canales/multifutbol2.html</referer>
 <thumbnail></thumbnail>
 </item> 
+
+
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]151 cinestreno1[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</referer>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]151 cinestreno2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/laliga123multi1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/laliga123multi1.html</referer>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]151 09stream[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/laliga123multi1.html</sportsdevil>
+<referer>http://09stream.com/canales/laliga123multi1.html</referer>
+<thumbnail></thumbnail>
+</item>
 
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
