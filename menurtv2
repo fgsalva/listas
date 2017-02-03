@@ -178,7 +178,21 @@
 
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]111  09stream.com/canales/[COLOR yellow]**.[/COLOR]</title>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]barcatv  telefig[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://telefivegb.com/canales/deporte/barcatv/</sportsdevil>
+<referer>http://telefivegb.com/canales/deporte/barcatv/</referer>
+<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]goltv  telefig[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://telefivegb.com/canales/deporte/goltv/</sportsdevil>
+<referer>http://telefivegb.com/canales/deporte/goltv/</referer>
+<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]111  09stream.com/[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://09stream.com/canales/deportes/plus-partidazo.php</sportsdevil>
 <referer>http://09stream.com/canales/deportes/plus-partidazo.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
