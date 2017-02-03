@@ -14,14 +14,9 @@ http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSICA  24/7 NUEVO
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",clubdirecto
-rtmp://87.106.183.39/live/myStream_2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",clubdirecto
-rtmp://87.106.183.39/live/myStream_3
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",discovery uuuu
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",discovery max uu
-rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
