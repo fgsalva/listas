@@ -57,53 +57,6 @@
 
 
 
-<nopitem>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] DirectvSports[/B][/COLOR] vip beytv [COLOR lightslategray]  [/COLOR]  </title>
-<link>http://$doregex[ip]/live/$doregex[name].m3u8?token=$doregex[token]</link>
-
-<regex>
-<name>ip</name>
-<expres>edgeserverip = '(.*?)';</expres>
-<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
-<referer>http://vipracing.info</referer>
-</regex>
-
-<regex>
-<name>name</name>
-<expres>var name     = '(.*?)';</expres>
-<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
-<referer>http://vipracing.info</referer>
-</regex>
-
-<regex>
-<name>token</name>
-<expres>token=(.*?)";</expres>
-<page>http://byetv.org/embed.php?a=357&amp;id=357&amp;width=653&amp;height=410&amp;autostart=true&amp;strech=</page>
-<referer>http://vipracing.info</referer>
-</regex>
-
-<nopitem>
-<title>[B][COLOR deepskyblue]Multicanal[/COLOR][COLOR lightblue] Bein ñ[/B][/COLOR] vip [COLOR lightslategray] [/COLOR] </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.publish247.xyz:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.247bay.tv/membedplayer/$doregex[canal]/2/750/420</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.247bay.tv</referer>
-			</regex><regex>
-			<name>canal</name>
-			<expres>channel='(.*?)'</expres>
-			<page>http://vipracing.info/channel/bein-es1/frame</page>
-			</regex>
-<thumbnail></thumbnail>
-</item>
-
 
 *****
 <item>
@@ -216,17 +169,6 @@
             <referer>http://tvferrer2015.blogspot.com/2017/02/dinozap112ferrer.html</referer>
             <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ vip[/COLOR][COLOR yellow] info[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
-<referer>http://vipracing.info</referer>
-</item>
-
-<item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ vip[/COLOR][COLOR yellow] tv[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.tv/channel/bein-es1%26referer=http://vipracing.tv</link>
-<referer>http://vipracing.tv</referer>
-</item>
 
 
 <item>
@@ -273,14 +215,15 @@
             <referer>http://telefivegb.com/deporte/ver-bein-sport-laliga-en-vivo-y-online-gratis-por-internet</referer>
             <thumbnail></thumbnail>
 </item>
-<item>
+
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinLiga 111 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=111&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item>
 
-<item>
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]plus futbol 112 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=112&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=112&width=650&height=450&autostart=true</referer>
@@ -288,70 +231,70 @@
 </item>
 
 
-<item>
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinEspaña 113 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=113&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Deportes1 114 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=114&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Deportes2 115 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=115&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Formula1 116 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=116&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Moto GP 117 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=117&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Eurosport 120 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=120&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR green] dinozap [/COLOR]Movistar Eurosport2 121 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=121&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=121&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN 1HD 122 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=122&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
  	<title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN 2HD 123 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=123&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BEIN CONECT 119 [COLOR lime][/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=119&width=650&height=450&autostart=true</referer>
             <thumbnail></thumbnail>
 </item> 
-<item>
+<nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]BeinDirect 141[COLOR lime] Evento[/COLOR]</title>
             <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</sportsdevil>
             <referer>http://www.dinozap.info/redirect/channel.php?id=141&width=650&height=450&autostart=true</referer>
@@ -409,6 +352,12 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>VERLIGA2</title>
+<sportsdevil>http://verliga.net/tv/verliga-2.html</sportsdevil>
+<referer>http://verliga.net/tv/verliga-2.html</referer>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>VERLIGA3</title>
 <sportsdevil>http://www.verliga.net/verliga-3.html</sportsdevil>
