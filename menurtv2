@@ -61,6 +61,34 @@
 </item>
 
 <item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 105711 Cinestreno[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 105711 Cinestreno2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/beinsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/beinsports.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 105711 Cinestreno3[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/beinsport.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/beinsport.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 105711 09stream[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/beinsport.html</sportsdevil>
+<referer>http://09stream.com/canales/beinsport.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR]gol 105770 CINESTRENO[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
@@ -153,8 +181,6 @@
 <thumbnail></thumbnail>
 </item> 
 
-
-
 <item>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR]151 cinestreno1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
@@ -175,6 +201,29 @@
 <referer>http://09stream.com/canales/laliga123multi1.html</referer>
 <thumbnail></thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]1057-5partidazo Cinestreno[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</referer>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]1057-5partidazo Cinestreno2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/plus-partidazo.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]1057-5partidazo 09Stream[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/plus-partidazo.html</sportsdevil>
+<referer>http://09stream.com/canales/plus-partidazo.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+</item>
+
+
 
 
 
