@@ -385,20 +385,20 @@
 </item>
 <item>
 <title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 9 [/COLOR][COLOR yellow]105946[/COLOR]</title>
-<sportsdevil>http://cdn.zonasports.me/stream-9.php</sportsdevil>
-<referer>http://zonasports.to</referer>
+<sportsdevil>http://zonasports.me/channel.php?id=9</sportsdevil>
+<referer>http://zonasports.me</referer>
 </item>
 
 <item>
 <title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 10 nbc hd[/COLOR][COLOR yellow] 106137[/COLOR]</title>
-<sportsdevil>http://cdn.zonasports.me/stream-10.php</sportsdevil>
-<referer>http://zonasports.to</referer>
+<sportsdevil>http://zonasports.me/channel.php?id=10</sportsdevil>
+<referer>http://zonasports.me</referer>
 </item>
 
 <item>
-<title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 11 bein hd[/COLOR][COLOR yellow] p3gtv[/COLOR]</title>
-<sportsdevil>http://cdn.zonasports.me/stream-11.php</sportsdevil>
-<referer>http://zonasports.to</referer>
+<title>[COLOR white][COLOR blue] dinozap [/COLOR]ZonaEsport 11+ bein hd[/COLOR][COLOR yellow] p3gtv[/COLOR]</title>
+<sportsdevil>http://zonasports.me/channel.php?id=11</sportsdevil>
+<referer>http://zonasports.me</referer>
 </item>
 
 <item>
