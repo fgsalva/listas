@@ -89,6 +89,29 @@
 </item>
 
 <item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 141 canal2 cinetreno[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal2.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal2.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 141 canal2 cinetreno2[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/beinlaliga1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/beinlaliga1.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]bein 141 canal2 09steam[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/beinlaliga1.html</sportsdevil>
+<referer>http://09stream.com/canales/beinlaliga1.html</referer>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+</item>
+
+
+
+<item>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR]gol 105770 CINESTRENO[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
 <referer>http://cinestrenostv.tv</referer>
