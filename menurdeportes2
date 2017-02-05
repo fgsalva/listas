@@ -189,6 +189,9 @@
 <thumbnail></thumbnail>
 </item>
 
+
+
+
 <item>
 <title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]tiki02 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -202,6 +205,22 @@
 
 
 
+
+
+
+
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]111[COLOR yellow] freehdsport[/COLOR]</title>
+            <sportsdevil>http://tvferrer2015.blogspot.com/2017/02/dinozap111ferrer.html</sportsdevil>
+            <referer>http://tvferrer2015.blogspot.com/2017/02/dinozap111ferrer.html</referer>
+            <thumbnail></thumbnail>
+</item>
+<item>
+            <title>[COLOR white][COLOR blue] dinozap [/COLOR]112[COLOR yellow] freehdsport[/COLOR]</title>
+            <sportsdevil>http://tvferrer2015.blogspot.com/2017/02/dinozap112ferrer.html</sportsdevil>
+            <referer>http://tvferrer2015.blogspot.com/2017/02/dinozap112ferrer.html</referer>
+            <thumbnail></thumbnail>
+</item>
 <item>
 <title>[COLOR white][COLOR blue] dinozap [/COLOR]Bein ñ vip[/COLOR][COLOR yellow] info[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vipracing.info/channel/bein-es1%26referer=http://vipracing.info</link>
