@@ -133,7 +133,6 @@
 
 
 
-
 <item>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR]gol 105770 CINESTRENO[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
@@ -169,27 +168,50 @@
 
 
 <item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 111 telefig[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://telefivegb.com/deporte/ver-canal-bein-sport-liga-hd-online-gratis-vivo/</sportsdevil>
+<referer>http://telefivegb.com/deporte/ver-canal-bein-sport-liga-hd-online-gratis-vivo/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 111a telefig[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://sport.gblackstreaming.com/channel/050_liga/1.html</sportsdevil>
+<referer>http://sport.gblackstreaming.com/channel/050_liga/1.html</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 111b telefig[COLOR yellow]**[/COLOR]</title>
+<sportsdevil>http://sport.gblackstreaming.com/channel/050_liga/2.html</sportsdevil>
+<referer>http://sport.gblackstreaming.com/channel/050_liga/2.html</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+<nopitem>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 111+ plaerhd1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 112+ plaerhd1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://www.playerhd1.pw/channel.php?file=112&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<nopitem>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 111++ plaerhd1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://telefivegb.com/</referer>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<nopopitem>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR] 112++ plaerhd1[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://www.playerhd1.pw/channel.php?file=112&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://telefivegb.com/</referer>
