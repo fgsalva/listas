@@ -51,6 +51,28 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] DARK[COLOR red]*********[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/nacionales/dark.php</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] DARK[COLOR red]*******[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/dark.html</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] DARK[COLOR red]*******[/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/dark.html</sportsdevil>
+<referer>http://09stream.com/canales/dark.html</referer>
+<thumbnail></thumbnail>
+</item>
+
+
+
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
 <item><title>[COLOR deepskyblue]La Cuatro[/COLOR]</title>
