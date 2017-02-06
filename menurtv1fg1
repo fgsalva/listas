@@ -21,9 +21,9 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",fox es
-http://cdn3.shurs.xyz/live/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMTcgMjozNToyMSBBTSZoYXNoX3ZhbHVlPWpCZGRrZnZTdHFhRTdqUjl0OHVEVnc9PSZ2YWxpZG1pbnV0ZXM9NQ== |User-Agent=iPad
+http://cdn3.shurs.xyz/live/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMTcgMjozNToyMSBBTSZoYXNoX3ZhbHVlPWpCZGRrZnZTdHFhRTdqUjl0OHVEVnc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",0
-http://cdn7.shurs.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMTcgMjozNzowNCBBTSZoYXNoX3ZhbHVlPURGa1VFUDkzNGFIWXZZV054dVB4N3c9PSZ2YWxpZG1pbnV0ZXM9NQ== |User-Agent=iPad
+http://cdn7.shurs.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMTcgMjozNzowNCBBTSZoYXNoX3ZhbHVlPURGa1VFUDkzNGFIWXZZV054dVB4N3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8 |User-Agent=iPad
 
