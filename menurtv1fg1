@@ -22,10 +22,7 @@ rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8 |User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
-rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1 live
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
