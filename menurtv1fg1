@@ -43,22 +43,27 @@ http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone anterior
 http://iphone-streaming.ustream.tv/uhls/22898248/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone anterior
 http://iphone-streaming.ustream.tv/uhls/22925588/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone anterior
 http://iphone-streaming.ustream.tv/uhls/22924405/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone anterior
 http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone nuevo
+http://iphone-streaming.ustream.tv/uhls/22931402/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone nuevo
+http://iphone-streaming.ustream.tv/uhls/19431072/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone nuevo
+http://iphone-streaming.ustream.tv/uhls/22911267/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone nuevo
+http://iphone-streaming.ustream.tv/uhls/20336339/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Sd iPhone
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Ligg  nuevoo
-http://iphone-streaming.ustream.tv/uhls/22925718/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
