@@ -20,8 +20,8 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8 |User-Agent=iPad
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID2
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8 |User-Agent=iPad
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
