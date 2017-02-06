@@ -39,10 +39,17 @@
 <item>
 <title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] DARK[COLOR red]**[/COLOR]</title>
 <sportsdevil>http://verdirectotv.net/ver-dark-tv-cine-de-terror-online-y-directo-hd/</sportsdevil>
-<referer>http://verdirectotv.net/ver-dark-tv-cine-de-terror-online-y-directo-hd/referer>
+<referer>http://verdirectotv.net/ver-dark-tv-cine-de-terror-online-y-directo-hd/</referer>
 <thumbnail></thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] DARK[COLOR red]***[/COLOR]</title>
+<sportsdevil>http://verdirectotv.net/ver-dark-tv-cine-de-terror-online-y-directo-hd/</sportsdevil>
+<referer>http://www.ponlatv.net/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf</referer>
+<thumbnail></thumbnail>
+</item>
 
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
