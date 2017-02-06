@@ -144,6 +144,16 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow]Multicanal[/COLOR] [COLOR lightblue]tiki03 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal3.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 <nopitem>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]111[COLOR yellow] freehdsport[/COLOR]</title>
@@ -465,27 +475,11 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]1057-5partidazo biophobia[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://biophobia.tv/deportes/canalpluspartidazo.php</sportsdevil>
-<referer>http://biophobia.tv/deportes/canalpluspartidazo.php</referer>
-<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white][COLOR blue] *FERRER* [/COLOR]1057-5partidazo biophobiasd[COLOR yellow]**[/COLOR]</title>
 <sportsdevil>http://biophobia.tv/deportes/biophobiasd.php</sportsdevil>
 <referer>http://biophobia.tv/deportes/biophobiasd.php</referer>
 <thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR white][COLOR blue] *FERRER* [/COLOR]gol biophobiasd[COLOR yellow]**[/COLOR]</title>
-<sportsdevil>http://biophobia.tv/deportes/gol.php</sportsdevil>
-<referer>http://biophobia.tv/deportes/gol.php</referer>
-<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
-</item>
-
-
 
 <item>
             <title>[COLOR white][COLOR blue] dinozap [/COLOR]LaLiga caufree9[COLOR yellow] freehdsport[/COLOR]</title>
