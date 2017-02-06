@@ -18,7 +18,23 @@
 </regex>
 </item>
 
-
+<item>
+<title> [COLOR lime]•[/COLOR] [COLOR yellow][B] Canales España[/B] [/COLOR][COLOR lightblue][I]2[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal[makelist.param1]</page>
+<referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex> 
+]]></listrepeat>
+<expres>espana2:"(.*?)" name:"(.*?)";</expres>
+<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item><title>[COLOR deepskyblue]Antena 3 [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/5.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
