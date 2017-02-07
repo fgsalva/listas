@@ -15,73 +15,50 @@ http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",discovery uuuu
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Discovery Chanel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID2
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8 |User-Agent=iPad
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TVeo Miami.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",unimas
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",unimas
 http://iphone-streaming.ustream.tv/uhls/22737466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telemundo x7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",Telemundo x7
 http://stream.ssh101.com:1935/live/anahix7/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Univision - Pacifico Ustream
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",Univision - Pacifico Ustream
 http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TRT World (INGLES)
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELE LA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",TELE LA
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",UNI LA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",UNI LA
 http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEM LA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",TELEM LA
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone anterior
-http://iphone-streaming.ustream.tv/uhls/22898248/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone anterior
-http://iphone-streaming.ustream.tv/uhls/22925588/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone anterior
-http://iphone-streaming.ustream.tv/uhls/22924405/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone anterior
-http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone nuevo
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="premiun",Tikitaka Canal 1 HD iPhone nuevo
 http://iphone-streaming.ustream.tv/uhls/22931402/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone nuevo
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="premiun",Tikitaka Canal 2 HD iPhone nuevo
 http://iphone-streaming.ustream.tv/uhls/19431072/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone nuevo
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="premiun",Tikitaka Canal 3* iPhone nuevo
 http://iphone-streaming.ustream.tv/uhls/22911267/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone nuevo
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="premiun",Tikitaka Canal 4* iPhone nuevo
 http://iphone-streaming.ustream.tv/uhls/20336339/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",verliga  Canal 1 Sd iPhone
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="premiun",verliga  Canal 1 Sd iPhone
 http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DINO",*tyc
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="LUPE",CANAL CLARO TV*
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports
-http://159.203.63.133:8081/rstm/FoxSports/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports2
-http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",FoxSports3
-http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
 #EXTINF:0 group-title="Canales Deportivos",tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_8487.png",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 
-#EXTINF:0 group-title="Canales Deportivos1", tvg-logo="http://abdavega.playlatinohd.com/logos/deportes/realmadrid.png",Real Madrid TV. 
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
@@ -152,6 +129,10 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&a
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 p
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8 |User-Agent=iPad
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID2
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8 |User-Agent=iPad
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO 500
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
@@ -166,6 +147,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",REAL MADRID TV..
 http://1.442244.info/sp_real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",,Real Madrid TV. 
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
@@ -186,7 +170,6 @@ http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", TATETI
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
@@ -322,7 +305,8 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1879918728_b
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",MIAMI USA OPCIO2
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w579131526_b1096000.m3u8
 
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="INGLES",TRT World (INGLES)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES DISCOVERY 
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",INGLES H2 USA
@@ -379,11 +363,16 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 #EXTINF:0 group-title="Noticias", tvg-logo="http://abdavega.playlatinohd.com/logos/noticias/milenio.png",  Milenio TV
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
-oup-title="INFO",SKY SPORTS 1 DE ***
-http://1.442244.info/de_sky_sport_1/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",SKY SPORTS 2 DE 
+http://1.442244.info/de_sky_sport_1/index.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INFO",RIVERLATINO
-https://pgli8e.oloadcdn.net/dl/l/HpdD7xvy6mkPEQ9N/x38sqHjj3KM/The+River+Wild+%281994%29+Brrip.lat.mp4?mime=true
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 1 HD iPhone anterior
+http://iphone-streaming.ustream.tv/uhls/22898248/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 2 HD iPhone anterior
+http://iphone-streaming.ustream.tv/uhls/22925588/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 3* iPhone anterior
+http://iphone-streaming.ustream.tv/uhls/22924405/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="iphone",Tikitaka Canal 4* iPhone anterior
+http://iphone-streaming.ustream.tv/uhls/22925579/streams/live/iphone/playlist.m3u8
 
