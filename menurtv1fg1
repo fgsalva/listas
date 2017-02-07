@@ -21,7 +21,6 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
 
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",TVeo Miami.
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="premiun",unimas
@@ -57,7 +56,6 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8 
 #EXTINF:0 group-title="Canales Deportivos",tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_8487.png",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
@@ -133,6 +131,8 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&a
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8 |User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID2
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream2.m3u8 |User-Agent=iPad
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELE TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", TELECINCO 500
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
