@@ -1,0 +1,141 @@
+<html><head><title>Plus liga verdirectotv.com</title>
+<!-- PopAds.net Popunder Code for verdirectotv.com -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 951510]);
+  _pop.push(['minBid', 0.000000]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+</head>
+<body>
+<style>
+
+body {
+
+	margin:0px;
+
+	padding:0px;
+
+}
+
+</style>
+
+<div style="position:relative">
+
+	<div id="capaoverlay23" style="width:650x;height:60px;position:absolute;top:0px;left:0;z-index:2147403100;display:none;">
+		
+
+		</div>
+
+		<div id="closeX23" style="width:1px;height:1px;position:absolute;top:320px;left:20px;z-index:2147480103;opacity:0.7;filter:alpha(opacity=70);display:none;"><a href="javascript:void(0)" onclick="cierrapubli23()"><img alt="" height="8" src="http://i1266.photobucket.com/albums/jj533/cinestrenostv/close.gif" width="8" /><a/></div>
+
+		<div id="capa23" style="width:0px;height:50px;position:absolute;top:310px;left:0px;z-index:2147480102;"></div>
+
+
+</div>
+
+
+</div>
+
+
+<script type="text/javascript">
+
+
+
+function cierrapubli23()
+{
+        document.getElementById("capa23").innerHTML = "";
+        document.getElementById("capaoverlay23").style.display="none";
+	document.getElementById("closeX23").style.display = "none";
+        
+}
+
+function grancapahtml23()
+{
+	
+	variableintervalo=null;
+ 
+        document.getElementById("capa23").innerHTML = "<iframe frameborder='0' marginheight='0' marginwidth='0' scrolling='no' src='/publi/publi728.php' width='650' height='90'></iframe>";
+
+	setTimeout("document.getElementById(\"closeX23\").style.display = \"\";",0);
+        document.getElementById("capaoverlay23").style.display="";
+}
+
+
+function cuentaatras()
+{
+        currentCD=parseInt(document.getElementById("contadorseg").innerHTML);
+        if (currentCD==1) {
+		//document.getElementById("carteltiempo").style.display = "";
+               	document.getElementById("testX").style.display=""; 
+	} else {
+                document.getElementById("contadorseg").innerHTML=(currentCD-1);
+	}
+}
+
+variableintervalo=setInterval("cuentaatras()",0);
+
+	
+
+
+   setTimeout("grancapahtml23()",0);
+       
+ setTimeout("grancapahtml23()",900000);
+
+ setTimeout("grancapahtml23()",1740000);
+
+        setTimeout("grancapahtml23()",2610000);
+       
+        setTimeout("grancapahtml23()",3480000);
+
+        setTimeout("grancapahtml23()",4350000);
+
+        setTimeout("grancapahtml23()",5220000);
+        
+        setTimeout("grancapahtml23()",6090000);
+
+        setTimeout("grancapahtml23()",6960000);
+
+        setTimeout("grancapahtml23()",7830000);
+       
+        setTimeout("grancapahtml23()",8700000);
+
+        setTimeout("grancapahtml23()",9570000);
+
+        setTimeout("grancapahtml23()",10440000);
+
+
+</script>
+
+<script type="text/javascript" src="http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true"></script>          <textarea><iframe scrolling="no" style="margin-top: -0px; width: 650px; height: 400px; margin-left: -0px" src="http://verdirectotv.com/tv/deportes/plusliga.html"></iframe></textarea>
+
+
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="estadisticas" ><script  type="text/javascript" >
+try {Histats.start(1,2661616,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2661616&101" alt="estadisticas" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+<div style="position:absolute;z-index: 100; top:05px; left:4px; height:30px; background-color:transparent; width:120px" id="floatLayer"><iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/rincondepensartv&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br>
+
+
+</body></html>
