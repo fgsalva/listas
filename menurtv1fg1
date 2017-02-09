@@ -15,6 +15,11 @@ http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
 
 
+#EXTINF:0,GH17
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Discovery Chanel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
