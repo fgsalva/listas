@@ -4932,3 +4932,138 @@ item>
 <thumbnail></thumbnail>
 </item >
 
+
+
+
+<item><title> MOVISTAR LA LIGA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1785.m3u8</link><thumbnail></thumbnail></item>
+<item><title> BEIN LA LIGA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2516.m3u8</link><thumbnail></thumbnail></item>
+<item><title> BEIN LA LIGA 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2517.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR DEPORTE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2432.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR DEPORTE 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2518.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR FUTBOL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2519.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Beinsport HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2515.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR GOLF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1903.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR ACCION</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2425.m3u8</link><thumbnail></thumbnail></item>
+<item><title> GOL TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2514.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Movistar moto gp</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1916.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Movistar F1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1915.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR PARTIDAZO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1765.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR ESTRENOS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2427.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR COMEDIA HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2524.m3u8</link><thumbnail></thumbnail></item>
+#EXTINF:-1,ES : MOVISTAR TOROS HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2525.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR SERIES HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2522.m3u8</link><thumbnail></thumbnail></item>
+<item><title> CUATRO HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2510.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR 0# HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2512.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR XTRA HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/3137.m3u8</link><thumbnail></thumbnail></item>
+<item><title> CASA Y PESCA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2429.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR SERIES XTRA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2426.m3u8</link><thumbnail></thumbnail></item>
+<item><title> CANAL MUSICA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2428.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Canal Cocina</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2430.m3u8</link><thumbnail></thumbnail></item>
+<item><title> BARCA TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2445.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TELECINCO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1767.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TELECINCO HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2511.m3u8</link><thumbnail></thumbnail></item>
+<item><title> DISCOVERY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2724.m3u8</link><thumbnail></thumbnail></item>
+#EXTINF:-1,ES : COMEDY CENTRAL HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1907.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TCM</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2528.m3u8</link><thumbnail></thumbnail></item>
+<item><title> REAL MADRID TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2436.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MEGA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2721.m3u8</link><thumbnail></thumbnail></item>
+#EXTINF:-1,ES : Viajar HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1909.m3u8</link><thumbnail></thumbnail></item>
+<item><title> La 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2532.m3u8</link><thumbnail></thumbnail></item>
+<item><title> La 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2531.m3u8</link><thumbnail></thumbnail></item>
+<item><title> BEIN LA LIGA 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2438.m3u8</link><thumbnail></thumbnail></item>
+<item><title> ENERGY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2530.m3u8</link><thumbnail></thumbnail></item>
+<item><title> MOVISTAR DCINE Ñ</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2529.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2527.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Antena 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1770.m3u8</link><thumbnail></thumbnail></item>
+<item><title> antena3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/3135.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Disney channel</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1793.m3u8</link><thumbnail></thumbnail></item>
+<item><title> FOX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1790.m3u8</link><thumbnail></thumbnail></item>
+<item><title> History</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1928.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Hollywood HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1773.m3u8</link><thumbnail></thumbnail></item>
+<item><title> SyFy HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1791.m3u8</link><thumbnail></thumbnail></item>
+<item><title> NATIONAL GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2421.m3u8</link><thumbnail></thumbnail></item>
+<item><title> LaSextaHD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1768.m3u8</link><thumbnail></thumbnail></item>
+<item><title> AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2435.m3u8</link><thumbnail></thumbnail></item>
+<item><title> AMC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2434.m3u8</link><thumbnail></thumbnail></item>
+<item><title> FOX Life</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1771.m3u8</link><thumbnail></thumbnail></item>
+<item><title> CUATRO SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1769.m3u8</link><thumbnail></thumbnail></item>
+<item><title> CALLE13</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2422.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Axn White</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1786.m3u8</link><thumbnail></thumbnail></item>
+<item><title> 40 TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2423.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TVE 24 Hora</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1923.m3u8</link><thumbnail></thumbnail></item>
+<item><title> COSMO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1919.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TVE 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1918.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TVE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2420.m3u8</link><thumbnail></thumbnail></item>
+<item><title> TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1788.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Odisea HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1912.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1789.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1906.m3u8</link><thumbnail></thumbnail></item>
+<item><title> DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1917.m3u8</link><thumbnail></thumbnail></item>
+<item><title> AXNSpain</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1772.m3u8</link><thumbnail></thumbnail></item>
+<item><title> Andalucia TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESP [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/1921.m3u8</link><thumbnail></thumbnail></item>
