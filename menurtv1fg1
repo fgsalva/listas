@@ -16,22 +16,21 @@ http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",cuatro
-http://pro213.com/live/Zaid/Zaid1/2510.m3u8
-
+http://pro213.com/live/Zaid/Zaid1/2510.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",telcinco
-http://pro213.com/live/Zaid/Zaid1/2511.m3u8
+http://pro213.com/live/Zaid/Zaid1/2511.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Cero
-http://pro213.com/live/Zaid/Zaid1/2512.m3u8
+http://pro213.com/live/Zaid/Zaid1/2512.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mspor2
-http://pro213.com/live/Zaid/Zaid1/2518.m3u8
+http://pro213.com/live/Zaid/Zaid1/2518.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mspor
-http://pro213.com/live/Zaid/Zaid1/2519.m3u8
+http://pro213.com/live/Zaid/Zaid1/2519.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mseries
-http://pro213.com/live/Zaid/Zaid1/2522.m3u8
+http://pro213.com/live/Zaid/Zaid1/2522.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",MComedia
-http://pro213.com/live/Zaid/Zaid1/2524.m3u8
+http://pro213.com/live/Zaid/Zaid1/2524.m3u8|User-Agent=iPad
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mbab
-http://pro213.com/live/Zaid/Zaid1/2527.m3u8
+http://pro213.com/live/Zaid/Zaid1/2527.m3u8|User-Agent=iPad
 
 
 
