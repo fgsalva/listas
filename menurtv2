@@ -107,6 +107,23 @@
 <link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres><page>http://tumarcador.xyz/ver/9.php</page><referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex></item>
 
 
+
+<item><title>cuatro</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPffff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2510.m3u8</link><thumbnail></thumbnail></item>
+<item><title>telcinco</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPffff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2511.m3u8</link><thumbnail></thumbnail></item>
+<item><title>cero</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPfff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2512.m3u8</link><thumbnail></thumbnail></item>
+<item><title>Mspor2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPfff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2518.m3u8</link><thumbnail></thumbnail></item>
+<item><title>Mspor</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPfff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2519.m3u8</link><thumbnail></thumbnail></item>
+<item><title>Mserie</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPfff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2522.m3u8</link><thumbnail></thumbnail></item>
+<item><title>MComedia</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR cyan]ESPfff [/COLOR]&amp;url=http://pro213.com/live/Zaid/Zaid1/2524.m3u8</link><thumbnail></thumbnail></item>
+
+
 <item>
 <title>[COLOR white][COLOR blue] TF [/COLOR]VER EL CANAL LALIGATV EN VIVO Y GRATIS ONLINE[COLOR red]**[/COLOR]</title>
 <sportsdevil>http://telefivegb.com/deporte/ver-el-canal-laligatv-en-vivo-y-gratis-online/</sportsdevil>
