@@ -15,22 +15,7 @@ http://iphone-streaming.ustream.tv/uhls/22913574/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22913884/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",cuatro
-http://pro213.com/live/Zaid/Zaid1/2510.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",telcinco
-http://pro213.com/live/Zaid/Zaid1/2511.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Cero
-http://pro213.com/live/Zaid/Zaid1/2512.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mspor2
-http://pro213.com/live/Zaid/Zaid1/2518.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mspor
-http://pro213.com/live/Zaid/Zaid1/2519.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mseries
-http://pro213.com/live/Zaid/Zaid1/2522.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",MComedia
-http://pro213.com/live/Zaid/Zaid1/2524.m3u8|User-Agent=iPad
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOSespaña",Mbab
-http://pro213.com/live/Zaid/Zaid1/2527.m3u8|User-Agent=iPad
+
 
 
 
@@ -174,6 +159,8 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC 300
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",BETISFC
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 index1 175671
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
