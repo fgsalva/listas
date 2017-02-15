@@ -749,13 +749,214 @@
 <thumbnail></thumbnail>
 </item>
 
+
+*******************
 <item>
-<title>VERTELEVISOR FOX ES</title>
-<sportsdevil>http://www.vertelevisor.com/ver-fox-gratis-online-en-directo-por-internet/</sportsdevil>
-<referer>http://www.vertelevisor.com/ver-fox-gratis-online-en-directo-por-internet/</referer>
+<title>[B][COLOR deepskyblue]Multicanales[/COLOR][COLOR lightblue] TUMARCADOR[/B][/COLOR]  [COLOR lightslategray] 8 CANALES  (a)  [/COLOR]  </title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]Multicanal Tumarcador[I] [COLOR deepskyblue] [makelist2.param2][/I][/COLOR][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/[makelist2.param1]</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[li><a href="../(c.*?)">(.*?)<]]></expres>
+<page>http://tumarcador.xyz/</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+
+	<item><title>                           </title><link>http://ignora.me</link></item>
+	<item><title>                [COLOR lightyellow]-----  [COLOR yellow]CANALES DE ESPAÑA[/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+	
+	 
+	
+	
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TIKI01 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal1.php</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>
+
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TIKI02 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal2.php</page>
+</regex>
 <thumbnail></thumbnail>
 </item>
 
+
+ 
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TIKI03 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal3.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TIKI04 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacasadeltikitaka.me/directo/canal4.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]GolMania 01 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source src="(.*?)"</expres>
+<page>http://tumarcador.xyz/red/index.php</page>
+<referer>http://golmania.tv/real-madrid-napoli-spanish/</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+	<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]GolMania 04 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source src="(.*?)"</expres>
+<page>http://tumarcador.xyz/red/index4.php</page>
+<referer>http://golmania.tv/real-madrid-napoli-spanish/</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<!--http://biophobia.tv/multis/best.php-->
+
+<tem><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia01 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>http://hls.goodgame.ru/hls/$doregex[get-id].m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>ggplayer.html\?(.*?)"</expres>
+<page>http://biophobia.tv/multis/best1.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<tem><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia02 [/COLOR][COLOR lightslategray][I]   [/I][/COLOR]</title>
+<link>http://hls.goodgame.ru/hls/$doregex[get-id].m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>ggplayer.html\?(.*?)"</expres>
+<page>http://biophobia.tv/multis/sata.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia01 [/COLOR][COLOR lightslategray][I] xyz 1[/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/bio</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia01 [/COLOR][COLOR lightslategray][I] xyz 2[/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/bio2</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia03 [/COLOR][COLOR lightslategray][I] xyz 2[/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://biophobia.tv/multifutbol/canal2online.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TuMarcador 2 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source src="(.*?)"</expres>
+<page>http://tumarcador.xyz/red/index.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]TuMarcador 3 [/COLOR][COLOR lightslategray][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source src="(.*?)"</expres>
+<page>http://tumarcador.xyz/red/index2.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<tem><title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Biophobia02 [/COLOR][COLOR lightslategray][I] sata [/I][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://biophobia.tv/multis/sata.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+ 
+ <item>
+<title>[B][COLOR deepskyblue]Multicanales[/COLOR][COLOR lightblue] TUMARCADOR[/B][/COLOR]  [COLOR lightslategray] 8 CANALES  (a)  [/COLOR]  </title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]Multicanal Tumarcador[I] [COLOR deepskyblue] [makelist2.param2][/I][/COLOR][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/[makelist2.param1]</page>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[li><a href="../(c.*?)">(.*?)<]]></expres>
+<page>http://tumarcador.xyz/</page>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+
+
+********
 
 
 <item>
@@ -1196,6 +1397,6 @@ nopitem>
 
 <item>
 <link>http://Ignoreme</link>
-<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Deportes (coa)[/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/deportes.xml</externallink>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Ad[/COLOR]</title>
+<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
