@@ -1194,3 +1194,8 @@ nopitem>
 </regex>
 
 
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Deportes (coa)[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/deportes.xml</externallink>
+</item>
