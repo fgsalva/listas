@@ -2,6 +2,8 @@
 
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",2x01
+http://www.mitele.es/series-online/la-que-se-avecina/57adb047c915dad8248b467e/player
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Los Simpsons 24/7 HD
 http://latino-webtv.ml/series/simpsons.mp4
